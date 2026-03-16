@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
 
+import json
 import requests
 from icalendar import Calendar, Event
 
@@ -21,6 +22,8 @@ OUTPUT_FILE = OUTPUT_DIR / "santfeliu.ics"
 DAYS_AHEAD = 60
 PAGE_SIZE = 1000
 REQUEST_TIMEOUT = 30
+
+OUTPUT_JSON_FILE = OUTPUT_DIR / "events.json"
 
 
 def now_local() -> datetime:
@@ -274,12 +277,34 @@ def save_calendar(calendar: Calendar, output_file: Path) -> None:
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_bytes(calendar.to_ical())
 
+def save_events_json(events: list[dict[str, Any]], output_file: Path) -> None:
+    output_file.parent.mkdir(parents=True, exist_ok=True)
 
+    payload = []
+    for item in events:
+        payload.append(
+            {
+                "id": item["uid"],
+                "title": item["title"],
+                "start": item["start"].isoformat(),
+                "end": item["end"].isoformat(),
+                "description": item["description"],
+                "location": item["location"],
+                "url": item["url"],
+            }
+        )
+
+    output_file.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+    
 def main() -> None:
     raw_records = fetch_all_events()
     events = normalize_records(raw_records)
     calendar = create_calendar(events)
     save_calendar(calendar, OUTPUT_FILE)
+    save_events_json(events, OUTPUT_JSON_FILE)
 
     start_dt, end_dt = get_date_range()
 
