@@ -313,6 +313,7 @@ function renderEvents() {
     const anchorId = `day-${key}`;
     html.push(`<section class="day-group" id="${anchorId}">`);
     html.push(`<h2 class="day-title">${escapeHtml(formatDayHeading(items[0].start))}</h2>`);
+    html.push('<div class="day-events-grid">');
 
     for (const event of items) {
       const badges = [];
@@ -351,7 +352,7 @@ function renderEvents() {
             <div class="event-main">
               <h3 class="event-title">${escapeHtml(event.title)}</h3>
               ${badges.length ? `<div class="event-badges">${badges.join('')}</div>` : ''}
-              ${metaParts.length ? `<div class="meta">${escapeHtml(metaParts.join('\n'))}</div>` : ''}
+              ${metaParts.length ? `<div class="meta event-location">${escapeHtml(metaParts.join('\n'))}</div>` : ''}
             </div>
             <div class="event-time">${escapeHtml(formatTimeRange(event.start, event.end))}</div>
           </div>
@@ -363,6 +364,7 @@ function renderEvents() {
       `);
     }
 
+    html.push('</div>');
     html.push('</section>');
   }
 
