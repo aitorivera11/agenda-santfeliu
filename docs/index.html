@@ -6,18 +6,23 @@
   <title>Agenda Sant Feliu</title>
   <style>
     :root {
-      --bg: #f5f7fb;
+      --bg: #f3f5fb;
       --card: #ffffff;
       --text: #172033;
       --muted: #5f6b85;
       --border: #d9e0ef;
       --accent: #4f46e5;
       --accent-soft: #eef0ff;
+      --danger: #b42318;
+      --success: #067647;
       --shadow: 0 10px 30px rgba(23, 32, 51, 0.08);
       --radius: 18px;
+      --radius-sm: 12px;
     }
 
     * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
 
     body {
       margin: 0;
@@ -26,10 +31,12 @@
       color: var(--text);
     }
 
+    a { color: inherit; }
+
     .wrap {
-      max-width: 980px;
+      max-width: 1100px;
       margin: 0 auto;
-      padding: 24px 16px 48px;
+      padding: 24px 16px 56px;
     }
 
     .hero {
@@ -43,29 +50,58 @@
 
     .hero h1 {
       margin: 0 0 10px;
-      font-size: clamp(1.8rem, 4vw, 2.6rem);
-      line-height: 1.1;
+      font-size: clamp(1.9rem, 4vw, 2.8rem);
+      line-height: 1.05;
     }
 
     .hero p {
       margin: 0;
-      color: rgba(255,255,255,.88);
+      color: rgba(255,255,255,.9);
       font-size: 1rem;
+      line-height: 1.5;
+      max-width: 760px;
     }
 
-    .controls {
+    .hero-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .hero-links a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.14);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      backdrop-filter: blur(8px);
+    }
+
+    .grid {
       display: grid;
-      grid-template-columns: 1.4fr 180px 180px;
+      grid-template-columns: 1fr 1fr 180px 180px;
       gap: 12px;
       margin-bottom: 18px;
     }
 
-    .panel {
+    .panel, .stats, .status-box, .day-jump {
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
       padding: 14px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-size: .92rem;
+      font-weight: 700;
+      color: var(--muted);
     }
 
     input, select, button {
@@ -79,17 +115,17 @@
     }
 
     input:focus, select:focus, button:focus {
-      outline: 2px solid rgba(79, 70, 229, .25);
+      outline: 2px solid rgba(79, 70, 229, .2);
       outline-offset: 1px;
       border-color: var(--accent);
     }
 
     button {
+      border: 0;
       background: var(--accent);
       color: #fff;
-      font-weight: 600;
+      font-weight: 700;
       cursor: pointer;
-      border: 0;
     }
 
     button.secondary {
@@ -105,28 +141,114 @@
       margin-bottom: 18px;
     }
 
-    .status {
-      margin: 6px 0 0;
+    .toolbar button {
+      width: auto;
+      min-width: 170px;
+    }
+
+    .status-layout {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .status-row {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: #f7f8fc;
+      border: 1px solid var(--border);
       color: var(--muted);
-      font-size: .95rem;
+      font-size: .92rem;
+      font-weight: 600;
+    }
+
+    .status-pill strong {
+      color: var(--text);
+    }
+
+    .status-pill.ok {
+      color: var(--success);
+      border-color: rgba(6, 118, 71, .15);
+      background: rgba(6, 118, 71, .06);
+    }
+
+    .status-pill.warn {
+      color: var(--danger);
+      border-color: rgba(180, 35, 24, .14);
+      background: rgba(180, 35, 24, .06);
+    }
+
+    .day-jump select {
+      margin-top: 0;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .stat-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 16px;
+    }
+
+    .stat-label {
+      color: var(--muted);
+      font-size: .9rem;
+      margin-bottom: 6px;
+      font-weight: 700;
+    }
+
+    .stat-value {
+      font-size: 1.7rem;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .calendar-container.loading,
+    .calendar-container.empty,
+    .calendar-container.error {
+      background: var(--card);
+      border-radius: var(--radius);
+      border: 1px dashed var(--border);
+      padding: 22px;
+      box-shadow: var(--shadow);
+      color: var(--muted);
+      text-align: center;
     }
 
     .day-group {
-      margin-top: 20px;
+      margin-top: 22px;
     }
 
     .day-title {
       position: sticky;
       top: 0;
-      z-index: 1;
+      z-index: 3;
       margin: 0 0 10px;
       padding: 10px 14px;
-      background: rgba(245, 247, 251, .9);
+      background: rgba(243, 245, 251, .92);
       backdrop-filter: blur(8px);
       border-radius: 12px;
       color: var(--muted);
       font-size: .95rem;
-      font-weight: 700;
+      font-weight: 800;
       text-transform: capitalize;
     }
 
@@ -141,24 +263,48 @@
 
     .event-top {
       display: flex;
-      gap: 12px;
       justify-content: space-between;
+      gap: 16px;
       align-items: flex-start;
       margin-bottom: 8px;
     }
 
+    .event-main {
+      min-width: 0;
+      flex: 1;
+    }
+
     .event-time {
-      min-width: 110px;
+      min-width: 126px;
       text-align: right;
       color: var(--accent);
-      font-weight: 700;
+      font-weight: 800;
       font-size: .95rem;
+      white-space: nowrap;
     }
 
     .event-title {
       margin: 0;
-      font-size: 1.1rem;
+      font-size: 1.12rem;
       line-height: 1.3;
+    }
+
+    .event-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: .85rem;
+      font-weight: 700;
     }
 
     .meta {
@@ -166,19 +312,22 @@
       font-size: .95rem;
       margin-top: 8px;
       white-space: pre-line;
+      line-height: 1.45;
     }
 
     .desc {
-      margin-top: 10px;
+      margin-top: 12px;
       white-space: pre-line;
-      line-height: 1.5;
+      line-height: 1.6;
+      border-top: 1px solid #edf1f7;
+      padding-top: 12px;
     }
 
     .event-actions {
       display: flex;
-      flex-wrap: wrap;
       gap: 8px;
-      margin-top: 12px;
+      flex-wrap: wrap;
+      margin-top: 14px;
     }
 
     .event-actions a {
@@ -188,30 +337,32 @@
       text-decoration: none;
       color: var(--accent);
       background: var(--accent-soft);
-      padding: 8px 10px;
+      padding: 9px 12px;
       border-radius: 10px;
-      font-weight: 600;
+      font-weight: 700;
       font-size: .92rem;
-    }
-
-    .empty, .loading {
-      background: var(--card);
-      border: 1px dashed var(--border);
-      border-radius: var(--radius);
-      padding: 20px;
-      color: var(--muted);
-      text-align: center;
     }
 
     .footer-note {
-      margin-top: 24px;
+      margin-top: 28px;
       color: var(--muted);
       font-size: .92rem;
       text-align: center;
+      line-height: 1.5;
     }
 
-    @media (max-width: 760px) {
-      .controls {
+    @media (max-width: 960px) {
+      .grid,
+      .status-layout,
+      .stats-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .grid,
+      .status-layout,
+      .stats-grid {
         grid-template-columns: 1fr;
       }
 
@@ -223,6 +374,10 @@
         text-align: left;
         min-width: 0;
       }
+
+      .toolbar button {
+        width: 100%;
+      }
     }
   </style>
 </head>
@@ -230,111 +385,180 @@
   <div class="wrap">
     <section class="hero">
       <h1>Agenda Sant Feliu</h1>
-      <p>Consulta ràpida dels actes publicats al calendari. Aquesta pàgina llegeix el fitxer <strong>santfeliu.ics</strong> publicat al mateix GitHub Pages.</p>
+      <p>Consulta ràpida dels propers actes. La web llegeix l’API pública directament i, si falla, intenta reutilitzar l’última resposta correcta guardada al navegador.</p>
+      <div class="hero-links">
+        <a href="./santfeliu.ics" target="_blank" rel="noopener noreferrer">Obre l’ICS</a>
+        <a href="https://www.google.com/calendar/render?cid=https://aitorivera11.github.io/agenda-santfeliu/santfeliu.ics" target="_blank" rel="noopener noreferrer">Afegeix-lo a Google Calendar</a>
+      </div>
     </section>
 
-    <section class="controls">
+    <section class="grid">
       <div class="panel">
         <label for="search">Cerca</label>
-        <input id="search" type="text" placeholder="Títol, lloc o descripció" />
+        <input id="search" type="text" placeholder="Títol, lloc, tipus o descripció" />
       </div>
+
       <div class="panel">
-        <label for="range">Mostra</label>
-        <select id="range">
-          <option value="all">Tot el rang</option>
+        <label for="typeFilter">Tipus</label>
+        <select id="typeFilter">
+          <option value="all">Tots</option>
+        </select>
+      </div>
+
+      <div class="panel">
+        <label for="rangeFilter">Rang</label>
+        <select id="rangeFilter">
+          <option value="1">Avui</option>
           <option value="7">Propers 7 dies</option>
           <option value="30">Propers 30 dies</option>
           <option value="60" selected>Propers 60 dies</option>
+          <option value="all">Tot el disponible</option>
         </select>
       </div>
+
       <div class="panel">
         <label>&nbsp;</label>
-        <button id="reloadBtn" type="button">Refresca dades</button>
+        <button id="reloadBtn" type="button">Refresca</button>
       </div>
     </section>
 
     <div class="toolbar">
       <button id="todayBtn" type="button" class="secondary">Torna a avui</button>
-      <button id="expandBtn" type="button" class="secondary">Mostra descripcions</button>
+      <button id="descBtn" type="button" class="secondary">Mostra descripcions</button>
+      <button id="resetBtn" type="button" class="secondary">Neteja filtres</button>
     </div>
 
-    <p id="status" class="status">Carregant calendari...</p>
-    <div id="calendarContainer" class="loading">Carregant esdeveniments...</div>
+    <section class="status-layout">
+      <div class="status-box">
+        <div class="status-row" id="statusRow">
+          <span class="status-pill" id="sourceStatus"><strong>Font:</strong>&nbsp;esperant dades</span>
+          <span class="status-pill" id="updatedStatus"><strong>Actualitzat:</strong>&nbsp;—</span>
+          <span class="status-pill" id="resultStatus"><strong>Resultats:</strong>&nbsp;0</span>
+        </div>
+      </div>
 
-    <p class="footer-note">La informació depèn del fitxer ICS generat automàticament. Google Calendar pot refrescar més lent del que refresca aquesta pàgina.</p>
+      <div class="day-jump">
+        <label for="dayJump">Salta a un dia</label>
+        <select id="dayJump">
+          <option value="">Selecciona un dia</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Actes visibles</div>
+        <div class="stat-value" id="statVisible">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Dies amb actes</div>
+        <div class="stat-value" id="statDays">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Avui</div>
+        <div class="stat-value" id="statToday">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Demà</div>
+        <div class="stat-value" id="statTomorrow">0</div>
+      </div>
+    </section>
+
+    <div id="calendarContainer" class="calendar-container loading">Carregant esdeveniments...</div>
+
+    <p class="footer-note">Si la càrrega directa falla, la pàgina intenta mostrar la darrera resposta guardada al navegador. L’ICS continua disponible per subscriure’l a Google Calendar.</p>
   </div>
 
   <script>
-    const ICS_URL = './santfeliu.ics';
+    const RESOURCE_ID = '6353e8e8-53ea-47d9-b121-c4bdeac915a5';
+    const API_URL = 'https://dadesobertes.seu-e.cat/api/3/action/datastore_search_sql';
     const TZ = 'Europe/Madrid';
+    const DEFAULT_DAYS = 60;
+    const LIMIT = 500;
+    const CACHE_KEY = 'agenda-santfeliu-cache-v1';
 
     const state = {
-      events: [],
+      allEvents: [],
+      visibleEvents: [],
       showDescriptions: false,
+      source: 'none',
       lastLoadedAt: null,
+      apiError: null,
     };
 
     const el = {
-      container: document.getElementById('calendarContainer'),
-      status: document.getElementById('status'),
       search: document.getElementById('search'),
-      range: document.getElementById('range'),
+      typeFilter: document.getElementById('typeFilter'),
+      rangeFilter: document.getElementById('rangeFilter'),
       reloadBtn: document.getElementById('reloadBtn'),
       todayBtn: document.getElementById('todayBtn'),
-      expandBtn: document.getElementById('expandBtn'),
+      descBtn: document.getElementById('descBtn'),
+      resetBtn: document.getElementById('resetBtn'),
+      dayJump: document.getElementById('dayJump'),
+      sourceStatus: document.getElementById('sourceStatus'),
+      updatedStatus: document.getElementById('updatedStatus'),
+      resultStatus: document.getElementById('resultStatus'),
+      statVisible: document.getElementById('statVisible'),
+      statDays: document.getElementById('statDays'),
+      statToday: document.getElementById('statToday'),
+      statTomorrow: document.getElementById('statTomorrow'),
+      container: document.getElementById('calendarContainer'),
     };
 
-    function unescapeIcsText(text = '') {
-      return text
-        .replace(/\\n/g, '\n')
-        .replace(/\\,/g, ',')
-        .replace(/\\;/g, ';')
-        .replace(/\\\\/g, '\\')
-        .trim();
+    function escapeHtml(str = '') {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
     }
 
-    function unfoldIcsLines(raw) {
-      return raw.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '');
+    function collapseWhitespace(text = '') {
+      return String(text).replace(/\s+/g, ' ').trim();
     }
 
-    function extractValue(line) {
-      const idx = line.indexOf(':');
-      return idx >= 0 ? line.slice(idx + 1) : '';
+    function cleanText(value) {
+      if (value == null) return '';
+      const tmp = document.createElement('div');
+      tmp.innerHTML = String(value);
+      return tmp.textContent.replace(/\r\n/g, '\n').replace(/\r/g, '\n').trim();
     }
 
-    function parseIcsDate(raw) {
-      const value = (raw || '').trim();
-      if (!value) return null;
+    function formatApiDate(date) {
+      const y = date.getFullYear();
+      const m = String(date.getMonth() + 1).padStart(2, '0');
+      const d = String(date.getDate()).padStart(2, '0');
+      const hh = String(date.getHours()).padStart(2, '0');
+      const mm = String(date.getMinutes()).padStart(2, '0');
+      const ss = String(date.getSeconds()).padStart(2, '0');
+      return `${y}${m}${d}${hh}${mm}${ss}`;
+    }
 
-      const plain = value.endsWith('Z') ? value.slice(0, -1) : value;
-      const match = plain.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})?(\d{2})?(\d{2})?$/);
+    function parseApiDate(value) {
+      const raw = String(value || '').trim();
+      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})$/);
       if (!match) return null;
-
-      const [, y, m, d, hh = '00', mm = '00', ss = '00'] = match;
+      const [, y, m, d, hh, mm, ss] = match;
       return new Date(Number(y), Number(m) - 1, Number(d), Number(hh), Number(mm), Number(ss));
     }
 
-    function parseIcs(text) {
-      const unfolded = unfoldIcsLines(text);
-      const blocks = unfolded.split('BEGIN:VEVENT').slice(1);
+    function startOfToday() {
+      const now = new Date();
+      return new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0);
+    }
 
-      return blocks.map(block => {
-        const content = block.split('END:VEVENT')[0] || '';
-        const lines = content.split(/\r?\n/).map(line => line.trim()).filter(Boolean);
-        const event = {};
+    function endOfRange(days) {
+      const start = new Date();
+      return new Date(start.getTime() + days * 24 * 60 * 60 * 1000);
+    }
 
-        for (const line of lines) {
-          if (line.startsWith('SUMMARY')) event.summary = unescapeIcsText(extractValue(line));
-          else if (line.startsWith('DESCRIPTION')) event.description = unescapeIcsText(extractValue(line));
-          else if (line.startsWith('LOCATION')) event.location = unescapeIcsText(extractValue(line));
-          else if (line.startsWith('URL')) event.url = unescapeIcsText(extractValue(line));
-          else if (line.startsWith('UID')) event.uid = unescapeIcsText(extractValue(line));
-          else if (line.startsWith('DTSTART')) event.start = parseIcsDate(extractValue(line));
-          else if (line.startsWith('DTEND')) event.end = parseIcsDate(extractValue(line));
-        }
-
-        return event;
-      }).filter(event => event.start instanceof Date && !Number.isNaN(event.start.getTime()));
+    function formatDateTime(date) {
+      return new Intl.DateTimeFormat('ca-ES', {
+        dateStyle: 'short',
+        timeStyle: 'short',
+        timeZone: TZ,
+      }).format(date);
     }
 
     function formatDayHeading(date) {
@@ -353,134 +577,364 @@
         minute: '2-digit',
         timeZone: TZ,
       });
-
       const startText = fmt.format(start);
       if (!(end instanceof Date) || Number.isNaN(end.getTime())) return startText;
       return `${startText} - ${fmt.format(end)}`;
     }
 
-    function formatStatus() {
-      const count = state.events.length;
-      const loaded = state.lastLoadedAt
-        ? new Intl.DateTimeFormat('ca-ES', { dateStyle: 'short', timeStyle: 'short' }).format(state.lastLoadedAt)
-        : 'sense dades';
-      el.status.textContent = `${count} esdeveniments carregats. Darrera actualització: ${loaded}.`;
+    function formatMoney(value) {
+      if (value == null || value === '') return '';
+      const num = Number(String(value).replace(',', '.'));
+      if (Number.isNaN(num)) return String(value);
+      return new Intl.NumberFormat('ca-ES', { style: 'currency', currency: 'EUR' }).format(num);
     }
 
-    function escapeHtml(str = '') {
-      return str
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#039;');
+    function buildSql(start, end) {
+      const startValue = formatApiDate(start);
+      const endValue = formatApiDate(end);
+
+      return `
+        SELECT
+          "_id",
+          "ID",
+          "TITOL",
+          "DESCRIPCIO",
+          "NOM_LLOC",
+          "ADREÇA_COMPLETA",
+          "DATA_HORA_INICI_ACTE",
+          "DATA_HORA_FINAL_ACTE",
+          "TIPUS_ACTE",
+          "TIPUS",
+          "GRATUIT",
+          "PREU",
+          "URL",
+          "LATITUD",
+          "LONGITUD",
+          "ESTAT"
+        FROM "${RESOURCE_ID}"
+        WHERE "ESTAT" = 'Confirmat'
+          AND "DATA_HORA_INICI_ACTE" >= '${startValue}'
+          AND "DATA_HORA_INICI_ACTE" < '${endValue}'
+        ORDER BY "DATA_HORA_INICI_ACTE" ASC
+        LIMIT ${LIMIT}
+      `;
+    }
+
+    async function fetchApiEvents() {
+      const start = startOfToday();
+      const end = endOfRange(DEFAULT_DAYS + 1);
+      const sql = buildSql(start, end);
+      const url = `${API_URL}?sql=${encodeURIComponent(sql)}`;
+
+      const response = await fetch(url, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+      const payload = await response.json();
+      if (!payload.success) throw new Error('Resposta API invàlida');
+
+      const records = payload?.result?.records || [];
+      return records.map(normalizeRecord).filter(Boolean);
+    }
+
+    function normalizeRecord(record) {
+      const title = collapseWhitespace(cleanText(record.TITOL)) || 'Sense títol';
+      const description = cleanText(record.DESCRIPCIO);
+      const locationName = collapseWhitespace(cleanText(record.NOM_LLOC));
+      const address = collapseWhitespace(cleanText(record['ADREÇA_COMPLETA']));
+      const start = parseApiDate(record.DATA_HORA_INICI_ACTE);
+      let end = parseApiDate(record.DATA_HORA_FINAL_ACTE);
+      const type = collapseWhitespace(cleanText(record.TIPUS_ACTE || record.TIPUS));
+      const url = collapseWhitespace(cleanText(record.URL));
+      const lat = collapseWhitespace(cleanText(record.LATITUD));
+      const lng = collapseWhitespace(cleanText(record.LONGITUD));
+      const price = collapseWhitespace(cleanText(record.PREU));
+      const free = collapseWhitespace(cleanText(record.GRATUIT));
+      const sourceId = collapseWhitespace(cleanText(record.ID || record._id));
+
+      if (!start) return null;
+      if (!end || end <= start) end = new Date(start.getTime() + 60 * 60 * 1000);
+
+      let mapsUrl = '';
+      if (lat && lng) {
+        mapsUrl = `https://www.google.com/maps?q=${encodeURIComponent(`${lat},${lng}`)}`;
+      } else if (address) {
+        mapsUrl = `https://www.google.com/maps?q=${encodeURIComponent(address)}`;
+      } else if (locationName) {
+        mapsUrl = `https://www.google.com/maps?q=${encodeURIComponent(locationName)}`;
+      }
+
+      return {
+        id: sourceId || `${title}-${start.toISOString()}`,
+        title,
+        description,
+        locationName,
+        address,
+        start,
+        end,
+        type,
+        url,
+        mapsUrl,
+        free,
+        price,
+      };
+    }
+
+    function saveCache(events) {
+      try {
+        const payload = {
+          savedAt: new Date().toISOString(),
+          events: events.map(event => ({
+            ...event,
+            start: event.start.toISOString(),
+            end: event.end.toISOString(),
+          })),
+        };
+        localStorage.setItem(CACHE_KEY, JSON.stringify(payload));
+      } catch (error) {
+        console.warn('No s’ha pogut guardar la cache', error);
+      }
+    }
+
+    function loadCache() {
+      try {
+        const raw = localStorage.getItem(CACHE_KEY);
+        if (!raw) return null;
+        const parsed = JSON.parse(raw);
+        if (!Array.isArray(parsed.events)) return null;
+
+        return {
+          savedAt: parsed.savedAt,
+          events: parsed.events.map(event => ({
+            ...event,
+            start: new Date(event.start),
+            end: new Date(event.end),
+          })),
+        };
+      } catch (error) {
+        console.warn('No s’ha pogut llegir la cache', error);
+        return null;
+      }
+    }
+
+    function getUniqueTypes(events) {
+      const types = [...new Set(events.map(event => event.type).filter(Boolean))];
+      return types.sort((a, b) => a.localeCompare(b, 'ca'));
+    }
+
+    function renderTypeOptions() {
+      const current = el.typeFilter.value;
+      const types = getUniqueTypes(state.allEvents);
+      el.typeFilter.innerHTML = '<option value="all">Tots</option>' + types.map(type => `<option value="${escapeHtml(type)}">${escapeHtml(type)}</option>`).join('');
+      if ([...el.typeFilter.options].some(option => option.value === current)) {
+        el.typeFilter.value = current;
+      }
     }
 
     function getFilteredEvents() {
-      const q = el.search.value.trim().toLowerCase();
-      const range = el.range.value;
+      const query = el.search.value.trim().toLowerCase();
+      const type = el.typeFilter.value;
+      const range = el.rangeFilter.value;
       const now = new Date();
-      const limitDate = range === 'all' ? null : new Date(now.getTime() + Number(range) * 24 * 60 * 60 * 1000);
+      const rangeEnd = range === 'all' ? null : new Date(now.getTime() + Number(range) * 24 * 60 * 60 * 1000);
 
-      return state.events.filter(event => {
-        const withinRange = !limitDate || (event.start >= now && event.start <= limitDate);
-        if (!withinRange) return false;
+      return state.allEvents.filter(event => {
+        if (event.end < now) return false;
+        if (rangeEnd && event.start > rangeEnd) return false;
+        if (type !== 'all' && event.type !== type) return false;
 
-        if (!q) return true;
-        const haystack = `${event.summary || ''}\n${event.location || ''}\n${event.description || ''}`.toLowerCase();
-        return haystack.includes(q);
+        if (!query) return true;
+        const haystack = [event.title, event.locationName, event.address, event.type, event.description]
+          .filter(Boolean)
+          .join('\n')
+          .toLowerCase();
+
+        return haystack.includes(query);
       });
     }
 
-    function render() {
+    function updateStats(events) {
+      const days = new Set(events.map(event => event.start.toISOString().slice(0, 10)));
+      const todayStart = startOfToday();
+      const tomorrowStart = new Date(todayStart.getTime() + 24 * 60 * 60 * 1000);
+      const afterTomorrowStart = new Date(tomorrowStart.getTime() + 24 * 60 * 60 * 1000);
+
+      const todayCount = events.filter(event => event.start >= todayStart && event.start < tomorrowStart).length;
+      const tomorrowCount = events.filter(event => event.start >= tomorrowStart && event.start < afterTomorrowStart).length;
+
+      el.statVisible.textContent = String(events.length);
+      el.statDays.textContent = String(days.size);
+      el.statToday.textContent = String(todayCount);
+      el.statTomorrow.textContent = String(tomorrowCount);
+      el.resultStatus.innerHTML = `<strong>Resultats:</strong>&nbsp;${events.length}`;
+    }
+
+    function updateStatus() {
+      if (state.source === 'api') {
+        el.sourceStatus.className = 'status-pill ok';
+        el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;API en directe';
+      } else if (state.source === 'cache') {
+        el.sourceStatus.className = 'status-pill warn';
+        el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;dades guardades al navegador';
+      } else {
+        el.sourceStatus.className = 'status-pill';
+        el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;sense dades';
+      }
+
+      el.updatedStatus.className = 'status-pill';
+      el.updatedStatus.innerHTML = `<strong>Actualitzat:</strong>&nbsp;${state.lastLoadedAt ? escapeHtml(formatDateTime(state.lastLoadedAt)) : '—'}`;
+    }
+
+    function populateDayJump(events) {
+      const groups = [...new Set(events.map(event => event.start.toISOString().slice(0, 10)))];
+      const current = el.dayJump.value;
+      el.dayJump.innerHTML = '<option value="">Selecciona un dia</option>' + groups.map(key => {
+        const date = new Date(`${key}T12:00:00`);
+        return `<option value="${key}">${escapeHtml(formatDayHeading(date))}</option>`;
+      }).join('');
+
+      if ([...el.dayJump.options].some(option => option.value === current)) {
+        el.dayJump.value = current;
+      }
+    }
+
+    function renderEvents() {
       const events = getFilteredEvents();
+      state.visibleEvents = events;
+      updateStats(events);
+      updateStatus();
+      populateDayJump(events);
 
       if (!events.length) {
-        el.container.className = 'empty';
+        el.container.className = 'calendar-container empty';
         el.container.innerHTML = 'No hi ha esdeveniments per als filtres actuals.';
         return;
       }
 
-      el.container.className = '';
-
-      const groups = new Map();
+      const grouped = new Map();
       for (const event of events) {
         const key = event.start.toISOString().slice(0, 10);
-        if (!groups.has(key)) groups.set(key, []);
-        groups.get(key).push(event);
+        if (!grouped.has(key)) grouped.set(key, []);
+        grouped.get(key).push(event);
       }
 
-      const htmlParts = [];
+      const html = [];
 
-      for (const [, items] of groups) {
-        const first = items[0];
-        htmlParts.push(`<section class="day-group">`);
-        htmlParts.push(`<h2 class="day-title">${escapeHtml(formatDayHeading(first.start))}</h2>`);
+      for (const [key, items] of grouped.entries()) {
+        const anchorId = `day-${key}`;
+        html.push(`<section class="day-group" id="${anchorId}">`);
+        html.push(`<h2 class="day-title">${escapeHtml(formatDayHeading(items[0].start))}</h2>`);
 
         for (const event of items) {
-          htmlParts.push(`
+          const badges = [];
+          if (event.type) badges.push(`<span class="badge">${escapeHtml(event.type)}</span>`);
+          if (event.free) {
+            const freeText = ['si', 'sí', 'true', '1', 'gratuït', 'gratuit'].includes(event.free.toLowerCase()) ? 'Gratuït' : event.free;
+            badges.push(`<span class="badge">${escapeHtml(freeText)}</span>`);
+          } else if (event.price) {
+            badges.push(`<span class="badge">${escapeHtml(formatMoney(event.price))}</span>`);
+          }
+
+          const metaParts = [];
+          if (event.locationName) metaParts.push(event.locationName);
+          if (event.address) metaParts.push(event.address);
+
+          const actions = [];
+          if (event.url) actions.push(`<a href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">Veure fitxa</a>`);
+          if (event.mapsUrl) actions.push(`<a href="${escapeHtml(event.mapsUrl)}" target="_blank" rel="noopener noreferrer">Obrir mapa</a>`);
+
+          html.push(`
             <article class="event-card">
               <div class="event-top">
-                <div>
-                  <h3 class="event-title">${escapeHtml(event.summary || 'Sense títol')}</h3>
-                  ${event.location ? `<div class="meta">${escapeHtml(event.location)}</div>` : ''}
+                <div class="event-main">
+                  <h3 class="event-title">${escapeHtml(event.title)}</h3>
+                  ${badges.length ? `<div class="event-badges">${badges.join('')}</div>` : ''}
+                  ${metaParts.length ? `<div class="meta">${escapeHtml(metaParts.join('\n'))}</div>` : ''}
                 </div>
                 <div class="event-time">${escapeHtml(formatTimeRange(event.start, event.end))}</div>
               </div>
               ${state.showDescriptions && event.description ? `<div class="desc">${escapeHtml(event.description)}</div>` : ''}
-              ${event.url ? `<div class="event-actions"><a href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">Veure fitxa</a></div>` : ''}
+              ${actions.length ? `<div class="event-actions">${actions.join('')}</div>` : ''}
             </article>
           `);
         }
 
-        htmlParts.push(`</section>`);
+        html.push('</section>');
       }
 
-      el.container.innerHTML = htmlParts.join('');
+      el.container.className = 'calendar-container';
+      el.container.innerHTML = html.join('');
     }
 
-    async function loadCalendar() {
-      el.status.textContent = 'Carregant calendari...';
-      el.container.className = 'loading';
+    async function loadEvents() {
+      el.container.className = 'calendar-container loading';
       el.container.textContent = 'Carregant esdeveniments...';
+      state.apiError = null;
 
       try {
-        const response = await fetch(`${ICS_URL}?t=${Date.now()}`, { cache: 'no-store' });
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
-        const raw = await response.text();
-        const events = parseIcs(raw)
-          .sort((a, b) => a.start - b.start)
-          .filter((event, index, arr) => index === arr.findIndex(e => (e.uid || `${e.summary}-${e.start?.toISOString()}`) === (event.uid || `${event.summary}-${event.start?.toISOString()}`)));
-
-        state.events = events;
+        const events = await fetchApiEvents();
+        state.allEvents = events;
+        state.source = 'api';
         state.lastLoadedAt = new Date();
-        formatStatus();
-        render();
+        saveCache(events);
+        renderTypeOptions();
+        renderEvents();
       } catch (error) {
         console.error(error);
-        el.status.textContent = 'No s’ha pogut carregar el calendari.';
-        el.container.className = 'empty';
-        el.container.textContent = 'Revisa que santfeliu.ics existeixi a la mateixa carpeta i que GitHub Pages estigui publicat correctament.';
+        state.apiError = error;
+
+        const cached = loadCache();
+        if (cached?.events?.length) {
+          state.allEvents = cached.events;
+          state.source = 'cache';
+          state.lastLoadedAt = cached.savedAt ? new Date(cached.savedAt) : null;
+          renderTypeOptions();
+          renderEvents();
+          return;
+        }
+
+        state.allEvents = [];
+        state.visibleEvents = [];
+        state.source = 'none';
+        state.lastLoadedAt = null;
+        updateStats([]);
+        updateStatus();
+        el.container.className = 'calendar-container error';
+        el.container.innerHTML = 'Ara mateix no s’ha pogut carregar l’agenda. Torna-ho a provar més tard.';
       }
     }
 
-    el.search.addEventListener('input', render);
-    el.range.addEventListener('change', render);
-    el.reloadBtn.addEventListener('click', loadCalendar);
+    el.search.addEventListener('input', renderEvents);
+    el.typeFilter.addEventListener('change', renderEvents);
+    el.rangeFilter.addEventListener('change', renderEvents);
+    el.reloadBtn.addEventListener('click', loadEvents);
+
     el.todayBtn.addEventListener('click', () => {
+      el.rangeFilter.value = '1';
       el.search.value = '';
-      el.range.value = '60';
-      render();
+      renderEvents();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
-    el.expandBtn.addEventListener('click', () => {
+
+    el.descBtn.addEventListener('click', () => {
       state.showDescriptions = !state.showDescriptions;
-      el.expandBtn.textContent = state.showDescriptions ? 'Amaga descripcions' : 'Mostra descripcions';
-      render();
+      el.descBtn.textContent = state.showDescriptions ? 'Amaga descripcions' : 'Mostra descripcions';
+      renderEvents();
     });
 
-    loadCalendar();
+    el.resetBtn.addEventListener('click', () => {
+      el.search.value = '';
+      el.typeFilter.value = 'all';
+      el.rangeFilter.value = '60';
+      renderEvents();
+    });
+
+    el.dayJump.addEventListener('change', () => {
+      if (!el.dayJump.value) return;
+      const target = document.getElementById(`day-${el.dayJump.value}`);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+    loadEvents();
   </script>
 </body>
 </html>
