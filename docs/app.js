@@ -130,9 +130,12 @@ function normalizeRecord(record) {
 
   if (Number.isNaN(start.getTime())) return null;
 
-  const locationName = normalizeText(record.location || record.locationName || '');
+  const locationName = normalizeText(record.locationName || record.location || '');
   const address = normalizeText(record.address || '');
-  const type = normalizeType(record);
+  const type = normalizeType({
+    ...record,
+    type: record.type || record.tipus || '',
+  });
   const description = normalizeText(record.description || '');
   const url = normalizeText(record.url || '');
   const free = normalizeText(record.free || '');
