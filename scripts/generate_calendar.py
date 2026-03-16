@@ -1,6 +1,11 @@
-import os
+from __future__ import annotations
+
+import html
+import re
 from datetime import datetime, timedelta
 from pathlib import Path
+from typing import Any
+from zoneinfo import ZoneInfo
 
 import requests
 from icalendar import Calendar, Event
@@ -8,25 +13,23 @@ from icalendar import Calendar, Event
 
 RESOURCE_ID = "6353e8e8-53ea-47d9-b121-c4bdeac915a5"
 BASE_URL = "https://dadesobertes.seu-e.cat/api/3/action/datastore_search_sql"
+
+TIMEZONE = ZoneInfo("Europe/Madrid")
 OUTPUT_DIR = Path("docs")
-OUTPUT_FILE = OUTPUT_DIR / "agenda_santfeliu_proper_mes.ics"
+OUTPUT_FILE = OUTPUT_DIR / "santfeliu.ics"
+
+DAYS_AHEAD = 60
+PAGE_SIZE = 1000
+REQUEST_TIMEOUT = 30
 
 
-def get_next_month_range() -> tuple[datetime, datetime]:
-    now = datetime.now()
-    year = now.year
-    month = now.month
+def now_local() -> datetime:
+    return datetime.now(TIMEZONE).replace(second=0, microsecond=0)
 
-    if month == 12:
-        start = datetime(year + 1, 1, 1, 0, 0, 0)
-        end = datetime(year + 1, 2, 1, 0, 0, 0)
-    elif month == 11:
-        start = datetime(year, 12, 1, 0, 0, 0)
-        end = datetime(year + 1, 1, 1, 0, 0, 0)
-    else:
-        start = datetime(year, month + 1, 1, 0, 0, 0)
-        end = datetime(year, month + 2, 1, 0, 0, 0)
 
+def get_date_range() -> tuple[datetime, datetime]:
+    start = now_local()
+    end = start + timedelta(days=DAYS_AHEAD)
     return start, end
 
 
@@ -38,123 +41,229 @@ def parse_api_dt(value: str | None) -> datetime | None:
     if not value:
         return None
 
-    value = value.strip()
+    value = str(value).strip()
     if not value:
         return None
 
-    try:
-        return datetime.strptime(value, "%Y%m%d%H%M%S")
-    except ValueError:
-        return None
+    for fmt in ("%Y%m%d%H%M%S", "%Y%m%d"):
+        try:
+            parsed = datetime.strptime(value, fmt)
+            return parsed.replace(tzinfo=TIMEZONE)
+        except ValueError:
+            continue
+
+    return None
 
 
-def fetch_events() -> list[dict]:
-    start_dt, end_dt = get_next_month_range()
+def collapse_whitespace(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
 
-    sql = f"""
+
+def strip_html(raw: str) -> str:
+    text = html.unescape(raw)
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"</p\s*>", "\n\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\n\s*\n\s*\n+", "\n\n", text)
+    return text.strip()
+
+
+def clean_text(value: Any) -> str:
+    if value is None:
+        return ""
+
+    text = str(value).strip()
+    if not text:
+        return ""
+
+    if "<" in text and ">" in text:
+        text = strip_html(text)
+
+    text = html.unescape(text)
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+
+    lines = [collapse_whitespace(line) for line in text.split("\n")]
+    lines = [line for line in lines if line]
+
+    return "\n".join(lines).strip()
+
+
+def build_sql(start_dt: datetime, end_dt: datetime, limit: int, offset: int) -> str:
+    start_str = format_api_dt(start_dt)
+    end_str = format_api_dt(end_dt)
+
+    return f"""
         SELECT *
         FROM "{RESOURCE_ID}"
         WHERE "ESTAT" = 'Confirmat'
-          AND "DATA_HORA_INICI_ACTE" >= '{format_api_dt(start_dt)}'
-          AND "DATA_HORA_INICI_ACTE" < '{format_api_dt(end_dt)}'
+          AND "DATA_HORA_INICI_ACTE" >= '{start_str}'
+          AND "DATA_HORA_INICI_ACTE" < '{end_str}'
         ORDER BY "DATA_HORA_INICI_ACTE" ASC
+        LIMIT {limit}
+        OFFSET {offset}
     """
 
+
+def fetch_page(sql: str) -> list[dict[str, Any]]:
     response = requests.get(
         BASE_URL,
         params={"sql": sql},
-        timeout=30,
+        timeout=REQUEST_TIMEOUT,
     )
     response.raise_for_status()
 
-    data = response.json()
-    if not data.get("success"):
-        raise RuntimeError(f"Resposta incorrecta de l'API: {data}")
+    payload = response.json()
 
-    result = data.get("result", {})
-    records = result.get("records", [])
-    return records
+    if not payload.get("success"):
+        raise RuntimeError(f"Resposta incorrecta de l'API: {payload}")
 
-
-def clean_text(value: str | None) -> str:
-    if not value:
-        return ""
-    return str(value).strip()
+    result = payload.get("result", {})
+    return result.get("records", [])
 
 
-def build_description(record: dict) -> str:
+def fetch_all_events() -> list[dict[str, Any]]:
+    start_dt, end_dt = get_date_range()
+
+    all_records: list[dict[str, Any]] = []
+    offset = 0
+
+    while True:
+        sql = build_sql(start_dt, end_dt, PAGE_SIZE, offset)
+        records = fetch_page(sql)
+
+        if not records:
+            break
+
+        all_records.extend(records)
+
+        if len(records) < PAGE_SIZE:
+            break
+
+        offset += PAGE_SIZE
+
+    return all_records
+
+
+def build_location(record: dict[str, Any]) -> str:
     parts = [
-        clean_text(record.get("DESCRIPCIO")),
-        clean_text(record.get("OBSERVACIONS")),
+        clean_text(record.get("NOM_LLOC")),
+        clean_text(record.get("ADREÇA_COMPLETA")),
     ]
+    return " - ".join(part for part in parts if part)
 
-    nom_lloc = clean_text(record.get("NOM_LLOC"))
+
+def build_description(record: dict[str, Any]) -> str:
+    pieces: list[str] = []
+
+    descripcio = clean_text(record.get("DESCRIPCIO"))
+    observacions = clean_text(record.get("OBSERVACIONS"))
+    tipus = clean_text(record.get("TIPUS"))
+    lloc = clean_text(record.get("NOM_LLOC"))
     adreca = clean_text(record.get("ADREÇA_COMPLETA"))
     url = clean_text(record.get("URL"))
 
-    if nom_lloc:
-        parts.append(f"Lloc: {nom_lloc}")
+    if descripcio:
+        pieces.append(descripcio)
+
+    if observacions:
+        pieces.append(observacions)
+
+    meta: list[str] = []
+    if tipus:
+        meta.append(f"Tipus: {tipus}")
+    if lloc:
+        meta.append(f"Lloc: {lloc}")
     if adreca:
-        parts.append(f"Adreça: {adreca}")
+        meta.append(f"Adreça: {adreca}")
     if url:
-        parts.append(f"URL: {url}")
+        meta.append(f"Enllaç: {url}")
 
-    return "\n\n".join(part for part in parts if part)
+    if meta:
+        pieces.append("\n".join(meta))
 
-
-def build_location(record: dict) -> str:
-    nom_lloc = clean_text(record.get("NOM_LLOC"))
-    adreca = clean_text(record.get("ADREÇA_COMPLETA"))
-    return " - ".join(part for part in [nom_lloc, adreca] if part)
+    return "\n\n".join(piece for piece in pieces if piece).strip()
 
 
-def create_calendar(records: list[dict]) -> Calendar:
-    cal = Calendar()
-    cal.add("prodid", "-//Agenda Sant Feliu//GitHub Actions//")
-    cal.add("version", "2.0")
-    cal.add("x-wr-calname", "Agenda Sant Feliu - Proper mes")
-    cal.add("x-wr-timezone", "Europe/Madrid")
+def get_source_id(record: dict[str, Any]) -> str:
+    for key in ("ID", "_id"):
+        value = clean_text(record.get(key))
+        if value:
+            return value
+    return ""
 
-    seen_uids = set()
+
+def make_uid(record: dict[str, Any], start: datetime, title: str) -> str:
+    source_id = get_source_id(record)
+    if source_id:
+        return f"santfeliu-{source_id}@agenda.santfeliu.local"
+
+    safe_title = re.sub(r"[^a-zA-Z0-9]+", "-", title.lower()).strip("-")
+    return f"santfeliu-{safe_title}-{format_api_dt(start)}@agenda.santfeliu.local"
+
+
+def normalize_records(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    normalized: list[dict[str, Any]] = []
+    seen_uids: set[str] = set()
 
     for record in records:
         title = clean_text(record.get("TITOL")) or "Sense títol"
         start = parse_api_dt(record.get("DATA_HORA_INICI_ACTE"))
         end = parse_api_dt(record.get("DATA_HORA_FINAL_ACTE"))
 
-        if not start:
+        if start is None:
             continue
 
-        if not end or end <= start:
+        if end is None or end <= start:
             end = start + timedelta(hours=1)
 
-        source_id = clean_text(record.get("ID")) or clean_text(record.get("_id"))
-        if not source_id:
-            source_id = f"{title}-{format_api_dt(start)}"
-
-        uid = f"santfeliu-{source_id}@agenda-local"
-
+        uid = make_uid(record, start, title)
         if uid in seen_uids:
             continue
         seen_uids.add(uid)
 
+        normalized.append(
+            {
+                "uid": uid,
+                "title": title,
+                "start": start,
+                "end": end,
+                "description": build_description(record),
+                "location": build_location(record),
+                "url": clean_text(record.get("URL")),
+                "raw": record,
+            }
+        )
+
+    normalized.sort(key=lambda item: (item["start"], item["title"]))
+    return normalized
+
+
+def create_calendar(events: list[dict[str, Any]]) -> Calendar:
+    cal = Calendar()
+    cal.add("prodid", "-//Aitor Rivera//Agenda Sant Feliu//CA")
+    cal.add("version", "2.0")
+    cal.add("x-wr-calname", "Agenda Sant Feliu")
+    cal.add("x-wr-timezone", "Europe/Madrid")
+    cal.add("method", "PUBLISH")
+
+    generated_at = datetime.now(TIMEZONE)
+
+    for item in events:
         event = Event()
-        event.add("uid", uid)
-        event.add("summary", title)
-        event.add("dtstart", start)
-        event.add("dtend", end)
+        event.add("uid", item["uid"])
+        event.add("summary", item["title"])
+        event.add("dtstart", item["start"])
+        event.add("dtend", item["end"])
+        event.add("dtstamp", generated_at)
 
-        description = build_description(record)
-        if description:
-            event.add("description", description)
+        if item["description"]:
+            event.add("description", item["description"])
 
-        location = build_location(record)
-        if location:
-            event.add("location", location)
+        if item["location"]:
+            event.add("location", item["location"])
 
-        url = clean_text(record.get("URL"))
-        if url:
-            event.add("url", url)
+        if item["url"]:
+            event.add("url", item["url"])
 
         cal.add_component(event)
 
@@ -167,12 +276,17 @@ def save_calendar(calendar: Calendar, output_file: Path) -> None:
 
 
 def main() -> None:
-    records = fetch_events()
-    calendar = create_calendar(records)
+    raw_records = fetch_all_events()
+    events = normalize_records(raw_records)
+    calendar = create_calendar(events)
     save_calendar(calendar, OUTPUT_FILE)
 
+    start_dt, end_dt = get_date_range()
+
+    print(f"Rang consultat: {start_dt.isoformat()} -> {end_dt.isoformat()}")
+    print(f"Registres recuperats: {len(raw_records)}")
+    print(f"Esdeveniments finals: {len(events)}")
     print(f"Fitxer generat: {OUTPUT_FILE}")
-    print(f"Esdeveniments recuperats: {len(records)}")
 
 
 if __name__ == "__main__":
