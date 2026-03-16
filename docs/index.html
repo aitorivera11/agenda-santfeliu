@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="data:,">
   <title>Agenda Sant Feliu</title>
   <style>
     :root {
@@ -469,472 +470,385 @@
     <p class="footer-note">Si la càrrega directa falla, la pàgina intenta mostrar la darrera resposta guardada al navegador. L’ICS continua disponible per subscriure’l a Google Calendar.</p>
   </div>
 
-  <script>
-    const RESOURCE_ID = '6353e8e8-53ea-47d9-b121-c4bdeac915a5';
-    const API_URL = 'https://dadesobertes.seu-e.cat/api/3/action/datastore_search_sql';
-    const TZ = 'Europe/Madrid';
-    const DEFAULT_DAYS = 60;
-    const LIMIT = 500;
-    const CACHE_KEY = 'agenda-santfeliu-cache-v1';
+<script>
+  const TZ = 'Europe/Madrid';
+  const CACHE_KEY = 'agenda-santfeliu-cache-v2';
+  const EVENTS_URL = './events.json';
 
-    const state = {
-      allEvents: [],
-      visibleEvents: [],
-      showDescriptions: false,
-      source: 'none',
-      lastLoadedAt: null,
-      apiError: null,
+  const state = {
+    allEvents: [],
+    visibleEvents: [],
+    showDescriptions: false,
+    source: 'none',
+    lastLoadedAt: null,
+  };
+
+  const el = {
+    search: document.getElementById('search'),
+    typeFilter: document.getElementById('typeFilter'),
+    rangeFilter: document.getElementById('rangeFilter'),
+    reloadBtn: document.getElementById('reloadBtn'),
+    todayBtn: document.getElementById('todayBtn'),
+    descBtn: document.getElementById('descBtn'),
+    resetBtn: document.getElementById('resetBtn'),
+    dayJump: document.getElementById('dayJump'),
+    sourceStatus: document.getElementById('sourceStatus'),
+    updatedStatus: document.getElementById('updatedStatus'),
+    resultStatus: document.getElementById('resultStatus'),
+    statVisible: document.getElementById('statVisible'),
+    statDays: document.getElementById('statDays'),
+    statToday: document.getElementById('statToday'),
+    statTomorrow: document.getElementById('statTomorrow'),
+    container: document.getElementById('calendarContainer'),
+  };
+
+  function escapeHtml(str = '') {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function formatDateTime(date) {
+    return new Intl.DateTimeFormat('ca-ES', {
+      dateStyle: 'short',
+      timeStyle: 'short',
+      timeZone: TZ,
+    }).format(date);
+  }
+
+  function formatDayHeading(date) {
+    return new Intl.DateTimeFormat('ca-ES', {
+      weekday: 'long',
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+      timeZone: TZ,
+    }).format(date);
+  }
+
+  function formatTimeRange(start, end) {
+    const fmt = new Intl.DateTimeFormat('ca-ES', {
+      hour: '2-digit',
+      minute: '2-digit',
+      timeZone: TZ,
+    });
+    const startText = fmt.format(start);
+    if (!(end instanceof Date) || Number.isNaN(end.getTime())) return startText;
+    return `${startText} - ${fmt.format(end)}`;
+  }
+
+  function startOfToday() {
+    const now = new Date();
+    return new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0);
+  }
+
+  function formatMoney(value) {
+    if (value == null || value === '') return '';
+    const num = Number(String(value).replace(',', '.'));
+    if (Number.isNaN(num)) return String(value);
+    return new Intl.NumberFormat('ca-ES', { style: 'currency', currency: 'EUR' }).format(num);
+  }
+
+  function normalizeRecord(record) {
+    const start = new Date(record.start);
+    const end = new Date(record.end);
+
+    if (Number.isNaN(start.getTime())) return null;
+
+    return {
+      id: record.id || `${record.title}-${record.start}`,
+      title: record.title || 'Sense títol',
+      description: record.description || '',
+      locationName: record.location || '',
+      address: '',
+      start,
+      end: Number.isNaN(end.getTime()) ? new Date(start.getTime() + 60 * 60 * 1000) : end,
+      type: record.type || '',
+      url: record.url || '',
+      mapsUrl: record.location
+        ? `https://www.google.com/maps?q=${encodeURIComponent(record.location)}`
+        : '',
+      free: record.free || '',
+      price: record.price || '',
     };
+  }
 
-    const el = {
-      search: document.getElementById('search'),
-      typeFilter: document.getElementById('typeFilter'),
-      rangeFilter: document.getElementById('rangeFilter'),
-      reloadBtn: document.getElementById('reloadBtn'),
-      todayBtn: document.getElementById('todayBtn'),
-      descBtn: document.getElementById('descBtn'),
-      resetBtn: document.getElementById('resetBtn'),
-      dayJump: document.getElementById('dayJump'),
-      sourceStatus: document.getElementById('sourceStatus'),
-      updatedStatus: document.getElementById('updatedStatus'),
-      resultStatus: document.getElementById('resultStatus'),
-      statVisible: document.getElementById('statVisible'),
-      statDays: document.getElementById('statDays'),
-      statToday: document.getElementById('statToday'),
-      statTomorrow: document.getElementById('statTomorrow'),
-      container: document.getElementById('calendarContainer'),
-    };
-
-    function escapeHtml(str = '') {
-      return String(str)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#039;');
+  function saveCache(events) {
+    try {
+      const payload = {
+        savedAt: new Date().toISOString(),
+        events: events.map(event => ({
+          ...event,
+          start: event.start.toISOString(),
+          end: event.end.toISOString(),
+        })),
+      };
+      localStorage.setItem(CACHE_KEY, JSON.stringify(payload));
+    } catch (error) {
+      console.warn('No s’ha pogut guardar la cache', error);
     }
+  }
 
-    function collapseWhitespace(text = '') {
-      return String(text).replace(/\s+/g, ' ').trim();
-    }
-
-    function cleanText(value) {
-      if (value == null) return '';
-      const tmp = document.createElement('div');
-      tmp.innerHTML = String(value);
-      return tmp.textContent.replace(/\r\n/g, '\n').replace(/\r/g, '\n').trim();
-    }
-
-    function formatApiDate(date) {
-      const y = date.getFullYear();
-      const m = String(date.getMonth() + 1).padStart(2, '0');
-      const d = String(date.getDate()).padStart(2, '0');
-      const hh = String(date.getHours()).padStart(2, '0');
-      const mm = String(date.getMinutes()).padStart(2, '0');
-      const ss = String(date.getSeconds()).padStart(2, '0');
-      return `${y}${m}${d}${hh}${mm}${ss}`;
-    }
-
-    function parseApiDate(value) {
-      const raw = String(value || '').trim();
-      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})$/);
-      if (!match) return null;
-      const [, y, m, d, hh, mm, ss] = match;
-      return new Date(Number(y), Number(m) - 1, Number(d), Number(hh), Number(mm), Number(ss));
-    }
-
-    function startOfToday() {
-      const now = new Date();
-      return new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0);
-    }
-
-    function endOfRange(days) {
-      const start = new Date();
-      return new Date(start.getTime() + days * 24 * 60 * 60 * 1000);
-    }
-
-    function formatDateTime(date) {
-      return new Intl.DateTimeFormat('ca-ES', {
-        dateStyle: 'short',
-        timeStyle: 'short',
-        timeZone: TZ,
-      }).format(date);
-    }
-
-    function formatDayHeading(date) {
-      return new Intl.DateTimeFormat('ca-ES', {
-        weekday: 'long',
-        day: 'numeric',
-        month: 'long',
-        year: 'numeric',
-        timeZone: TZ,
-      }).format(date);
-    }
-
-    function formatTimeRange(start, end) {
-      const fmt = new Intl.DateTimeFormat('ca-ES', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: TZ,
-      });
-      const startText = fmt.format(start);
-      if (!(end instanceof Date) || Number.isNaN(end.getTime())) return startText;
-      return `${startText} - ${fmt.format(end)}`;
-    }
-
-    function formatMoney(value) {
-      if (value == null || value === '') return '';
-      const num = Number(String(value).replace(',', '.'));
-      if (Number.isNaN(num)) return String(value);
-      return new Intl.NumberFormat('ca-ES', { style: 'currency', currency: 'EUR' }).format(num);
-    }
-
-    function buildSql(start, end) {
-      const startValue = formatApiDate(start);
-      const endValue = formatApiDate(end);
-
-      return `
-        SELECT
-          "_id",
-          "ID",
-          "TITOL",
-          "DESCRIPCIO",
-          "NOM_LLOC",
-          "ADREÇA_COMPLETA",
-          "DATA_HORA_INICI_ACTE",
-          "DATA_HORA_FINAL_ACTE",
-          "TIPUS_ACTE",
-          "TIPUS",
-          "GRATUIT",
-          "PREU",
-          "URL",
-          "LATITUD",
-          "LONGITUD",
-          "ESTAT"
-        FROM "${RESOURCE_ID}"
-        WHERE "ESTAT" = 'Confirmat'
-          AND "DATA_HORA_INICI_ACTE" >= '${startValue}'
-          AND "DATA_HORA_INICI_ACTE" < '${endValue}'
-        ORDER BY "DATA_HORA_INICI_ACTE" ASC
-        LIMIT ${LIMIT}
-      `;
-    }
-
-    async function fetchApiEvents() {
-      const start = startOfToday();
-      const end = endOfRange(DEFAULT_DAYS + 1);
-      const sql = buildSql(start, end);
-      const url = `${API_URL}?sql=${encodeURIComponent(sql)}`;
-
-      const response = await fetch(url, { cache: 'no-store' });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
-      const payload = await response.json();
-      if (!payload.success) throw new Error('Resposta API invàlida');
-
-      const records = payload?.result?.records || [];
-      return records.map(normalizeRecord).filter(Boolean);
-    }
-
-    function normalizeRecord(record) {
-      const title = collapseWhitespace(cleanText(record.TITOL)) || 'Sense títol';
-      const description = cleanText(record.DESCRIPCIO);
-      const locationName = collapseWhitespace(cleanText(record.NOM_LLOC));
-      const address = collapseWhitespace(cleanText(record['ADREÇA_COMPLETA']));
-      const start = parseApiDate(record.DATA_HORA_INICI_ACTE);
-      let end = parseApiDate(record.DATA_HORA_FINAL_ACTE);
-      const type = collapseWhitespace(cleanText(record.TIPUS_ACTE || record.TIPUS));
-      const url = collapseWhitespace(cleanText(record.URL));
-      const lat = collapseWhitespace(cleanText(record.LATITUD));
-      const lng = collapseWhitespace(cleanText(record.LONGITUD));
-      const price = collapseWhitespace(cleanText(record.PREU));
-      const free = collapseWhitespace(cleanText(record.GRATUIT));
-      const sourceId = collapseWhitespace(cleanText(record.ID || record._id));
-
-      if (!start) return null;
-      if (!end || end <= start) end = new Date(start.getTime() + 60 * 60 * 1000);
-
-      let mapsUrl = '';
-      if (lat && lng) {
-        mapsUrl = `https://www.google.com/maps?q=${encodeURIComponent(`${lat},${lng}`)}`;
-      } else if (address) {
-        mapsUrl = `https://www.google.com/maps?q=${encodeURIComponent(address)}`;
-      } else if (locationName) {
-        mapsUrl = `https://www.google.com/maps?q=${encodeURIComponent(locationName)}`;
-      }
+  function loadCache() {
+    try {
+      const raw = localStorage.getItem(CACHE_KEY);
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (!Array.isArray(parsed.events)) return null;
 
       return {
-        id: sourceId || `${title}-${start.toISOString()}`,
-        title,
-        description,
-        locationName,
-        address,
-        start,
-        end,
-        type,
-        url,
-        mapsUrl,
-        free,
-        price,
+        savedAt: parsed.savedAt,
+        events: parsed.events.map(event => ({
+          ...event,
+          start: new Date(event.start),
+          end: new Date(event.end),
+        })),
       };
+    } catch (error) {
+      console.warn('No s’ha pogut llegir la cache', error);
+      return null;
+    }
+  }
+
+  function getUniqueTypes(events) {
+    const types = [...new Set(events.map(event => event.type).filter(Boolean))];
+    return types.sort((a, b) => a.localeCompare(b, 'ca'));
+  }
+
+  function renderTypeOptions() {
+    const current = el.typeFilter.value;
+    const types = getUniqueTypes(state.allEvents);
+    el.typeFilter.innerHTML =
+      '<option value="all">Tots</option>' +
+      types.map(type => `<option value="${escapeHtml(type)}">${escapeHtml(type)}</option>`).join('');
+
+    if ([...el.typeFilter.options].some(option => option.value === current)) {
+      el.typeFilter.value = current;
+    }
+  }
+
+  function getFilteredEvents() {
+    const query = el.search.value.trim().toLowerCase();
+    const type = el.typeFilter.value;
+    const range = el.rangeFilter.value;
+    const now = new Date();
+    const rangeEnd = range === 'all' ? null : new Date(now.getTime() + Number(range) * 24 * 60 * 60 * 1000);
+
+    return state.allEvents.filter(event => {
+      if (event.end < now) return false;
+      if (rangeEnd && event.start > rangeEnd) return false;
+      if (type !== 'all' && event.type !== type) return false;
+
+      if (!query) return true;
+
+      const haystack = [
+        event.title,
+        event.locationName,
+        event.description,
+        event.type,
+      ]
+        .filter(Boolean)
+        .join('\n')
+        .toLowerCase();
+
+      return haystack.includes(query);
+    });
+  }
+
+  function updateStats(events) {
+    const days = new Set(events.map(event => event.start.toISOString().slice(0, 10)));
+    const todayStart = startOfToday();
+    const tomorrowStart = new Date(todayStart.getTime() + 24 * 60 * 60 * 1000);
+    const afterTomorrowStart = new Date(tomorrowStart.getTime() + 24 * 60 * 60 * 1000);
+
+    const todayCount = events.filter(event => event.start >= todayStart && event.start < tomorrowStart).length;
+    const tomorrowCount = events.filter(event => event.start >= tomorrowStart && event.start < afterTomorrowStart).length;
+
+    el.statVisible.textContent = String(events.length);
+    el.statDays.textContent = String(days.size);
+    el.statToday.textContent = String(todayCount);
+    el.statTomorrow.textContent = String(tomorrowCount);
+    el.resultStatus.innerHTML = `<strong>Resultats:</strong>&nbsp;${events.length}`;
+  }
+
+  function updateStatus() {
+    if (state.source === 'json') {
+      el.sourceStatus.className = 'status-pill ok';
+      el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;events.json';
+    } else if (state.source === 'cache') {
+      el.sourceStatus.className = 'status-pill warn';
+      el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;dades guardades al navegador';
+    } else {
+      el.sourceStatus.className = 'status-pill';
+      el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;sense dades';
     }
 
-    function saveCache(events) {
-      try {
-        const payload = {
-          savedAt: new Date().toISOString(),
-          events: events.map(event => ({
-            ...event,
-            start: event.start.toISOString(),
-            end: event.end.toISOString(),
-          })),
-        };
-        localStorage.setItem(CACHE_KEY, JSON.stringify(payload));
-      } catch (error) {
-        console.warn('No s’ha pogut guardar la cache', error);
-      }
-    }
+    el.updatedStatus.className = 'status-pill';
+    el.updatedStatus.innerHTML = `<strong>Actualitzat:</strong>&nbsp;${state.lastLoadedAt ? escapeHtml(formatDateTime(state.lastLoadedAt)) : '—'}`;
+  }
 
-    function loadCache() {
-      try {
-        const raw = localStorage.getItem(CACHE_KEY);
-        if (!raw) return null;
-        const parsed = JSON.parse(raw);
-        if (!Array.isArray(parsed.events)) return null;
+  function populateDayJump(events) {
+    const groups = [...new Set(events.map(event => event.start.toISOString().slice(0, 10)))];
+    const current = el.dayJump.value;
 
-        return {
-          savedAt: parsed.savedAt,
-          events: parsed.events.map(event => ({
-            ...event,
-            start: new Date(event.start),
-            end: new Date(event.end),
-          })),
-        };
-      } catch (error) {
-        console.warn('No s’ha pogut llegir la cache', error);
-        return null;
-      }
-    }
-
-    function getUniqueTypes(events) {
-      const types = [...new Set(events.map(event => event.type).filter(Boolean))];
-      return types.sort((a, b) => a.localeCompare(b, 'ca'));
-    }
-
-    function renderTypeOptions() {
-      const current = el.typeFilter.value;
-      const types = getUniqueTypes(state.allEvents);
-      el.typeFilter.innerHTML = '<option value="all">Tots</option>' + types.map(type => `<option value="${escapeHtml(type)}">${escapeHtml(type)}</option>`).join('');
-      if ([...el.typeFilter.options].some(option => option.value === current)) {
-        el.typeFilter.value = current;
-      }
-    }
-
-    function getFilteredEvents() {
-      const query = el.search.value.trim().toLowerCase();
-      const type = el.typeFilter.value;
-      const range = el.rangeFilter.value;
-      const now = new Date();
-      const rangeEnd = range === 'all' ? null : new Date(now.getTime() + Number(range) * 24 * 60 * 60 * 1000);
-
-      return state.allEvents.filter(event => {
-        if (event.end < now) return false;
-        if (rangeEnd && event.start > rangeEnd) return false;
-        if (type !== 'all' && event.type !== type) return false;
-
-        if (!query) return true;
-        const haystack = [event.title, event.locationName, event.address, event.type, event.description]
-          .filter(Boolean)
-          .join('\n')
-          .toLowerCase();
-
-        return haystack.includes(query);
-      });
-    }
-
-    function updateStats(events) {
-      const days = new Set(events.map(event => event.start.toISOString().slice(0, 10)));
-      const todayStart = startOfToday();
-      const tomorrowStart = new Date(todayStart.getTime() + 24 * 60 * 60 * 1000);
-      const afterTomorrowStart = new Date(tomorrowStart.getTime() + 24 * 60 * 60 * 1000);
-
-      const todayCount = events.filter(event => event.start >= todayStart && event.start < tomorrowStart).length;
-      const tomorrowCount = events.filter(event => event.start >= tomorrowStart && event.start < afterTomorrowStart).length;
-
-      el.statVisible.textContent = String(events.length);
-      el.statDays.textContent = String(days.size);
-      el.statToday.textContent = String(todayCount);
-      el.statTomorrow.textContent = String(tomorrowCount);
-      el.resultStatus.innerHTML = `<strong>Resultats:</strong>&nbsp;${events.length}`;
-    }
-
-    function updateStatus() {
-      if (state.source === 'api') {
-        el.sourceStatus.className = 'status-pill ok';
-        el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;API en directe';
-      } else if (state.source === 'cache') {
-        el.sourceStatus.className = 'status-pill warn';
-        el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;dades guardades al navegador';
-      } else {
-        el.sourceStatus.className = 'status-pill';
-        el.sourceStatus.innerHTML = '<strong>Font:</strong>&nbsp;sense dades';
-      }
-
-      el.updatedStatus.className = 'status-pill';
-      el.updatedStatus.innerHTML = `<strong>Actualitzat:</strong>&nbsp;${state.lastLoadedAt ? escapeHtml(formatDateTime(state.lastLoadedAt)) : '—'}`;
-    }
-
-    function populateDayJump(events) {
-      const groups = [...new Set(events.map(event => event.start.toISOString().slice(0, 10)))];
-      const current = el.dayJump.value;
-      el.dayJump.innerHTML = '<option value="">Selecciona un dia</option>' + groups.map(key => {
+    el.dayJump.innerHTML =
+      '<option value="">Selecciona un dia</option>' +
+      groups.map(key => {
         const date = new Date(`${key}T12:00:00`);
         return `<option value="${key}">${escapeHtml(formatDayHeading(date))}</option>`;
       }).join('');
 
-      if ([...el.dayJump.options].some(option => option.value === current)) {
-        el.dayJump.value = current;
-      }
+    if ([...el.dayJump.options].some(option => option.value === current)) {
+      el.dayJump.value = current;
+    }
+  }
+
+  function renderEvents() {
+    const events = getFilteredEvents();
+    state.visibleEvents = events;
+    updateStats(events);
+    updateStatus();
+    populateDayJump(events);
+
+    if (!events.length) {
+      el.container.className = 'calendar-container empty';
+      el.container.innerHTML = 'No hi ha esdeveniments per als filtres actuals.';
+      return;
     }
 
-    function renderEvents() {
-      const events = getFilteredEvents();
-      state.visibleEvents = events;
-      updateStats(events);
-      updateStatus();
-      populateDayJump(events);
+    const grouped = new Map();
+    for (const event of events) {
+      const key = event.start.toISOString().slice(0, 10);
+      if (!grouped.has(key)) grouped.set(key, []);
+      grouped.get(key).push(event);
+    }
 
-      if (!events.length) {
-        el.container.className = 'calendar-container empty';
-        el.container.innerHTML = 'No hi ha esdeveniments per als filtres actuals.';
+    const html = [];
+
+    for (const [key, items] of grouped.entries()) {
+      const anchorId = `day-${key}`;
+      html.push(`<section class="day-group" id="${anchorId}">`);
+      html.push(`<h2 class="day-title">${escapeHtml(formatDayHeading(items[0].start))}</h2>`);
+
+      for (const event of items) {
+        const badges = [];
+        if (event.type) badges.push(`<span class="badge">${escapeHtml(event.type)}</span>`);
+        if (event.free) {
+          const freeText = ['si', 'sí', 'true', '1', 'gratuït', 'gratuit'].includes(event.free.toLowerCase())
+            ? 'Gratuït'
+            : event.free;
+          badges.push(`<span class="badge">${escapeHtml(freeText)}</span>`);
+        } else if (event.price) {
+          badges.push(`<span class="badge">${escapeHtml(formatMoney(event.price))}</span>`);
+        }
+
+        const metaParts = [];
+        if (event.locationName) metaParts.push(event.locationName);
+
+        const actions = [];
+        if (event.url) actions.push(`<a href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">Veure fitxa</a>`);
+        if (event.mapsUrl) actions.push(`<a href="${escapeHtml(event.mapsUrl)}" target="_blank" rel="noopener noreferrer">Obrir mapa</a>`);
+
+        html.push(`
+          <article class="event-card">
+            <div class="event-top">
+              <div class="event-main">
+                <h3 class="event-title">${escapeHtml(event.title)}</h3>
+                ${badges.length ? `<div class="event-badges">${badges.join('')}</div>` : ''}
+                ${metaParts.length ? `<div class="meta">${escapeHtml(metaParts.join('\n'))}</div>` : ''}
+              </div>
+              <div class="event-time">${escapeHtml(formatTimeRange(event.start, event.end))}</div>
+            </div>
+            ${state.showDescriptions && event.description ? `<div class="desc">${escapeHtml(event.description)}</div>` : ''}
+            ${actions.length ? `<div class="event-actions">${actions.join('')}</div>` : ''}
+          </article>
+        `);
+      }
+
+      html.push('</section>');
+    }
+
+    el.container.className = 'calendar-container';
+    el.container.innerHTML = html.join('');
+  }
+
+  async function loadEvents() {
+    el.container.className = 'calendar-container loading';
+    el.container.textContent = 'Carregant esdeveniments...';
+
+    try {
+      const response = await fetch(`${EVENTS_URL}?t=${Date.now()}`, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+      const raw = await response.json();
+      const events = raw.map(normalizeRecord).filter(Boolean);
+
+      state.allEvents = events;
+      state.source = 'json';
+      state.lastLoadedAt = new Date();
+
+      saveCache(events);
+      renderTypeOptions();
+      renderEvents();
+    } catch (error) {
+      console.error(error);
+
+      const cached = loadCache();
+      if (cached?.events?.length) {
+        state.allEvents = cached.events;
+        state.source = 'cache';
+        state.lastLoadedAt = cached.savedAt ? new Date(cached.savedAt) : null;
+        renderTypeOptions();
+        renderEvents();
         return;
       }
 
-      const grouped = new Map();
-      for (const event of events) {
-        const key = event.start.toISOString().slice(0, 10);
-        if (!grouped.has(key)) grouped.set(key, []);
-        grouped.get(key).push(event);
-      }
-
-      const html = [];
-
-      for (const [key, items] of grouped.entries()) {
-        const anchorId = `day-${key}`;
-        html.push(`<section class="day-group" id="${anchorId}">`);
-        html.push(`<h2 class="day-title">${escapeHtml(formatDayHeading(items[0].start))}</h2>`);
-
-        for (const event of items) {
-          const badges = [];
-          if (event.type) badges.push(`<span class="badge">${escapeHtml(event.type)}</span>`);
-          if (event.free) {
-            const freeText = ['si', 'sí', 'true', '1', 'gratuït', 'gratuit'].includes(event.free.toLowerCase()) ? 'Gratuït' : event.free;
-            badges.push(`<span class="badge">${escapeHtml(freeText)}</span>`);
-          } else if (event.price) {
-            badges.push(`<span class="badge">${escapeHtml(formatMoney(event.price))}</span>`);
-          }
-
-          const metaParts = [];
-          if (event.locationName) metaParts.push(event.locationName);
-          if (event.address) metaParts.push(event.address);
-
-          const actions = [];
-          if (event.url) actions.push(`<a href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">Veure fitxa</a>`);
-          if (event.mapsUrl) actions.push(`<a href="${escapeHtml(event.mapsUrl)}" target="_blank" rel="noopener noreferrer">Obrir mapa</a>`);
-
-          html.push(`
-            <article class="event-card">
-              <div class="event-top">
-                <div class="event-main">
-                  <h3 class="event-title">${escapeHtml(event.title)}</h3>
-                  ${badges.length ? `<div class="event-badges">${badges.join('')}</div>` : ''}
-                  ${metaParts.length ? `<div class="meta">${escapeHtml(metaParts.join('\n'))}</div>` : ''}
-                </div>
-                <div class="event-time">${escapeHtml(formatTimeRange(event.start, event.end))}</div>
-              </div>
-              ${state.showDescriptions && event.description ? `<div class="desc">${escapeHtml(event.description)}</div>` : ''}
-              ${actions.length ? `<div class="event-actions">${actions.join('')}</div>` : ''}
-            </article>
-          `);
-        }
-
-        html.push('</section>');
-      }
-
-      el.container.className = 'calendar-container';
-      el.container.innerHTML = html.join('');
+      state.allEvents = [];
+      state.visibleEvents = [];
+      state.source = 'none';
+      state.lastLoadedAt = null;
+      updateStats([]);
+      updateStatus();
+      el.container.className = 'calendar-container error';
+      el.container.innerHTML = 'Ara mateix no s’ha pogut carregar l’agenda. Torna-ho a provar més tard.';
     }
+  }
 
-    async function loadEvents() {
-      el.container.className = 'calendar-container loading';
-      el.container.textContent = 'Carregant esdeveniments...';
-      state.apiError = null;
+  el.search.addEventListener('input', renderEvents);
+  el.typeFilter.addEventListener('change', renderEvents);
+  el.rangeFilter.addEventListener('change', renderEvents);
+  el.reloadBtn.addEventListener('click', loadEvents);
 
-      try {
-        const events = await fetchApiEvents();
-        state.allEvents = events;
-        state.source = 'api';
-        state.lastLoadedAt = new Date();
-        saveCache(events);
-        renderTypeOptions();
-        renderEvents();
-      } catch (error) {
-        console.error(error);
-        state.apiError = error;
+  el.todayBtn.addEventListener('click', () => {
+    el.rangeFilter.value = '1';
+    el.search.value = '';
+    renderEvents();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
 
-        const cached = loadCache();
-        if (cached?.events?.length) {
-          state.allEvents = cached.events;
-          state.source = 'cache';
-          state.lastLoadedAt = cached.savedAt ? new Date(cached.savedAt) : null;
-          renderTypeOptions();
-          renderEvents();
-          return;
-        }
+  el.descBtn.addEventListener('click', () => {
+    state.showDescriptions = !state.showDescriptions;
+    el.descBtn.textContent = state.showDescriptions ? 'Amaga descripcions' : 'Mostra descripcions';
+    renderEvents();
+  });
 
-        state.allEvents = [];
-        state.visibleEvents = [];
-        state.source = 'none';
-        state.lastLoadedAt = null;
-        updateStats([]);
-        updateStatus();
-        el.container.className = 'calendar-container error';
-        el.container.innerHTML = 'Ara mateix no s’ha pogut carregar l’agenda. Torna-ho a provar més tard.';
-      }
-    }
+  el.resetBtn.addEventListener('click', () => {
+    el.search.value = '';
+    el.typeFilter.value = 'all';
+    el.rangeFilter.value = '60';
+    renderEvents();
+  });
 
-    el.search.addEventListener('input', renderEvents);
-    el.typeFilter.addEventListener('change', renderEvents);
-    el.rangeFilter.addEventListener('change', renderEvents);
-    el.reloadBtn.addEventListener('click', loadEvents);
+  el.dayJump.addEventListener('change', () => {
+    if (!el.dayJump.value) return;
+    const target = document.getElementById(`day-${el.dayJump.value}`);
+    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
 
-    el.todayBtn.addEventListener('click', () => {
-      el.rangeFilter.value = '1';
-      el.search.value = '';
-      renderEvents();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
-
-    el.descBtn.addEventListener('click', () => {
-      state.showDescriptions = !state.showDescriptions;
-      el.descBtn.textContent = state.showDescriptions ? 'Amaga descripcions' : 'Mostra descripcions';
-      renderEvents();
-    });
-
-    el.resetBtn.addEventListener('click', () => {
-      el.search.value = '';
-      el.typeFilter.value = 'all';
-      el.rangeFilter.value = '60';
-      renderEvents();
-    });
-
-    el.dayJump.addEventListener('change', () => {
-      if (!el.dayJump.value) return;
-      const target = document.getElementById(`day-${el.dayJump.value}`);
-      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
-
-    loadEvents();
-  </script>
+  loadEvents();
+</script>
 </body>
 </html>
