@@ -10,12 +10,7 @@
 <body>
   <div class="wrap">
     <section class="hero" id="top">
-      <h1>Agenda Sant Feliu</h1>
-      <p>Consulta ràpida dels propers actes de la ciutat. La web llegeix <strong>events.json</strong> generat automàticament i manté l’ICS disponible per a Google Calendar.</p>
-      <div class="hero-links">
-        <a href="./santfeliu.ics" target="_blank" rel="noopener noreferrer">Obre l’ICS</a>
-        <a href="https://www.google.com/calendar/render?cid=https://aitorivera11.github.io/agenda-santfeliu/santfeliu.ics" target="_blank" rel="noopener noreferrer">Afegeix-lo a Google Calendar</a>
-      </div>
+      <h1>Agenda d'activitats a Sant Feliu de Llobregat</h1>
     </section>
 
     <section class="filters-grid">
@@ -37,8 +32,8 @@
           <option value="1">Avui</option>
           <option value="7">Propers 7 dies</option>
           <option value="30">Propers 30 dies</option>
-          <option value="60" selected>Propers 60 dies</option>
-          <option value="all">Tot el disponible</option>
+          <option value="60">Propers 60 dies</option>
+          <option value="all" selected>Tot el disponible</option>
         </select>
       </div>
 
@@ -80,6 +75,10 @@
 
     <footer class="footer-note">
       <p id="footerStatus">Carregant dades...</p>
+      <div class="footer-links">
+        <a href="./santfeliu.ics" target="_blank" rel="noopener noreferrer">Obre l’ICS</a>
+        <a href="https://www.google.com/calendar/render?cid=https://aitorivera11.github.io/agenda-santfeliu/santfeliu.ics" target="_blank" rel="noopener noreferrer">Afegeix-lo a Google Calendar</a>
+      </div>
     </footer>
   </div>
 

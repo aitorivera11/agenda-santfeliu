@@ -461,7 +461,7 @@ el.todayBtn.addEventListener('click', () => {
 el.resetBtn.addEventListener('click', () => {
   el.search.value = '';
   el.typeFilter.value = 'all';
-  el.rangeFilter.value = '60';
+  el.rangeFilter.value = 'all';
   renderEvents();
 });
 

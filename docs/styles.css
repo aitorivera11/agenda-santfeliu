@@ -361,6 +361,29 @@ button.secondary {
   line-height: 1.5;
 }
 
+
+.footer-links {
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  padding: 9px 13px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.footer-links a:hover {
+  background: var(--accent);
+  color: var(--light);
+}
 .floating-nav {
   position: fixed;
   right: 16px;
