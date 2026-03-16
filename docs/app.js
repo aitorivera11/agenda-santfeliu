@@ -84,14 +84,44 @@ function normalizeText(value) {
   return String(value || '').trim();
 }
 
+function inferTypeFromText(text) {
+  const normalized = normalizeText(text).toLowerCase();
+  if (!normalized) return '';
+
+  const rules = [
+    ['Música', /\b(concert|m[uú]sica|dj|jam|orquestra|recital)\b/i],
+    ['Teatre', /\b(teatre|obra|escena|dramat)\b/i],
+    ['Cinema', /\b(cinema|film|pel[·l]?[íi]cula|projecci[oó])\b/i],
+    ['Família', /\b(fam[ií]lia|infantil|nens|nenes|kids|familiar)\b/i],
+    ['Esports', /\b(esport|cursa|torneig|partit|running|futbol|b[àa]squet)\b/i],
+    ['Taller', /\b(taller|workshop|curs|formaci[oó])\b/i],
+    ['Exposició', /\b(exposici[oó]|mostra|museu|galeria)\b/i],
+    ['Festa', /\b(festa|festiu|revetlla|correfoc|carnaval)\b/i],
+    ['Xerrada', /\b(xerrada|confer[eè]ncia|taula rodona|col[·l]oqui)\b/i],
+  ];
+
+  for (const [label, pattern] of rules) {
+    if (pattern.test(normalized)) return label;
+  }
+
+  return '';
+}
+
 function normalizeType(record) {
-  return normalizeText(
+  const explicitType = normalizeText(
     record.type ||
     record.tipus ||
     record.tipus_acte ||
     record.category ||
+    record.eventType ||
+    record.tipusActe ||
     ''
   );
+
+  if (explicitType) return explicitType;
+
+  const fallbackText = [record.title, record.description].filter(Boolean).join(' ');
+  return inferTypeFromText(fallbackText);
 }
 
 function normalizeRecord(record) {

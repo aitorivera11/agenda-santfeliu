@@ -1,14 +1,14 @@
 :root {
-  --bg: #f3f5fb;
+  --bg: #ffffff;
   --card: #ffffff;
-  --text: #172033;
-  --muted: #5f6b85;
-  --border: #d9e0ef;
-  --accent: #4f46e5;
-  --accent-soft: #eef0ff;
-  --danger: #b42318;
-  --success: #067647;
-  --shadow: 0 10px 30px rgba(23, 32, 51, 0.08);
+  --text: #000D23;
+  --muted: #000D23;
+  --border: #E2BFA1;
+  --accent: #F95838;
+  --accent-soft: #E2BFA1;
+  --danger: #F95838;
+  --success: #000D23;
+  --shadow: 0 10px 30px rgba(0, 13, 35, 0.1);
   --radius: 18px;
 }
 
@@ -38,7 +38,7 @@ a {
 }
 
 .hero {
-  background: linear-gradient(135deg, #312e81, #4f46e5);
+  background: linear-gradient(135deg, #000D23, #F95838);
   color: #fff;
   border-radius: 24px;
   padding: 28px;
@@ -54,7 +54,7 @@ a {
 
 .hero p {
   margin: 0;
-  color: rgba(255,255,255,.92);
+  color: rgba(255,255,255,.95);
   font-size: 1rem;
   line-height: 1.5;
   max-width: 760px;
@@ -72,7 +72,7 @@ a {
   align-items: center;
   padding: 10px 14px;
   border-radius: 999px;
-  background: rgba(255,255,255,.14);
+  background: rgba(226,191,161,.28);
   color: #fff;
   text-decoration: none;
   font-weight: 600;
@@ -118,7 +118,7 @@ button {
 input:focus,
 select:focus,
 button:focus {
-  outline: 2px solid rgba(79, 70, 229, .2);
+  outline: 2px solid rgba(249, 88, 56, .25);
   outline-offset: 1px;
   border-color: var(--accent);
 }
@@ -126,7 +126,7 @@ button:focus {
 button {
   border: 0;
   background: var(--accent);
-  color: #fff;
+  color: #FFFFFF;
   font-weight: 700;
   cursor: pointer;
 }
@@ -216,7 +216,7 @@ button.secondary {
   z-index: 3;
   margin: 0 0 10px;
   padding: 10px 14px;
-  background: rgba(243, 245, 251, .94);
+  background: rgba(255, 255, 255, .94);
   backdrop-filter: blur(8px);
   border-radius: 12px;
   color: var(--muted);
