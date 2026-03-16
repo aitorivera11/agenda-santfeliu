@@ -168,7 +168,7 @@ def build_description(record: dict[str, Any]) -> str:
 
     descripcio = clean_text(record.get("DESCRIPCIO"))
     observacions = clean_text(record.get("OBSERVACIONS"))
-    tipus = clean_text(record.get("TIPUS"))
+    tipus = get_optional_field(record, "TIPUS_ACTE", "TIPUS")
     lloc = clean_text(record.get("NOM_LLOC"))
     adreca = clean_text(record.get("ADREÇA_COMPLETA"))
     url = clean_text(record.get("URL"))
@@ -242,7 +242,7 @@ def normalize_records(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "location": build_location(record),
                 "location_name": clean_text(record.get("NOM_LLOC")),
                 "address": clean_text(record.get("ADREÇA_COMPLETA")),
-                "type": clean_text(record.get("TIPUS")),
+                "type": get_optional_field(record, "TIPUS_ACTE", "TIPUS"),
                 "free": get_optional_field(
                     record,
                     "FREE",

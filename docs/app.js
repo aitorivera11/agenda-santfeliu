@@ -134,7 +134,7 @@ function normalizeRecord(record) {
   const address = normalizeText(record.address || '');
   const type = normalizeType({
     ...record,
-    type: record.type || record.tipus || '',
+    type: record.type || record.tipusActe || record.tipus_acte || record.tipus || '',
   });
   const description = normalizeText(record.description || '');
   const url = normalizeText(record.url || '');
