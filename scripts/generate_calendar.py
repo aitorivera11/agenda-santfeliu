@@ -155,12 +155,20 @@ def build_location(record: dict[str, Any]) -> str:
     return " - ".join(part for part in parts if part)
 
 
+def get_optional_field(record: dict[str, Any], *keys: str) -> str:
+    for key in keys:
+        value = clean_text(record.get(key))
+        if value:
+            return value
+    return ""
+
+
 def build_description(record: dict[str, Any]) -> str:
     pieces: list[str] = []
 
     descripcio = clean_text(record.get("DESCRIPCIO"))
     observacions = clean_text(record.get("OBSERVACIONS"))
-    tipus = clean_text(record.get("TIPUS"))
+    tipus = get_optional_field(record, "TIPUS_ACTE", "TIPUS")
     lloc = clean_text(record.get("NOM_LLOC"))
     adreca = clean_text(record.get("ADREÇA_COMPLETA"))
     url = clean_text(record.get("URL"))
@@ -232,6 +240,24 @@ def normalize_records(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "end": end,
                 "description": build_description(record),
                 "location": build_location(record),
+                "location_name": clean_text(record.get("NOM_LLOC")),
+                "address": clean_text(record.get("ADREÇA_COMPLETA")),
+                "type": get_optional_field(record, "TIPUS_ACTE", "TIPUS"),
+                "free": get_optional_field(
+                    record,
+                    "FREE",
+                    "free",
+                    "GRATUIT",
+                    "GRATUÏT",
+                    "ES_GRATUIT",
+                ),
+                "price": get_optional_field(
+                    record,
+                    "PRICE",
+                    "price",
+                    "PREU",
+                    "IMPORT",
+                ),
                 "url": clean_text(record.get("URL")),
                 "raw": record,
             }
@@ -290,6 +316,11 @@ def save_events_json(events: list[dict[str, Any]], output_file: Path) -> None:
                 "end": item["end"].isoformat(),
                 "description": item["description"],
                 "location": item["location"],
+                "locationName": item["location_name"],
+                "address": item["address"],
+                "type": item["type"],
+                "free": item["free"],
+                "price": item["price"],
                 "url": item["url"],
             }
         )
