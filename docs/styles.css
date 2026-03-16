@@ -207,8 +207,7 @@ button.secondary {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
-  align-items: stretch;
-  grid-auto-rows: 1fr;
+  align-items: start;
 }
 
 .day-title {
@@ -233,9 +232,6 @@ button.secondary {
   box-shadow: var(--shadow);
   padding: 13px;
   margin-bottom: 0;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
 }
 
 .event-top {
@@ -268,7 +264,6 @@ button.secondary {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  min-height: calc(1em * 1.3 * 2);
 }
 
 .event-badges {
@@ -283,8 +278,8 @@ button.secondary {
   align-items: center;
   padding: 4px 9px;
   border-radius: 999px;
-  background: #E2BFA1;
-  color: #000D23;
+  background: #f0f2ff;
+  color: #4338ca;
   font-size: .75rem;
   font-weight: 700;
   letter-spacing: .01em;
@@ -299,7 +294,7 @@ button.secondary {
 }
 
 .event-location {
-  opacity: .82;
+  opacity: .9;
 }
 
 .desc {
@@ -319,8 +314,7 @@ button.secondary {
   display: flex;
   gap: 6px;
   flex-wrap: wrap;
-  margin-top: auto;
-  padding-top: 9px;
+  margin-top: 9px;
 }
 
 .event-actions a,
@@ -331,8 +325,8 @@ button.secondary {
   gap: 6px;
   width: auto;
   text-decoration: none;
-  color: #000D23;
-  background: #E2BFA1;
+  color: #3730a3;
+  background: #eef0ff;
   padding: 7px 10px;
   border-radius: 9px;
   font-weight: 700;
