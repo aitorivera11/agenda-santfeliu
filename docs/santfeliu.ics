@@ -5,52 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Escola de famílies Conviure amb l 'adolescència
-DTSTART;TZID=Europe/Madrid:20260317T173000
-DTEND;TZID=Europe/Madrid:20260317T183000
-DTSTAMP:20260316T153600Z
-UID:santfeliu-3311091@agenda.santfeliu.local
-DESCRIPTION:Presentacions demostracions conferències xerrades...: Escola 
- de famílies Conviure amb l 'adolescència\n\nA les sessions es compartira
- n amb altres famílies experiències inquietuds i reflexions sobre els rep
- tes que comporta l'educació en l'adolescència. Mares i pares amb fills i
-  filles majors de 12 anys. 3a sessió. Cal que els participants hagin part
- icipat de les anteriors. A càrrec de: Talita de Oliveira terapeuta famili
- ar del Servei d'Orientació i acompanyament familiar SOAF de Sant Feliu de
-  Llobregat Inscripcions: Més informació a: soac@santfeliu.cat indicant n
- om i cognom\n\nTipus: Presentacions\, demostracions\, conferències\, xerr
- ades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge 
- de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/
- 3311091
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3311091
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8M: Conferència "Només història de les dones? Noves mirades a l
- es cartes d'Elena Francis"
-DTSTART;TZID=Europe/Madrid:20260317T183000
-DTEND;TZID=Europe/Madrid:20260317T193000
-DTSTAMP:20260316T153600Z
-UID:santfeliu-3307353@agenda.santfeliu.local
-DESCRIPTION:Presentacions demostracions conferències xerrades...: 8M: Con
- ferència "Només història de les dones? Noves mirades a les cartes d'Ele
- na Francis"\n\nConferència a càrrec de la Dra. en Història Núria Mique
- l Magrinyà amb el títol: "Només història de les dones? Noves mirades a
-  les cartes d'Elena Francis". Lloc:Arxiu Comarcal del Baix Llobregat Organ
- ització: Arxiu Comarcal del Baix Llobregat\n\nTipus: Presentacions\, demo
- stracions\, conferències\, xerrades...\nLloc: Arxiu Comarcal del Baix Llo
- bregat (Centre Cívic Mas Lluí)\nAdreça: C. Clementina Arderiu 0023 BX\n
- Enllaç: https://www.santfeliu.cat/esdeveniment/3307353
-LOCATION:Arxiu Comarcal del Baix Llobregat (Centre Cívic Mas Lluí) - C. 
- Clementina Arderiu 0023 BX
-URL:https://www.santfeliu.cat/esdeveniment/3307353
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260318T170000
 DTEND;TZID=Europe/Madrid:20260318T210000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3301790@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -62,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada intergeneracional amb el Consell d'Adolescents
 DTSTART;TZID=Europe/Madrid:20260318T180000
 DTEND;TZID=Europe/Madrid:20260318T183000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3313502@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Trobada intergeneracional amb el 
  Consell d'Adolescents\n\nRecuperem la memòria històrica de Sant Feliu de
@@ -77,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada de clubs de lectura
 DTSTART;TZID=Europe/Madrid:20260318T190000
 DTEND;TZID=Europe/Madrid:20260318T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311093@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Trobada de clubs de lectura\n\nTrobada
   de diversos clubs de lectura: els del dimarts i dimecres de la BMR un de 
@@ -98,7 +56,7 @@ SUMMARY:XV Setmana de la Poesia. INAUGURACIÓ EXPOSICIÓ Antología de una
   vida\, pintures de José Luís Izquierdo García
 DTSTART;TZID=Europe/Madrid:20260318T190000
 DTEND;TZID=Europe/Madrid:20260318T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311432@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. INAUGURACIÓ 
  EXPOSICIÓ Antología de una vida pintures de José Luís Izquierdo Garcí
@@ -115,7 +73,7 @@ SUMMARY:XV Setmana de la Poesia. INAUGURACIÓ EXPOSICIÓ Poesia i fotograf
  ies\, de Roger Romagosa i ADF
 DTSTART;TZID=Europe/Madrid:20260319T000000
 DTEND;TZID=Europe/Madrid:20260329T003000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311435@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. INAUGURACIÓ 
  EXPOSICIÓ Poesia i fotografies de Roger Romagosa i ADF\n\nINAUGURACIÓ EX
@@ -130,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Atletisme Escoles de Sant Feliu
 DTSTART;TZID=Europe/Madrid:20260319T090000
 DTEND;TZID=Europe/Madrid:20260319T123000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311375@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Atletisme Escoles de Sant Feliu
  \n\nTipus: Activitats Esportives\nLloc: Estadi Municipal d'Atletisme\nAdre
@@ -145,7 +103,7 @@ SUMMARY:XV Setmana de la Poesia. INAUGURACIÓ EXPOSICIÓ "Una literatura p
  nes
 DTSTART;TZID=Europe/Madrid:20260319T170000
 DTEND;TZID=Europe/Madrid:20260329T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3313649@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. INAUGURACIÓ 
  EXPOSICIÓ "Una literatura pròpia: dones escriptores" comissariada per l?
@@ -161,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura infantil Safari de Maite Carranza
 DTSTART;TZID=Europe/Madrid:20260319T180000
 DTEND;TZID=Europe/Madrid:20260319T190000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311129@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura infantil Safari de Mai
  te Carranza\n\nEl Dani desperta mort de por als braços d'un gran ximpanz
@@ -183,7 +141,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL / CONCERT "Poesia i Música\, amb
   Mishima
 DTSTART;TZID=Europe/Madrid:20260319T200000
 DTEND;TZID=Europe/Madrid:20260319T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311436@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL / CON
  CERT "Poesia i Música amb Mishima\n\nRECITAL / CONCERT "Poesia i Música 
@@ -198,7 +156,7 @@ SUMMARY:XV Setmana de la poesia - Concert: "La invenció de l'amor" amb Da
  vid Caraben i Mishima
 DTSTART;TZID=Europe/Madrid:20260319T200000
 DTEND;TZID=Europe/Madrid:20260319T213000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312112@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: XV Setmana de la poesia - Conce
  rt: "La invenció de l'amor" amb David Caraben i Mishima\n\nAmb David Cara
@@ -212,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:8M_Taller d'autodefensa feminista
 DTSTART;TZID=Europe/Madrid:20260320T160000
 DTEND;TZID=Europe/Madrid:20260320T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312161@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: 8M_Tall
  er d'autodefensa feminista\n\nDos torns: de 16 a 18 h i de 18.30 a 20 h Ll
@@ -228,7 +186,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL/ CONCERT Nit ContraBaix\, amb Mar
  celo Mercadante i Esteban Barbaria.
 DTSTART;TZID=Europe/Madrid:20260320T203000
 DTEND;TZID=Europe/Madrid:20260320T210000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311325@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL/ CONC
  ERT Nit ContraBaix amb Marcelo Mercadante i Esteban Barbaria.\n\nRECITAL/ 
@@ -242,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat de l'entitat multicultural Antabamba Apurimac
 DTSTART;TZID=Europe/Madrid:20260321T100000
 DTEND;TZID=Europe/Madrid:20260321T210000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3313353@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Activitat de l'entitat multicultural An
  tabamba Apurimac\n\nTipus: Activitats Esportives\nLloc: Pista Esportiva de
@@ -256,7 +214,7 @@ SUMMARY:8M_Activitat formativa i reflexiva sobre el llenguatge androcèntr
  ic
 DTSTART;TZID=Europe/Madrid:20260321T120000
 DTEND;TZID=Europe/Madrid:20260321T130000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312153@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: 8M_Acti
  vitat formativa i reflexiva sobre el llenguatge androcèntric\n\nLloc: Cen
@@ -271,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la Poesia. TAST Vins i poesia\, amb La Mordida
 DTSTART;TZID=Europe/Madrid:20260321T130000
 DTEND;TZID=Europe/Madrid:20260321T133000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311340@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. TAST Vins i p
  oesia amb La Mordida\n\nTAST Vins i poesia amb La Mordida\n\nTipus: Activi
@@ -284,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Gavà Mar
 DTSTART;TZID=Europe/Madrid:20260321T153000
 DTEND;TZID=Europe/Madrid:20260321T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3267351@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Gavà Mar\n\nTipus: Competició esportiva\nLloc: Camp de Futbol M
@@ -297,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Balls amb música enllaunada
 DTSTART;TZID=Europe/Madrid:20260321T170000
 DTEND;TZID=Europe/Madrid:20260321T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3307612@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Balls amb música enllaunada\n\nTipus: Balls\, d
  anses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 004
@@ -310,7 +268,7 @@ SUMMARY:XV Setmana de la Poesia. CONCERT: Elegia\, amb Laura Garriga (Els
  Pagesos)
 DTSTART;TZID=Europe/Madrid:20260321T180000
 DTEND;TZID=Europe/Madrid:20260321T183000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311345@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. CONCERT: Eleg
  ia amb Laura Garriga (Els Pagesos)\n\nCONCERT: Elegia amb Laura Garriga (E
@@ -325,7 +283,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL/CONCERT: Només mor el que s'amag
  a\, amb Adrià Pagés
 DTSTART;TZID=Europe/Madrid:20260321T200000
 DTEND;TZID=Europe/Madrid:20260321T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311438@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL/CONCE
  RT: Només mor el que s'amaga amb Adrià Pagés\n\nRECITAL/CONCERT: Només
@@ -339,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:XII Torneig d'Handbol Demanoenmano
 DTSTART;TZID=Europe/Madrid:20260322T090000
 DTEND;TZID=Europe/Madrid:20260322T171500
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3302297@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: XII Torneig d'Handbol Demanoenmano\n\nO
  rganitza: Fundació Demanoenmano i Club Handbol Sant Llorenç\n\nTipus: Ac
@@ -354,7 +312,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL: Glossa poètica\, amb Glossa Cà
  ustica
 DTSTART;TZID=Europe/Madrid:20260322T123000
 DTEND;TZID=Europe/Madrid:20260322T130000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311368@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL: Glos
  sa poètica amb Glossa Càustica\n\nRECITAL: Glossa poètica amb Glossa C
@@ -367,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Ball amb música en DIRECTE
 DTSTART;TZID=Europe/Madrid:20260322T170000
 DTEND;TZID=Europe/Madrid:20260322T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3307616@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Ball amb música en DIRECTE\n\nTipus: Balls\, da
  nses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045
@@ -381,7 +339,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL/ CONCERT: Lliurament del 51è Pre
  r 685 i Clara Segura
 DTSTART;TZID=Europe/Madrid:20260322T183000
 DTEND;TZID=Europe/Madrid:20260322T190000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311374@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL/ CONC
  ERT: Lliurament del 51è Premi Martí Dot + L'endemà amb Marta Rius amb l
@@ -398,7 +356,7 @@ SUMMARY:XV Setmana de la poesia - Recital/concert: Lliurament del 51è Pre
  mi Martí Dot + L'endemà
 DTSTART;TZID=Europe/Madrid:20260322T183000
 DTEND;TZID=Europe/Madrid:20260322T193000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312132@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la poesia - Recital/conc
  ert: Lliurament del 51è Premi Martí Dot + L'endemà\n\nAmb Marta Rius i 
@@ -412,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Puntual
 DTSTART;TZID=Europe/Madrid:20260323T090000
 DTEND;TZID=Europe/Madrid:20260323T140000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3270171@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual\n\nActi
  vitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau F
@@ -426,7 +384,7 @@ SUMMARY:Escola de famílies Entendre les dificultats de l¿aprenentatge. P
  resentació del llibre ¿Tres històries sorprenents. Primera part¿
 DTSTART;TZID=Europe/Madrid:20260323T173000
 DTEND;TZID=Europe/Madrid:20260323T183000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311111@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Escola 
  de famílies Entendre les dificultats de l¿aprenentatge. Presentació del
@@ -452,7 +410,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL: Poesia del món en versió origi
  nal
 DTSTART;TZID=Europe/Madrid:20260323T193000
 DTEND;TZID=Europe/Madrid:20260323T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311440@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL: Poes
  ia del món en versió original\n\nRECITAL: Poesia del món en versió ori
@@ -466,7 +424,7 @@ SUMMARY:XV Setmana de la poesia - Recital: "Poesia del món en versió ori
  ginal"
 DTSTART;TZID=Europe/Madrid:20260323T193000
 DTEND;TZID=Europe/Madrid:20260323T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312135@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la poesia - Recital: "Po
  esia del món en versió original"\n\n.\n\nTipus: Activitats Literàries\n
@@ -479,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Puntual
 DTSTART;TZID=Europe/Madrid:20260324T090000
 DTEND;TZID=Europe/Madrid:20260324T140000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3270172@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual\n\nActi
  vitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau F
@@ -493,7 +451,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Sant Ildefons (A)
 DTSTART;TZID=Europe/Madrid:20260324T100000
 DTEND;TZID=Europe/Madrid:20260324T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304618@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Sant Ildefons (A)\n\nTipus: Competició esp
@@ -507,7 +465,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Ciutat Cooperativa
 DTSTART;TZID=Europe/Madrid:20260324T100000
 DTEND;TZID=Europe/Madrid:20260324T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304592@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Ciutat Cooperativa\n\nTipus: Competició es
@@ -520,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Limonov d'Emmanuel Carrère
 DTSTART;TZID=Europe/Madrid:20260324T190000
 DTEND;TZID=Europe/Madrid:20260324T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311133@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Limonov d'
  Emmanuel Carrère\n\nAquesta novel·la biogràfica o biografia novel·lada
@@ -543,7 +501,7 @@ SUMMARY:XV Setmana de la Poesia. PRESENTACIÓ: Com l'oculta flor d'un cact
  us\, poemari de Gemma Casamajor
 DTSTART;TZID=Europe/Madrid:20260324T190000
 DTEND;TZID=Europe/Madrid:20260324T193000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311377@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. PRESENTACIÓ:
   Com l'oculta flor d'un cactus poemari de Gemma Casamajor\n\nPRESENTACIÓ:
@@ -558,7 +516,7 @@ SUMMARY:XV Setmana de la Poesia. CONCERT/ RECITAL: Trash poetry\, amb Quim
   Armengol i La Mordida
 DTSTART;TZID=Europe/Madrid:20260324T200000
 DTEND;TZID=Europe/Madrid:20260324T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311378@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. CONCERT/ RECI
  TAL: Trash poetry amb Quim Armengol i La Mordida\n\nCONCERT/ RECITAL: Tras
@@ -572,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Local de Jocs Populars de 3r Primària
 DTSTART;TZID=Europe/Madrid:20260325T090000
 DTEND;TZID=Europe/Madrid:20260325T123000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3309523@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Local de Jocs Populars de 3r Pr
  imària\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal Le
@@ -585,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmama de la Poesia
 DTSTART;TZID=Europe/Madrid:20260325T200000
 DTEND;TZID=Europe/Madrid:20260325T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311379@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmama de la Poesia\n\nDIALEG POÈ
  TIC: Del poema a la cançó amb Alfred Garcia i David Castillo\n\nTipus: A
@@ -598,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Local de Jocs Populars de 3r Primària
 DTSTART;TZID=Europe/Madrid:20260326T090000
 DTEND;TZID=Europe/Madrid:20260326T123000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3309524@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Local de Jocs Populars de 3r Pr
  imària\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal Le
@@ -612,7 +570,7 @@ SUMMARY:XV Setmana de la Poesia. PRESENTACIÓ Mares migrants\, poemari de
  Fátima Saheb
 DTSTART;TZID=Europe/Madrid:20260326T190000
 DTEND;TZID=Europe/Madrid:20260326T193000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311497@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. PRESENTACIÓ 
  Mares migrants poemari de Fátima Saheb\n\nPRESENTACIÓ Mares migrants poe
@@ -626,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la Poesia. CONCERT Al Ghorba\, amb Rachid B
 DTSTART;TZID=Europe/Madrid:20260326T200000
 DTEND;TZID=Europe/Madrid:20260326T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311443@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. CONCERT Al Gh
  orba amb Rachid B\n\nCONCERT Al Ghorba amb Rachid B\n\nTipus: Activitats L
@@ -640,7 +598,7 @@ SUMMARY:XV Setmana de la Poesia. Espai poètic amb Marta Pérez Sierra\, L
  luís Fernández i el grup de Lectures en Veu Alta
 DTSTART;TZID=Europe/Madrid:20260327T190000
 DTEND;TZID=Europe/Madrid:20260327T193000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311381@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. Espai poètic
   amb Marta Pérez Sierra Lluís Fernández i el grup de Lectures en Veu Al
@@ -656,7 +614,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL/ CONCERT: Nit Atensa\, amb Marc P
  ujol i Oriol Sauleda
 DTSTART;TZID=Europe/Madrid:20260327T220000
 DTEND;TZID=Europe/Madrid:20260327T223000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311382@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL/ CONC
  ERT: Nit Atensa amb Marc Pujol i Oriol Sauleda\n\nRECITAL/ CONCERT: Nit At
@@ -670,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la poesia - Recital/concert: "Nit Atensa't"
 DTSTART;TZID=Europe/Madrid:20260327T220000
 DTEND;TZID=Europe/Madrid:20260327T230000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312152@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la poesia - Recital/conc
  ert: "Nit Atensa't"\n\nAmb Mar Pujol + Capa Negra\n\nTipus: Activitats Lit
@@ -683,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Hora del conte Contes en clau de sol
 DTSTART;TZID=Europe/Madrid:20260328T120000
 DTEND;TZID=Europe/Madrid:20260328T130000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311116@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Hora del conte Contes en clau de sol\n
  \nDos pobles separats per la gran Muntanya del Pentagrama. En Pere Musique
@@ -701,7 +659,7 @@ SUMMARY:XV Setmana de la Poesia. TITELLES: Petit poemari animat\, amb Víc
  tor Abadía
 DTSTART;TZID=Europe/Madrid:20260328T120000
 DTEND;TZID=Europe/Madrid:20260328T123000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311387@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. TITELLES: Pet
  it poemari animat amb Víctor Abadía\n\nTITELLES: Petit poemari animat am
@@ -716,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la poesia - Titelles: "Petit poemari animat"
 DTSTART;TZID=Europe/Madrid:20260328T120000
 DTEND;TZID=Europe/Madrid:20260328T130000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312154@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la poesia - Titelles: "P
  etit poemari animat"\n\nAmb Victor Abadía\n\nTipus: Activitats Literàrie
@@ -729,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la Poesia. Lloc esdeveniment: LA TETERIA
 DTSTART;TZID=Europe/Madrid:20260328T123000
 DTEND;TZID=Europe/Madrid:20260328T130000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311419@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. Lloc esdeveni
  ment: LA TETERIA\n\nRECITAL: Improvisació poètica amb Núria Martínez V
@@ -743,7 +701,7 @@ SUMMARY:XV Setmana de la Poesia. RECITAL: Vermut musical\, amb Iñaki Naza
  bal/ a El Parlament
 DTSTART;TZID=Europe/Madrid:20260328T133000
 DTEND;TZID=Europe/Madrid:20260328T140000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311420@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL: Verm
  ut musical amb Iñaki Nazabal/ a El Parlament\n\nRECITAL: Vermut musical a
@@ -757,7 +715,7 @@ SUMMARY:XV Setmana de la Poesia.RECITAL/ CONCERT: La belleza se sirve crud
  a\, amb Ruth Vicente + Andrea Buenavista
 DTSTART;TZID=Europe/Madrid:20260328T180000
 DTEND;TZID=Europe/Madrid:20260328T183000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311425@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia.RECITAL/ CONCE
  RT: La belleza se sirve cruda amb Ruth Vicente + Andrea Buenavista\n\nRECI
@@ -772,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la Poesia. RECITAL: Llobregat Slam Poetry.
 DTSTART;TZID=Europe/Madrid:20260328T200000
 DTEND;TZID=Europe/Madrid:20260328T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311426@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. RECITAL: Llob
  regat Slam Poetry.\n\nRECITAL: Llobregat Slam Poetry.\n\nTipus: Activitats
@@ -785,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:XV Setmana de la Poesia
 DTSTART;TZID=Europe/Madrid:20260328T233000
 DTEND;TZID=Europe/Madrid:20260329T000000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311427@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia\n\nRECITAL/ CO
  NCERT: Alex Madueño + Vania\n\nTipus: Activitats Literàries\nAdreça: Ct
@@ -799,7 +757,7 @@ SUMMARY:XV Setmana de la poesia - Cercavila poètica: passejada pels carre
  rs de Sant Feliu
 DTSTART;TZID=Europe/Madrid:20260329T123000
 DTEND;TZID=Europe/Madrid:20260329T133000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3312158@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la poesia - Cercavila po
  ètica: passejada pels carrers de Sant Feliu\n\nPassejada poètica pels ca
@@ -815,7 +773,7 @@ SUMMARY:XV Setmana de la Poesia. INAUGURACIÓ EXPOSICIÓ Una literatura pr
  s
 DTSTART;TZID=Europe/Madrid:20260329T170000
 DTEND;TZID=Europe/Madrid:20260329T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311434@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: XV Setmana de la Poesia. INAUGURACIÓ 
  EXPOSICIÓ Una literatura pròpia: dones escriptores comissariada per l'In
@@ -831,7 +789,7 @@ SUMMARY:Rondes de lectura Fetilleria per a noies esgarriades de Gary Hendr
  ix
 DTSTART;TZID=Europe/Madrid:20260330T190000
 DTEND;TZID=Europe/Madrid:20260330T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311134@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectura Fetilleria per a noi
  es esgarriades de Gary Hendrix\n\nLa Fern té quinze anys quan arriba a la
@@ -855,7 +813,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Incresa
 DTSTART;TZID=Europe/Madrid:20260331T100000
 DTEND;TZID=Europe/Madrid:20260331T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304594@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Incresa\n\nTipus: Competició esportiva\nLl
@@ -869,7 +827,7 @@ SUMMARY:Dimartsalut. Xerrada-taller. Com cuidem la nostra microbiota amb l
  'alimentació?
 DTSTART;TZID=Europe/Madrid:20260331T180000
 DTEND;TZID=Europe/Madrid:20260331T193000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3308414@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Dimarts
  alut. Xerrada-taller. Com cuidem la nostra microbiota amb l'alimentació?\
@@ -886,7 +844,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Unión Casablanca (A)
 DTSTART;TZID=Europe/Madrid:20260407T100000
 DTEND;TZID=Europe/Madrid:20260407T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304620@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Unión Casablanca (A)\n\nTipus: Competició
@@ -899,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Comarcal de Jocs Populars
 DTSTART;TZID=Europe/Madrid:20260408T090000
 DTEND;TZID=Europe/Madrid:20260408T123000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3309527@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Comarcal de Jocs Populars\n\nTi
  pus: Activitats Esportives\nLloc: Camp de Futbol Municipal Les Grases\nAdr
@@ -913,7 +871,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Sant Joan Despí (A)
 DTSTART;TZID=Europe/Madrid:20260409T100000
 DTEND;TZID=Europe/Madrid:20260409T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304621@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Sant Joan Despí (A)\n\nTipus: Competició 
@@ -927,7 +885,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Cervelló
 DTSTART;TZID=Europe/Madrid:20260409T100000
 DTEND;TZID=Europe/Madrid:20260409T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304599@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Cervelló\n\nTipus: Competició esportiva\n
@@ -940,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de plasma
 DTSTART;TZID=Europe/Madrid:20260410T163000
 DTEND;TZID=Europe/Madrid:20260410T203000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3301791@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc
  : Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://w
@@ -949,10 +907,26 @@ LOCATION:Centre Cívic Mas Lluí - C. Estelí 0010 BX
 URL:https://www.santfeliu.cat/esdeveniment/3301791
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inauguració exposició "La Segona República i el municipalisme"
+DTSTART;TZID=Europe/Madrid:20260410T180000
+DTEND;TZID=Europe/Madrid:20260410T193000
+DTSTAMP:20260317T053623Z
+UID:santfeliu-3315833@agenda.santfeliu.local
+DESCRIPTION:Inauguracions homenatges aniversaris: Inauguració exposició 
+ "La Segona República i el municipalisme"\n\nExposició organitzada per la
+  Diputació de Barcelona amb la col·laboració de l'Ajuntament de Sant Fe
+ liu de Llobregat. Oberta fins el 3 de maig de dijous a dissabtes de 18 a 2
+ 0 h diumenges i festius d¿11 a 14 h.\n\nTipus: Inauguracions\, homenatges
+ \, aniversaris\nLloc: Palau Falguera - Sala d'exposicions\nAdreça: C. Fal
+ guera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3315833
+LOCATION:Palau Falguera - Sala d'exposicions - C. Falguera 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3315833
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Kubalas
 DTSTART;TZID=Europe/Madrid:20260411T153000
 DTEND;TZID=Europe/Madrid:20260411T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3267352@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Kubalas\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Mun
@@ -965,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:Bàsquet cadira de rodes Sènior Masculí Barça UNES - CB Mollet
 DTSTART;TZID=Europe/Madrid:20260418T160000
 DTEND;TZID=Europe/Madrid:20260418T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3289878@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet cadira de rodes Sènior Mascul
  í Barça UNES - CB Mollet\n\nLliga catalana\n\nTipus: Competició esporti
@@ -980,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Local de Jocs Cooperatius 1r Primària
 DTSTART;TZID=Europe/Madrid:20260421T090000
 DTEND;TZID=Europe/Madrid:20260421T123000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3309528@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Local de Jocs Cooperatius 1r Pr
  imària\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal Le
@@ -994,7 +968,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Barri Centre
 DTSTART;TZID=Europe/Madrid:20260421T100000
 DTEND;TZID=Europe/Madrid:20260421T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304622@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Barri Centre\n\nTipus: Competició esportiv
@@ -1008,7 +982,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Molins de Rei
 DTSTART;TZID=Europe/Madrid:20260421T100000
 DTEND;TZID=Europe/Madrid:20260421T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304602@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Molins de Rei\n\nTipus: Competició esporti
@@ -1021,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260422T170000
 DTEND;TZID=Europe/Madrid:20260422T210000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3301796@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -1034,7 +1008,7 @@ SUMMARY:Bàsquet cadira de rodes Sènior Masculí Barça UNES - CE Costa D
  aurada
 DTSTART;TZID=Europe/Madrid:20260423T160000
 DTEND;TZID=Europe/Madrid:20260423T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3289880@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet cadira de rodes Sènior Mascul
  í Barça UNES - CE Costa Daurada\n\nLliga catalana - PENDENT CONFIRMAR\n\
@@ -1050,20 +1024,20 @@ SUMMARY:Festa del Voluntariat per la llengua amb l'actuació de Glosa càu
  stica
 DTSTART;TZID=Europe/Madrid:20260424T190000
 DTEND;TZID=Europe/Madrid:20260424T210000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3311055@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Festa del Voluntariat per la ll
  engua amb l'actuació de Glosa càustica\n\nTipus: Concerts i audicions mu
- sicals\nLloc: Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEn
- llaç: https://www.santfeliu.cat/esdeveniment/3311055
-LOCATION:Centre Cívic Les Tovalloles - Ra. Salut 0007 BX
+ sicals\nLloc: Centre Cívic Les Tovalloles - Sala d'actes\nAdreça: Ra. Sa
+ lut 0007 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3311055
+LOCATION:Centre Cívic Les Tovalloles - Sala d'actes - Ra. Salut 0007 BX
 URL:https://www.santfeliu.cat/esdeveniment/3311055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jornada Comarcal de Gimnàstica Rítmica de conjunts Escolar
 DTSTART;TZID=Europe/Madrid:20260425T090000
 DTEND;TZID=Europe/Madrid:20260425T143000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3288619@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Jornada Comarcal de Gimnàstica Rítmic
  a de conjunts Escolar\n\nTipus: Activitats Esportives\nLloc: Palau Municip
@@ -1077,7 +1051,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Esparreguera
 DTSTART;TZID=Europe/Madrid:20260425T153000
 DTEND;TZID=Europe/Madrid:20260425T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3267357@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Esparreguera\n\nTipus: Competició esportiva\nLloc: Camp de Futbo
@@ -1091,7 +1065,7 @@ SUMMARY:Bàsquet cadira de rodes Sènior Masculí Barça UNES - CB Granoll
  ers
 DTSTART;TZID=Europe/Madrid:20260425T160000
 DTEND;TZID=Europe/Madrid:20260425T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3289879@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet cadira de rodes Sènior Mascul
  í Barça UNES - CB Granollers\n\nLliga catalana\n\nTipus: Competició esp
@@ -1106,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:CONSELL MUNICIPAL DE DONES
 DTSTART;TZID=Europe/Madrid:20260428T180000
 DTEND;TZID=Europe/Madrid:20260428T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3315435@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: CONSELL MUNICIPAL DE DONES\n\nTip
  us: Reunions i debats ciutadans\nLloc: Ajuntament - 01 - Sala de Plens\nAd
@@ -1119,7 +1093,7 @@ BEGIN:VEVENT
 SUMMARY:Conferència "Què puc fer jo pel català?"
 DTSTART;TZID=Europe/Madrid:20260428T183000
 DTEND;TZID=Europe/Madrid:20260428T200000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3315452@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Confer
  ència "Què puc fer jo pel català?"\n\nA càrrec Marc Piera director del
@@ -1135,7 +1109,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Sant Joan Despí (B)
 DTSTART;TZID=Europe/Madrid:20260507T100000
 DTEND;TZID=Europe/Madrid:20260507T120000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3304605@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Sant Joan Despí (B)\n\nTipus: Competició 
@@ -1145,10 +1119,22 @@ LOCATION:Pistes de petanca Parc del Llobregat - C. Sant Josep 0097
 URL:https://www.santfeliu.cat/esdeveniment/3304605
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Espai Institucional
+DTSTART;TZID=Europe/Madrid:20260508T180000
+DTEND;TZID=Europe/Madrid:20260508T200000
+DTSTAMP:20260317T053623Z
+UID:santfeliu-3315726@agenda.santfeliu.local
+DESCRIPTION:Festes de primavera: Espai Institucional\n\nTipus: Festes de p
+ rimavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEn
+ llaç: https://www.santfeliu.cat/esdeveniment/3315726
+LOCATION:La Nau de Can Bertrand - C. Anselm Clavé 0011
+URL:https://www.santfeliu.cat/esdeveniment/3315726
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Pueblo Nuevo 2002
 DTSTART;TZID=Europe/Madrid:20260509T153000
 DTEND;TZID=Europe/Madrid:20260509T173000
-DTSTAMP:20260316T153600Z
+DTSTAMP:20260317T053623Z
 UID:santfeliu-3267353@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Pueblo Nuevo 2002\n\nTipus: Competició esportiva\nLloc: Camp de 
