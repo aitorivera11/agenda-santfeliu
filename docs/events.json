@@ -1,33 +1,5 @@
 [
   {
-    "id": "santfeliu-3309523@agenda.santfeliu.local",
-    "title": "Trobada Local de Jocs Populars de 3r Primària",
-    "start": "2026-03-25T09:00:00+01:00",
-    "end": "2026-03-25T12:30:00+01:00",
-    "description": "Activitats Esportives: Trobada Local de Jocs Populars de 3r Primària\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3309523",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Activitats Esportives",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3309523"
-  },
-  {
-    "id": "santfeliu-3311379@agenda.santfeliu.local",
-    "title": "XV Setmama de la Poesia",
-    "start": "2026-03-25T20:00:00+01:00",
-    "end": "2026-03-25T20:30:00+01:00",
-    "description": "Activitats Literàries: XV Setmama de la Poesia\n\nDIALEG POÈTIC: Del poema a la cançó amb Alfred Garcia i David Castillo\n\nTipus: Activitats Literàries\nLloc: Sala de concerts Els Pagesos\nAdreça: C. Pi i Margall 0010 LC\nEnllaç: https://www.santfeliu.cat/esdeveniment/3311379",
-    "location": "Sala de concerts Els Pagesos - C. Pi i Margall 0010 LC",
-    "locationName": "Sala de concerts Els Pagesos",
-    "address": "C. Pi i Margall 0010 LC",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3311379"
-  },
-  {
     "id": "santfeliu-3309524@agenda.santfeliu.local",
     "title": "Trobada Local de Jocs Populars de 3r Primària",
     "start": "2026-03-26T09:00:00+01:00",
@@ -126,6 +98,104 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3312152"
   },
   {
+    "id": "santfeliu-3317836@agenda.santfeliu.local",
+    "title": "Bàsquet Premini Masculí CB Santfeliuenc - UB Sant Adrià (Vermell)",
+    "start": "2026-03-28T08:45:00+01:00",
+    "end": "2026-03-28T10:15:00+01:00",
+    "description": "Competició esportiva: Bàsquet Premini Masculí CB Santfeliuenc - UB Sant Adrià (Vermell)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317836",
+    "location": "Pavelló Escolar Esportiu Escola Nadal - C. Eugeni d'Ors 0003 A BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Nadal",
+    "address": "C. Eugeni d'Ors 0003 A BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317836"
+  },
+  {
+    "id": "santfeliu-3317841@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Femení CB Santfeliuenc - CBF Manresa",
+    "start": "2026-03-28T10:00:00+01:00",
+    "end": "2026-03-28T11:30:00+01:00",
+    "description": "Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc - CBF Manresa\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317841",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317841"
+  },
+  {
+    "id": "santfeliu-3317837@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Masculí CB Santfeliuenc - Lima Horta Barcelona",
+    "start": "2026-03-28T10:15:00+01:00",
+    "end": "2026-03-28T11:45:00+01:00",
+    "description": "Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc - Lima Horta Barcelona\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317837",
+    "location": "Pavelló Escolar Esportiu Escola Nadal - C. Eugeni d'Ors 0003 A BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Nadal",
+    "address": "C. Eugeni d'Ors 0003 A BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317837"
+  },
+  {
+    "id": "santfeliu-3317874@agenda.santfeliu.local",
+    "title": "Futbol sala Cadet Masculí Futsal SF (A) - CFS Sant Andreu de la Barca (B)",
+    "start": "2026-03-28T10:20:00+01:00",
+    "end": "2026-03-28T11:40:00+01:00",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (A) - CFS Sant Andreu de la Barca (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317874",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317874"
+  },
+  {
+    "id": "santfeliu-3317871@agenda.santfeliu.local",
+    "title": "Futbol sala Infantil Masculí Futsal SF (B) - CCR Castelldefels (A)",
+    "start": "2026-03-28T11:40:00+01:00",
+    "end": "2026-03-28T12:55:00+01:00",
+    "description": "Competició esportiva: Futbol sala Infantil Masculí Futsal SF (B) - CCR Castelldefels (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317871",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317871"
+  },
+  {
+    "id": "santfeliu-3317842@agenda.santfeliu.local",
+    "title": "Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - Bàsquet Ribes (B)",
+    "start": "2026-03-28T11:45:00+01:00",
+    "end": "2026-03-28T13:15:00+01:00",
+    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - Bàsquet Ribes (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317842",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317842"
+  },
+  {
+    "id": "santfeliu-3317838@agenda.santfeliu.local",
+    "title": "Bàsquet Mini Femení CB Santfeliuenc - CBF Manresa",
+    "start": "2026-03-28T11:45:00+01:00",
+    "end": "2026-03-28T13:15:00+01:00",
+    "description": "Competició esportiva: Bàsquet Mini Femení CB Santfeliuenc - CBF Manresa\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317838",
+    "location": "Pavelló Escolar Esportiu Escola Nadal - C. Eugeni d'Ors 0003 A BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Nadal",
+    "address": "C. Eugeni d'Ors 0003 A BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317838"
+  },
+  {
     "id": "santfeliu-3311116@agenda.santfeliu.local",
     "title": "Hora del conte Contes en clau de sol",
     "start": "2026-03-28T12:00:00+01:00",
@@ -168,6 +238,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3311419"
   },
   {
+    "id": "santfeliu-3317864@agenda.santfeliu.local",
+    "title": "Futbol sala Aleví Masculí Futsal SF (A) - CFS Cornellà (A)",
+    "start": "2026-03-28T13:00:00+01:00",
+    "end": "2026-03-28T14:15:00+01:00",
+    "description": "Competició esportiva: Futbol sala Aleví Masculí Futsal SF (A) - CFS Cornellà (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317864",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317864"
+  },
+  {
+    "id": "santfeliu-3317845@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Femení CB Santfeliuenc - CE Sant Nicolau",
+    "start": "2026-03-28T13:30:00+01:00",
+    "end": "2026-03-28T15:00:00+01:00",
+    "description": "Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc - CE Sant Nicolau\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317845",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317845"
+  },
+  {
     "id": "santfeliu-3311420@agenda.santfeliu.local",
     "title": "XV Setmana de la Poesia. RECITAL: Vermut musical, amb Iñaki Nazabal/ a El Parlament",
     "start": "2026-03-28T13:30:00+01:00",
@@ -182,6 +280,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3311420"
   },
   {
+    "id": "santfeliu-3317848@agenda.santfeliu.local",
+    "title": "Bàsquet Júnior Femení CB Santfeliuenc - Sabadell BQ Vallès",
+    "start": "2026-03-28T16:00:00+01:00",
+    "end": "2026-03-28T17:30:00+01:00",
+    "description": "Competició esportiva: Bàsquet Júnior Femení CB Santfeliuenc - Sabadell BQ Vallès\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317848",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317848"
+  },
+  {
+    "id": "santfeliu-3317867@agenda.santfeliu.local",
+    "title": "Futbol sala Infantil Masculí Futsal SF (A) - FS Castelldefels (A)",
+    "start": "2026-03-28T17:20:00+01:00",
+    "end": "2026-03-28T18:40:00+01:00",
+    "description": "Competició esportiva: Futbol sala Infantil Masculí Futsal SF (A) - FS Castelldefels (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317867",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317867"
+  },
+  {
     "id": "santfeliu-3311425@agenda.santfeliu.local",
     "title": "XV Setmana de la Poesia.RECITAL/ CONCERT: La belleza se sirve cruda, amb Ruth Vicente + Andrea Buenavista",
     "start": "2026-03-28T18:00:00+01:00",
@@ -194,6 +320,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3311425"
+  },
+  {
+    "id": "santfeliu-3317876@agenda.santfeliu.local",
+    "title": "Futbol sala Cadet Masculí Futsal SF (C) - CCR Gavà (B)",
+    "start": "2026-03-28T18:40:00+01:00",
+    "end": "2026-03-28T19:55:00+01:00",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (C) - CCR Gavà (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317876",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317876"
   },
   {
     "id": "santfeliu-3311426@agenda.santfeliu.local",
@@ -224,6 +364,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3311427"
   },
   {
+    "id": "santfeliu-3317852@agenda.santfeliu.local",
+    "title": "Bàsquet Infantil Masculí CB Santfeliuenc - Bàsquet Manresa (A)",
+    "start": "2026-03-29T10:30:00+02:00",
+    "end": "2026-03-29T12:00:00+02:00",
+    "description": "Competició esportiva: Bàsquet Infantil Masculí CB Santfeliuenc - Bàsquet Manresa (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317852",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317852"
+  },
+  {
+    "id": "santfeliu-3317856@agenda.santfeliu.local",
+    "title": "Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - Creu Alta Sabadell (Blau)",
+    "start": "2026-03-29T12:15:00+02:00",
+    "end": "2026-03-29T13:45:00+02:00",
+    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - Creu Alta Sabadell (Blau)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317856",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317856"
+  },
+  {
     "id": "santfeliu-3312158@agenda.santfeliu.local",
     "title": "XV Setmana de la poesia - Cercavila poètica: passejada pels carrers de Sant Feliu",
     "start": "2026-03-29T12:30:00+02:00",
@@ -238,6 +406,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3312158"
   },
   {
+    "id": "santfeliu-3317858@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Femení CB Santfeliuenc - CB Granollers",
+    "start": "2026-03-29T17:00:00+02:00",
+    "end": "2026-03-29T18:30:00+02:00",
+    "description": "Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc - CB Granollers\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317858",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317858"
+  },
+  {
     "id": "santfeliu-3311434@agenda.santfeliu.local",
     "title": "XV Setmana de la Poesia. INAUGURACIÓ EXPOSICIÓ Una literatura pròpia: dones escriptores, comissariada per l'Institut Català de les Dones",
     "start": "2026-03-29T17:00:00+02:00",
@@ -250,6 +432,48 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3311434"
+  },
+  {
+    "id": "santfeliu-3317879@agenda.santfeliu.local",
+    "title": "Futbol sala Cadet Masculí Futsal SF (B) - FS Castelldefels (D)",
+    "start": "2026-03-29T17:20:00+02:00",
+    "end": "2026-03-29T18:40:00+02:00",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (B) - FS Castelldefels (D)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317879",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317879"
+  },
+  {
+    "id": "santfeliu-3317884@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Masculí Futsal SF (A) - CFS Cornellà (A)",
+    "start": "2026-03-29T18:40:00+02:00",
+    "end": "2026-03-29T19:55:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Masculí Futsal SF (A) - CFS Cornellà (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317884",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317884"
+  },
+  {
+    "id": "santfeliu-3317859@agenda.santfeliu.local",
+    "title": "Bàsquet Júnior Femení CB Santfeliuenc - Joventut Badalona (A)",
+    "start": "2026-03-29T19:00:00+02:00",
+    "end": "2026-03-29T20:30:00+02:00",
+    "description": "Competició esportiva: Bàsquet Júnior Femení CB Santfeliuenc - Joventut Badalona (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317859",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317859"
   },
   {
     "id": "santfeliu-3311134@agenda.santfeliu.local",
@@ -462,6 +686,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3267352"
   },
   {
+    "id": "santfeliu-3317323@agenda.santfeliu.local",
+    "title": "Cantada de Caramelles",
+    "start": "2026-04-12T13:30:00+02:00",
+    "end": "2026-04-12T14:30:00+02:00",
+    "description": "Concerts i audicions musicals: Cantada de Caramelles\n\nLloc: Sala Ibèria\n\nTipus: Concerts i audicions musicals\nLloc: Sala Ibèria\nAdreça: C. Pi i Margall 0021\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317323",
+    "location": "Sala Ibèria - C. Pi i Margall 0021",
+    "locationName": "Sala Ibèria",
+    "address": "C. Pi i Margall 0021",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317323"
+  },
+  {
     "id": "santfeliu-3316974@agenda.santfeliu.local",
     "title": "Escola de Salut",
     "start": "2026-04-13T18:00:00+02:00",
@@ -628,6 +866,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3301796"
+  },
+  {
+    "id": "santfeliu-3317890@agenda.santfeliu.local",
+    "title": "Sant Jordi: parades de roses i llibres, artesania i autors i autores locals",
+    "start": "2026-04-23T10:00:00+02:00",
+    "end": "2026-04-23T21:00:00+02:00",
+    "description": "Diada: Sant Jordi: parades de roses i llibres artesania i autors i autores locals\n\nParades de roses i llibres artesania i autors i autores locals\n\nTipus: Diada\nAdreça: Pl. Vila\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317890",
+    "location": "Pl. Vila",
+    "locationName": "",
+    "address": "Pl. Vila",
+    "type": "Diada",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317890"
   },
   {
     "id": "santfeliu-3289880@agenda.santfeliu.local",
@@ -824,6 +1076,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3317720"
+  },
+  {
+    "id": "santfeliu-3317730@agenda.santfeliu.local",
+    "title": "Lliurament dels premis dels concursos de l'Exposició Nacional de Roses i guardons de participació en la mostra de façanes amb roses i jardins en miniatura.",
+    "start": "2026-05-09T13:00:00+02:00",
+    "end": "2026-05-09T14:00:00+02:00",
+    "description": "Festes de primavera: Lliurament dels premis dels concursos de l'Exposició Nacional de Roses i guardons de participació en la mostra de façanes amb roses i jardins en miniatura.\n\nTipus: Festes de primavera\nLloc: Ajuntament - 01 - Sala de Plens\nAdreça: Pl. Vila 0001\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317730",
+    "location": "Ajuntament - 01 - Sala de Plens - Pl. Vila 0001",
+    "locationName": "Ajuntament - 01 - Sala de Plens",
+    "address": "Pl. Vila 0001",
+    "type": "Festes de primavera",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3317730"
   },
   {
     "id": "santfeliu-3267353@agenda.santfeliu.local",
