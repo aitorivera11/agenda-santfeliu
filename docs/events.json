@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3311134@agenda.santfeliu.local",
-    "title": "Rondes de lectura Fetilleria per a noies esgarriades de Gary Hendrix",
-    "start": "2026-03-30T19:00:00+02:00",
-    "end": "2026-03-30T20:00:00+02:00",
-    "description": "Activitats Literàries: Rondes de lectura Fetilleria per a noies esgarriades de Gary Hendrix\n\nLa Fern té quinze anys quan arriba a la casa embarassada aterrida completament sola. La senyora Wellwood la directora li presenta a altres noies que es troben en la seva mateixa situació: la Rose que insisteix que trobarà la manera de fugir la Zinnia que està convençuda que el pare del seu fill li demanarà matrimoni i la Holly una nena de catorze anys que amb prou feines parla. Tot el que les nenes mengen tot el que fan cada segon de cada dia fins i tot els temes dels quals parlen ho controlen uns adults convençuts de saber el que és millor per a elles. A càrrec de: Salvador Grifell Inscripcions: Activitat amb inscripció. Places lliures\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3311134",
-    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3311134"
-  },
-  {
     "id": "santfeliu-3304594@agenda.santfeliu.local",
     "title": "Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Petanca Incresa",
     "start": "2026-03-31T10:00:00+02:00",
@@ -782,5 +768,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270187"
+  },
+  {
+    "id": "santfeliu-3270188@agenda.santfeliu.local",
+    "title": "Activitat EMM - Sala dels Austries",
+    "start": "2026-05-28T16:00:00+02:00",
+    "end": "2026-05-28T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM - Sala dels Austries\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270188",
+    "location": "Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Sala dels Àustries",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3270188"
   }
 ]
