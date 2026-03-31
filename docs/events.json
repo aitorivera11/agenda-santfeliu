@@ -1,33 +1,5 @@
 [
   {
-    "id": "santfeliu-3304594@agenda.santfeliu.local",
-    "title": "Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Petanca Incresa",
-    "start": "2026-03-31T10:00:00+02:00",
-    "end": "2026-03-31T12:00:00+02:00",
-    "description": "Competició esportiva: Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Petanca Incresa\n\nTipus: Competició esportiva\nLloc: Pistes de petanca Parc del Llobregat\nAdreça: C. Sant Josep 0097\nEnllaç: https://www.santfeliu.cat/esdeveniment/3304594",
-    "location": "Pistes de petanca Parc del Llobregat - C. Sant Josep 0097",
-    "locationName": "Pistes de petanca Parc del Llobregat",
-    "address": "C. Sant Josep 0097",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3304594"
-  },
-  {
-    "id": "santfeliu-3308414@agenda.santfeliu.local",
-    "title": "Dimartsalut. Xerrada-taller. Com cuidem la nostra microbiota amb l'alimentació?",
-    "start": "2026-03-31T18:00:00+02:00",
-    "end": "2026-03-31T19:30:00+02:00",
-    "description": "Presentacions demostracions conferències xerrades...: Dimartsalut. Xerrada-taller. Com cuidem la nostra microbiota amb l'alimentació?\n\nA càrrec de Maria de los Mozos Fernando Dietista-Nutricionista EAP Rambla / EAP El Pla Servei d¿Atenció Primària Baix Llobregat Centre\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3308414",
-    "location": "Centre Cívic Les Tovalloles - Ra. Salut 0007 BX",
-    "locationName": "Centre Cívic Les Tovalloles",
-    "address": "Ra. Salut 0007 BX",
-    "type": "Presentacions, demostracions, conferències, xerrades...",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3308414"
-  },
-  {
     "id": "santfeliu-3304620@agenda.santfeliu.local",
     "title": "Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Petanca Unión Casablanca (A)",
     "start": "2026-04-07T10:00:00+02:00",
@@ -782,5 +754,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270188"
+  },
+  {
+    "id": "santfeliu-3270173@agenda.santfeliu.local",
+    "title": "Activitat EMM - Puntual",
+    "start": "2026-05-29T16:00:00+02:00",
+    "end": "2026-05-29T19:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM - Puntual\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270173",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3270173"
   }
 ]
