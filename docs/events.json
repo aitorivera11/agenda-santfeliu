@@ -754,5 +754,47 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270173"
+  },
+  {
+    "id": "santfeliu-3270174@agenda.santfeliu.local",
+    "title": "Activitat EMM - Puntual Auditori",
+    "start": "2026-06-01T09:00:00+02:00",
+    "end": "2026-06-01T14:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM - Puntual Auditori\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270174",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3270174"
+  },
+  {
+    "id": "santfeliu-3270153@agenda.santfeliu.local",
+    "title": "Activitat EMM - Auditori-Puntual",
+    "start": "2026-06-01T16:00:00+02:00",
+    "end": "2026-06-01T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM - Auditori-Puntual\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270153",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3270153"
+  },
+  {
+    "id": "santfeliu-3270189@agenda.santfeliu.local",
+    "title": "Activitat EMM - Sala dels Austries",
+    "start": "2026-06-01T17:00:00+02:00",
+    "end": "2026-06-01T19:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM - Sala dels Austries\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270189",
+    "location": "Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Sala dels Àustries",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3270189"
   }
 ]

@@ -9,7 +9,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Unión Casablanca (A)
 DTSTART;TZID=Europe/Madrid:20260407T100000
 DTEND;TZID=Europe/Madrid:20260407T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3304620@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Unión Casablanca (A)\n\nTipus: Competició
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Comarcal de Jocs Populars
 DTSTART;TZID=Europe/Madrid:20260408T090000
 DTEND;TZID=Europe/Madrid:20260408T123000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3309527@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Comarcal de Jocs Populars\n\nTi
  pus: Activitats Esportives\nLloc: Camp de Futbol Municipal Les Grases\nAdr
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Tertúlies filosòfiques La era de lo tóxico de Clotilde Leguil
 DTSTART;TZID=Europe/Madrid:20260408T190000
 DTEND;TZID=Europe/Madrid:20260408T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316971@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Tertúlies filosòfiques La era de lo 
  tóxico de Clotilde Leguil\n\nTertúlies filosòfiques La era de lo tóxic
@@ -51,7 +51,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Sant Joan Despí (A)
 DTSTART;TZID=Europe/Madrid:20260409T100000
 DTEND;TZID=Europe/Madrid:20260409T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3304621@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Sant Joan Despí (A)\n\nTipus: Competició 
@@ -65,7 +65,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Cervelló
 DTSTART;TZID=Europe/Madrid:20260409T100000
 DTEND;TZID=Europe/Madrid:20260409T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3304599@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Cervelló\n\nTipus: Competició esportiva\n
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Taller infantil. Especial Sant Jordi Bon dia poesia
 DTSTART;TZID=Europe/Madrid:20260409T180000
 DTEND;TZID=Europe/Madrid:20260409T190000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316188@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller infantil. Especial Sant Jordi B
  on dia poesia\n\nTaller infantil. Especial Sant Jordi Bon dia poesia\n\nTi
@@ -93,7 +93,7 @@ SUMMARY:Club de lectura en anglès Something wicked this way comes de Ray
  Bradbury
 DTSTART;TZID=Europe/Madrid:20260409T183000
 DTEND;TZID=Europe/Madrid:20260409T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316972@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en anglès Something w
  icked this way comes de Ray Bradbury\n\nDos adolescents descobreixen una n
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de plasma
 DTSTART;TZID=Europe/Madrid:20260410T163000
 DTEND;TZID=Europe/Madrid:20260410T203000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3301791@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc
  : Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://w
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Inauguració exposició "La Segona República i el municipalisme"
 DTSTART;TZID=Europe/Madrid:20260410T180000
 DTEND;TZID=Europe/Madrid:20260410T193000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3315833@agenda.santfeliu.local
 DESCRIPTION:Inauguracions homenatges aniversaris: Inauguració exposició 
  "La Segona República i el municipalisme"\n\nExposició organitzada per la
@@ -142,7 +142,7 @@ SUMMARY:10a Jornada AMPA's I AFA's de Sant Feliu de Llobregat - Les biblio
  teques escolars i el plaer de llegir
 DTSTART;TZID=Europe/Madrid:20260411T093000
 DTEND;TZID=Europe/Madrid:20260411T133000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3317138@agenda.santfeliu.local
 DESCRIPTION:Jornades i seminaris: 10a Jornada AMPA's I AFA's de Sant Feliu
   de Llobregat - Les biblioteques escolars i el plaer de llegir\n\nPetició
@@ -158,7 +158,7 @@ SUMMARY:Activitats musicals a benefici de Palestina organitzat per l'Agrup
  ament Escolta i Guia Nostra Dona de la Salut (pendent autorització)
 DTSTART;TZID=Europe/Madrid:20260411T100000
 DTEND;TZID=Europe/Madrid:20260412T023000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3318379@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitats musicals a benefici 
  de Palestina organitzat per l'Agrupament Escolta i Guia Nostra Dona de la 
@@ -178,7 +178,7 @@ SUMMARY:Celebració del 15è aniversari de l'Espriueta (pendent autoritzac
  ió)
 DTSTART;TZID=Europe/Madrid:20260411T100000
 DTEND;TZID=Europe/Madrid:20260411T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3318384@agenda.santfeliu.local
 DESCRIPTION:Cavalcades cercaviles rues: Celebració del 15è aniversari de
   l'Espriueta (pendent autorització)\n\nTipus: Cavalcades\, cercaviles\, r
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Hora del conte menuda Sant Jordi\, una llegenda
 DTSTART;TZID=Europe/Madrid:20260411T120000
 DTEND;TZID=Europe/Madrid:20260411T130000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316973@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Hora del conte menuda Sant Jordi una l
  legenda\n\nUna història diferent de la llegenda de Sant Jordi on cada per
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Kubalas
 DTSTART;TZID=Europe/Madrid:20260411T153000
 DTEND;TZID=Europe/Madrid:20260411T173000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3267352@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Kubalas\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Mun
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Cantada de Caramelles
 DTSTART;TZID=Europe/Madrid:20260412T133000
 DTEND;TZID=Europe/Madrid:20260412T143000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3317323@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Cantada de Caramelles\n\nLloc: 
  Sala Ibèria\n\nTipus: Concerts i audicions musicals\nLloc: Sala Ibèria\n
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Escola de Salut
 DTSTART;TZID=Europe/Madrid:20260413T180000
 DTEND;TZID=Europe/Madrid:20260413T190000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316974@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Escola de Salut\n\nL'Escola de Sa
  lut és un espai adreçat a persones majors de 60 anys per promoure hàbit
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:PetitLab d'imatges i lletres
 DTSTART;TZID=Europe/Madrid:20260414T173000
 DTEND;TZID=Europe/Madrid:20260414T183000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316977@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: PetitLab d'imatges i lletres\n\nUn esp
  ai de trobada en família on els contes seran els protagonistes. Acompanya
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura dels dimarts Boulder d'Eva Baltasar
 DTSTART;TZID=Europe/Madrid:20260414T190000
 DTEND;TZID=Europe/Madrid:20260414T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316978@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimarts Boulder d
  'Eva Baltasar\n\nA la novel·la Boulder la protagonista és una dona atret
@@ -302,7 +302,7 @@ SUMMARY:Club de lectura infantil La larga marcha de los pavos de Léonie B
  ischoff i Kathleen Karr
 DTSTART;TZID=Europe/Madrid:20260416T180000
 DTEND;TZID=Europe/Madrid:20260416T190000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316981@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura infantil La larga marc
  ha de los pavos de Léonie Bischoff i Kathleen Karr\n\nNota Missouri estiu
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Bingo musical de l'esplai Sant Llorenç
 DTSTART;TZID=Europe/Madrid:20260418T100000
 DTEND;TZID=Europe/Madrid:20260419T040000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3314946@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Bingo musical de l'esplai Sant Llore
  nç\n\nExpedient P1182026000066 Demanem la Sala Ibèria el dia 18 d'abril 
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Taller de poesia infantil Versos de estrellas
 DTSTART;TZID=Europe/Madrid:20260418T120000
 DTEND;TZID=Europe/Madrid:20260418T130000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316984@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller de poesia infantil Versos de es
  trellas\n\nPilar Jimenez ens pressentarà el seu nou poemari Versos de est
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Bàsquet cadira de rodes Sènior Masculí Barça UNES - CB Mollet
 DTSTART;TZID=Europe/Madrid:20260418T160000
 DTEND;TZID=Europe/Madrid:20260418T173000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3289878@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet cadira de rodes Sènior Mascul
  í Barça UNES - CB Mollet\n\nLliga catalana\n\nTipus: Competició esporti
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Escola de Salut El document de voluntats anticipades
 DTSTART;TZID=Europe/Madrid:20260420T180000
 DTEND;TZID=Europe/Madrid:20260420T190000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316985@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Escola de Salut El document de vo
  luntats anticipades\n\nL'Escola de Salut és un espai adreçat a persones 
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Local de Jocs Cooperatius 1r Primària
 DTSTART;TZID=Europe/Madrid:20260421T090000
 DTEND;TZID=Europe/Madrid:20260421T123000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3309528@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Local de Jocs Cooperatius 1r Pr
  imària\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal Le
@@ -417,7 +417,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Peta
  nca Barri Centre
 DTSTART;TZID=Europe/Madrid:20260421T100000
 DTEND;TZID=Europe/Madrid:20260421T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3304622@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (A) - Club Petanca Barri Centre\n\nTipus: Competició esportiv
@@ -431,7 +431,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Molins de Rei
 DTSTART;TZID=Europe/Madrid:20260421T100000
 DTEND;TZID=Europe/Madrid:20260421T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3304602@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Molins de Rei\n\nTipus: Competició esporti
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260422T170000
 DTEND;TZID=Europe/Madrid:20260422T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3301796@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -457,7 +457,7 @@ SUMMARY:Sant Jordi: parades de roses i llibres\, artesania i autors i auto
  res locals
 DTSTART;TZID=Europe/Madrid:20260423T100000
 DTEND;TZID=Europe/Madrid:20260423T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3317890@agenda.santfeliu.local
 DESCRIPTION:Diada: Sant Jordi: parades de roses i llibres artesania i auto
  rs i autores locals\n\nParades de roses i llibres artesania i autors i aut
@@ -471,7 +471,7 @@ SUMMARY:Bàsquet cadira de rodes Sènior Masculí Barça UNES - CE Costa D
  aurada
 DTSTART;TZID=Europe/Madrid:20260423T160000
 DTEND;TZID=Europe/Madrid:20260423T173000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3289880@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet cadira de rodes Sènior Mascul
  í Barça UNES - CE Costa Daurada\n\nLliga catalana - PENDENT CONFIRMAR\n\
@@ -487,7 +487,7 @@ SUMMARY:Festa del Voluntariat per la llengua\, amb l'espectacle "Us sol co
  p i mai més"\, a càrrec de Glosa Càustica
 DTSTART;TZID=Europe/Madrid:20260424T183000
 DTEND;TZID=Europe/Madrid:20260424T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3311055@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Festa del Voluntariat per la ll
  engua amb l'espectacle "Us sol cop i mai més" a càrrec de Glosa Càustic
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Esparreguera
 DTSTART;TZID=Europe/Madrid:20260425T153000
 DTEND;TZID=Europe/Madrid:20260425T173000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3267357@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Esparreguera\n\nTipus: Competició esportiva\nLloc: Camp de Futbo
@@ -516,7 +516,7 @@ SUMMARY:Bàsquet cadira de rodes Sènior Masculí Barça UNES - CB Granoll
  ers
 DTSTART;TZID=Europe/Madrid:20260425T160000
 DTEND;TZID=Europe/Madrid:20260425T173000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3289879@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet cadira de rodes Sènior Mascul
  í Barça UNES - CB Granollers\n\nLliga catalana\n\nTipus: Competició esp
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:50è aniversari de l'Esplai Sant Llorenç (pendent autorització)
 DTSTART;TZID=Europe/Madrid:20260425T170000
 DTEND;TZID=Europe/Madrid:20260425T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3318383@agenda.santfeliu.local
 DESCRIPTION:Inauguracions homenatges aniversaris: 50è aniversari de l'Esp
  lai Sant Llorenç (pendent autorització)\n\nExpedient G3792026000056\n\nT
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:Carnaval de Cadis a càrrec de la Penya Bética
 DTSTART;TZID=Europe/Madrid:20260425T200000
 DTEND;TZID=Europe/Madrid:20260426T000000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3314954@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: Carnaval de Cadis a càrrec de la Penya
   Bética\n\nExpedient P1182026000087\n\nTipus: Espectacles\, festivals\nLl
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:Escola de Salut El desig sexual no es jubila!
 DTSTART;TZID=Europe/Madrid:20260427T180000
 DTEND;TZID=Europe/Madrid:20260427T190000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316987@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Escola de Salut El desig sexual n
  o es jubila!\n\nL'Escola de Salut és un espai adreçat a persones majors 
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Rondes de lectura Relojes de hueso de David Mitchell
 DTSTART;TZID=Europe/Madrid:20260427T190000
 DTEND;TZID=Europe/Madrid:20260427T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316988@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectura Relojes de hueso de 
  David Mitchell\n\nDesprés d'una baralla amb la seva mare Holly fuig de la
@@ -601,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:CONSELL MUNICIPAL DE DONES
 DTSTART;TZID=Europe/Madrid:20260428T180000
 DTEND;TZID=Europe/Madrid:20260428T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3315435@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: CONSELL MUNICIPAL DE DONES\n\nTip
  us: Reunions i debats ciutadans\nLloc: Ajuntament - 01 - Sala de Plens\nAd
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Selecció de l'alumne
 DTSTART;TZID=Europe/Madrid:20260428T190000
 DTEND;TZID=Europe/Madrid:20260428T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316989@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Selecció 
  de l'alumne\n\nAprofitem que el passat 23 d'abril va ser Sant Jordi per a 
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:Conferència "Què puc fer jo pel català?"
 DTSTART;TZID=Europe/Madrid:20260428T190000
 DTEND;TZID=Europe/Madrid:20260428T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3315452@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Confer
  ència "Què puc fer jo pel català?"\n\nA càrrec de Marc Piera filòleg 
@@ -650,7 +650,7 @@ SUMMARY:Club de lectura dels dimecres Tres novel·les analògiques de Serg
  i Pàmies
 DTSTART;TZID=Europe/Madrid:20260429T190000
 DTEND;TZID=Europe/Madrid:20260429T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3316990@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimecres Tres nov
  el·les analògiques de Sergi Pàmies\n\nClub de lectura dels dimecres Tre
@@ -667,7 +667,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (B) - Club Peta
  nca Sant Joan Despí (B)
 DTSTART;TZID=Europe/Madrid:20260507T100000
 DTEND;TZID=Europe/Madrid:20260507T120000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3304605@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (B) - Club Petanca Sant Joan Despí (B)\n\nTipus: Competició 
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:Espai Institucional
 DTSTART;TZID=Europe/Madrid:20260508T180000
 DTEND;TZID=Europe/Madrid:20260508T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3315726@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Espai Institucional\n\nTipus: Festes de p
  rimavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEn
@@ -692,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:Activitats lúdiques infantils i familiars
 DTSTART;TZID=Europe/Madrid:20260509T110000
 DTEND;TZID=Europe/Madrid:20260509T140000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3317720@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Activitats lúdiques infantils i familiar
  s\n\nActivitats lúdiques infantils i familiars\n\nTipus: Festes de primav
@@ -707,7 +707,7 @@ SUMMARY:Lliurament dels premis dels concursos de l'Exposició Nacional de
  dins en miniatura.
 DTSTART;TZID=Europe/Madrid:20260509T130000
 DTEND;TZID=Europe/Madrid:20260509T140000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3317730@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Lliurament dels premis dels concursos de 
  l'Exposició Nacional de Roses i guardons de participació en la mostra de
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Pueblo Nuevo 2002
 DTSTART;TZID=Europe/Madrid:20260509T153000
 DTEND;TZID=Europe/Madrid:20260509T173000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3267353@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Pueblo Nuevo 2002\n\nTipus: Competició esportiva\nLloc: Camp de 
@@ -734,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:Concurs LGTBIQ+ organitzat per Tiresias Asociación
 DTSTART;TZID=Europe/Madrid:20260515T120000
 DTEND;TZID=Europe/Madrid:20260515T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3311647@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: Concurs LGTBIQ+ organitzat per Tiresias
   Asociación\n\nTipus: Espectacles\, festivals\nLloc: Sala Ibèria\nAdreç
@@ -747,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Mostra de dansa i teatre musical escola Diana i Aran
 DTSTART;TZID=Europe/Madrid:20260516T090000
 DTEND;TZID=Europe/Madrid:20260516T200000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3314941@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Mostra de dansa i teatre musical escola Diana i 
  Aran\n\nExpedient P1182026000039\n\nTipus: Balls\, danses\nLloc: Sala Ibè
@@ -760,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Visita guiada al Palau Falguera
 DTSTART;TZID=Europe/Madrid:20260516T180000
 DTEND;TZID=Europe/Madrid:20260516T193000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3300955@agenda.santfeliu.local
 DESCRIPTION:Excursions visites sortides recorreguts: Visita guiada al Pala
  u Falguera\n\nInscripció prèvia obligatòria a activitats@ateneusantfeli
@@ -775,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Local Lúdica d'Educació Infantil de I5
 DTSTART;TZID=Europe/Madrid:20260519T090000
 DTEND;TZID=Europe/Madrid:20260519T123000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3309529@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Local Lúdica d'Educació Infan
  til de I5\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal 
@@ -788,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260525T160000
 DTEND;TZID=Europe/Madrid:20260525T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3270176@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260526T160000
 DTEND;TZID=Europe/Madrid:20260526T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3270186@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -814,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260527T160000
 DTEND;TZID=Europe/Madrid:20260527T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3270187@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260528T160000
 DTEND;TZID=Europe/Madrid:20260528T210000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3270188@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Puntual
 DTSTART;TZID=Europe/Madrid:20260529T160000
 DTEND;TZID=Europe/Madrid:20260529T190000
-DTSTAMP:20260402T054739Z
+DTSTAMP:20260403T054806Z
 UID:santfeliu-3270173@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual\n\nActi
  vitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau F
@@ -848,5 +848,44 @@ DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual\n\nActi
  tfeliu.cat/esdeveniment/3270173
 LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3270173
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Activitat EMM - Puntual Auditori
+DTSTART;TZID=Europe/Madrid:20260601T090000
+DTEND;TZID=Europe/Madrid:20260601T140000
+DTSTAMP:20260403T054806Z
+UID:santfeliu-3270174@agenda.santfeliu.local
+DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual Auditor
+ i\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc
+ : Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https:
+ //www.santfeliu.cat/esdeveniment/3270174
+LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3270174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Activitat EMM - Auditori-Puntual
+DTSTART;TZID=Europe/Madrid:20260601T160000
+DTEND;TZID=Europe/Madrid:20260601T210000
+DTSTAMP:20260403T054806Z
+UID:santfeliu-3270153@agenda.santfeliu.local
+DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Auditori-Puntua
+ l\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Fa
+ lguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.sant
+ feliu.cat/esdeveniment/3270153
+LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3270153
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Activitat EMM - Sala dels Austries
+DTSTART;TZID=Europe/Madrid:20260601T170000
+DTEND;TZID=Europe/Madrid:20260601T190000
+DTSTAMP:20260403T054806Z
+UID:santfeliu-3270189@agenda.santfeliu.local
+DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
+ ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
+ Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: htt
+ ps://www.santfeliu.cat/esdeveniment/3270189
+LOCATION:Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3270189
 END:VEVENT
 END:VCALENDAR
