@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3304620@agenda.santfeliu.local",
-    "title": "Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Petanca Unión Casablanca (A)",
-    "start": "2026-04-07T10:00:00+02:00",
-    "end": "2026-04-07T12:00:00+02:00",
-    "description": "Competició esportiva: Petanca Jubilats Masculí Club Petanca Jubilats SF (A) - Club Petanca Unión Casablanca (A)\n\nTipus: Competició esportiva\nLloc: Pistes de petanca Parc del Llobregat\nAdreça: C. Sant Josep 0097\nEnllaç: https://www.santfeliu.cat/esdeveniment/3304620",
-    "location": "Pistes de petanca Parc del Llobregat - C. Sant Josep 0097",
-    "locationName": "Pistes de petanca Parc del Llobregat",
-    "address": "C. Sant Josep 0097",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3304620"
-  },
-  {
     "id": "santfeliu-3309527@agenda.santfeliu.local",
     "title": "Trobada Comarcal de Jocs Populars",
     "start": "2026-04-08T09:00:00+02:00",
@@ -824,5 +810,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270190"
+  },
+  {
+    "id": "santfeliu-3301798@agenda.santfeliu.local",
+    "title": "Campanya donació de plasma",
+    "start": "2026-06-05T16:30:00+02:00",
+    "end": "2026-06-05T20:30:00+02:00",
+    "description": "Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc: Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301798",
+    "location": "Centre Cívic Mas Lluí - C. Estelí 0010 BX",
+    "locationName": "Centre Cívic Mas Lluí",
+    "address": "C. Estelí 0010 BX",
+    "type": "Campanya",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3301798"
   }
 ]
