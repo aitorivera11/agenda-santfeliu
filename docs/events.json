@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3301791@agenda.santfeliu.local",
-    "title": "Campanya donació de plasma",
-    "start": "2026-04-10T16:30:00+02:00",
-    "end": "2026-04-10T20:30:00+02:00",
-    "description": "Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc: Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301791",
-    "location": "Centre Cívic Mas Lluí - C. Estelí 0010 BX",
-    "locationName": "Centre Cívic Mas Lluí",
-    "address": "C. Estelí 0010 BX",
-    "type": "Campanya",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3301791"
-  },
-  {
     "id": "santfeliu-3319486@agenda.santfeliu.local",
     "title": "Bàsquet Mini Masculí CB Santfeliuenc (Blau) - AESE (A)",
     "start": "2026-04-11T09:00:00+02:00",
@@ -54,20 +40,6 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319792"
-  },
-  {
-    "id": "santfeliu-3319833@agenda.santfeliu.local",
-    "title": "Futbol Juvenil Femení Santfeliuenc FC (A) - CF Vinyets Moli Vell (A)",
-    "start": "2026-04-11T09:00:00+02:00",
-    "end": "2026-04-11T10:45:00+02:00",
-    "description": "Competició esportiva: Futbol Juvenil Femení Santfeliuenc FC (A) - CF Vinyets Moli Vell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319833",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3319833"
   },
   {
     "id": "santfeliu-3319467@agenda.santfeliu.local",
@@ -154,6 +126,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319469"
   },
   {
+    "id": "santfeliu-3319954@agenda.santfeliu.local",
+    "title": "Handbol Aleví Femení Club Handbol Sant Llorenç - Handbol Sant Andreu",
+    "start": "2026-04-11T10:10:00+02:00",
+    "end": "2026-04-11T11:10:00+02:00",
+    "description": "Competició esportiva: Handbol Aleví Femení Club Handbol Sant Llorenç - Handbol Sant Andreu\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319954",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319954"
+  },
+  {
     "id": "santfeliu-3319487@agenda.santfeliu.local",
     "title": "Bàsquet Mini Masculí CB Santfeliuenc (A) - LLuïsos de Gràcia (A)",
     "start": "2026-04-11T10:15:00+02:00",
@@ -210,11 +196,25 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319366"
   },
   {
+    "id": "santfeliu-3319955@agenda.santfeliu.local",
+    "title": "Handbol Aleví Masculí Club Handbol Sant Llorenç (Vermell) - Handbol Sant Quirze",
+    "start": "2026-04-11T11:15:00+02:00",
+    "end": "2026-04-11T12:15:00+02:00",
+    "description": "Competició esportiva: Handbol Aleví Masculí Club Handbol Sant Llorenç (Vermell) - Handbol Sant Quirze\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319955",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319955"
+  },
+  {
     "id": "santfeliu-3319488@agenda.santfeliu.local",
-    "title": "Bàsquet Mini Femení CB Santfeliuenc (A) - Basket Almeda",
+    "title": "Bàsquet Mini Femení CB Santfeliuenc (A) - Basket Almeda (1)",
     "start": "2026-04-11T12:00:00+02:00",
     "end": "2026-04-11T13:30:00+02:00",
-    "description": "Competició esportiva: Bàsquet Mini Femení CB Santfeliuenc (A) - Basket Almeda\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319488",
+    "description": "Competició esportiva: Bàsquet Mini Femení CB Santfeliuenc (A) - Basket Almeda (1)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319488",
     "location": "Pavelló Escolar Esportiu Escola Nadal - C. Eugeni d'Ors 0003 A BX",
     "locationName": "Pavelló Escolar Esportiu Escola Nadal",
     "address": "C. Eugeni d'Ors 0003 A BX",
@@ -278,6 +278,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319835"
+  },
+  {
+    "id": "santfeliu-3319958@agenda.santfeliu.local",
+    "title": "Handbol Cadet Femení Club Handbol Sant Llorenç - CEACA Tàrrega",
+    "start": "2026-04-11T12:30:00+02:00",
+    "end": "2026-04-11T14:10:00+02:00",
+    "description": "Competició esportiva: Handbol Cadet Femení Club Handbol Sant Llorenç - CEACA Tàrrega\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319958",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319958"
   },
   {
     "id": "santfeliu-3319472@agenda.santfeliu.local",
@@ -365,10 +379,10 @@
   },
   {
     "id": "santfeliu-3319489@agenda.santfeliu.local",
-    "title": "Bàsquet Júnior Masculí CB Santfeliuenc - AESE",
+    "title": "Bàsquet Júnior Masculí CB Santfeliuenc - AESE (1)",
     "start": "2026-04-11T16:00:00+02:00",
     "end": "2026-04-11T17:30:00+02:00",
-    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc - AESE\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319489",
+    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc - AESE (1)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319489",
     "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
     "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
     "address": "C. Mas Lluí 0011 BX",
@@ -376,6 +390,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319489"
+  },
+  {
+    "id": "santfeliu-3319977@agenda.santfeliu.local",
+    "title": "Futbol sala Sènior Masculí Peña Recreativa SF (B) - FS Castellbisbal (B)",
+    "start": "2026-04-11T16:00:00+02:00",
+    "end": "2026-04-11T17:15:00+02:00",
+    "description": "Competició esportiva: Futbol sala Sènior Masculí Peña Recreativa SF (B) - FS Castellbisbal (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319977",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319977"
+  },
+  {
+    "id": "santfeliu-3319957@agenda.santfeliu.local",
+    "title": "Handbol Infantil Femení Club Handbol Sant Llorenç (Negre) - Handbol Amics",
+    "start": "2026-04-11T17:15:00+02:00",
+    "end": "2026-04-11T18:15:00+02:00",
+    "description": "Competició esportiva: Handbol Infantil Femení Club Handbol Sant Llorenç (Negre) - Handbol Amics\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319957",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319957"
   },
   {
     "id": "santfeliu-3319491@agenda.santfeliu.local",
@@ -420,11 +462,39 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319797"
   },
   {
+    "id": "santfeliu-3319963@agenda.santfeliu.local",
+    "title": "Handbol Cadet Masculí Club Handbol Sant Llorenç (Negre) - Handbol Andorra",
+    "start": "2026-04-11T18:30:00+02:00",
+    "end": "2026-04-11T20:00:00+02:00",
+    "description": "Competició esportiva: Handbol Cadet Masculí Club Handbol Sant Llorenç (Negre) - Handbol Andorra\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319963",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319963"
+  },
+  {
+    "id": "santfeliu-3319833@agenda.santfeliu.local",
+    "title": "Futbol Juvenil Femení Santfeliuenc FC (A) - CF Vinyets Molí Vell (A)",
+    "start": "2026-04-11T19:30:00+02:00",
+    "end": "2026-04-11T21:30:00+02:00",
+    "description": "Competició esportiva: Futbol Juvenil Femení Santfeliuenc FC (A) - CF Vinyets Molí Vell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319833",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319833"
+  },
+  {
     "id": "santfeliu-3319798@agenda.santfeliu.local",
-    "title": "Futbol Amateur Masculí Peña Recreativa SF (B) - CF Vinyets Moli Vell (A)",
+    "title": "Futbol Amateur Masculí Peña Recreativa SF (B) - CF Vinyets Molí Vell (A)",
     "start": "2026-04-11T20:00:00+02:00",
     "end": "2026-04-11T22:00:00+02:00",
-    "description": "Competició esportiva: Futbol Amateur Masculí Peña Recreativa SF (B) - CF Vinyets Moli Vell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319798",
+    "description": "Competició esportiva: Futbol Amateur Masculí Peña Recreativa SF (B) - CF Vinyets Molí Vell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319798",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -432,6 +502,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319798"
+  },
+  {
+    "id": "santfeliu-3319964@agenda.santfeliu.local",
+    "title": "Handbol Sènior Masculí Club Handbol Sant Llorenç (Negre) - Handbol Sant Andreu",
+    "start": "2026-04-11T20:00:00+02:00",
+    "end": "2026-04-11T21:45:00+02:00",
+    "description": "Competició esportiva: Handbol Sènior Masculí Club Handbol Sant Llorenç (Negre) - Handbol Sant Andreu\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319964",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319964"
   },
   {
     "id": "santfeliu-3319367@agenda.santfeliu.local",
@@ -460,6 +544,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319492"
+  },
+  {
+    "id": "santfeliu-3319978@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Masculí Futsal SF (B) - FS Sant Vicenç dels Horts (B)",
+    "start": "2026-04-12T09:00:00+02:00",
+    "end": "2026-04-12T10:15:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Masculí Futsal SF (B) - FS Sant Vicenç dels Horts (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319978",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319978"
   },
   {
     "id": "santfeliu-3319588@agenda.santfeliu.local",
@@ -532,6 +630,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319606"
   },
   {
+    "id": "santfeliu-3319981@agenda.santfeliu.local",
+    "title": "Futbol sala Infantil Masculí Futsal SF (C) - CE Maristes Rubí (B)",
+    "start": "2026-04-12T10:20:00+02:00",
+    "end": "2026-04-12T11:45:00+02:00",
+    "description": "Competició esportiva: Futbol sala Infantil Masculí Futsal SF (C) - CE Maristes Rubí (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319981",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319981"
+  },
+  {
     "id": "santfeliu-3319494@agenda.santfeliu.local",
     "title": "Bàsquet Cadet Femení CB Santfeliuenc - TGN Bàsquet (A)",
     "start": "2026-04-12T11:00:00+02:00",
@@ -547,10 +659,10 @@
   },
   {
     "id": "santfeliu-3319839@agenda.santfeliu.local",
-    "title": "Futbol Cadet S15 Masculí Santfeliuenc FC (A) - FC Can Buixeres (A)",
+    "title": "Futbol Cadet S15 Masculí Santfeliuenc FC (A) - FC Can Buxeres (A)",
     "start": "2026-04-12T11:00:00+02:00",
     "end": "2026-04-12T13:00:00+02:00",
-    "description": "Competició esportiva: Futbol Cadet S15 Masculí Santfeliuenc FC (A) - FC Can Buixeres (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319839",
+    "description": "Competició esportiva: Futbol Cadet S15 Masculí Santfeliuenc FC (A) - FC Can Buxeres (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319839",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
     "address": "C. Mataró 0002 BX",
@@ -602,6 +714,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319692"
   },
   {
+    "id": "santfeliu-3319965@agenda.santfeliu.local",
+    "title": "Handbol Juvenil Masculí Club Handbol Sant Llorenç - Handbol Santpedor",
+    "start": "2026-04-12T11:45:00+02:00",
+    "end": "2026-04-12T13:15:00+02:00",
+    "description": "Competició esportiva: Handbol Juvenil Masculí Club Handbol Sant Llorenç - Handbol Santpedor\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319965",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319965"
+  },
+  {
     "id": "santfeliu-3319505@agenda.santfeliu.local",
     "title": "Bàsquet Preinfantil Femení CB Santfeliuenc (A) - Joventut Les Corts",
     "start": "2026-04-12T12:30:00+02:00",
@@ -628,6 +754,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319805"
+  },
+  {
+    "id": "santfeliu-3319972@agenda.santfeliu.local",
+    "title": "Handbol Cadet Femení Club Handbol Sant Llorenç - Handbol Ibiza",
+    "start": "2026-04-12T13:15:00+02:00",
+    "end": "2026-04-12T14:40:00+02:00",
+    "description": "Competició esportiva: Handbol Cadet Femení Club Handbol Sant Llorenç - Handbol Ibiza\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319972",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319972"
   },
   {
     "id": "santfeliu-3317323@agenda.santfeliu.local",
@@ -658,6 +798,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319841"
   },
   {
+    "id": "santfeliu-3319982@agenda.santfeliu.local",
+    "title": "Futbol sala Sènior Masculí Peña Recreativa SF (A) - Colegio Santo Ángel CCR Baix Sud Gavà (A)",
+    "start": "2026-04-12T14:45:00+02:00",
+    "end": "2026-04-12T16:00:00+02:00",
+    "description": "Competició esportiva: Futbol sala Sènior Masculí Peña Recreativa SF (A) - Colegio Santo Ángel CCR Baix Sud Gavà (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319982",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319982"
+  },
+  {
     "id": "santfeliu-3319508@agenda.santfeliu.local",
     "title": "Bàsquet Cadet Femení CB Santfeliuenc (A) - CB Femení Osona",
     "start": "2026-04-12T15:30:00+02:00",
@@ -686,11 +840,25 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3319842"
   },
   {
+    "id": "santfeliu-3319987@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Masculí Peña Recreativa SF (A) - AE Vallirana (A)",
+    "start": "2026-04-12T16:00:00+02:00",
+    "end": "2026-04-12T17:30:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Masculí Peña Recreativa SF (A) - AE Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319987",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319987"
+  },
+  {
     "id": "santfeliu-3319510@agenda.santfeliu.local",
-    "title": "Bàsquet Cadet Masculí CB Santfeliuenc - Joventut Badalona",
+    "title": "Bàsquet Cadet Masculí CB Santfeliuenc - Joventut Badalona (1)",
     "start": "2026-04-12T17:15:00+02:00",
     "end": "2026-04-12T18:40:00+02:00",
-    "description": "Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc - Joventut Badalona\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319510",
+    "description": "Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc - Joventut Badalona (1)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319510",
     "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
     "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
     "address": "C. Mas Lluí 0011 BX",
@@ -698,6 +866,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319510"
+  },
+  {
+    "id": "santfeliu-3319966@agenda.santfeliu.local",
+    "title": "Handbol Sènior Masculí Club Handbol Sant Llorenç (Vermell) - Handbol Sant Quirze",
+    "start": "2026-04-12T17:30:00+02:00",
+    "end": "2026-04-12T19:00:00+02:00",
+    "description": "Competició esportiva: Handbol Sènior Masculí Club Handbol Sant Llorenç (Vermell) - Handbol Sant Quirze\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319966",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319966"
   },
   {
     "id": "santfeliu-3319843@agenda.santfeliu.local",
@@ -715,10 +897,10 @@
   },
   {
     "id": "santfeliu-3319511@agenda.santfeliu.local",
-    "title": "Bàsquet Júnior Femení CB Santfeliuenc - Al Panino Jet Terrassa",
+    "title": "Bàsquet Júnior Femení CB Santfeliuenc - JET Terrassa",
     "start": "2026-04-12T19:00:00+02:00",
     "end": "2026-04-12T20:30:00+02:00",
-    "description": "Competició esportiva: Bàsquet Júnior Femení CB Santfeliuenc - Al Panino Jet Terrassa\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319511",
+    "description": "Competició esportiva: Bàsquet Júnior Femení CB Santfeliuenc - JET Terrassa\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319511",
     "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
     "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
     "address": "C. Mas Lluí 0011 BX",
@@ -740,6 +922,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3319840"
+  },
+  {
+    "id": "santfeliu-3319989@agenda.santfeliu.local",
+    "title": "Futbol sala Sènior Masculí Futsal SF (A) - Colegio Santo Ángel CCR Baix Sud Castelldefels (C)",
+    "start": "2026-04-12T19:00:00+02:00",
+    "end": "2026-04-12T20:15:00+02:00",
+    "description": "Competició esportiva: Futbol sala Sènior Masculí Futsal SF (A) - Colegio Santo Ángel CCR Baix Sud Castelldefels (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3319989",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3319989"
   },
   {
     "id": "santfeliu-3316974@agenda.santfeliu.local",
