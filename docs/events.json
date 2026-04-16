@@ -1,33 +1,5 @@
 [
   {
-    "id": "santfeliu-3316981@agenda.santfeliu.local",
-    "title": "Club de lectura infantil La larga marcha de los pavos de Léonie Bischoff i Kathleen Karr",
-    "start": "2026-04-16T18:00:00+02:00",
-    "end": "2026-04-16T19:00:00+02:00",
-    "description": "Activitats Literàries: Club de lectura infantil La larga marcha de los pavos de Léonie Bischoff i Kathleen Karr\n\nNota Missouri estiu de 1860. Simon de dotze anys i acabat de graduar en els seus estudis bàsics decideix seguir el consell de la seva mestra i per fi estendre les seves ales lluny del poble que l'ha vist créixer. Quan un veí l'informa que els galls dindis valen vint vegades més a Denver que a la seva casa el pla perfecte se li fica al cap: comprar mil galls dindis i recórrer amb ells els Estats Units per a arribar a la gran ciutat i llaurar-se una fortuna. Amb el suport de qui sempre ha cregut en ell Simon comença una aventura a la qual a poc a poc s'uneix l'equip més variat i improbable com a escorta. A càrrec de: Ruth Tormo Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 12 Edat recomanada: de 9 a 12 anys Lloc: Sala Les Cireres\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3316981",
-    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3316981"
-  },
-  {
-    "id": "santfeliu-3320581@agenda.santfeliu.local",
-    "title": "Waterpolo Absolut Femení Club Natació SF - CN Sant Andreu",
-    "start": "2026-04-16T21:00:00+02:00",
-    "end": "2026-04-16T22:00:00+02:00",
-    "description": "Competició esportiva: Waterpolo Absolut Femení Club Natació SF - CN Sant Andreu\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320581",
-    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
-    "locationName": "Complex Municipal de Piscines",
-    "address": "C. Verge de Montserrat 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3320581"
-  },
-  {
     "id": "santfeliu-3315833@agenda.santfeliu.local",
     "title": "Inauguració exposició \"La Segona República i el municipalisme\".",
     "start": "2026-04-17T18:00:00+02:00",
@@ -43,10 +15,10 @@
   },
   {
     "id": "santfeliu-3320767@agenda.santfeliu.local",
-    "title": "Bàsquet Mini Femení CB Santfeliuenc (Blanc) - Basque Pia Sabadell (Taronja)",
+    "title": "Bàsquet Mini Femení CB Santfeliuenc (Blanc) - Basquet Pia Sabadell (Taronja)",
     "start": "2026-04-18T08:45:00+02:00",
     "end": "2026-04-18T10:15:00+02:00",
-    "description": "Competició esportiva: Bàsquet Mini Femení CB Santfeliuenc (Blanc) - Basque Pia Sabadell (Taronja)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320767",
+    "description": "Competició esportiva: Bàsquet Mini Femení CB Santfeliuenc (Blanc) - Basquet Pia Sabadell (Taronja)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Nadal\nAdreça: C. Eugeni d'Ors 0003 A BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320767",
     "location": "Pavelló Escolar Esportiu Escola Nadal - C. Eugeni d'Ors 0003 A BX",
     "locationName": "Pavelló Escolar Esportiu Escola Nadal",
     "address": "C. Eugeni d'Ors 0003 A BX",
@@ -54,6 +26,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320767"
+  },
+  {
+    "id": "santfeliu-3320895@agenda.santfeliu.local",
+    "title": "Futbol Aleví S12 Masculí Peña Recreativa SF (B) - F Atlètic Sant Just (C)",
+    "start": "2026-04-18T09:00:00+02:00",
+    "end": "2026-04-18T10:30:00+02:00",
+    "description": "Competició esportiva: Futbol Aleví S12 Masculí Peña Recreativa SF (B) - F Atlètic Sant Just (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320895",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320895"
+  },
+  {
+    "id": "santfeliu-3320897@agenda.santfeliu.local",
+    "title": "Futbol Infantil Femení Peña Recreativa SF (B) - UD Viladecans (C)",
+    "start": "2026-04-18T09:00:00+02:00",
+    "end": "2026-04-18T10:30:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil Femení Peña Recreativa SF (B) - UD Viladecans (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320897",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320897"
   },
   {
     "id": "santfeliu-3320705@agenda.santfeliu.local",
@@ -140,6 +140,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320594"
   },
   {
+    "id": "santfeliu-3320900@agenda.santfeliu.local",
+    "title": "Futbol Aleví S11 Masculí Peña Recreativa SF (D) - CF Sant Just Desvern (A)",
+    "start": "2026-04-18T10:30:00+02:00",
+    "end": "2026-04-18T12:00:00+02:00",
+    "description": "Competició esportiva: Futbol Aleví S11 Masculí Peña Recreativa SF (D) - CF Sant Just Desvern (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320900",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320900"
+  },
+  {
+    "id": "santfeliu-3320902@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S10 Masculí Peña Recreativa SF (C) - UD Sector Montserratina (D)",
+    "start": "2026-04-18T10:30:00+02:00",
+    "end": "2026-04-18T12:00:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Peña Recreativa SF (C) - UD Sector Montserratina (D)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320902",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320902"
+  },
+  {
     "id": "santfeliu-3320596@agenda.santfeliu.local",
     "title": "Handbol Infantil Femení Club Handbol Sant Llorenç (Negre) - Handbol Les Franqueses",
     "start": "2026-04-18T11:30:00+02:00",
@@ -180,6 +208,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320709"
+  },
+  {
+    "id": "santfeliu-3320904@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S9 Masculí Peña Recreativa SF (A) - CF Blanca Subur (A)",
+    "start": "2026-04-18T12:00:00+02:00",
+    "end": "2026-04-18T13:30:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S9 Masculí Peña Recreativa SF (A) - CF Blanca Subur (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320904",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320904"
+  },
+  {
+    "id": "santfeliu-3320906@agenda.santfeliu.local",
+    "title": "Futbol Prebenjamí S7 Masculí Peña Recreativa SF (A) - UE Sant Ildefons (B)",
+    "start": "2026-04-18T12:00:00+02:00",
+    "end": "2026-04-18T13:30:00+02:00",
+    "description": "Competició esportiva: Futbol Prebenjamí S7 Masculí Peña Recreativa SF (A) - UE Sant Ildefons (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320906",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320906"
   },
   {
     "id": "santfeliu-3320715@agenda.santfeliu.local",
@@ -252,6 +308,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320771"
   },
   {
+    "id": "santfeliu-3320907@agenda.santfeliu.local",
+    "title": "Futbol Cadet S16 Masculí Peña Recreativa SF (A) - CF Incresa Atlético",
+    "start": "2026-04-18T13:30:00+02:00",
+    "end": "2026-04-18T15:30:00+02:00",
+    "description": "Competició esportiva: Futbol Cadet S16 Masculí Peña Recreativa SF (A) - CF Incresa Atlético\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320907",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320907"
+  },
+  {
     "id": "santfeliu-3320716@agenda.santfeliu.local",
     "title": "Futbol Cadet S16 Masculí Santfeliuenc FC (A) - UE Sant Andreu (A)",
     "start": "2026-04-18T15:20:00+02:00",
@@ -280,6 +350,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320775"
   },
   {
+    "id": "santfeliu-3320909@agenda.santfeliu.local",
+    "title": "Futbol Infantil S14 Masculí Peña Recreativa SF (B) - FC Sant Esteve Sesrovires (A)",
+    "start": "2026-04-18T15:30:00+02:00",
+    "end": "2026-04-18T17:00:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil S14 Masculí Peña Recreativa SF (B) - FC Sant Esteve Sesrovires (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320909",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320909"
+  },
+  {
     "id": "santfeliu-3289878@agenda.santfeliu.local",
     "title": "Bàsquet cadira de rodes Sènior Masculí Barça UNES - CB Mollet",
     "start": "2026-04-18T16:00:00+02:00",
@@ -292,6 +376,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3289878"
+  },
+  {
+    "id": "santfeliu-3320866@agenda.santfeliu.local",
+    "title": "Futbol Infantil S14 Masculí CF Sant Just Desvern (A) - Colegio Aleman San Alberto (A)",
+    "start": "2026-04-18T16:00:00+02:00",
+    "end": "2026-04-18T17:30:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil S14 Masculí CF Sant Just Desvern (A) - Colegio Aleman San Alberto (A)\n\nTipus: Competició esportiva\nLloc: Estadi Municipal d'Atletisme\nAdreça: C. Mataró 0008 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320866",
+    "location": "Estadi Municipal d'Atletisme - C. Mataró 0008 BX",
+    "locationName": "Estadi Municipal d'Atletisme",
+    "address": "C. Mataró 0008 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320866"
   },
   {
     "id": "santfeliu-3320687@agenda.santfeliu.local",
@@ -350,6 +448,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320785"
   },
   {
+    "id": "santfeliu-3320910@agenda.santfeliu.local",
+    "title": "Futbol Cadet S15 Masculí Peña Recreativa SF (B) - UD Viladecans (C)",
+    "start": "2026-04-18T17:00:00+02:00",
+    "end": "2026-04-18T19:00:00+02:00",
+    "description": "Competició esportiva: Futbol Cadet S15 Masculí Peña Recreativa SF (B) - UD Viladecans (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320910",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320910"
+  },
+  {
+    "id": "santfeliu-3320868@agenda.santfeliu.local",
+    "title": "Futbol Cadet S15 Masculí CF Sant Just Desvern (A) - Penya Blaugrana Vallirana (A)",
+    "start": "2026-04-18T17:30:00+02:00",
+    "end": "2026-04-18T19:15:00+02:00",
+    "description": "Competició esportiva: Futbol Cadet S15 Masculí CF Sant Just Desvern (A) - Penya Blaugrana Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Estadi Municipal d'Atletisme\nAdreça: C. Mataró 0008 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320868",
+    "location": "Estadi Municipal d'Atletisme - C. Mataró 0008 BX",
+    "locationName": "Estadi Municipal d'Atletisme",
+    "address": "C. Mataró 0008 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320868"
+  },
+  {
     "id": "santfeliu-3320778@agenda.santfeliu.local",
     "title": "Bàsquet Cadet Femení CB Santfeliuenc - UE Mataró",
     "start": "2026-04-18T18:00:00+02:00",
@@ -390,6 +516,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320599"
+  },
+  {
+    "id": "santfeliu-3320911@agenda.santfeliu.local",
+    "title": "Futbol Amateur Masculí Peña Recreativa SF (A) - Penya Barcelonista Sant Vicenç dels Horts (B)",
+    "start": "2026-04-18T19:00:00+02:00",
+    "end": "2026-04-18T21:00:00+02:00",
+    "description": "Competició esportiva: Futbol Amateur Masculí Peña Recreativa SF (A) - Penya Barcelonista Sant Vicenç dels Horts (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320911",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320911"
+  },
+  {
+    "id": "santfeliu-3320871@agenda.santfeliu.local",
+    "title": "Futbol Cadet S16 Masculí CF Sant Just Desvern (B) - CF Corbera (A)",
+    "start": "2026-04-18T19:15:00+02:00",
+    "end": "2026-04-18T20:50:00+02:00",
+    "description": "Competició esportiva: Futbol Cadet S16 Masculí CF Sant Just Desvern (B) - CF Corbera (A)\n\nTipus: Competició esportiva\nLloc: Estadi Municipal d'Atletisme\nAdreça: C. Mataró 0008 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320871",
+    "location": "Estadi Municipal d'Atletisme - C. Mataró 0008 BX",
+    "locationName": "Estadi Municipal d'Atletisme",
+    "address": "C. Mataró 0008 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320871"
   },
   {
     "id": "santfeliu-3320600@agenda.santfeliu.local",
@@ -462,6 +616,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320786"
   },
   {
+    "id": "santfeliu-3320912@agenda.santfeliu.local",
+    "title": "Futbol Prebenjamí S8 Masculí Peña Recreativa SF (A) - EB Papiol (A)",
+    "start": "2026-04-19T10:00:00+02:00",
+    "end": "2026-04-19T11:30:00+02:00",
+    "description": "Competició esportiva: Futbol Prebenjamí S8 Masculí Peña Recreativa SF (A) - EB Papiol (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320912",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320912"
+  },
+  {
     "id": "santfeliu-3320691@agenda.santfeliu.local",
     "title": "Futbol sala Infantil Masculí Futsal SF (B) - CFS Sant Andreu de la Barca (B)",
     "start": "2026-04-19T10:20:00+02:00",
@@ -532,6 +700,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320789"
   },
   {
+    "id": "santfeliu-3320918@agenda.santfeliu.local",
+    "title": "Futbol Aleví S11 Masculí Peña Recreativa SF (A) - CF Vinyets Moli Vell (A)",
+    "start": "2026-04-19T11:30:00+02:00",
+    "end": "2026-04-19T13:00:00+02:00",
+    "description": "Competició esportiva: Futbol Aleví S11 Masculí Peña Recreativa SF (A) - CF Vinyets Moli Vell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320918",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320918"
+  },
+  {
+    "id": "santfeliu-3320915@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S9 Masculí Peña Recreativa SF (C) - CF Corbera (A)",
+    "start": "2026-04-19T11:30:00+02:00",
+    "end": "2026-04-19T13:00:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S9 Masculí Peña Recreativa SF (C) - CF Corbera (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320915",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320915"
+  },
+  {
     "id": "santfeliu-3320692@agenda.santfeliu.local",
     "title": "Futbol sala Cadet Masculí Futsal SF (A) - AECS L'Hospitalet (A)",
     "start": "2026-04-19T11:40:00+02:00",
@@ -574,6 +770,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3320583"
   },
   {
+    "id": "santfeliu-3320916@agenda.santfeliu.local",
+    "title": "Futbol Infantil S13 Masculí Peña Recreativa SF (A) - CF Mirasol Baco Unión (A)",
+    "start": "2026-04-19T13:00:00+02:00",
+    "end": "2026-04-19T15:00:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil S13 Masculí Peña Recreativa SF (A) - CF Mirasol Baco Unión (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320916",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320916"
+  },
+  {
     "id": "santfeliu-3320694@agenda.santfeliu.local",
     "title": "Futbol sala Cadet Masculí Futsal SF (C) - CFS Vilanova (C)",
     "start": "2026-04-19T13:00:00+02:00",
@@ -614,6 +824,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320728"
+  },
+  {
+    "id": "santfeliu-3320917@agenda.santfeliu.local",
+    "title": "Futbol Infantil S13 Masculí Peña Recreativa SF (B) - FC Casablanca (A)",
+    "start": "2026-04-19T15:00:00+02:00",
+    "end": "2026-04-19T16:30:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil S13 Masculí Peña Recreativa SF (B) - FC Casablanca (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320917",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320917"
   },
   {
     "id": "santfeliu-3320730@agenda.santfeliu.local",
@@ -827,10 +1051,10 @@
   },
   {
     "id": "santfeliu-3317890@agenda.santfeliu.local",
-    "title": "Sant Jordi: parades de roses i llibres, artesania i autors i autores locals",
+    "title": "Sant Jordi: Parades de roses i llibres, artesania i autors i autores locals",
     "start": "2026-04-23T10:00:00+02:00",
     "end": "2026-04-23T21:00:00+02:00",
-    "description": "Diada: Sant Jordi: parades de roses i llibres artesania i autors i autores locals\n\nParades de roses i llibres artesania i autors i autores locals\n\nTipus: Diada\nAdreça: Pl. Vila\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317890",
+    "description": "Diada: Sant Jordi: Parades de roses i llibres artesania i autors i autores locals\n\nParades de roses i llibres artesania i autors i autores locals\n\nTipus: Diada\nAdreça: Pl. Vila\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317890",
     "location": "Pl. Vila",
     "locationName": "",
     "address": "Pl. Vila",
@@ -910,20 +1134,6 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3289879"
   },
   {
-    "id": "santfeliu-3318383@agenda.santfeliu.local",
-    "title": "50è aniversari de l'Esplai Sant Llorenç (pendent autorització)",
-    "start": "2026-04-25T17:00:00+02:00",
-    "end": "2026-04-25T21:00:00+02:00",
-    "description": "Inauguracions homenatges aniversaris: 50è aniversari de l'Esplai Sant Llorenç (pendent autorització)\n\nExpedient G3792026000056\n\nTipus: Inauguracions, homenatges, aniversaris\nAdreça: C. Daoíz i Velarde 0007\nEnllaç: https://www.santfeliu.cat/esdeveniment/3318383",
-    "location": "C. Daoíz i Velarde 0007",
-    "locationName": "",
-    "address": "C. Daoíz i Velarde 0007",
-    "type": "Inauguracions, homenatges, aniversaris",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3318383"
-  },
-  {
     "id": "santfeliu-3320736@agenda.santfeliu.local",
     "title": "Balls amb música enllaunada",
     "start": "2026-04-25T17:00:00+02:00",
@@ -936,6 +1146,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320736"
+  },
+  {
+    "id": "santfeliu-3318383@agenda.santfeliu.local",
+    "title": "50è aniversari de l'Esplai Sant Llorenç (pendent autorització)",
+    "start": "2026-04-25T18:00:00+02:00",
+    "end": "2026-04-25T21:00:00+02:00",
+    "description": "Inauguracions homenatges aniversaris: 50è aniversari de l'Esplai Sant Llorenç (pendent autorització)\n\nExpedient G3792026000056\n\nTipus: Inauguracions, homenatges, aniversaris\nAdreça: C. Daoíz i Velarde 0007\nEnllaç: https://www.santfeliu.cat/esdeveniment/3318383",
+    "location": "C. Daoíz i Velarde 0007",
+    "locationName": "",
+    "address": "C. Daoíz i Velarde 0007",
+    "type": "Inauguracions, homenatges, aniversaris",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3318383"
   },
   {
     "id": "santfeliu-3314954@agenda.santfeliu.local",
@@ -1036,6 +1260,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3316990"
   },
   {
+    "id": "santfeliu-3320874@agenda.santfeliu.local",
+    "title": "Balls amb música enllaunada",
+    "start": "2026-05-02T17:00:00+02:00",
+    "end": "2026-05-02T20:00:00+02:00",
+    "description": "Balls danses: Balls amb música enllaunada\n\nTipus: Balls, danses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320874",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Balls, danses",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320874"
+  },
+  {
     "id": "santfeliu-3320482@agenda.santfeliu.local",
     "title": "II Escola de Salut Ansietat i depressio",
     "start": "2026-05-04T18:00:00+02:00",
@@ -1048,6 +1286,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320482"
+  },
+  {
+    "id": "santfeliu-3321009@agenda.santfeliu.local",
+    "title": "Escola de famílies Acompanyament en l'educació sexual",
+    "start": "2026-05-06T17:30:00+02:00",
+    "end": "2026-05-06T18:30:00+02:00",
+    "description": "Presentacions demostracions conferències xerrades...: Escola de famílies Acompanyament en l'educació sexual\n\nEscola de famílies Acompanyament en l'educació sexual En aquesta xerrada s'abordaran les principals característiques del desenvolupament dels i les adolescents així com l'educació en la diversitat sexual. També es tractaran els efectes nocius dels continguts pornogràfics i s'oferiran eines i recursos pràctics per acompanyar els nostres fills i filles en aquest procés. A càrrec de: Ajuntament de Sant Feliu de Llobregat Inscripcions: Cal inscripció prèvia enviat un mail a suportampas@santfeliu.cat Edat recomanada: mares i pares que tenen fills i filles adolescents de 12 a 14any\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321009",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321009"
   },
   {
     "id": "santfeliu-3304605@agenda.santfeliu.local",
@@ -1092,6 +1344,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3317720"
   },
   {
+    "id": "santfeliu-3321028@agenda.santfeliu.local",
+    "title": "Hora del conte Contes dins d'una ampolla",
+    "start": "2026-05-09T12:00:00+02:00",
+    "end": "2026-05-09T13:00:00+02:00",
+    "description": "Activitats Literàries: Hora del conte Contes dins d'una ampolla\n\nA cops d'onada la mar Mediterrània ens recorda que no som respectuosos amb el medi que estem maltractant el fons marí i que tot té un límit. Per sort les onades també ens porten històries i contes de molt lluny amb regust d'aigua salada que ens transportaran a l'intrigant món dels pirates A càrrec de: Santi Rovira Inscripcions: Entrada lliure Edat recomanada: a partir de 4 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321028",
+    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Infantil",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321028"
+  },
+  {
     "id": "santfeliu-3317730@agenda.santfeliu.local",
     "title": "Lliurament dels premis dels concursos de l'Exposició Nacional de Roses i guardons de participació en la mostra de façanes amb roses i jardins en miniatura.",
     "start": "2026-05-09T13:00:00+02:00",
@@ -1118,6 +1384,118 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3267353"
+  },
+  {
+    "id": "santfeliu-3320875@agenda.santfeliu.local",
+    "title": "Balls amb música enllaunada",
+    "start": "2026-05-09T17:00:00+02:00",
+    "end": "2026-05-09T20:00:00+02:00",
+    "description": "Balls danses: Balls amb música enllaunada\n\nTipus: Balls, danses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320875",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Balls, danses",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320875"
+  },
+  {
+    "id": "santfeliu-3320883@agenda.santfeliu.local",
+    "title": "Trobada de Cultures entre el Coro Rociero Roses de Sant Feliu i el grup Havaneres del Casal",
+    "start": "2026-05-10T17:00:00+02:00",
+    "end": "2026-05-10T19:00:00+02:00",
+    "description": "Concerts i audicions musicals: Trobada de Cultures entre el Coro Rociero Roses de Sant Feliu i el grup Havaneres del Casal\n\nTipus: Concerts i audicions musicals\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320883",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320883"
+  },
+  {
+    "id": "santfeliu-3321030@agenda.santfeliu.local",
+    "title": "Viatgem a ... Shanghai (Xina) Xerrada",
+    "start": "2026-05-11T00:00:00+02:00",
+    "end": "2026-05-11T20:30:00+02:00",
+    "description": "Presentacions demostracions conferències xerrades...: Viatgem a ... Shanghai (Xina) Xerrada\n\n¿Sanghai¿ o Xangai és la 5ena ciutat més poblada del món amb gairebé 30 milions d¿habitants i la segona més gran en extensió de la Xina. Després de les guerres de l¿opi va ser administrada per potencies europees i Japó com a port de lliure comerç i es va convertir en una ciutat de llegenda per cerca vides de tot el món a la desembocadura del riu Yangtsé. Veniu a descobrir l¿antiga París de l¿orient que avui dia té l'objectiu de desenvolupar-se com un centre financer i econòmic de classe mundial a la Xina i l'Àsia. Us convidem a conèixer una ciutat sorprenent i plena de llegendes.¿ A càrrec de: Joan Falcó Inscripció: Entrada lliure\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321030",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321030"
+  },
+  {
+    "id": "santfeliu-3321034@agenda.santfeliu.local",
+    "title": "PetitLab d'imatges i lletres",
+    "start": "2026-05-12T17:30:00+02:00",
+    "end": "2026-05-12T18:30:00+02:00",
+    "description": "Activitats Literàries: PetitLab d'imatges i lletres\n\nUn espai de trobada en família on els contes seran els protagonistes. Acompanyats de la Judith Navarro experta en mediació i educació literària i en un entorn acollidor i agradable compartirem moments de lectura plegats i descobrirem nous títols i nous models lectors que podrem gaudir en família. A càrrec de: Judith Navarro Inscripcions: a partir del 5 de maig per telèfon presencialment o a través del formulari https://forms.gle/LPRsuceDZTHDD8i49 Nombre màxim de participants: 15 infants (2 adults per unitat familiar) Edat recomanada: De 3 a 5 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321034",
+    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Infantil",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321034"
+  },
+  {
+    "id": "santfeliu-3321035@agenda.santfeliu.local",
+    "title": "Veus de la literatura catalana. Conversa amb... Sergi Pàmies",
+    "start": "2026-05-12T19:00:00+02:00",
+    "end": "2026-05-12T20:00:00+02:00",
+    "description": "Activitats Literàries: Veus de la literatura catalana. Conversa amb... Sergi Pàmies\n\nSergi Pàmies (París 1960) ha publicat en aquesta editorial els reculls de contes T¿hauria de caure la cara de vergonya Infecció La gran novel·la sobre Barcelona (Premi de la Crítica Serra d¿Or) L¿últim llibre de Sergi Pàmies Si menges una llimona sense fer ganyotes (premis Ciutat de Barcelona i Lletra d¿Or) La bicicleta estàtica (Premi Maria Àngels Anglada) Cançons d¿amor i de pluja L¿art de portar gavardina (Premi de la Crítica Serra d¿Or) i A les dues seran les tres a més de les novel·les La primera pedra (Premi Ícaro) L¿instint (Premi Prudenci Bertrana) i Sentimental. Traduït al castellà al francès a l¿alemany a l¿italià al grec a l¿anglès i al xinès també és autor de Confessions d¿un culer defectuós Premi Internacional de Periodisme Vázquez Montalbán i col·laborador en diversos mitjans de comunicació. Font: https://www.quadernscrema.com/persona/sergi-pamies/ A càrrec de: Sergi Pàmies. Modera: Jordi Nopca Inscripcions: Entrada lliure\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321035",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321035"
+  },
+  {
+    "id": "santfeliu-3321037@agenda.santfeliu.local",
+    "title": "Tertúlies filosòfiques Ètica nicomáquea d'Aristòtil",
+    "start": "2026-05-13T19:00:00+02:00",
+    "end": "2026-05-13T20:00:00+02:00",
+    "description": "Activitats Literàries: Tertúlies filosòfiques Ètica nicomáquea d'Aristòtil\n\nL'Ètica a Nicòmac sovint anomenada simplement l'Ètica és un tractat d'Aristòtil sobre la virtut i la moral que defineix l'ètica aristotèlica. Els deu llibres que comprèn estan basats en apunts de les seves lectures al Liceu i van ser o bé editats pel seu fill Nicòmac o bé dedicats a ell. A càrrec de: Pere Ruiz Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 20\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321037",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321037"
+  },
+  {
+    "id": "santfeliu-3321039@agenda.santfeliu.local",
+    "title": "Activitat infantil La biblioteca dels peluixos dormilegues",
+    "start": "2026-05-14T17:00:00+02:00",
+    "end": "2026-05-14T18:00:00+02:00",
+    "description": "Activitats Literàries: Activitat infantil La biblioteca dels peluixos dormilegues\n\nUna activitat tendra i divertida pensada per als més petits de casa: els infants vindran a la biblioteca un dijous a la tarda per deixar-nos el seu peluix o nino estimat que passarà una nit molt especial entre llibres i contes! Durant la nit els peluixos descobriran històries màgiques escolliran un llibre i¿abans d¿anar a dormir s¿endinsaran en la lectura. Quan l¿infant torni a buscar-lo l¿endemà el nino li haurà \"deixat\" un conte: aquell que ha triat i llegit durant la seva estada nocturna a la biblioteca. Perfer-ho encara més especial enviarem una fotografia del peluix dormint a la biblioteca durant la nit perquè els infants puguin veure què ha viscut la seva joguina. La inscripció es farà a través d¿un formulari online. Allà les famílies indicaran si l¿infant té alguna preferència de conte o bé si volen que nosaltres li recomanem una lectura pensada especialment per ell o ella. A càrrec d¿: Alea Ardunay i Elisabeth Morales Inscripcions: a partir 5 de maig per telèfon presencialment o a través del formulari https://forms.gle/58ZFtFcbZY5yQrB7A Edat recomanada: de 2 a 5 anys Nombre màxim de participants: 20\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321039",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321039"
+  },
+  {
+    "id": "santfeliu-3321046@agenda.santfeliu.local",
+    "title": "Club de lectura en anglès Housekeeping de Marilynne Robinson",
+    "start": "2026-05-14T18:30:00+02:00",
+    "end": "2026-05-14T19:30:00+02:00",
+    "description": "Activitats Literàries: Club de lectura en anglès Housekeeping de Marilynne Robinson\n\nAbandonada per una successió de familiars les germanes orfes Ruthie i Lucille es troben a la cura de la seva excèntrica tia Sylvie a la seva ciutat rural d'Idaho. Ruthie narra la història de les germanes mentre Lucille es mou cap al món i Ruth cau més enrere en el passat fosc de la seva pròpia família. A càrrec d' Ariane Amarantinis Strachan Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 20\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321046",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321046"
   },
   {
     "id": "santfeliu-3311647@agenda.santfeliu.local",
@@ -1148,6 +1526,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3314941"
   },
   {
+    "id": "santfeliu-3321050@agenda.santfeliu.local",
+    "title": "Storytime There's no place like space!",
+    "start": "2026-05-16T12:00:00+02:00",
+    "end": "2026-05-16T13:00:00+02:00",
+    "description": "Activitats Literàries: Storytime There's no place like space!\n\nLa història segueix en Dani una nena apassionada per l'espai que somia convertir-se en astronauta i en Marti un simpàtic alienígena del planeta Zuron que necessita ajuda per tornar a casa. Junts emprenen una aventura plena d'imaginació en què descobreixen que la seva nau espacial funciona amb un combustible molt especial! A càrrec de: Kids and Us Inscripcions: Entrada lliure Edat recomanada: Infants de 4 a 10 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321050",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321050"
+  },
+  {
+    "id": "santfeliu-3320876@agenda.santfeliu.local",
+    "title": "Balls amb música en DIRECTE i degustació de begudes",
+    "start": "2026-05-16T17:00:00+02:00",
+    "end": "2026-05-16T20:00:00+02:00",
+    "description": "Balls danses: Balls amb música en DIRECTE i degustació de begudes\n\nOrganitza: Associació de la Gent Gran.\n\nTipus: Balls, danses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320876",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Balls, danses",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320876"
+  },
+  {
     "id": "santfeliu-3300955@agenda.santfeliu.local",
     "title": "Visita guiada al Palau Falguera",
     "start": "2026-05-16T18:00:00+02:00",
@@ -1162,6 +1568,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3300955"
   },
   {
+    "id": "santfeliu-3321053@agenda.santfeliu.local",
+    "title": "Escola de Salut Més vida als anys",
+    "start": "2026-05-18T18:00:00+02:00",
+    "end": "2026-05-18T19:00:00+02:00",
+    "description": "Presentacions demostracions conferències xerrades...: Escola de Salut Més vida als anys\n\nL'Escola de Salut és un espai adreçat a persones majors de 60 anys per promoure hàbits saludables i fomentar l'envelliment actiu. Mitjançant xerrades i activitats s'ofereixen eines per cuidar la salut mantenir l'autonomia i millorar la qualitat de vida. Per a més informació adreceu-vos al vostre centre de salut de referència. A càrrec de: Equips d' atenció primària de Sant Feliu de Llobregat (EAP Rambla i EAP El Pla) Inscripcions: Entrada lliure\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321053",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321053"
+  },
+  {
+    "id": "santfeliu-3321054@agenda.santfeliu.local",
+    "title": "Llegir el teatre Èdip & Antígona de Carlota Subirós",
+    "start": "2026-05-18T19:00:00+02:00",
+    "end": "2026-05-18T20:00:00+02:00",
+    "description": "Activitats Literàries: Llegir el teatre Èdip & Antígona de Carlota Subirós\n\nEn aquesta versió lliure de les tres immenses tragèdies de Sòfocles (Èdip rei Èdip a Colonos i Antígona) viatgem al cor mateix de la nostra cultura al trasbals absolut de totes les certeses on enmig de les violències desfermades la veu d'Antígona clama amb força per la pietat per la dignitat humana per l'amor enlloc de l'odi. A càrrec de: Rosa Agulló Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 20\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321054",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321054"
+  },
+  {
     "id": "santfeliu-3309529@agenda.santfeliu.local",
     "title": "Trobada Local Lúdica d'Educació Infantil de I5",
     "start": "2026-05-19T09:00:00+02:00",
@@ -1174,6 +1608,90 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3309529"
+  },
+  {
+    "id": "santfeliu-3321088@agenda.santfeliu.local",
+    "title": "Club de lectura infantil L'estrella de les mones de Frida Nilsson",
+    "start": "2026-05-21T18:00:00+02:00",
+    "end": "2026-05-21T19:00:00+02:00",
+    "description": "Activitats Literàries: Club de lectura infantil L'estrella de les mones de Frida Nilsson\n\nLa Joana té 9 anys i ha viscut tota la vida en un orfenat. No hi ha res que desitgi més que l'abraçada dolça d'una mare que faci olor de colònia. Per això quan un dia apareix a l'orfenat una enorme goril·la disposada a adoptar-la ella s'amaga en l'última filera ben encongida perquè no pot deixar de pensar que potser els goril·les mengen nens. A càrrec de: Ruth Tormo Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 12 Edat recomanada: de 9 a 12 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321088",
+    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321088"
+  },
+  {
+    "id": "santfeliu-3321089@agenda.santfeliu.local",
+    "title": "Presentació de llibre Afrodita busca hotel",
+    "start": "2026-05-21T18:30:00+02:00",
+    "end": "2026-05-21T19:30:00+02:00",
+    "description": "Activitats Literàries: Presentació de llibre Afrodita busca hotel\n\nAfrodita busca hotel és el recull dels relats que conformen la quarta antologia del Racó de Dones Escriptores de Sant Joan Despí. Les diverses històries aconseguiran emocionar-nos. Les protagonistes són dones que conduïdes de la mà d'Afrodita (deessa grega de l'amor i la bellesa) es despullen passegen i escriuen sobre el romanticisme l'erotisme i hotels amb encant. Partint d'una situació molt precària quant a l'educació rebuda sobre l'art d'estimar de manera sensible i sensual ens recorden la importància de l'estima no només per a les persones ans també per a la cultura els objectes i el mateix planeta. A càrrec de: Racó de Dones Escriptores de Sant Joan Despí Inscripcions: Entrada lliure\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321089",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321089"
+  },
+  {
+    "id": "santfeliu-3320891@agenda.santfeliu.local",
+    "title": "3a Cursa ciclista Brevet de 300 Km",
+    "start": "2026-05-23T07:00:00+02:00",
+    "end": "2026-05-24T02:00:00+02:00",
+    "description": "Activitats Esportives: 3a Cursa ciclista Brevet de 300 Km\n\nSortida a les 08.00 del matí i arribada al llarg del cap de setmana. Organitza: Club Ciclista Sprint Bike.\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320891",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Activitats Esportives",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320891"
+  },
+  {
+    "id": "santfeliu-3320877@agenda.santfeliu.local",
+    "title": "Balls amb música enllaunada",
+    "start": "2026-05-23T17:00:00+02:00",
+    "end": "2026-05-23T20:00:00+02:00",
+    "description": "Balls danses: Balls amb música enllaunada\n\nTipus: Balls, danses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320877",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Balls, danses",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320877"
+  },
+  {
+    "id": "santfeliu-3320894@agenda.santfeliu.local",
+    "title": "3a Cursa ciclista Brevet de 300 Km",
+    "start": "2026-05-24T07:00:00+02:00",
+    "end": "2026-05-24T21:00:00+02:00",
+    "description": "Activitats Esportives: 3a Cursa ciclista Brevet de 300 Km\n\nArribada al llarg del cap de setmana. Organitza: Club Ciclista Sprint Bike.\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320894",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Activitats Esportives",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320894"
+  },
+  {
+    "id": "santfeliu-3320879@agenda.santfeliu.local",
+    "title": "Ball amb música en DIRECTE",
+    "start": "2026-05-24T17:00:00+02:00",
+    "end": "2026-05-24T20:00:00+02:00",
+    "description": "Balls danses: Ball amb música en DIRECTE\n\nTipus: Balls, danses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320879",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Balls, danses",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320879"
   },
   {
     "id": "santfeliu-3270176@agenda.santfeliu.local",
@@ -1204,6 +1722,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3270186"
   },
   {
+    "id": "santfeliu-3321092@agenda.santfeliu.local",
+    "title": "Club de lectura en francès Chanson douce de Leïla Slimani",
+    "start": "2026-05-26T19:00:00+02:00",
+    "end": "2026-05-26T20:00:00+02:00",
+    "description": "Activitats Literàries: Club de lectura en francès Chanson douce de Leïla Slimani\n\nUn thriller inquietant sobre una família que contracta una mainadera per cuidar els seus fills mentre els pares treballen. En principi la Louise és una gran ajuda amb els nens la Mila i l'Adam que accepten la seva cuidadora immediatament i es converteix en una peça clau del dia a dia de la família. Lentament però aquesta situació idílica deriva en un horror de terribles conseqüències. A càrrec de: Mercè Sans Inscripcions: Activitat amb inscripció (complert)\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321092",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321092"
+  },
+  {
     "id": "santfeliu-3270187@agenda.santfeliu.local",
     "title": "Activitat EMM - Sala dels Austries",
     "start": "2026-05-27T16:00:00+02:00",
@@ -1216,6 +1748,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270187"
+  },
+  {
+    "id": "santfeliu-3321095@agenda.santfeliu.local",
+    "title": "Club de lectura dels dimecres Como si todo hubiera pasado : veinte años de relatos sobre el conflicto vasco de Iban Zaldua",
+    "start": "2026-05-27T19:00:00+02:00",
+    "end": "2026-05-27T20:00:00+02:00",
+    "description": "Activitats Literàries: Club de lectura dels dimecres Como si todo hubiera pasado : veinte años de relatos sobre el conflicto vasco de Iban Zaldua\n\nEl present volum recull 42 contes escrits entre 1999 i 2018 sobre el conflicte basc o el que Zaldua i els seus amics diuen La Cosa. Escrits en basc molts d'ells es publiquen ara per primera vegada en espanyol traduïts pel mateix autor. A càrrec de: Maite Roldán Inscripcions: Activitat amb inscripció (complert)\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321095",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3321095"
   },
   {
     "id": "santfeliu-3270188@agenda.santfeliu.local",
@@ -1244,6 +1790,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270173"
+  },
+  {
+    "id": "santfeliu-3320878@agenda.santfeliu.local",
+    "title": "Balls amb música enllaunada",
+    "start": "2026-05-30T17:00:00+02:00",
+    "end": "2026-05-30T20:00:00+02:00",
+    "description": "Balls danses: Balls amb música enllaunada\n\nTipus: Balls, danses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320878",
+    "location": "Casal Municipal de la Gent Gran - C. Pi i Margall 0045 BX",
+    "locationName": "Casal Municipal de la Gent Gran",
+    "address": "C. Pi i Margall 0045 BX",
+    "type": "Balls, danses",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3320878"
   },
   {
     "id": "santfeliu-3270174@agenda.santfeliu.local",
