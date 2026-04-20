@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3316985@agenda.santfeliu.local",
-    "title": "II Escola de Salut El document de voluntats anticipades",
-    "start": "2026-04-20T18:00:00+02:00",
-    "end": "2026-04-20T19:30:00+02:00",
-    "description": "Reunions i debats ciutadans: II Escola de Salut El document de voluntats anticipades\n\nL'Escola de Salut és un espai adreçat a persones majors de 60 anys per promoure hàbits saludables i fomentar l'envelliment actiu. Mitjançant xerrades i activitats s'ofereixen eines per cuidar la salut mantenir l'autonomia i millorar la qualitat de vida. En aquesta sessió assistirema una xerrada sobre el document de voluntats anticipades on s'explicarà què és per a què serveix i com es pot formalitzar A càrrec de: Dra. Carmen Prieto Inscripcions: Entrada lliure Lloc: Joana Raspall\n\nTipus: Reunions i debats ciutadans\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3316985",
-    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Reunions i debats ciutadans",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3316985"
-  },
-  {
     "id": "santfeliu-3309528@agenda.santfeliu.local",
     "title": "Trobada Local de Jocs Cooperatius 1r Primària",
     "start": "2026-04-21T09:00:00+02:00",
@@ -992,5 +978,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3301797"
+  },
+  {
+    "id": "santfeliu-3270194@agenda.santfeliu.local",
+    "title": "Activitat EMM - Terrasses",
+    "start": "2026-06-18T17:00:00+02:00",
+    "end": "2026-06-18T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM - Terrasses\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Terrasses de les Sales Nobles\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270194",
+    "location": "Palau Falguera - Terrasses de les Sales Nobles - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Terrasses de les Sales Nobles",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3270194"
   }
 ]
