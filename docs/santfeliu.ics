@@ -5,45 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:PREPARA'T! Supera entrevistes i prepara una presentació exprés.
-DTSTART;TZID=Europe/Madrid:20260504T090000
-DTEND;TZID=Europe/Madrid:20260504T113000
-DTSTAMP:20260503T063635Z
-UID:santfeliu-3323408@agenda.santfeliu.local
-DESCRIPTION:Taller: PREPARA'T! Supera entrevistes i prepara una presentaci
- ó exprés.\n\nSupera les preguntes clau de les entrevistes de feina i pre
- para la teva presentació exprés en un Speed Job Dating simulat.\n\nTipus
- : Taller\nLloc: Casal de Joves - Sala d'estudi\nAdreça: Ctra. Laureà Mir
- ó 0118 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3323408
-LOCATION:Casal de Joves - Sala d'estudi - Ctra. Laureà Miró 0118 BX
-URL:https://www.santfeliu.cat/esdeveniment/3323408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:II Escola de Salut Ansietat i depressio
-DTSTART;TZID=Europe/Madrid:20260504T180000
-DTEND;TZID=Europe/Madrid:20260504T193000
-DTSTAMP:20260503T063635Z
-UID:santfeliu-3320482@agenda.santfeliu.local
-DESCRIPTION:Reunions i debats ciutadans: II Escola de Salut Ansietat i dep
- ressio\n\nL'Escola de Salut és un espai adreçat a persones majors de 60 
- anys per promoure hàbits saludables i fomentar l'envelliment actiu. Mitja
- nçant xerrades i activitats s'ofereixen eines per cuidar la salut manteni
- r l'autonomia i millorar la qualitat de vida. En aquesta sessió assistire
- ma una xerrada sobre el document de voluntats anticipades on s'explicarà 
- què és per a què serveix i com es pot formalitzar A càrrec de: Dra. Ca
- rmen Prieto Inscripcions: Entrada lliure Lloc: Joana Raspall\n\nTipus: Reu
- nions i debats ciutadans\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nA
- dreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.
- cat/esdeveniment/3320482
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3320482
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CONNECTA! Taller Donnecta amb les empreses Linkedin
 DTSTART;TZID=Europe/Madrid:20260505T090000
 DTEND;TZID=Europe/Madrid:20260505T113000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3323411@agenda.santfeliu.local
 DESCRIPTION:Taller: CONNECTA! Taller Donnecta amb les empreses Linkedin\n\
  nConnecta amb les empreses a través de la xarxa Linkedin.\n\nTipus: Talle
@@ -56,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:PRACTICA! Simulació d'entrevistes de feina amb IA
 DTSTART;TZID=Europe/Madrid:20260506T090000
 DTEND;TZID=Europe/Madrid:20260506T113000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3323412@agenda.santfeliu.local
 DESCRIPTION:Taller: PRACTICA! Simulació d'entrevistes de feina amb IA\n\n
  Taller pràctic amb un simulador d'entrevistes per preparar i entrenar la 
@@ -70,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Escola de famílies Acompanyament en l'educació sexual
 DTSTART;TZID=Europe/Madrid:20260506T173000
 DTEND;TZID=Europe/Madrid:20260506T183000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321009@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Escola 
  de famílies Acompanyament en l'educació sexual\n\nEscola de famílies Ac
@@ -93,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:ACTÚA! Prepara't per l'èxit al Girafeina.
 DTSTART;TZID=Europe/Madrid:20260507T090000
 DTEND;TZID=Europe/Madrid:20260507T113000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3323413@agenda.santfeliu.local
 DESCRIPTION:Taller: ACTÚA! Prepara't per l'èxit al Girafeina.\n\nInforma
  ció actualitzada inscripció a les ofertes de la Fira decàleg i consells
@@ -108,7 +73,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF (C) - Club Peta
  nca Sant Joan Despí (B)
 DTSTART;TZID=Europe/Madrid:20260507T100000
 DTEND;TZID=Europe/Madrid:20260507T120000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3304605@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF (C) - Club Petanca Sant Joan Despí (B)\n\nTipus: Competició 
@@ -121,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Fira d'Ocupació: Girafeina
 DTSTART;TZID=Europe/Madrid:20260508T093000
 DTEND;TZID=Europe/Madrid:20260508T143000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3323445@agenda.santfeliu.local
 DESCRIPTION:Fires i mercats: Fira d'Ocupació: Girafeina\n\nTipus: Fires i
   mercats\nLloc: Casal de Joves - Sala arts plàstiques\nAdreça: Ctra. Lau
@@ -135,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Inauguració de l'Espai Institucional
 DTSTART;TZID=Europe/Madrid:20260508T190000
 DTEND;TZID=Europe/Madrid:20260508T203000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3315726@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Inauguració de l'Espai Institucional\n\n
  Tipus: Festes de primavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anse
@@ -147,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Donació de Sang: Toca donar sang\, toca rebre vida.
 DTSTART;TZID=Europe/Madrid:20260509T100000
 DTEND;TZID=Europe/Madrid:20260509T140000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3323446@agenda.santfeliu.local
 DESCRIPTION:Campanya: Donació de Sang: Toca donar sang toca rebre vida.\n
  \nTipus: Campanya\nLloc: Casal de Joves - Sala d'actes Pep Altayó\nAdreç
@@ -161,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Espai Institucional
 DTSTART;TZID=Europe/Madrid:20260509T100000
 DTEND;TZID=Europe/Madrid:20260509T133000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3322240@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Espai Institucional\n\nTipus: Festes de p
  rimavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEn
@@ -173,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Activitats lúdiques infantils i familiars
 DTSTART;TZID=Europe/Madrid:20260509T110000
 DTEND;TZID=Europe/Madrid:20260509T140000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3317720@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Activitats lúdiques infantils i familiar
  s\n\nTaller: "Les polseres de les emocions" adreçat a infants de 7 a 12 a
@@ -188,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Hora del conte Contes dins d'una ampolla
 DTSTART;TZID=Europe/Madrid:20260509T120000
 DTEND;TZID=Europe/Madrid:20260509T130000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321028@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Hora del conte Contes dins d'una ampol
  la\n\nA cops d'onada la mar Mediterrània ens recorda que no som respectuo
@@ -208,7 +173,7 @@ SUMMARY:Lliurament dels premis dels concursos de l'Exposició Nacional de
  dins en miniatura.
 DTSTART;TZID=Europe/Madrid:20260509T130000
 DTEND;TZID=Europe/Madrid:20260509T140000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3317730@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Lliurament dels premis dels concursos de 
  l'Exposició Nacional de Roses i guardons de participació en la mostra de
@@ -222,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Pueblo Nuevo 2002
 DTSTART;TZID=Europe/Madrid:20260509T153000
 DTEND;TZID=Europe/Madrid:20260509T173000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3267353@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Pueblo Nuevo 2002\n\nTipus: Competició esportiva\nLloc: Camp de 
@@ -235,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Balls amb música enllaunada
 DTSTART;TZID=Europe/Madrid:20260509T170000
 DTEND;TZID=Europe/Madrid:20260509T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320875@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Balls amb música enllaunada\n\nTipus: Balls\, d
  anses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 004
@@ -247,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Donació de Sang: Toca donar sang\, toca rebre vida.
 DTSTART;TZID=Europe/Madrid:20260509T170000
 DTEND;TZID=Europe/Madrid:20260509T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3323447@agenda.santfeliu.local
 DESCRIPTION:Campanya: Donació de Sang: Toca donar sang toca rebre vida.\n
  \nTipus: Campanya\nLloc: Casal de Joves - Sala d'actes Pep Altayó\nAdreç
@@ -261,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Espai Institucional
 DTSTART;TZID=Europe/Madrid:20260509T170000
 DTEND;TZID=Europe/Madrid:20260509T203000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3322241@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Espai Institucional\n\nTipus: Festes de p
  rimavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEn
@@ -273,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Espai Institucional
 DTSTART;TZID=Europe/Madrid:20260510T100000
 DTEND;TZID=Europe/Madrid:20260510T133000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3322244@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Espai Institucional\n\nTipus: Festes de p
  rimavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEn
@@ -285,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Espai Institucional
 DTSTART;TZID=Europe/Madrid:20260510T170000
 DTEND;TZID=Europe/Madrid:20260510T203000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3322243@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Espai Institucional\n\nTipus: Festes de p
  rimavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEn
@@ -298,7 +263,7 @@ SUMMARY:Trobada de Cultures entre el Coro Rociero Roses de Sant Feliu i el
   grup Havaneres del Casal
 DTSTART;TZID=Europe/Madrid:20260510T170000
 DTEND;TZID=Europe/Madrid:20260510T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320883@agenda.santfeliu.local
 DESCRIPTION:Festes de primavera: Trobada de Cultures entre el Coro Rociero
   Roses de Sant Feliu i el grup Havaneres del Casal\n\nTipus: Festes de pri
@@ -311,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Viatgem a ... Shanghai (Xina) Xerrada
 DTSTART;TZID=Europe/Madrid:20260511T000000
 DTEND;TZID=Europe/Madrid:20260511T203000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321030@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Viatgem
   a ... Shanghai (Xina) Xerrada\n\n¿Sanghai¿ o Xangai és la 5ena ciutat 
@@ -335,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:PetitLab d'imatges i lletres
 DTSTART;TZID=Europe/Madrid:20260512T173000
 DTEND;TZID=Europe/Madrid:20260512T183000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321034@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: PetitLab d'imatges i lletres\n\nUn esp
  ai de trobada en família on els contes seran els protagonistes. Acompanya
@@ -355,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Veus de la literatura catalana. Conversa amb... Sergi Pàmies
 DTSTART;TZID=Europe/Madrid:20260512T190000
 DTEND;TZID=Europe/Madrid:20260512T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321035@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Veus de la literatura catalana. Conver
  sa amb... Sergi Pàmies\n\nSergi Pàmies (París 1960) ha publicat en aque
@@ -383,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Tertúlies filosòfiques Ètica nicomáquea d'Aristòtil
 DTSTART;TZID=Europe/Madrid:20260513T190000
 DTEND;TZID=Europe/Madrid:20260513T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321037@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Tertúlies filosòfiques Ètica nicom
  áquea d'Aristòtil\n\nL'Ètica a Nicòmac sovint anomenada simplement l'
@@ -403,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat infantil La biblioteca dels peluixos dormilegues
 DTSTART;TZID=Europe/Madrid:20260514T170000
 DTEND;TZID=Europe/Madrid:20260514T180000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321039@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Activitat infantil La biblioteca dels 
  peluixos dormilegues\n\nUna activitat tendra i divertida pensada per als m
@@ -433,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en anglès Housekeeping de Marilynne Robinson
 DTSTART;TZID=Europe/Madrid:20260514T183000
 DTEND;TZID=Europe/Madrid:20260514T193000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321046@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en anglès Housekeepin
  g de Marilynne Robinson\n\nAbandonada per una successió de familiars les 
@@ -453,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Concurs LGTBIQ+ organitzat per Tiresias Asociación
 DTSTART;TZID=Europe/Madrid:20260515T120000
 DTEND;TZID=Europe/Madrid:20260515T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3311647@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: Concurs LGTBIQ+ organitzat per Tiresias
   Asociación\n\nTipus: Espectacles\, festivals\nLloc: Sala Ibèria\nAdreç
@@ -466,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Storytime There's no place like space!
 DTSTART;TZID=Europe/Madrid:20260516T120000
 DTEND;TZID=Europe/Madrid:20260516T130000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321050@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Storytime There's no place like space!
  \n\nLa història segueix en Dani una nena apassionada per l'espai que somi
@@ -486,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Balls amb música en DIRECTE i degustació de begudes
 DTSTART;TZID=Europe/Madrid:20260516T170000
 DTEND;TZID=Europe/Madrid:20260516T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320876@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Balls amb música en DIRECTE i degustació de be
  gudes\n\nOrganitza: Associació de la Gent Gran.\n\nTipus: Balls\, danses\
@@ -499,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Visita guiada al Palau Falguera
 DTSTART;TZID=Europe/Madrid:20260516T180000
 DTEND;TZID=Europe/Madrid:20260516T193000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3300955@agenda.santfeliu.local
 DESCRIPTION:Excursions visites sortides recorreguts: Visita guiada al Pala
  u Falguera\n\nInscripció prèvia obligatòria a activitats@ateneusantfeli
@@ -514,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Escola de Salut Més vida als anys
 DTSTART;TZID=Europe/Madrid:20260518T180000
 DTEND;TZID=Europe/Madrid:20260518T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321053@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Escola 
  de Salut Més vida als anys\n\nL'Escola de Salut és un espai adreçat a p
@@ -535,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Llegir el teatre Èdip & Antígona de Carlota Subirós
 DTSTART;TZID=Europe/Madrid:20260518T190000
 DTEND;TZID=Europe/Madrid:20260518T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321054@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Llegir el teatre Èdip & Antígona de 
  Carlota Subirós\n\nEn aquesta versió lliure de les tres immenses tragèd
@@ -555,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:Trobada Local Lúdica d'Educació Infantil de I5
 DTSTART;TZID=Europe/Madrid:20260519T090000
 DTEND;TZID=Europe/Madrid:20260519T123000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3309529@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Local Lúdica d'Educació Infan
  til de I5\n\nTipus: Activitats Esportives\nLloc: Camp de Futbol Municipal 
@@ -568,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura infantil L'estrella de les mones de Frida Nilsson
 DTSTART;TZID=Europe/Madrid:20260521T180000
 DTEND;TZID=Europe/Madrid:20260521T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321088@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura infantil L'estrella de
   les mones de Frida Nilsson\n\nLa Joana té 9 anys i ha viscut tota la vid
@@ -589,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Presentació de llibre Afrodita busca hotel
 DTSTART;TZID=Europe/Madrid:20260521T183000
 DTEND;TZID=Europe/Madrid:20260521T193000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321089@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Presentació de llibre Afrodita busca 
  hotel\n\nAfrodita busca hotel és el recull dels relats que conformen la q
@@ -613,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:3a Cursa ciclista Brevet de 300 Km
 DTSTART;TZID=Europe/Madrid:20260523T070000
 DTEND;TZID=Europe/Madrid:20260524T020000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320891@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 3a Cursa ciclista Brevet de 300 Km\n\nS
  ortida a les 08.00 del matí i arribada al llarg del cap de setmana. Organ
@@ -628,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:Balls amb música enllaunada
 DTSTART;TZID=Europe/Madrid:20260523T170000
 DTEND;TZID=Europe/Madrid:20260523T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320877@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Balls amb música enllaunada\n\nTipus: Balls\, d
  anses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 004
@@ -640,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:3a Cursa ciclista Brevet de 300 Km
 DTSTART;TZID=Europe/Madrid:20260524T070000
 DTEND;TZID=Europe/Madrid:20260524T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320894@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 3a Cursa ciclista Brevet de 300 Km\n\nA
  rribada al llarg del cap de setmana. Organitza: Club Ciclista Sprint Bike.
@@ -655,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Ball amb música en DIRECTE
 DTSTART;TZID=Europe/Madrid:20260524T170000
 DTEND;TZID=Europe/Madrid:20260524T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320879@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Ball amb música en DIRECTE\n\nTipus: Balls\, da
  nses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 0045
@@ -667,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260525T160000
 DTEND;TZID=Europe/Madrid:20260525T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270176@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -680,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260526T160000
 DTEND;TZID=Europe/Madrid:20260526T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270186@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -693,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Chanson douce de Leïla Slimani
 DTSTART;TZID=Europe/Madrid:20260526T190000
 DTEND;TZID=Europe/Madrid:20260526T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321092@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Chanson do
  uce de Leïla Slimani\n\nUn thriller inquietant sobre una família que con
@@ -714,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260527T160000
 DTEND;TZID=Europe/Madrid:20260527T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270187@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -728,7 +693,7 @@ SUMMARY:Club de lectura dels dimecres Como si todo hubiera pasado : veinte
   años de relatos sobre el conflicto vasco de Iban Zaldua
 DTSTART;TZID=Europe/Madrid:20260527T190000
 DTEND;TZID=Europe/Madrid:20260527T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3321095@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimecres Como si 
  todo hubiera pasado : veinte años de relatos sobre el conflicto vasco de 
@@ -747,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260528T160000
 DTEND;TZID=Europe/Madrid:20260528T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270188@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -760,7 +725,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Puntual
 DTSTART;TZID=Europe/Madrid:20260529T160000
 DTEND;TZID=Europe/Madrid:20260529T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270173@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual\n\nActi
  vitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau F
@@ -773,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:Balls amb música enllaunada
 DTSTART;TZID=Europe/Madrid:20260530T170000
 DTEND;TZID=Europe/Madrid:20260530T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3320878@agenda.santfeliu.local
 DESCRIPTION:Balls danses: Balls amb música enllaunada\n\nTipus: Balls\, d
  anses\nLloc: Casal Municipal de la Gent Gran\nAdreça: C. Pi i Margall 004
@@ -785,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Puntual Auditori
 DTSTART;TZID=Europe/Madrid:20260601T090000
 DTEND;TZID=Europe/Madrid:20260601T140000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270174@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual Auditor
  i\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc
@@ -798,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Auditori-Puntual
 DTSTART;TZID=Europe/Madrid:20260601T160000
 DTEND;TZID=Europe/Madrid:20260601T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270153@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Auditori-Puntua
  l\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Fa
@@ -811,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260601T170000
 DTEND;TZID=Europe/Madrid:20260601T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270189@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -824,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Puntual Auditori
 DTSTART;TZID=Europe/Madrid:20260602T090000
 DTEND;TZID=Europe/Madrid:20260602T140000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270175@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Puntual Auditor
  i\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc
@@ -837,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260602T170000
 DTEND;TZID=Europe/Madrid:20260602T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270190@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -850,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de plasma
 DTSTART;TZID=Europe/Madrid:20260605T163000
 DTEND;TZID=Europe/Madrid:20260605T203000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3301798@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc
  : Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://w
@@ -863,7 +828,7 @@ SUMMARY:Dimartsalut. Xerrada-taller. Descobrim els aliments de la temporad
  a primavera/estiu
 DTSTART;TZID=Europe/Madrid:20260609T180000
 DTEND;TZID=Europe/Madrid:20260609T193000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3308415@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Dimarts
  alut. Xerrada-taller. Descobrim els aliments de la temporada primavera/est
@@ -879,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Sala dels Austries
 DTSTART;TZID=Europe/Madrid:20260612T160000
 DTEND;TZID=Europe/Madrid:20260612T190000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270191@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Sala dels Austr
  ies\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau 
@@ -892,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Terrasses
 DTSTART;TZID=Europe/Madrid:20260612T160000
 DTEND;TZID=Europe/Madrid:20260612T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270193@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Terrasses\n\nAc
  tivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera 
@@ -906,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260617T170000
 DTEND;TZID=Europe/Madrid:20260617T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3301797@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -918,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Terrasses
 DTSTART;TZID=Europe/Madrid:20260618T170000
 DTEND;TZID=Europe/Madrid:20260618T210000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3270194@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Terrasses\n\nAc
  tivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera 
@@ -932,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:ENTREGA PREMIS RELATS BREUS PER A DONES JOANA RASPALL
 DTSTART;TZID=Europe/Madrid:20260701T173000
 DTEND;TZID=Europe/Madrid:20260701T200000
-DTSTAMP:20260503T063635Z
+DTSTAMP:20260504T065232Z
 UID:santfeliu-3319064@agenda.santfeliu.local
 DESCRIPTION:Lliurament de premi: ENTREGA PREMIS RELATS BREUS PER A DONES J
  OANA RASPALL\n\nTipus: Lliurament de premi\nLloc: Ajuntament - 01 - Sala d
