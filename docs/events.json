@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3323411@agenda.santfeliu.local",
-    "title": "CONNECTA! Taller Donnecta amb les empreses Linkedin",
-    "start": "2026-05-05T09:00:00+02:00",
-    "end": "2026-05-05T11:30:00+02:00",
-    "description": "Taller: CONNECTA! Taller Donnecta amb les empreses Linkedin\n\nConnecta amb les empreses a través de la xarxa Linkedin.\n\nTipus: Taller\nLloc: Casal de Joves - Sala Croma\nAdreça: Ctra. Laureà Miró 0118 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3323411",
-    "location": "Casal de Joves - Sala Croma - Ctra. Laureà Miró 0118 BX",
-    "locationName": "Casal de Joves - Sala Croma",
-    "address": "Ctra. Laureà Miró 0118 BX",
-    "type": "Taller",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3323411"
-  },
-  {
     "id": "santfeliu-3323412@agenda.santfeliu.local",
     "title": "PRACTICA! Simulació d'entrevistes de feina amb IA",
     "start": "2026-05-06T09:00:00+02:00",
@@ -74,9 +60,9 @@
     "title": "Fira d'Ocupació: Girafeina",
     "start": "2026-05-08T09:30:00+02:00",
     "end": "2026-05-08T14:30:00+02:00",
-    "description": "Fires i mercats: Fira d'Ocupació: Girafeina\n\nTipus: Fires i mercats\nLloc: Casal de Joves - Sala arts plàstiques\nAdreça: Ctra. Laureà Miró 0118 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3323445",
-    "location": "Casal de Joves - Sala arts plàstiques - Ctra. Laureà Miró 0118 BX",
-    "locationName": "Casal de Joves - Sala arts plàstiques",
+    "description": "Fires i mercats: Fira d'Ocupació: Girafeina\n\nTipus: Fires i mercats\nLloc: Casal de Joves - Sala Croma\nAdreça: Ctra. Laureà Miró 0118 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3323445",
+    "location": "Casal de Joves - Sala Croma - Ctra. Laureà Miró 0118 BX",
+    "locationName": "Casal de Joves - Sala Croma",
     "address": "Ctra. Laureà Miró 0118 BX",
     "type": "Fires i mercats",
     "free": "",
@@ -84,9 +70,23 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3323445"
   },
   {
+    "id": "santfeliu-3324288@agenda.santfeliu.local",
+    "title": "Pregó de la Rosa a càrrec de l'equip Absolut Femení de Waterpolo del Club Natació Sant Feliu",
+    "start": "2026-05-08T18:00:00+02:00",
+    "end": "2026-05-08T18:40:00+02:00",
+    "description": "Festes de primavera: Pregó de la Rosa a càrrec de l'equip Absolut Femení de Waterpolo del Club Natació Sant Feliu\n\nLloc Pl. Lluís Companys\n\nTipus: Festes de primavera\nAdreça: Pl. Lluís Companys 0001\nEnllaç: https://www.santfeliu.cat/esdeveniment/3324288",
+    "location": "Pl. Lluís Companys 0001",
+    "locationName": "",
+    "address": "Pl. Lluís Companys 0001",
+    "type": "Festes de primavera",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3324288"
+  },
+  {
     "id": "santfeliu-3315726@agenda.santfeliu.local",
     "title": "Inauguració de l'Espai Institucional",
-    "start": "2026-05-08T19:00:00+02:00",
+    "start": "2026-05-08T19:30:00+02:00",
     "end": "2026-05-08T20:30:00+02:00",
     "description": "Festes de primavera: Inauguració de l'Espai Institucional\n\nTipus: Festes de primavera\nLloc: La Nau de Can Bertrand\nAdreça: C. Anselm Clavé 0011\nEnllaç: https://www.santfeliu.cat/esdeveniment/3315726",
     "location": "La Nau de Can Bertrand - C. Anselm Clavé 0011",
@@ -127,10 +127,10 @@
   },
   {
     "id": "santfeliu-3317720@agenda.santfeliu.local",
-    "title": "Activitats lúdiques infantils i familiars",
+    "title": "Activitats lúdiques infantils i familiars. Espai Salut Mental",
     "start": "2026-05-09T11:00:00+02:00",
     "end": "2026-05-09T14:00:00+02:00",
-    "description": "Festes de primavera: Activitats lúdiques infantils i familiars\n\nTaller: \"Les polseres de les emocions\" adreçat a infants de 7 a 12 anys i les seves famílies A càrrec dels membres del Club Social Nou Camí (Germanes Hospitalàries de Sant Joan de Déu)\n\nTipus: Festes de primavera\nAdreça: Pl. Lluís Companys 0001 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317720",
+    "description": "Festes de primavera: Activitats lúdiques infantils i familiars. Espai Salut Mental\n\nTaller: \"Les polseres de les emocions\" adreçat a infants de 7 a 12 anys i les seves famílies A càrrec dels membres del Club Social Nou Camí (Germanes Hospitalàries de Sant Joan de Déu)\n\nTipus: Festes de primavera\nAdreça: Pl. Lluís Companys 0001 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3317720",
     "location": "Pl. Lluís Companys 0001 BX 02",
     "locationName": "",
     "address": "Pl. Lluís Companys 0001 BX 02",
@@ -222,6 +222,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3322241"
+  },
+  {
+    "id": "santfeliu-3324269@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Femení Club Voleibol SF - CV Canet (B)",
+    "start": "2026-05-09T20:00:00+02:00",
+    "end": "2026-05-09T22:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Sènior Femení Club Voleibol SF - CV Canet (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3324269",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3324269"
   },
   {
     "id": "santfeliu-3322244@agenda.santfeliu.local",
