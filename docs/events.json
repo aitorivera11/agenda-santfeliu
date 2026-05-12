@@ -1,33 +1,5 @@
 [
   {
-    "id": "santfeliu-3321034@agenda.santfeliu.local",
-    "title": "PetitLab d'imatges i lletres",
-    "start": "2026-05-12T17:30:00+02:00",
-    "end": "2026-05-12T18:30:00+02:00",
-    "description": "Activitats Literàries: PetitLab d'imatges i lletres\n\nUn espai de trobada en família on els contes seran els protagonistes. Acompanyats de la Judith Navarro experta en mediació i educació literària i en un entorn acollidor i agradable compartirem moments de lectura plegats i descobrirem nous títols i nous models lectors que podrem gaudir en família. A càrrec de: Judith Navarro Inscripcions: a partir del 5 de maig per telèfon presencialment o a través del formulari https://forms.gle/LPRsuceDZTHDD8i49 Nombre màxim de participants: 15 infants (2 adults per unitat familiar) Edat recomanada: De 3 a 5 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321034",
-    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Infantil",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3321034"
-  },
-  {
-    "id": "santfeliu-3321035@agenda.santfeliu.local",
-    "title": "Veus de la literatura catalana. Conversa amb... Sergi Pàmies",
-    "start": "2026-05-12T19:00:00+02:00",
-    "end": "2026-05-12T20:00:00+02:00",
-    "description": "Activitats Literàries: Veus de la literatura catalana. Conversa amb... Sergi Pàmies\n\nSergi Pàmies (París 1960) ha publicat en aquesta editorial els reculls de contes T¿hauria de caure la cara de vergonya Infecció La gran novel·la sobre Barcelona (Premi de la Crítica Serra d¿Or) L¿últim llibre de Sergi Pàmies Si menges una llimona sense fer ganyotes (premis Ciutat de Barcelona i Lletra d¿Or) La bicicleta estàtica (Premi Maria Àngels Anglada) Cançons d¿amor i de pluja L¿art de portar gavardina (Premi de la Crítica Serra d¿Or) i A les dues seran les tres a més de les novel·les La primera pedra (Premi Ícaro) L¿instint (Premi Prudenci Bertrana) i Sentimental. Traduït al castellà al francès a l¿alemany a l¿italià al grec a l¿anglès i al xinès també és autor de Confessions d¿un culer defectuós Premi Internacional de Periodisme Vázquez Montalbán i col·laborador en diversos mitjans de comunicació. Font: https://www.quadernscrema.com/persona/sergi-pamies/ A càrrec de: Sergi Pàmies. Modera: Jordi Nopca Inscripcions: Entrada lliure\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321035",
-    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3321035"
-  },
-  {
     "id": "santfeliu-3321037@agenda.santfeliu.local",
     "title": "Tertúlies filosòfiques Ètica nicomáquea d'Aristòtil",
     "start": "2026-05-13T19:00:00+02:00",
@@ -84,6 +56,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3311647"
   },
   {
+    "id": "santfeliu-3325278@agenda.santfeliu.local",
+    "title": "Waterpolo Aleví Masculí Club Natació SF - CN Vallirana",
+    "start": "2026-05-16T09:00:00+02:00",
+    "end": "2026-05-16T10:00:00+02:00",
+    "description": "Competició esportiva: Waterpolo Aleví Masculí Club Natació SF - CN Vallirana\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3325278",
+    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
+    "locationName": "Complex Municipal de Piscines",
+    "address": "C. Verge de Montserrat 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3325278"
+  },
+  {
     "id": "santfeliu-3321050@agenda.santfeliu.local",
     "title": "Storytime There's no place like space!",
     "start": "2026-05-16T12:00:00+02:00",
@@ -124,6 +110,62 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3300955"
+  },
+  {
+    "id": "santfeliu-3325280@agenda.santfeliu.local",
+    "title": "Waterpolo Infantil Femení Club Natació SF - CN Badia",
+    "start": "2026-05-16T18:30:00+02:00",
+    "end": "2026-05-16T19:30:00+02:00",
+    "description": "Competició esportiva: Waterpolo Infantil Femení Club Natació SF - CN Badia\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3325280",
+    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
+    "locationName": "Complex Municipal de Piscines",
+    "address": "C. Verge de Montserrat 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3325280"
+  },
+  {
+    "id": "santfeliu-3325281@agenda.santfeliu.local",
+    "title": "Waterpolo Cadet Masculí Club Natació SF - CN Rubí",
+    "start": "2026-05-16T19:45:00+02:00",
+    "end": "2026-05-16T20:45:00+02:00",
+    "description": "Competició esportiva: Waterpolo Cadet Masculí Club Natació SF - CN Rubí\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3325281",
+    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
+    "locationName": "Complex Municipal de Piscines",
+    "address": "C. Verge de Montserrat 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3325281"
+  },
+  {
+    "id": "santfeliu-3325282@agenda.santfeliu.local",
+    "title": "Waterpolo Infantil Masculí Club Natació SF - CN Catalunya",
+    "start": "2026-05-17T09:00:00+02:00",
+    "end": "2026-05-17T10:00:00+02:00",
+    "description": "Competició esportiva: Waterpolo Infantil Masculí Club Natació SF - CN Catalunya\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3325282",
+    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
+    "locationName": "Complex Municipal de Piscines",
+    "address": "C. Verge de Montserrat 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3325282"
+  },
+  {
+    "id": "santfeliu-3325286@agenda.santfeliu.local",
+    "title": "Waterpolo Cadet Masculí Club Natació SF - CN Manresa",
+    "start": "2026-05-17T12:45:00+02:00",
+    "end": "2026-05-17T13:45:00+02:00",
+    "description": "Competició esportiva: Waterpolo Cadet Masculí Club Natació SF - CN Manresa\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3325286",
+    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
+    "locationName": "Complex Municipal de Piscines",
+    "address": "C. Verge de Montserrat 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3325286"
   },
   {
     "id": "santfeliu-3321053@agenda.santfeliu.local",
