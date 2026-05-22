@@ -1,38 +1,10 @@
 [
   {
-    "id": "santfeliu-3326063@agenda.santfeliu.local",
-    "title": "Espai de participació ciutadana",
-    "start": "2026-05-22T10:00:00+02:00",
-    "end": "2026-05-22T13:00:00+02:00",
-    "description": "Reunions i debats ciutadans: Espai de participació ciutadana\n\nVine i participa! Espai de propostes de pressupostos participatius i pla d'equipaments. Junts construïm ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Solidaritat\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326063",
-    "location": "Pl. Solidaritat",
-    "locationName": "",
-    "address": "Pl. Solidaritat",
-    "type": "Reunions i debats ciutadans",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3326063"
-  },
-  {
-    "id": "santfeliu-3326062@agenda.santfeliu.local",
-    "title": "Espai de participació ciutadana",
-    "start": "2026-05-22T16:00:00+02:00",
-    "end": "2026-05-22T19:00:00+02:00",
-    "description": "Reunions i debats ciutadans: Espai de participació ciutadana\n\nVine i participa! Espai de propostes de pressupostos participatius i pla d'equipaments. Junts construïm ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: C. Tibidabo 0018\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326062",
-    "location": "C. Tibidabo 0018",
-    "locationName": "",
-    "address": "C. Tibidabo 0018",
-    "type": "Reunions i debats ciutadans",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3326062"
-  },
-  {
     "id": "santfeliu-3320891@agenda.santfeliu.local",
     "title": "3a Cursa ciclista Brevet de 300 Km",
-    "start": "2026-05-23T07:00:00+02:00",
+    "start": "2026-05-23T06:00:00+02:00",
     "end": "2026-05-24T02:00:00+02:00",
-    "description": "Activitats Esportives: 3a Cursa ciclista Brevet de 300 Km\n\nSortida a les 08.00 del matí i arribada al llarg del cap de setmana. Organitza: Club Ciclista Sprint Bike.\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320891",
+    "description": "Activitats Esportives: 3a Cursa ciclista Brevet de 300 Km\n\nSortida a les 6.00 del matí i arribada al llarg del cap de setmana. Organitza: Club Ciclista Sprint Bike.\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3320891",
     "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
     "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
     "address": "Rbla. Marquesa de Castellbell 0017 BX",
@@ -40,6 +12,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3320891"
+  },
+  {
+    "id": "santfeliu-3327666@agenda.santfeliu.local",
+    "title": "Futbol Masculí Santfeliuenc FC - Pendent informació",
+    "start": "2026-05-23T09:00:00+02:00",
+    "end": "2026-05-23T10:30:00+02:00",
+    "description": "Competició esportiva: Futbol Masculí Santfeliuenc FC - Pendent informació\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3327666",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3327666"
+  },
+  {
+    "id": "santfeliu-3327665@agenda.santfeliu.local",
+    "title": "Futbol Masculí Santfeliuenc FC - Pendent informació (A)",
+    "start": "2026-05-23T09:00:00+02:00",
+    "end": "2026-05-23T10:30:00+02:00",
+    "description": "Competició esportiva: Futbol Masculí Santfeliuenc FC - Pendent informació (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3327665",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3327665"
   },
   {
     "id": "santfeliu-3327500@agenda.santfeliu.local",
@@ -225,10 +225,10 @@
   },
   {
     "id": "santfeliu-3326564@agenda.santfeliu.local",
-    "title": "Futbol sala Infantil Masculí Futsal SF (A) - AEE Vedruna Puigcerda (A)",
+    "title": "Futbol sala Infantil Masculí Futsal SF (A) - AEE Vedruna Puigcerdà (A)",
     "start": "2026-05-23T11:30:00+02:00",
     "end": "2026-05-23T12:45:00+02:00",
-    "description": "Competició esportiva: Futbol sala Infantil Masculí Futsal SF (A) - AEE Vedruna Puigcerda (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326564",
+    "description": "Competició esportiva: Futbol sala Infantil Masculí Futsal SF (A) - AEE Vedruna Puigcerdà (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326564",
     "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
     "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
     "address": "C. Mataró 0004",
@@ -323,10 +323,10 @@
   },
   {
     "id": "santfeliu-3326715@agenda.santfeliu.local",
-    "title": "Futbol Infantil S13 Masculí Peña Recreativa SF (A) - CF Junior (B)",
+    "title": "Futbol Infantil S13 Masculí Peña Recreativa SF (A) - CF Júnior (B)",
     "start": "2026-05-23T16:00:00+02:00",
     "end": "2026-05-23T17:00:00+02:00",
-    "description": "Competició esportiva: Futbol Infantil S13 Masculí Peña Recreativa SF (A) - CF Junior (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326715",
+    "description": "Competició esportiva: Futbol Infantil S13 Masculí Peña Recreativa SF (A) - CF Júnior (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326715",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -533,10 +533,10 @@
   },
   {
     "id": "santfeliu-3326631@agenda.santfeliu.local",
-    "title": "Futbol Benjamí S10 Masculí Santfeliuenc FC (B) - CF Vinyets Moli Vell (B)",
+    "title": "Futbol Benjamí S10 Masculí Santfeliuenc FC (B) - CF Vinyets Molí Vell (B)",
     "start": "2026-05-24T10:30:00+02:00",
     "end": "2026-05-24T12:00:00+02:00",
-    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Santfeliuenc FC (B) - CF Vinyets Moli Vell (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326631",
+    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Santfeliuenc FC (B) - CF Vinyets Molí Vell (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326631",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
     "address": "C. Mataró 0002 BX",
@@ -600,6 +600,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326731"
+  },
+  {
+    "id": "santfeliu-3327667@agenda.santfeliu.local",
+    "title": "Futbol Cadet Femení Peña Recreativa SF (A) - CF Martorell (A)",
+    "start": "2026-05-24T13:30:00+02:00",
+    "end": "2026-05-24T15:15:00+02:00",
+    "description": "Competició esportiva: Futbol Cadet Femení Peña Recreativa SF (A) - CF Martorell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3327667",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3327667"
   },
   {
     "id": "santfeliu-3326569@agenda.santfeliu.local",
@@ -672,20 +686,6 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3326575"
   },
   {
-    "id": "santfeliu-3326881@agenda.santfeliu.local",
-    "title": "Espai de participació ciutadana",
-    "start": "2026-05-25T10:00:00+02:00",
-    "end": "2026-05-25T13:00:00+02:00",
-    "description": "Reunions i debats ciutadans: Espai de participació ciutadana\n\nVine i participa! Espai de propostes de pressupostos participatius i pla d'equipaments. Junts construïm ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Can Maginàs\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326881",
-    "location": "Pl. Can Maginàs",
-    "locationName": "",
-    "address": "Pl. Can Maginàs",
-    "type": "Reunions i debats ciutadans",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3326881"
-  },
-  {
     "id": "santfeliu-3270176@agenda.santfeliu.local",
     "title": "Activitat EMM - Sala dels Austries",
     "start": "2026-05-25T16:00:00+02:00",
@@ -698,20 +698,6 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3270176"
-  },
-  {
-    "id": "santfeliu-3326882@agenda.santfeliu.local",
-    "title": "Espai de participació ciutadana",
-    "start": "2026-05-25T16:00:00+02:00",
-    "end": "2026-05-25T19:00:00+02:00",
-    "description": "Reunions i debats ciutadans: Espai de participació ciutadana\n\nVine i participa! Espai de propostes de pressupostos participatius i pla d'equipaments. Junts construïm ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Can Maginàs\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326882",
-    "location": "Pl. Can Maginàs",
-    "locationName": "",
-    "address": "Pl. Can Maginàs",
-    "type": "Reunions i debats ciutadans",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3326882"
   },
   {
     "id": "santfeliu-3270186@agenda.santfeliu.local",
@@ -840,6 +826,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3270174"
   },
   {
+    "id": "santfeliu-3326432@agenda.santfeliu.local",
+    "title": "Exposició d'art infantil Alumnes de dibuix i pintura d'extraescolar de l'escola Miquel Martí i Pol",
+    "start": "2026-06-01T10:00:00+02:00",
+    "end": "2026-06-23T20:30:00+02:00",
+    "description": "Activitats Literàries: Exposició d'art infantil Alumnes de dibuix i pintura d'extraescolar de l'escola Miquel Martí i Pol\n\nMostra de làmines realitzades pel grup d'alumnes de Mun Casadesús (1977 artista formada a l'Escola d'Art i Disseny La Massana i a University architecture and desing of Brighton Anglaterra ). Les obres són el resultat d'una activitat extraescolar dedicada al dibuix i la pintura que es realitza a l'escola Miquel Martí i Pol de Sant Feliu de Llobregat. Autoria: Mun Casadesús Dates: De l¿1 al 23 de juny Lloc: Vidres sala infantil Organitza: Escola Miquel Martí i Pol i Biblioteca Montserrat Roig\n\nTipus: Activitats Literàries\nLloc: Biblioteca Montserrat Roig\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326432",
+    "location": "Biblioteca Montserrat Roig - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca Montserrat Roig",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3326432"
+  },
+  {
+    "id": "santfeliu-3326431@agenda.santfeliu.local",
+    "title": "Racó de l'artista Libertad C.",
+    "start": "2026-06-01T10:00:00+02:00",
+    "end": "2026-06-30T20:30:00+02:00",
+    "description": "Activitats Literàries: Racó de l'artista Libertad C.\n\nArtista interdisciplinària. Tinc trenta-dos anys i soc de Madrid actualment establerta a Sant Feliu. Estudio Belles Arts a la Universitat de Barcelona i m'interesso especialment per la fotografia la pintura i la videocreació. Us presento una obra on treballo amb pintura a l'oli sobre fusta i fotografia estenopeica\". Comentaris: Dins el IV Circuit d'Art (del 28 de maig al 14 de juny Libertad C. es quedarà al nostre Racó de l'Artista tot el mes de juny. A càrrec de: Libertad C\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Vestíbul\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326431",
+    "location": "Biblioteca M. Roig - Vestíbul - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Vestíbul",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3326431"
+  },
+  {
     "id": "santfeliu-3270153@agenda.santfeliu.local",
     "title": "Activitat EMM - Auditori-Puntual",
     "start": "2026-06-01T16:00:00+02:00",
@@ -924,6 +938,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3270190"
   },
   {
+    "id": "santfeliu-3326411@agenda.santfeliu.local",
+    "title": "Taller STEM Coets d'aire",
+    "start": "2026-06-03T17:30:00+02:00",
+    "end": "2026-06-03T18:30:00+02:00",
+    "description": "Activitats Literàries: Taller STEM Coets d'aire\n\nCom podem fer coets impulsats per aire que volin el més lluny possible? Quin disseny del nostre coet el farà arribar més lluny? Com hem de proporcionar aquest aire de la manera òptima? Construirem coets propulsats per aire i farem una sèrie de llançaments modificant variables en el disseny com ara alerons distribució de massa¿ Observarem quin coet arriba més lluny coneixerem quins elements diferencien cada model i deduirem quines són les variables que fan el seu vol el més eficaç possible. A càrrec de: eXplorium Inscripcions: a partir del 27 de maig per telèfon presencialment o a través del formulari https://forms.gle/pw4HnEh9kfh1shtz9 Edat recomanada: de 6 a 12 anys Nombre màxim de participants: 20 Lloc: Sala Joana Raspall\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326411",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3326411"
+  },
+  {
     "id": "santfeliu-3324957@agenda.santfeliu.local",
     "title": "EMM -CONCERT PROJECTES DE PRIMARIA -",
     "start": "2026-06-04T08:00:00+02:00",
@@ -936,6 +964,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3324957"
+  },
+  {
+    "id": "santfeliu-3326412@agenda.santfeliu.local",
+    "title": "Taller familiar LEGO® Build the change",
+    "start": "2026-06-04T17:30:00+02:00",
+    "end": "2026-06-04T18:30:00+02:00",
+    "description": "Activitats Literàries: Taller familiar LEGO® Build the change\n\nUna activitat creativa i participativa on infants i famílies treballaran junts per imaginar i construir solucions als reptes del nostre entorn mitjançant peces LEGO®. A través del joc la creativitat i el treball en equip descobrirem com petites idees poden generar grans canvis per a un futur més sostenible i inclusiu. A càrrec d'Alea Ardanuy i Elisabeth Morales Inscripcions: a partir del 28 de maig per telèfon presencialment o a través del formulari https://forms.gle/yP8Dt2Z2KHQeeJuS8 Edat recomanada: per a infants de 6 a 12 anys acompanyats d'un adult Nombre màxim de participants: 20 Lloc: Sala Joana Raspall\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326412",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3326412"
   },
   {
     "id": "santfeliu-3325394@agenda.santfeliu.local",
@@ -1051,10 +1093,10 @@
   },
   {
     "id": "santfeliu-3326415@agenda.santfeliu.local",
-    "title": "Club de lectura dels dimarts F de falcó d¿Helen Macdonald",
+    "title": "Club de lectura dels dimarts F de falcó d'Helen Macdonald",
     "start": "2026-06-09T19:00:00+02:00",
     "end": "2026-06-09T20:00:00+02:00",
-    "description": "Activitats Literàries: Club de lectura dels dimarts F de falcó d¿Helen Macdonald\n\nArran de la mort inesperada del seu pare Helen Macdonald decideix comprar i ensinistrar un astor l'au de presa més perillosa i letal. Així comença un viatge d'exploració al cor del dolor i de la salvatgia que portarà l'autora al límit de la bogeria i canviarà la seva vida. Destinat a convertir-se en un clàssic F de falcó és un llibre sobre el record la naturalesa i l'ésser humà. Una lliçó magistral sobre com reconciliar la vida i la mort. F de falcó es va convertir en un fenomen de vendes al Regne Unit on va guanyar els prestigiosos premis Samuel Johnson i Costa i va recollir elogis unànimes de la crítica literària anglosaxona. A càrrec de: Jordi Nopca Inscripcions: Activitat amb inscripció (complert) Nombre màxim de participants: 30 Lloc: Sala Joana Raspall\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326415",
+    "description": "Activitats Literàries: Club de lectura dels dimarts F de falcó d'Helen Macdonald\n\nArran de la mort inesperada del seu pare Helen Macdonald decideix comprar i ensinistrar un astor l'au de presa més perillosa i letal. Així comença un viatge d'exploració al cor del dolor i de la salvatgia que portarà l'autora al límit de la bogeria i canviarà la seva vida. Destinat a convertir-se en un clàssic F de falcó és un llibre sobre el record la naturalesa i l'ésser humà. Una lliçó magistral sobre com reconciliar la vida i la mort. F de falcó es va convertir en un fenomen de vendes al Regne Unit on va guanyar els prestigiosos premis Samuel Johnson i Costa i va recollir elogis unànimes de la crítica literària anglosaxona. A càrrec de: Jordi Nopca Inscripcions: Activitat amb inscripció (complert) Nombre màxim de participants: 30 Lloc: Sala Joana Raspall\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326415",
     "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
     "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
     "address": "C. Verge de Montserrat 0003 BX 02",
@@ -1289,10 +1331,10 @@
   },
   {
     "id": "santfeliu-3326430@agenda.santfeliu.local",
-    "title": "Rondes de lectura Un món feliç d¿Aldous Huxley",
+    "title": "Rondes de lectura Un món feliç d'Aldous Huxley",
     "start": "2026-06-29T19:00:00+02:00",
     "end": "2026-06-29T20:00:00+02:00",
-    "description": "Activitats Literàries: Rondes de lectura Un món feliç d¿Aldous Huxley\n\nA fi d'aconseguir blocs de ciutadans genèticament unificats i coherents l'Estat endega un projecte de clonació. Els embrions concebuts i desenvolupats al laboratori són traslladats a la sala de Predestinació Social on s'ajusten les aptituds i la intel·ligència de cadascú segons la casta que li ha estat assignada. Quatre joves víctimes i herois d'aquesta novel·la no encaixaran en un règim planificador i totalitari que pretén transformar els humans en meres cèl·lules d'un cos social. A càrrec de: Salvador Grifell Inscripcions: Activitat amb inscripció\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326430",
+    "description": "Activitats Literàries: Rondes de lectura Un món feliç d'Aldous Huxley\n\nA fi d'aconseguir blocs de ciutadans genèticament unificats i coherents l'Estat endega un projecte de clonació. Els embrions concebuts i desenvolupats al laboratori són traslladats a la sala de Predestinació Social on s'ajusten les aptituds i la intel·ligència de cadascú segons la casta que li ha estat assignada. Quatre joves víctimes i herois d'aquesta novel·la no encaixaran en un règim planificador i totalitari que pretén transformar els humans en meres cèl·lules d'un cos social. A càrrec de: Salvador Grifell Inscripcions: Activitat amb inscripció\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326430",
     "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
     "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
     "address": "C. Verge de Montserrat 0003 BX 02",
