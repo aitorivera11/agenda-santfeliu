@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3270176@agenda.santfeliu.local",
-    "title": "Activitat EMM - Sala dels Austries",
-    "start": "2026-05-25T16:00:00+02:00",
-    "end": "2026-05-25T21:00:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM - Sala dels Austries\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270176",
-    "location": "Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Sala dels Àustries",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3270176"
-  },
-  {
     "id": "santfeliu-3270186@agenda.santfeliu.local",
     "title": "Activitat EMM - Sala dels Austries",
     "start": "2026-05-26T16:00:00+02:00",
@@ -684,5 +670,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326732"
+  },
+  {
+    "id": "santfeliu-3301842@agenda.santfeliu.local",
+    "title": "Campanya donació de sang",
+    "start": "2026-07-23T10:00:00+02:00",
+    "end": "2026-07-23T21:00:00+02:00",
+    "description": "Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301842",
+    "location": "Centre Cívic Les Tovalloles - Ra. Salut 0007 BX",
+    "locationName": "Centre Cívic Les Tovalloles",
+    "address": "Ra. Salut 0007 BX",
+    "type": "Campanya",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3301842"
   }
 ]
