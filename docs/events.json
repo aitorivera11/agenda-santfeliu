@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3270173@agenda.santfeliu.local",
-    "title": "Activitat EMM - Puntual",
-    "start": "2026-05-29T16:00:00+02:00",
-    "end": "2026-05-29T19:00:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM - Puntual\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270173",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3270173"
-  },
-  {
     "id": "santfeliu-3324819@agenda.santfeliu.local",
     "title": "Torneig Ciutat de les roses d'Handbol",
     "start": "2026-05-30T09:00:00+02:00",
@@ -28,6 +14,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3324819"
   },
   {
+    "id": "santfeliu-3329485@agenda.santfeliu.local",
+    "title": "Festes de Barri de La Salut",
+    "start": "2026-05-30T10:00:00+02:00",
+    "end": "2026-05-31T21:00:00+02:00",
+    "description": "Festes populars i tradicionals: Festes de Barri de La Salut\n\n30 Dissabte 11:00H. Activitats Infantils a càrrec de L'esplai de Diversitat Lúdica. 12:30H. Disco Baby. 17:30H. Actuació ASPRODIS. 18:00H. Actuacions de ball a càrrec de: Legend Dance Studio (Can Maginàs) Diversity Dance 20:00H. Correfoc i espectacle de foc a càrrec dels Diables de la Salut. 21:30H. Sopar Popular i Actuació en directe The SingerMörnings. 23:00H. Disco Mòbil a càrrec de Associació Collado. 31 Diumenge 11:00H. Fira d'entitats: Estand Voluntariat de St. Feliu. Estand Help The Children. Estand de la Policia Local. Estand de Protecció Civil. 12:30H. Actuació de la Banda de Juventut de St. Feliu i convidats. 17:30H. Oració amb càntics i música rociera a càrrec de la parròquia Sant Juan Bautista acompanyat per el grup Rociero Roses de Sant Feliu. 19:00H. Actuacions de balls a càrrec de: Flamenco de Ana Marquez. CCR Juan de Batlle. Con 2 Tacones. \"Tacón y Baile.\" 20:30H. Fi de les festes.\n\nTipus: Festes populars i tradicionals\nAdreça: Pl. Salut\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329485",
+    "location": "Pl. Salut",
+    "locationName": "",
+    "address": "Pl. Salut",
+    "type": "Festes populars i tradicionals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329485"
+  },
+  {
     "id": "santfeliu-3328982@agenda.santfeliu.local",
     "title": "Futbol Benjamí S9 Masculí Peña Recreativa SF (C) - EE LLor (A)",
     "start": "2026-05-30T10:00:00+02:00",
@@ -40,6 +40,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3328982"
+  },
+  {
+    "id": "santfeliu-3329370@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S10 Masculí Santfeliuenc FC (A) - CF Can Vidalet (A)",
+    "start": "2026-05-30T10:30:00+02:00",
+    "end": "2026-05-30T11:45:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Santfeliuenc FC (A) - CF Can Vidalet (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329370",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329370"
   },
   {
     "id": "santfeliu-3328983@agenda.santfeliu.local",
@@ -85,10 +99,10 @@
   },
   {
     "id": "santfeliu-3328986@agenda.santfeliu.local",
-    "title": "Futbol Infantil Femení Peña Recreativa SF (A) - CD Fontsanta Fatjo (D)",
+    "title": "Futbol Infantil Femení Peña Recreativa SF (A) - CD Fontsanta Fatjó (D)",
     "start": "2026-05-30T13:00:00+02:00",
     "end": "2026-05-30T14:30:00+02:00",
-    "description": "Competició esportiva: Futbol Infantil Femení Peña Recreativa SF (A) - CD Fontsanta Fatjo (D)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328986",
+    "description": "Competició esportiva: Futbol Infantil Femení Peña Recreativa SF (A) - CD Fontsanta Fatjó (D)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328986",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -99,10 +113,10 @@
   },
   {
     "id": "santfeliu-3328464@agenda.santfeliu.local",
-    "title": "Futbol sala Aleví Mixt Virsa - CE Futsal Sant Feliu - Escola Nadal (D)",
+    "title": "Futbol sala Aleví Mixt Virsa - Futsal SF Escola Nadal (D)",
     "start": "2026-05-30T13:00:00+02:00",
     "end": "2026-05-30T14:00:00+02:00",
-    "description": "Competició esportiva: Futbol sala Aleví Mixt Virsa - CE Futsal Sant Feliu - Escola Nadal (D)\n\nTipus: Competició esportiva\nLloc: Pista Exterior PME Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328464",
+    "description": "Competició esportiva: Futbol sala Aleví Mixt Virsa - Futsal SF Escola Nadal (D)\n\nTipus: Competició esportiva\nLloc: Pista Exterior PME Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328464",
     "location": "Pista Exterior PME Andrey Xepkin - C. Mataró 0004",
     "locationName": "Pista Exterior PME Andrey Xepkin",
     "address": "C. Mataró 0004",
@@ -140,20 +154,6 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3328991"
   },
   {
-    "id": "santfeliu-3328976@agenda.santfeliu.local",
-    "title": "Futbol Cadet S16 Masculí Santfeliuenc FC (B) - CF Sant Just Desvern (B)",
-    "start": "2026-05-30T18:00:00+02:00",
-    "end": "2026-05-30T19:40:00+02:00",
-    "description": "Competició esportiva: Futbol Cadet S16 Masculí Santfeliuenc FC (B) - CF Sant Just Desvern (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328976",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3328976"
-  },
-  {
     "id": "santfeliu-3328992@agenda.santfeliu.local",
     "title": "Futbol Amateur Masculí Peña Recreativa SF (A) - UE Papiol (A)",
     "start": "2026-05-30T19:30:00+02:00",
@@ -169,10 +169,10 @@
   },
   {
     "id": "santfeliu-3328978@agenda.santfeliu.local",
-    "title": "Futbol Infantil S14 Masculí Santfeliuenc FC (A) - Sant Andreu de la Barca Agrupació (B)",
+    "title": "Futbol Infantil S14 Masculí Santfeliuenc FC (A) - Agrup. Sant Andreu de la Barca (B)",
     "start": "2026-05-31T09:00:00+02:00",
     "end": "2026-05-31T10:30:00+02:00",
-    "description": "Competició esportiva: Futbol Infantil S14 Masculí Santfeliuenc FC (A) - Sant Andreu de la Barca Agrupació (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328978",
+    "description": "Competició esportiva: Futbol Infantil S14 Masculí Santfeliuenc FC (A) - Agrup. Sant Andreu de la Barca (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328978",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
     "address": "C. Mataró 0002 BX",
@@ -183,10 +183,10 @@
   },
   {
     "id": "santfeliu-3328995@agenda.santfeliu.local",
-    "title": "Futbol Benjamí S10 Masculí Peña Recreativa SF (C) - Sant Andreu de la Barca Agrupació (C)",
+    "title": "Futbol Benjamí S10 Masculí Peña Recreativa SF (C) - Agrup. Sant Andreu de la Barca (C)",
     "start": "2026-05-31T10:00:00+02:00",
     "end": "2026-05-31T11:30:00+02:00",
-    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Peña Recreativa SF (C) - Sant Andreu de la Barca Agrupació (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328995",
+    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Peña Recreativa SF (C) - Agrup. Sant Andreu de la Barca (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328995",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -236,6 +236,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3329001"
+  },
+  {
+    "id": "santfeliu-3328976@agenda.santfeliu.local",
+    "title": "Futbol Cadet S16 Masculí Santfeliuenc FC (B) - CF Sant Just Desvern (B)",
+    "start": "2026-05-31T12:00:00+02:00",
+    "end": "2026-05-31T13:40:00+02:00",
+    "description": "Competició esportiva: Futbol Cadet S16 Masculí Santfeliuenc FC (B) - CF Sant Just Desvern (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3328976",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3328976"
   },
   {
     "id": "santfeliu-3329002@agenda.santfeliu.local",
@@ -490,6 +504,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3324822"
   },
   {
+    "id": "santfeliu-3329799@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-08T16:00:00+02:00",
+    "end": "2026-06-08T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329799",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329799"
+  },
+  {
     "id": "santfeliu-3326413@agenda.santfeliu.local",
     "title": "Escola de Salut I aquesta, te la saps?",
     "start": "2026-06-08T18:00:00+02:00",
@@ -502,6 +530,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326413"
+  },
+  {
+    "id": "santfeliu-3329800@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-09T16:00:00+02:00",
+    "end": "2026-06-09T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329800",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329800"
   },
   {
     "id": "santfeliu-3326414@agenda.santfeliu.local",
@@ -546,6 +588,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3326415"
   },
   {
+    "id": "santfeliu-3329801@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-10T16:00:00+02:00",
+    "end": "2026-06-10T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329801",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329801"
+  },
+  {
     "id": "santfeliu-3326416@agenda.santfeliu.local",
     "title": "Tertúlies filosòfiques La Passió dels estranys : una filosofia de l'amistat de Marina Garcés",
     "start": "2026-06-10T19:00:00+02:00",
@@ -558,6 +614,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326416"
+  },
+  {
+    "id": "santfeliu-3329802@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-11T16:00:00+02:00",
+    "end": "2026-06-11T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329802",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329802"
   },
   {
     "id": "santfeliu-3270191@agenda.santfeliu.local",
@@ -602,6 +672,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3326108"
   },
   {
+    "id": "santfeliu-3329803@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-15T16:00:00+02:00",
+    "end": "2026-06-15T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329803",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329803"
+  },
+  {
     "id": "santfeliu-3326417@agenda.santfeliu.local",
     "title": "Escola de Salut Cloenda",
     "start": "2026-06-15T18:00:00+02:00",
@@ -614,6 +698,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326417"
+  },
+  {
+    "id": "santfeliu-3329804@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-16T16:00:00+02:00",
+    "end": "2026-06-16T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329804",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329804"
   },
   {
     "id": "santfeliu-3305500@agenda.santfeliu.local",
@@ -642,6 +740,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326423"
+  },
+  {
+    "id": "santfeliu-3329805@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-17T16:00:00+02:00",
+    "end": "2026-06-17T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329805",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329805"
   },
   {
     "id": "santfeliu-3301797@agenda.santfeliu.local",
@@ -684,6 +796,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3326427"
+  },
+  {
+    "id": "santfeliu-3329806@agenda.santfeliu.local",
+    "title": "EMM-ASSAIG I CONCERT",
+    "start": "2026-06-18T16:00:00+02:00",
+    "end": "2026-06-18T18:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASSAIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3329806",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3329806"
   },
   {
     "id": "santfeliu-3270194@agenda.santfeliu.local",
