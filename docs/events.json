@@ -1,33 +1,5 @@
 [
   {
-    "id": "santfeliu-3270175@agenda.santfeliu.local",
-    "title": "Activitat EMM - Puntual Auditori",
-    "start": "2026-06-02T09:00:00+02:00",
-    "end": "2026-06-02T14:00:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM - Puntual Auditori\n\nActivitat EMM - Puntual\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270175",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3270175"
-  },
-  {
-    "id": "santfeliu-3270190@agenda.santfeliu.local",
-    "title": "Activitat EMM - Sala dels Austries",
-    "start": "2026-06-02T17:00:00+02:00",
-    "end": "2026-06-02T19:00:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM - Sala dels Austries\n\nActivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3270190",
-    "location": "Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Sala dels Àustries",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3270190"
-  },
-  {
     "id": "santfeliu-3326411@agenda.santfeliu.local",
     "title": "Taller STEM Coets d'aire",
     "start": "2026-06-03T17:30:00+02:00",
@@ -102,7 +74,7 @@
     "title": "Formació col·laborativa entitats",
     "start": "2026-06-06T09:30:00+02:00",
     "end": "2026-06-06T14:30:00+02:00",
-    "description": "Jornades i seminaris: Formació col·laborativa entitats\n\nAteneu santfeliuenc\n\nTipus: Jornades i seminaris\nAdreça: C. Ateneu 0025\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321822",
+    "description": "Jornades i seminaris: Formació col·laborativa entitats\n\nFormulari d'inscripció: https://docs.google.com/forms/d/e/1FAIpQLSfwJD7dqAJqfv_eXWbcvwYTRXjazBlHChS6Q4-ZwhLdSkauxg/viewform?usp=header\n\nTipus: Jornades i seminaris\nAdreça: C. Ateneu 0025\nEnllaç: https://www.santfeliu.cat/esdeveniment/3321822",
     "location": "C. Ateneu 0025",
     "locationName": "",
     "address": "C. Ateneu 0025",
@@ -124,6 +96,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3324818"
+  },
+  {
+    "id": "santfeliu-3330282@agenda.santfeliu.local",
+    "title": "EMM -MOSTRA DE COMBOS",
+    "start": "2026-06-06T10:00:00+02:00",
+    "end": "2026-06-06T14:00:00+02:00",
+    "description": "Concerts i audicions musicals: EMM -MOSTRA DE COMBOS\n\nMOSTRA DE COMBOS\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3330282",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3330282"
   },
   {
     "id": "santfeliu-3324822@agenda.santfeliu.local",
