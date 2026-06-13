@@ -5,66 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Festes de Barri Faguera
-DTSTART;TZID=Europe/Madrid:20260613T000000
-DTEND;TZID=Europe/Madrid:20260614T235959
-DTSTAMP:20260612T083954Z
-UID:santfeliu-3326108@agenda.santfeliu.local
-DESCRIPTION:Festes populars i tradicionals: Festes de Barri Faguera\n\nOrg
- anitza Assemblea de Barri Falguera DISSABTE 13 DE JUNY 11.00h Jocs al carr
- er per a infants fins a les 13h 11.30h Concurs de dibuix per a infants de 
- 2 a 12 anys. Entrega de premis a les 13h 12.30h Vermut i pintxos amb PD Pa
- ula ballaruca assegurada! 19.00h Actuacions de la Peña Luís de Córdoba 
- dirigit per Laura Aguilera. 20.00h Actuacions de Krinea Crew dirigit per M
- arta Cabañas 20.30h Cercavila amb la colla de percussió de El Tro de Fal
- guera i colles convidades. Inici Plaça Rafael Alberti 21.00h Correfoc amb
-  El Tro de Falguera i colles convidades. Inici c/Sant Josep Parc del Llobr
- egat. 22.00h Botifarrada popular 5?/3? Botifarres cansalada frankfurt i op
- ció vegana 22.30h Concert amb Aires de Barrio Nit de rumba 00.15h PD Mamb
- o Queens DIUMENGE 14 DE JUNY 11.00h Zumba per a totes les edats amb Laura 
- Domínguez Sarai Brozquez i Sara Almenara 12.00h Bany d¿escuma Plaça Alf
- ons Comín 14.00h Paella popular Opció mixta i vegana + postres i beguda:
-  Socis/es 10? anticipat 12? mateix dia No Socis/es 12? anticipat i el mate
- ix dia Compra el teu tiquet anticipat a l'Associació de Veïns i Veïnes 
- Falguera dimarts i dimecres de 17 a 19h 16.00h Bingo musical amb premis!\n
- \nTipus: Festes populars i tradicionals\nAdreça: Pl. Rafael Alberti\nEnll
- aç: https://www.santfeliu.cat/esdeveniment/3326108
-LOCATION:Pl. Rafael Alberti
-URL:https://www.santfeliu.cat/esdeveniment/3326108
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activitat GEPS
-DTSTART;TZID=Europe/Madrid:20260613T080000
-DTEND;TZID=Europe/Madrid:20260613T220000
-DTSTAMP:20260612T083954Z
-UID:santfeliu-3330661@agenda.santfeliu.local
-DESCRIPTION:Activitats Esportives: Activitat GEPS\n\nActivitat esportiva a
- mb rocodrom infantil escenari amb música en viu i xerrades en la sala pol
- ivalent del arxiu comarcal durant el matí\n\nTipus: Activitats Esportives
- \nAdreça: Pl. Dicià\nEnllaç: https://www.santfeliu.cat/esdeveniment/333
- 0661
-LOCATION:Pl. Dicià
-URL:https://www.santfeliu.cat/esdeveniment/3330661
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Futbol Benjamí S10 Masculí Santfeliuenc FC (B) - CD Fontsanta Fa
- tjó (B)
-DTSTART;TZID=Europe/Madrid:20260613T110000
-DTEND;TZID=Europe/Madrid:20260613T121500
-DTSTAMP:20260612T083954Z
-UID:santfeliu-3332437@agenda.santfeliu.local
-DESCRIPTION:Competició esportiva: Futbol Benjamí S10 Masculí Santfeliue
- nc FC (B) - CD Fontsanta Fatjó (B)\n\nTipus: Competició esportiva\nLloc:
-  Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç
- : https://www.santfeliu.cat/esdeveniment/3332437
-LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3332437
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260615T100000
 DTEND;TZID=Europe/Madrid:20260615T130000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331323@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -79,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:EMM-ASSAIG I CONCERT
 DTSTART;TZID=Europe/Madrid:20260615T160000
 DTEND;TZID=Europe/Madrid:20260615T210000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3329803@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASS
  AIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguer
@@ -92,22 +36,22 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260615T160000
 DTEND;TZID=Europe/Madrid:20260615T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331325@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
  Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
  teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Ros
- es\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331325
-LOCATION:Pl. Roses
+ tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Ra. Sal
+ ut 0041\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331325
+LOCATION:Ra. Salut 0041
 URL:https://www.santfeliu.cat/esdeveniment/3331325
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Escola de Salut. Benestasr emocional. Avaluacio i Cloenda
 DTSTART;TZID=Europe/Madrid:20260615T180000
 DTEND;TZID=Europe/Madrid:20260615T193000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326417@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Escola 
  de Salut. Benestasr emocional. Avaluacio i Cloenda\n\nL¿Escola de Salut 
@@ -129,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:3x3 de bàsquet amb alumnes de l'Escola d'adults Mestre Esteve
 DTSTART;TZID=Europe/Madrid:20260616T090000
 DTEND;TZID=Europe/Madrid:20260616T140000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3329972@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 3x3 de bàsquet amb alumnes de l'Escola
   d'adults Mestre Esteve\n\nTipus: Activitats Esportives\nAdreça: Parc Vui
@@ -141,22 +85,22 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260616T100000
 DTEND;TZID=Europe/Madrid:20260616T130000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331380@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
  Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
  teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: C. Tibi
- dabo 0018\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331380
-LOCATION:C. Tibidabo 0018
+ tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Sol
+ idaritat\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331380
+LOCATION:Pl. Solidaritat
 URL:https://www.santfeliu.cat/esdeveniment/3331380
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EMM-ASSAIG I CONCERT
 DTSTART;TZID=Europe/Madrid:20260616T160000
 DTEND;TZID=Europe/Madrid:20260616T210000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3329804@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASS
  AIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguer
@@ -169,22 +113,22 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260616T160000
 DTEND;TZID=Europe/Madrid:20260616T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331379@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
  Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
  teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Parc Ll
- orenç Sans\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331379
-LOCATION:Parc Llorenç Sans
+ tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Sol
+ idaritat\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331379
+LOCATION:Pl. Solidaritat
 URL:https://www.santfeliu.cat/esdeveniment/3331379
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inauguració de l'exposició "Edatisme"
 DTSTART;TZID=Europe/Madrid:20260616T170000
 DTEND;TZID=Europe/Madrid:20260616T180000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3305500@agenda.santfeliu.local
 DESCRIPTION:Inauguracions homenatges aniversaris: Inauguració de l'exposi
  ció "Edatisme"\n\nTipus: Inauguracions\, homenatges\, aniversaris\nLloc: 
@@ -197,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Les loyautés de Delphine de Vigan
 DTSTART;TZID=Europe/Madrid:20260616T190000
 DTEND;TZID=Europe/Madrid:20260616T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326423@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Les loyaut
  és de Delphine de Vigan\n\n"T¿has demanat mai quantes vegades a la vida 
@@ -217,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260617T100000
 DTEND;TZID=Europe/Madrid:20260617T130000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331383@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -232,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:EMM-ASSAIG I CONCERT
 DTSTART;TZID=Europe/Madrid:20260617T160000
 DTEND;TZID=Europe/Madrid:20260617T210000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3329805@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASS
  AIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguer
@@ -245,22 +189,22 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260617T160000
 DTEND;TZID=Europe/Madrid:20260617T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331387@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
  Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
  teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Can
-  Maginàs\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331387
-LOCATION:Pl. Can Maginàs
+ tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Ctra. S
+ ànson 0010\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331387
+LOCATION:Ctra. Sànson 0010
 URL:https://www.santfeliu.cat/esdeveniment/3331387
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260617T170000
 DTEND;TZID=Europe/Madrid:20260617T210000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3301797@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -273,7 +217,7 @@ SUMMARY:Hora del conte musical amb la coral infantil TIC TAC L'elefantet c
  uriós
 DTSTART;TZID=Europe/Madrid:20260617T180000
 DTEND;TZID=Europe/Madrid:20260617T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326424@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Hora del conte musical amb la c
  oral infantil TIC TAC L'elefantet curiós\n\nLa Coral Infantil Tic Tac de 
@@ -293,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura dels dimecres 86 contes de Quim Monzó
 DTSTART;TZID=Europe/Madrid:20260617T190000
 DTEND;TZID=Europe/Madrid:20260617T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326427@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimecres 86 conte
  s de Quim Monzó\n\nTraduït a més d¿una dotzena de llengües la crític
@@ -314,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:EMM-ASSAIG I CONCERT
 DTSTART;TZID=Europe/Madrid:20260618T160000
 DTEND;TZID=Europe/Madrid:20260618T203000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3329806@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASS
  AIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguer
@@ -327,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260618T160000
 DTEND;TZID=Europe/Madrid:20260618T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331389@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -342,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM - Terrasses
 DTSTART;TZID=Europe/Madrid:20260618T170000
 DTEND;TZID=Europe/Madrid:20260618T210000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3270194@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Terrasses\n\nAc
  tivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera 
@@ -357,7 +301,7 @@ SUMMARY:Club de lectura infantil Corporació d'alienígenes de Lluís Prat
  s
 DTSTART;TZID=Europe/Madrid:20260618T180000
 DTEND;TZID=Europe/Madrid:20260618T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326428@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura infantil Corporació d
  'alienígenes de Lluís Prats\n\nQuè faríeu si el vostre pare us digués
@@ -381,7 +325,7 @@ SUMMARY:Club de lectura en anglès Conversations with friends de Sally Roo
  ney
 DTSTART;TZID=Europe/Madrid:20260618T183000
 DTEND;TZID=Europe/Madrid:20260618T193000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326429@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en anglès Conversatio
  ns with friends de Sally Rooney\n\nFrances de vint-i-un anys treballa en u
@@ -403,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260619T160000
 DTEND;TZID=Europe/Madrid:20260619T190000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331392@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -418,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:ESPECTACLE MASH DUET DE VERSIONS
 DTSTART;TZID=Europe/Madrid:20260620T130000
 DTEND;TZID=Europe/Madrid:20260620T150000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331426@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: ESPECTACLE MASH DUET DE VERSION
  S\n\nDuo musical que versionen el pop nacional de tots els temps: aquestes
@@ -432,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260620T130000
 DTEND;TZID=Europe/Madrid:20260620T180000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331399@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -444,10 +388,22 @@ LOCATION:Pl. Falguera
 URL:https://www.santfeliu.cat/esdeveniment/3331399
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MASH DUET DE VERSIONS
+DTSTART;TZID=Europe/Madrid:20260620T130000
+DTEND;TZID=Europe/Madrid:20260620T150000
+DTSTAMP:20260613T075511Z
+UID:santfeliu-3333563@agenda.santfeliu.local
+DESCRIPTION:Espectacles festivals: MASH DUET DE VERSIONS\n\nTipus: Especta
+ cles\, festivals\nAdreça: Pl. Falguera\nEnllaç: https://www.santfeliu.ca
+ t/esdeveniment/3333563
+LOCATION:Pl. Falguera
+URL:https://www.santfeliu.cat/esdeveniment/3333563
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Campionat de Catalunya de waterpolo femení de categoria juvenil
 DTSTART;TZID=Europe/Madrid:20260620T150000
 DTEND;TZID=Europe/Madrid:20260620T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326618@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Campionat de Catalunya de waterpolo fem
  ení de categoria juvenil\n\nTipus: Activitats Esportives\nLloc: Complex M
@@ -460,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Campionat de Catalunya de waterpolo femení de categoria juvenil
 DTSTART;TZID=Europe/Madrid:20260621T090000
 DTEND;TZID=Europe/Madrid:20260621T193000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326621@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Campionat de Catalunya de waterpolo fem
  ení de categoria juvenil\n\nTipus: Activitats Esportives\nLloc: Complex M
@@ -473,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260621T160000
 DTEND;TZID=Europe/Madrid:20260621T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331400@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -489,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:ESPECTACLE MADRE IN BLACK
 DTSTART;TZID=Europe/Madrid:20260621T190000
 DTEND;TZID=Europe/Madrid:20260621T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3331424@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: ESPECTACLE MADRE IN BLACK\n\nHo
  menatge als principals estils de la música negra i als emblemàtics artis
@@ -500,10 +456,22 @@ LOCATION:Pl. Josep Maria Palet i Vidal
 URL:https://www.santfeliu.cat/esdeveniment/3331424
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MADE IN BLACK
+DTSTART;TZID=Europe/Madrid:20260621T190000
+DTEND;TZID=Europe/Madrid:20260621T210000
+DTSTAMP:20260613T075511Z
+UID:santfeliu-3333564@agenda.santfeliu.local
+DESCRIPTION:Espectacles festivals: MADE IN BLACK\n\nTipus: Espectacles\, f
+ estivals\nAdreça: Pl. Josep Maria Palet i Vidal\nEnllaç: https://www.san
+ tfeliu.cat/esdeveniment/3333564
+LOCATION:Pl. Josep Maria Palet i Vidal
+URL:https://www.santfeliu.cat/esdeveniment/3333564
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FESTA DELS 18!
 DTSTART;TZID=Europe/Madrid:20260626T200000
 DTEND;TZID=Europe/Madrid:20260626T230000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3302380@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: FESTA DELS 18!\n\nTipus: Espectacles\, 
  festivals\nLloc: Piscina Municipal de l'Escorxador\nAdreça: C. Ramón y C
@@ -515,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:Rondes de lectura Un món feliç d'Aldous Huxley
 DTSTART;TZID=Europe/Madrid:20260629T190000
 DTEND;TZID=Europe/Madrid:20260629T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326430@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectura Un món feliç d'Ald
  ous Huxley\n\nA fi d'aconseguir blocs de ciutadans genèticament unificats
@@ -537,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Concurs de Relats Breus per a Dones Joana Raspall
 DTSTART;TZID=Europe/Madrid:20260701T180000
 DTEND;TZID=Europe/Madrid:20260701T200000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3325101@agenda.santfeliu.local
 DESCRIPTION:Concursos i premis: Concurs de Relats Breus per a Dones Joana 
  Raspall\n\nTipus: Concursos i premis\nLloc: Biblioteca M. Roig - Sala Joan
@@ -551,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Dia de l'Orgull
 DTSTART;TZID=Europe/Madrid:20260704T160000
 DTEND;TZID=Europe/Madrid:20260704T220000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3326732@agenda.santfeliu.local
 DESCRIPTION:Diada: Dia de l'Orgull\n\nTipus: Diada\nAdreça: Pl. Lluís Co
  mpanys 0001\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326732
@@ -562,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260723T100000
 DTEND;TZID=Europe/Madrid:20260723T210000
-DTSTAMP:20260612T083954Z
+DTSTAMP:20260613T075511Z
 UID:santfeliu-3301842@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
