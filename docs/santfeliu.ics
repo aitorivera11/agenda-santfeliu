@@ -5,211 +5,38 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Espai de participació ciutadana
-DTSTART;TZID=Europe/Madrid:20260617T100000
-DTEND;TZID=Europe/Madrid:20260617T130000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3331383@agenda.santfeliu.local
-DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
- n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
- Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
- teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Can
-  Maginàs\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331383
-LOCATION:Pl. Can Maginàs
-URL:https://www.santfeliu.cat/esdeveniment/3331383
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EMM-ASSAIG I CONCERT
-DTSTART;TZID=Europe/Madrid:20260617T160000
-DTEND;TZID=Europe/Madrid:20260617T210000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3329805@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASS
- AIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguer
- a - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu
- .cat/esdeveniment/3329805
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3329805
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Espai de participació ciutadana
-DTSTART;TZID=Europe/Madrid:20260617T160000
-DTEND;TZID=Europe/Madrid:20260617T190000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3331387@agenda.santfeliu.local
-DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
- n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
- Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
- teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Ctra. S
- ànson 0010\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331387
-LOCATION:Ctra. Sànson 0010
-URL:https://www.santfeliu.cat/esdeveniment/3331387
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Campanya donació de sang
-DTSTART;TZID=Europe/Madrid:20260617T170000
-DTEND;TZID=Europe/Madrid:20260617T210000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3301797@agenda.santfeliu.local
-DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
- Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
- /www.santfeliu.cat/esdeveniment/3301797
-LOCATION:Centre Cívic Les Tovalloles - Ra. Salut 0007 BX
-URL:https://www.santfeliu.cat/esdeveniment/3301797
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hora del conte musical amb la coral infantil TIC TAC L'elefantet c
- uriós
-DTSTART;TZID=Europe/Madrid:20260617T180000
-DTEND;TZID=Europe/Madrid:20260617T190000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3326424@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Hora del conte musical amb la c
- oral infantil TIC TAC L'elefantet curiós\n\nLa Coral Infantil Tic Tac de 
- l¿Ateneu és una secció que treballa per apropar el cant coral als infan
- ts i fomentar la sensibilització musical i la descoberta de la veu com in
- strument propi. Una secció ja consolidada amb disset anys de vida i actua
- lment dirigida per Albada Blay. A càrrec de: Coral Tic Tac de l¿Ateneu d
- e Sant Feliu Inscripcions: Entrada lliure Edat recomanada: Per a tots els 
- públics\n\nTipus: Concerts i audicions musicals\nLloc: Biblioteca M. Roig
-  - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç
- : https://www.santfeliu.cat/esdeveniment/3326424
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3326424
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club de lectura dels dimecres 86 contes de Quim Monzó
-DTSTART;TZID=Europe/Madrid:20260617T190000
-DTEND;TZID=Europe/Madrid:20260617T200000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3326427@agenda.santfeliu.local
-DESCRIPTION:Activitats Literàries: Club de lectura dels dimecres 86 conte
- s de Quim Monzó\n\nTraduït a més d¿una dotzena de llengües la crític
- a europea ha relacionat Quim Monzó amb Kafka Bor¬ges i Rabelais. En aque
- sta obra Monzó va revisar tots els seus contes publicats fins al moment. 
- Es va publicar per primera vegada l¿any 1999 aplicant-hi aquella mateixa 
- exigència i rigor que en els reculls de contes anteriors. Vuitanta-sis co
- ntes n¿és el resultat. El lector hi apreciarà el millor Monzó. A càrr
- ec de: Maite Roldán Inscripcions: Activitat amb inscripció (complert)\n\
- nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Rasp
- all\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.sant
- feliu.cat/esdeveniment/3326427
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3326427
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EMM-ASSAIG I CONCERT
-DTSTART;TZID=Europe/Madrid:20260618T160000
-DTEND;TZID=Europe/Madrid:20260618T203000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3329806@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: EMM-ASSAIG I CONCERT\n\nEMM-ASS
- AIG I CONCERT\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguer
- a - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu
- .cat/esdeveniment/3329806
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3329806
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Espai de participació ciutadana
-DTSTART;TZID=Europe/Madrid:20260618T160000
-DTEND;TZID=Europe/Madrid:20260618T190000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3331389@agenda.santfeliu.local
-DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
- n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
- Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
- teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Lli
- bertat\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331389
-LOCATION:Pl. Llibertat
-URL:https://www.santfeliu.cat/esdeveniment/3331389
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activitat EMM - Terrasses
-DTSTART;TZID=Europe/Madrid:20260618T170000
-DTEND;TZID=Europe/Madrid:20260618T210000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3270194@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Activitat EMM - Terrasses\n\nAc
- tivitat EMM\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera 
- - Terrasses de les Sales Nobles\nAdreça: C. Falguera 0002 BX\nEnllaç: ht
- tps://www.santfeliu.cat/esdeveniment/3270194
-LOCATION:Palau Falguera - Terrasses de les Sales Nobles - C. Falguera 0002
-  BX
-URL:https://www.santfeliu.cat/esdeveniment/3270194
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club de lectura infantil Corporació d'alienígenes de Lluís Prat
- s
-DTSTART;TZID=Europe/Madrid:20260618T180000
-DTEND;TZID=Europe/Madrid:20260618T190000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3326428@agenda.santfeliu.local
-DESCRIPTION:Activitats Literàries: Club de lectura infantil Corporació d
- 'alienígenes de Lluís Prats\n\nQuè faríeu si el vostre pare us digués
-  que la seva feina és caçar alienígenes? Us el creuríeu? Oi que no? Ai
- xò és el que li passa al Nico Desclot. Però és clar el seu pare el con
- venç i ell es deixa enganyar. D'aquesta manera el Nico descobreix un nou 
- món emocionant i fabulós però ben aviat s'adona que no tot és tan boni
- c ni extraordinari com sembla. I tot per una raó ben senzilla: una feina 
- tan extravagant com aquesta no pot existir. Potser només és una cabòria
-  absurda imaginada pel seu pobre pare que no està bé del cap. O no... A 
- càrrec de: Ruth Tormo Inscripcions: Activitat amb inscripció. Places lli
- ures\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala "El
-  temps de les cireres"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnlla
- ç: https://www.santfeliu.cat/esdeveniment/3326428
-LOCATION:Biblioteca M. Roig - Sala "El temps de les cireres" - C. Verge de
-  Montserrat 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3326428
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club de lectura en anglès Conversations with friends de Sally Roo
- ney
-DTSTART;TZID=Europe/Madrid:20260618T183000
-DTEND;TZID=Europe/Madrid:20260618T193000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3326429@agenda.santfeliu.local
-DESCRIPTION:Activitats Literàries: Club de lectura en anglès Conversatio
- ns with friends de Sally Rooney\n\nFrances de vint-i-un anys treballa en u
- na agència literària a Dublín i aspira a ser escriptora. Ella i Bobbi l
- a seva millor amiga i exnúvia es reuneixen en bars per fer performances d
- e la poesia que Frances escriu. Una nit coneixen Melissa una reconeguda pe
- riodista que vol escriure sobre l'obra de Frances. Així es veuen arrosseg
- ades al món del Nick i Melissa dos nois de trenta anys que els conviden a
-  menjars sofisticats festes privades i vacances al camp francès. A càrre
- c d¿: Ariane Amarantinis Strachan Inscripcions: Activitat amb inscripció
- .\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana 
- Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.
- santfeliu.cat/esdeveniment/3326429
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3326429
+SUMMARY:Dinar de socis de la Petanca del Parc del Llobregat
+DTSTART;TZID=Europe/Madrid:20260619T135000
+DTEND;TZID=Europe/Madrid:20260619T153000
+DTSTAMP:20260618T085403Z
+UID:santfeliu-3334059@agenda.santfeliu.local
+DESCRIPTION:Activitats Esportives: Dinar de socis de la Petanca del Parc d
+ el Llobregat\n\nTipus: Activitats Esportives\nLloc: Pistes de petanca Parc
+  del Llobregat\nAdreça: C. Sant Josep 0097\nEnllaç: https://www.santfeli
+ u.cat/esdeveniment/3334059
+LOCATION:Pistes de petanca Parc del Llobregat - C. Sant Josep 0097
+URL:https://www.santfeliu.cat/esdeveniment/3334059
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260619T160000
 DTEND;TZID=Europe/Madrid:20260619T190000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3331392@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
  Junts construïm ciutat. Espai dinamitzat per tal d'ajudar-te a votar les 
  teves propostes preferides i informar sobre els processos participatius ac
- tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Pl. Raf
- ael Alberti\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331392
-LOCATION:Pl. Rafael Alberti
+ tuals a la ciutat.\n\nTipus: Reunions i debats ciutadans\nAdreça: Parc Ll
+ obregat\nEnllaç: https://www.santfeliu.cat/esdeveniment/3331392
+LOCATION:Parc Llobregat
 URL:https://www.santfeliu.cat/esdeveniment/3331392
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESPECTACLE MASH DUET DE VERSIONS
 DTSTART;TZID=Europe/Madrid:20260620T130000
 DTEND;TZID=Europe/Madrid:20260620T150000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3331426@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: ESPECTACLE MASH DUET DE VERSION
  S\n\nDuo musical que versionen el pop nacional de tots els temps: aquestes
@@ -223,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260620T130000
 DTEND;TZID=Europe/Madrid:20260620T180000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3331399@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -238,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:MASH DUET DE VERSIONS
 DTSTART;TZID=Europe/Madrid:20260620T130000
 DTEND;TZID=Europe/Madrid:20260620T150000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333563@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: MASH DUET DE VERSIONS\n\nTipus: Especta
  cles\, festivals\nAdreça: Pl. Falguera\nEnllaç: https://www.santfeliu.ca
@@ -250,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Campionat de Catalunya de waterpolo femení de categoria juvenil
 DTSTART;TZID=Europe/Madrid:20260620T150000
 DTEND;TZID=Europe/Madrid:20260620T200000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3326618@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Campionat de Catalunya de waterpolo fem
  ení de categoria juvenil\n\nTipus: Activitats Esportives\nLloc: Complex M
@@ -263,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Campionat de Catalunya de waterpolo femení de categoria juvenil
 DTSTART;TZID=Europe/Madrid:20260621T090000
 DTEND;TZID=Europe/Madrid:20260621T193000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3326621@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Campionat de Catalunya de waterpolo fem
  ení de categoria juvenil\n\nTipus: Activitats Esportives\nLloc: Complex M
@@ -276,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Espai de participació ciutadana
 DTSTART;TZID=Europe/Madrid:20260621T160000
 DTEND;TZID=Europe/Madrid:20260621T200000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3331400@agenda.santfeliu.local
 DESCRIPTION:Reunions i debats ciutadans: Espai de participació ciutadana\
  n\nEspai de votació dels pressupostos participatius i pla d'equipaments. 
@@ -292,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:ESPECTACLE MADRE IN BLACK
 DTSTART;TZID=Europe/Madrid:20260621T190000
 DTEND;TZID=Europe/Madrid:20260621T200000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3331424@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: ESPECTACLE MADRE IN BLACK\n\nHo
  menatge als principals estils de la música negra i als emblemàtics artis
@@ -306,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:MADE IN BLACK
 DTSTART;TZID=Europe/Madrid:20260621T190000
 DTEND;TZID=Europe/Madrid:20260621T210000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333564@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: MADE IN BLACK\n\nTipus: Espectacles\, f
  estivals\nAdreça: Pl. Josep Maria Palet i Vidal\nEnllaç: https://www.san
@@ -318,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:FESTA DELS 18!
 DTSTART;TZID=Europe/Madrid:20260626T200000
 DTEND;TZID=Europe/Madrid:20260626T230000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3302380@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: FESTA DELS 18!\n\nTipus: Espectacles\, 
  festivals\nLloc: Piscina Municipal de l'Escorxador\nAdreça: C. Ramón y C
@@ -330,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Rondes de lectura Un món feliç d'Aldous Huxley
 DTSTART;TZID=Europe/Madrid:20260629T190000
 DTEND;TZID=Europe/Madrid:20260629T200000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3326430@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectura Un món feliç d'Ald
  ous Huxley\n\nA fi d'aconseguir blocs de ciutadans genèticament unificats
@@ -349,33 +176,10 @@ LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat
 URL:https://www.santfeliu.cat/esdeveniment/3326430
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lliurament dels Premis de Relats Breus per a Dones Joana Raspall
-DTSTART;TZID=Europe/Madrid:20260701T170000
-DTEND;TZID=Europe/Madrid:20260701T180000
-DTSTAMP:20260616T093418Z
-UID:santfeliu-3333976@agenda.santfeliu.local
-DESCRIPTION:Activitats Literàries: Lliurament dels Premis de Relats Breus
-  per a Dones Joana Raspall\n\nEl ¿Premi de Relats Breus per a Dones Joana
-  Raspall¿ va ser impulsat originàriament pel Casal de la Dona de Sant Fe
- liu de Llobregat amb la finalitat de fomentar la creació literària femen
- ina garantir la igualtat d¿oportunitats en l¿accés a la creació cultur
- al i finalment posar en valor la figura i el llegat de Joana Raspall escri
- ptora poeta lexicògrafa i bibliotecària i referent de la ciutat. Enguany
-  l¿entrega dels premis es farà com no podia ser d¿altra manera a la Sal
- a Joana Raspall de la biblioteca Montserrat Roig. A càrrec d¿: Sra. Alca
- ldessa Lourdes Borrell Inscripcions: Entrada lliure\n\nTipus: Activitats L
- iteràries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Ver
- ge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdevenime
- nt/3333976
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3333976
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
 DTSTART;TZID=Europe/Madrid:20260701T170000
 DTEND;TZID=Europe/Madrid:20260701T190000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333994@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -391,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Concurs de Relats Breus per a Dones Joana Raspall
 DTSTART;TZID=Europe/Madrid:20260701T180000
 DTEND;TZID=Europe/Madrid:20260701T200000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3325101@agenda.santfeliu.local
 DESCRIPTION:Concursos i premis: Concurs de Relats Breus per a Dones Joana 
  Raspall\n\nTipus: Concursos i premis\nLloc: Biblioteca M. Roig - Sala Joan
@@ -403,9 +207,9 @@ URL:https://www.santfeliu.cat/esdeveniment/3325101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dia de l'Orgull
-DTSTART;TZID=Europe/Madrid:20260704T160000
+DTSTART;TZID=Europe/Madrid:20260704T180000
 DTEND;TZID=Europe/Madrid:20260704T220000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3326732@agenda.santfeliu.local
 DESCRIPTION:Diada: Dia de l'Orgull\n\nTipus: Diada\nAdreça: Pl. Lluís Co
  mpanys 0001\nEnllaç: https://www.santfeliu.cat/esdeveniment/3326732
@@ -416,20 +220,20 @@ BEGIN:VEVENT
 SUMMARY:Taller LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260706T173000
 DTEND;TZID=Europe/Madrid:20260706T190000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333995@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller LEGO® Build the change\n\nUn
  a activitat creativa i participativa on infants i famílies treballaran ju
  nts per imaginar i construir solucions als reptes del nostre entorn mitjan
  çant peces LEGO®. A través del joc la creativitat i el treball en equip
   descobrirem com petites idees poden generar grans canvis per a un futur m
- és sostenible i inclusiu. A càrrec d¿: de Sara Carrión i Hugo Mañas I
- nscripcions: a partir del 29 de juny per telèfon presencialment o a trav
- és del formulari https://forms.gle/yMJUg7PPE3uJzQzHA Edat recomanada: per
-  a infants de 9 a 12 anys Nombre màxim de participants: 20\n\nTipus: Jocs
- \, tornejos\, campionats\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nA
- dreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.
- cat/esdeveniment/3333995
+ és sostenible i inclusiu. A càrrec de: de Sara Carrión i Hugo Mañas In
+ scripcions: a partir del 29 de juny per telèfon presencialment o a travé
+ s del formulari https://forms.gle/yMJUg7PPE3uJzQzHA Edat recomanada: per a
+  infants de 9 a 12 anys Nombre màxim de participants: 20\n\nTipus: Jocs\,
+  tornejos\, campionats\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdr
+ eça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.ca
+ t/esdeveniment/3333995
 LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
  0003 BX 02
 URL:https://www.santfeliu.cat/esdeveniment/3333995
@@ -438,15 +242,15 @@ BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
 DTSTART;TZID=Europe/Madrid:20260708T170000
 DTEND;TZID=Europe/Madrid:20260708T190000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333996@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
  er gaudir dels nous jocs de taula. Molts jocs són nous de trinca! Potser 
- l¿estrenes tu! A càrrec de: Sara Carrión Hugo Mañas i Elisabet Morales
-  Inscripcions: Lliure accés\n\nTipus: Jocs\, tornejos\, campionats\nLloc:
-  Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02
- \nEnllaç: https://www.santfeliu.cat/esdeveniment/3333996
+ l'estrenes tu! A càrrec de: Sara Carrión Hugo Mañas i Elisabet Morales 
+ Inscripcions: Lliure accés\n\nTipus: Jocs\, tornejos\, campionats\nLloc: 
+ Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\
+ nEnllaç: https://www.santfeliu.cat/esdeveniment/3333996
 LOCATION:Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02
 URL:https://www.santfeliu.cat/esdeveniment/3333996
 END:VEVENT
@@ -454,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260714T173000
 DTEND;TZID=Europe/Madrid:20260714T190000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333998@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
@@ -476,23 +280,39 @@ BEGIN:VEVENT
 SUMMARY:Tarda de Jocs de Taula
 DTSTART;TZID=Europe/Madrid:20260715T170000
 DTEND;TZID=Europe/Madrid:20260715T190000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3333997@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de Jocs de Taula\n\nTotes les 
+ tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
+ er gaudir dels nous jocs de taula. Molts jocs són nous de trinca! Potser 
+ l'estrenes tu! A càrrec de: Sara Carrión Hugo Mañas i Elisabet Morales 
+ Inscripcions: Lliure accés\n\nTipus: Jocs\, tornejos\, campionats\nLloc: 
+ Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\
+ nEnllaç: https://www.santfeliu.cat/esdeveniment/3333997
+LOCATION:Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02
+URL:https://www.santfeliu.cat/esdeveniment/3333997
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarda de jocs de taula
+DTSTART;TZID=Europe/Madrid:20260722T170000
+DTEND;TZID=Europe/Madrid:20260722T190000
+DTSTAMP:20260618T085403Z
+UID:santfeliu-3334122@agenda.santfeliu.local
+DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
  er gaudir dels nous jocs de taula. Molts jocs són nous de trinca! Potser 
  l¿estrenes tu! A càrrec de: Sara Carrión Hugo Mañas i Elisabet Morales
   Inscripcions: Lliure accés\n\nTipus: Jocs\, tornejos\, campionats\nLloc:
   Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02
- \nEnllaç: https://www.santfeliu.cat/esdeveniment/3333997
+ \nEnllaç: https://www.santfeliu.cat/esdeveniment/3334122
 LOCATION:Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3333997
+URL:https://www.santfeliu.cat/esdeveniment/3334122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260723T100000
 DTEND;TZID=Europe/Madrid:20260723T210000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3301842@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -501,10 +321,26 @@ LOCATION:Centre Cívic Les Tovalloles - Ra. Salut 0007 BX
 URL:https://www.santfeliu.cat/esdeveniment/3301842
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tarda de jocs de taula
+DTSTART;TZID=Europe/Madrid:20260729T170000
+DTEND;TZID=Europe/Madrid:20260729T190000
+DTSTAMP:20260618T085403Z
+UID:santfeliu-3334123@agenda.santfeliu.local
+DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
+ tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
+ er gaudir dels nous jocs de taula. Molts jocs són nous de trinca! Potser 
+ l'estrenes tu! A càrrec de: Sara Carrión Hugo Mañas i Elisabet Morales 
+ Inscripcions: Lliure accés\n\nTipus: Jocs\, tornejos\, campionats\nLloc: 
+ Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\
+ nEnllaç: https://www.santfeliu.cat/esdeveniment/3334123
+LOCATION:Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02
+URL:https://www.santfeliu.cat/esdeveniment/3334123
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260812T100000
 DTEND;TZID=Europe/Madrid:20260812T210000
-DTSTAMP:20260616T093418Z
+DTSTAMP:20260618T085403Z
 UID:santfeliu-3301843@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
