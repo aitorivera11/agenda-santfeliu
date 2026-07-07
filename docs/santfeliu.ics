@@ -6,9 +6,9 @@ X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
-DTSTART;TZID=Europe/Madrid:20260708T170000
-DTEND;TZID=Europe/Madrid:20260708T190000
-DTSTAMP:20260706T083913Z
+DTSTART;TZID=Europe/Madrid:20260708T180000
+DTEND;TZID=Europe/Madrid:20260708T200000
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3333996@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya informativa contra el cancer de pell
 DTSTART;TZID=Europe/Madrid:20260709T170000
 DTEND;TZID=Europe/Madrid:20260709T200000
-DTSTAMP:20260706T083913Z
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3336727@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya informativa contra el cancer de pell\n\nCam
  panya informativa sobre els efectes i riscos de l'exposició al sol en el 
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260714T173000
 DTEND;TZID=Europe/Madrid:20260714T190000
-DTSTAMP:20260706T083913Z
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3333998@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
@@ -65,9 +65,9 @@ URL:https://www.santfeliu.cat/esdeveniment/3333998
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarda de Jocs de Taula
-DTSTART;TZID=Europe/Madrid:20260715T170000
-DTEND;TZID=Europe/Madrid:20260715T190000
-DTSTAMP:20260706T083913Z
+DTSTART;TZID=Europe/Madrid:20260715T180000
+DTEND;TZID=Europe/Madrid:20260715T200000
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3333997@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de Jocs de Taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -81,9 +81,9 @@ URL:https://www.santfeliu.cat/esdeveniment/3333997
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
-DTSTART;TZID=Europe/Madrid:20260722T170000
-DTEND;TZID=Europe/Madrid:20260722T190000
-DTSTAMP:20260706T083913Z
+DTSTART;TZID=Europe/Madrid:20260722T180000
+DTEND;TZID=Europe/Madrid:20260722T200000
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3334122@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260723T100000
 DTEND;TZID=Europe/Madrid:20260723T210000
-DTSTAMP:20260706T083913Z
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3301842@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -109,9 +109,9 @@ URL:https://www.santfeliu.cat/esdeveniment/3301842
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
-DTSTART;TZID=Europe/Madrid:20260729T170000
-DTEND;TZID=Europe/Madrid:20260729T190000
-DTSTAMP:20260706T083913Z
+DTSTART;TZID=Europe/Madrid:20260729T180000
+DTEND;TZID=Europe/Madrid:20260729T200000
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3334123@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260812T100000
 DTEND;TZID=Europe/Madrid:20260812T210000
-DTSTAMP:20260706T083913Z
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3301843@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260825T173000
 DTEND;TZID=Europe/Madrid:20260825T190000
-DTSTAMP:20260706T083913Z
+DTSTAMP:20260707T075023Z
 UID:santfeliu-3334208@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
