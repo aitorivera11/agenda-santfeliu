@@ -1,24 +1,10 @@
 [
   {
-    "id": "santfeliu-3333996@agenda.santfeliu.local",
-    "title": "Tarda de jocs de taula",
-    "start": "2026-07-08T18:00:00+02:00",
-    "end": "2026-07-08T20:00:00+02:00",
-    "description": "Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les tardes de dimecres de juliol vine la sala infantil de la teva biblioteca per gaudir dels nous jocs de taula. Molts jocs són nous de trinca! Potser l'estrenes tu! A càrrec de: Sara Carrión Hugo Mañas i Elisabet Morales Inscripcions: Lliure accés\n\nTipus: Jocs, tornejos, campionats\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3333996",
-    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Infantil",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Jocs, tornejos, campionats",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3333996"
-  },
-  {
     "id": "santfeliu-3336727@agenda.santfeliu.local",
     "title": "Campanya informativa contra el cancer de pell",
     "start": "2026-07-09T17:00:00+02:00",
     "end": "2026-07-09T20:00:00+02:00",
-    "description": "Campanya: Campanya informativa contra el cancer de pell\n\nCampanya informativa sobre els efectes i riscos de l'exposició al sol en el càncer de pell. A càrrec de l'AECC i la seva delegació a sant Feliu de Llobregat. Exposició informativa des de 9 de juliol a 31 de juliol. Dinàmica participativa a càrrec de les membres de la Delegació de AECC en sant Feliu amb entrega d'obsequis. El mateix dia dijous 9 de juliol les persones membres de la Delegació de l¿AECC en horari de 17h a 20h participaran per reforçar el missatge i la sensibilització dinamitzant un quizz solar amb una ruleta (preguntes per identificar falsos mites i recordar quan important és la prevenció) amb premis adreçat a públic familiar.\n\nTipus: Campanya\nLloc: Piscina Municipal de l'Escorxador\nAdreça: C. Ramón y Cajal 0049\nEnllaç: https://www.santfeliu.cat/esdeveniment/3336727",
+    "description": "Campanya: Campanya informativa contra el cancer de pell\n\nCampanya informativa sobre els efectes i riscos de l'exposició al sol en el càncer de pell. A càrrec de l'AECC i la seva delegació a sant Feliu de Llobregat. Exposició informativa des de 9 de juliol a 31 de juliol. Dinàmica participativa a càrrec de les membres de la Delegació de AECC en sant Feliu amb entrega d'obsequis. El mateix dia dijous 9 de juliol les persones membres de la Delegació de l'AECC en horari de 17h a 20h participaran per reforçar el missatge i la sensibilització dinamitzant un quizz solar amb una ruleta (preguntes per identificar falsos mites i recordar quan important és la prevenció) amb premis adreçat a públic familiar.\n\nTipus: Campanya\nLloc: Piscina Municipal de l'Escorxador\nAdreça: C. Ramón y Cajal 0049\nEnllaç: https://www.santfeliu.cat/esdeveniment/3336727",
     "location": "Piscina Municipal de l'Escorxador - C. Ramón y Cajal 0049",
     "locationName": "Piscina Municipal de l'Escorxador",
     "address": "C. Ramón y Cajal 0049",
@@ -124,5 +110,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3334208"
+  },
+  {
+    "id": "santfeliu-3336681@agenda.santfeliu.local",
+    "title": "Futbol Veterans Masculí Penya Blanc Blava SF - Atlètic Castelldefels",
+    "start": "2026-09-05T16:00:00+02:00",
+    "end": "2026-09-05T18:00:00+02:00",
+    "description": "Competició esportiva: Futbol Veterans Masculí Penya Blanc Blava SF - Atlètic Castelldefels\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3336681",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3336681"
   }
 ]
