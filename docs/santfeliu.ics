@@ -5,31 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Campanya informativa contra el cancer de pell
-DTSTART;TZID=Europe/Madrid:20260709T170000
-DTEND;TZID=Europe/Madrid:20260709T200000
-DTSTAMP:20260708T063629Z
-UID:santfeliu-3336727@agenda.santfeliu.local
-DESCRIPTION:Campanya: Campanya informativa contra el cancer de pell\n\nCam
- panya informativa sobre els efectes i riscos de l'exposició al sol en el 
- càncer de pell. A càrrec de l'AECC i la seva delegació a sant Feliu de 
- Llobregat. Exposició informativa des de 9 de juliol a 31 de juliol. Dinà
- mica participativa a càrrec de les membres de la Delegació de AECC en sa
- nt Feliu amb entrega d'obsequis. El mateix dia dijous 9 de juliol les pers
- ones membres de la Delegació de l'AECC en horari de 17h a 20h participara
- n per reforçar el missatge i la sensibilització dinamitzant un quizz sol
- ar amb una ruleta (preguntes per identificar falsos mites i recordar quan 
- important és la prevenció) amb premis adreçat a públic familiar.\n\nTi
- pus: Campanya\nLloc: Piscina Municipal de l'Escorxador\nAdreça: C. Ramón
-  y Cajal 0049\nEnllaç: https://www.santfeliu.cat/esdeveniment/3336727
-LOCATION:Piscina Municipal de l'Escorxador - C. Ramón y Cajal 0049
-URL:https://www.santfeliu.cat/esdeveniment/3336727
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260714T173000
 DTEND;TZID=Europe/Madrid:20260714T190000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3333998@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
@@ -51,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda de Jocs de Taula
 DTSTART;TZID=Europe/Madrid:20260715T180000
 DTEND;TZID=Europe/Madrid:20260715T200000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3333997@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de Jocs de Taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -67,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
 DTSTART;TZID=Europe/Madrid:20260722T180000
 DTEND;TZID=Europe/Madrid:20260722T200000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3334122@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -83,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260723T100000
 DTEND;TZID=Europe/Madrid:20260723T210000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3301842@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -95,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
 DTSTART;TZID=Europe/Madrid:20260729T180000
 DTEND;TZID=Europe/Madrid:20260729T200000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3334123@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -111,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260812T100000
 DTEND;TZID=Europe/Madrid:20260812T210000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3301843@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -123,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260825T173000
 DTEND;TZID=Europe/Madrid:20260825T190000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3334208@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
@@ -147,7 +126,7 @@ SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Atlètic Castellde
  fels
 DTSTART;TZID=Europe/Madrid:20260905T160000
 DTEND;TZID=Europe/Madrid:20260905T180000
-DTSTAMP:20260708T063629Z
+DTSTAMP:20260709T074956Z
 UID:santfeliu-3336681@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Atlètic Castelldefels\n\nTipus: Competició esportiva\nLloc: Cam
@@ -155,5 +134,18 @@ DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  tps://www.santfeliu.cat/esdeveniment/3336681
 LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3336681
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Amateur Masculí Penya Barcelonista SF - CD La Bombonera
+DTSTART;TZID=Europe/Madrid:20260906T200000
+DTEND;TZID=Europe/Madrid:20260906T220000
+DTSTAMP:20260709T074956Z
+UID:santfeliu-3337339@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Amateur Masculí Penya Barceloni
+ sta SF - CD La Bombonera\n\nTipus: Competició esportiva\nLloc: Camp de Fu
+ tbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://w
+ ww.santfeliu.cat/esdeveniment/3337339
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3337339
 END:VEVENT
 END:VCALENDAR
