@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260714T173000
 DTEND;TZID=Europe/Madrid:20260714T190000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3333998@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda de Jocs de Taula
 DTSTART;TZID=Europe/Madrid:20260715T180000
 DTEND;TZID=Europe/Madrid:20260715T200000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3333997@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de Jocs de Taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
 DTSTART;TZID=Europe/Madrid:20260722T180000
 DTEND;TZID=Europe/Madrid:20260722T200000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3334122@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260723T100000
 DTEND;TZID=Europe/Madrid:20260723T210000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3301842@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda de jocs de taula
 DTSTART;TZID=Europe/Madrid:20260729T180000
 DTEND;TZID=Europe/Madrid:20260729T200000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3334123@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Tarda de jocs de taula\n\nTotes les 
  tardes de dimecres de juliol vine la sala infantil de la teva biblioteca p
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20260812T100000
 DTEND;TZID=Europe/Madrid:20260812T210000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3301843@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Amateur Masculí Santfeliuenc FC - CDD Turó de la Peira
 DTSTART;TZID=Europe/Madrid:20260823T190000
 DTEND;TZID=Europe/Madrid:20260823T210000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3338325@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Amateur Masculí Santfeliuenc FC
   - CDD Turó de la Peira\n\nTipus: Competició esportiva\nLloc: Camp de Fu
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20260825T173000
 DTEND;TZID=Europe/Madrid:20260825T190000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3334208@agenda.santfeliu.local
 DESCRIPTION:Jocs tornejos campionats: Taller familiar LEGO® Build the cha
  nge\n\nUna activitat creativa i participativa on infants i famílies treba
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Amateur Masculí Santfeliuenc FC - CF Singuerlín
 DTSTART;TZID=Europe/Madrid:20260830T190000
 DTEND;TZID=Europe/Madrid:20260830T210000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3338328@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Amateur Masculí Santfeliuenc FC
   - CF Singuerlín\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Mu
@@ -152,7 +152,7 @@ SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Atlètic Castellde
  fels
 DTSTART;TZID=Europe/Madrid:20260905T160000
 DTEND;TZID=Europe/Madrid:20260905T180000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3336681@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Atlètic Castelldefels\n\nTipus: Competició esportiva\nLloc: Cam
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Amateur Masculí Penya Barcelonista SF - CD La Bombonera
 DTSTART;TZID=Europe/Madrid:20260906T200000
 DTEND;TZID=Europe/Madrid:20260906T220000
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3337339@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Amateur Masculí Penya Barceloni
  sta SF - CD La Bombonera\n\nTipus: Competició esportiva\nLloc: Camp de Fu
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20260907T171500
 DTEND;TZID=Europe/Madrid:20260907T191500
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3337361@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20260908T171500
 DTEND;TZID=Europe/Madrid:20260908T191500
-DTSTAMP:20260711T062352Z
+DTSTAMP:20260712T064412Z
 UID:santfeliu-3338305@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura Conjunt de base i vents
