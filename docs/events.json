@@ -155,10 +155,10 @@
   },
   {
     "id": "santfeliu-3339486@agenda.santfeliu.local",
-    "title": "Activitat EMM-CONJUNT DE BASE I VENTS (Marc Crivillé)",
+    "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
     "start": "2026-09-08T17:15:00+02:00",
     "end": "2026-09-08T19:15:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-CONJUNT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS - Marc Crivillé\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339486",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS - Marc Crivillé\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339486",
     "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
     "locationName": "Palau Falguera - Auditori",
     "address": "C. Falguera 0002 BX",
@@ -166,6 +166,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339486"
+  },
+  {
+    "id": "santfeliu-3339566@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)",
+    "start": "2026-09-08T19:15:00+02:00",
+    "end": "2026-09-08T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339566",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339566"
+  },
+  {
+    "id": "santfeliu-3339641@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA BANDA (Pepa)",
+    "start": "2026-09-09T19:15:00+02:00",
+    "end": "2026-09-09T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339641",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339641"
   },
   {
     "id": "santfeliu-3338233@agenda.santfeliu.local",
@@ -180,6 +208,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3338233"
+  },
+  {
+    "id": "santfeliu-3339694@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)",
+    "start": "2026-09-10T19:15:00+02:00",
+    "end": "2026-09-10T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé- Ignasi Franco) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339694",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339694"
   },
   {
     "id": "santfeliu-3338326@agenda.santfeliu.local",
@@ -222,5 +264,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3337341"
+  },
+  {
+    "id": "santfeliu-3337362@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
+    "start": "2026-09-14T17:15:00+02:00",
+    "end": "2026-09-14T19:15:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337362",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3337362"
   }
 ]
