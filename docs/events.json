@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3301842@agenda.santfeliu.local",
-    "title": "Campanya donació de sang",
-    "start": "2026-07-23T10:00:00+02:00",
-    "end": "2026-07-23T21:00:00+02:00",
-    "description": "Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301842",
-    "location": "Centre Cívic Les Tovalloles - Ra. Salut 0007 BX",
-    "locationName": "Centre Cívic Les Tovalloles",
-    "address": "Ra. Salut 0007 BX",
-    "type": "Campanya",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3301842"
-  },
-  {
     "id": "santfeliu-3334123@agenda.santfeliu.local",
     "title": "Tarda de jocs de taula",
     "start": "2026-07-29T18:00:00+02:00",
@@ -446,5 +432,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339479"
+  },
+  {
+    "id": "santfeliu-3340259@agenda.santfeliu.local",
+    "title": "Trofeu CR Santfeliu de gimnàstica rítmica (conjunts i copa base)",
+    "start": "2026-09-20T09:00:00+02:00",
+    "end": "2026-09-20T20:00:00+02:00",
+    "description": "Activitats Esportives: Trofeu CR Santfeliu de gimnàstica rítmica (conjunts i copa base)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3340259",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Activitats Esportives",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3340259"
   }
 ]
