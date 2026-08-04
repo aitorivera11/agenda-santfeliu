@@ -712,5 +712,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339701"
+  },
+  {
+    "id": "santfeliu-3301849@agenda.santfeliu.local",
+    "title": "Campanya donació de plasma",
+    "start": "2026-10-02T16:30:00+02:00",
+    "end": "2026-10-02T20:30:00+02:00",
+    "description": "Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc: Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301849",
+    "location": "Centre Cívic Mas Lluí - C. Estelí 0010 BX",
+    "locationName": "Centre Cívic Mas Lluí",
+    "address": "C. Estelí 0010 BX",
+    "type": "Campanya",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3301849"
   }
 ]
