@@ -476,6 +476,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3337363"
   },
   {
+    "id": "santfeliu-3343891@agenda.santfeliu.local",
+    "title": "Viatgem a ... Sofia",
+    "start": "2026-09-21T18:30:00+02:00",
+    "end": "2026-09-21T20:30:00+02:00",
+    "description": "Presentacions demostracions conferències xerrades...: Viatgem a ... Sofia\n\nComencem una nova temporada de ¿Viatgem a...? descobrint Sofia la capital de Bulgària. Coneguda abans amb el nom traci de Serdica aquesta ciutat té 1.200 anys d'història d'assentaments romans otomans i eslaus. Va ser declarada capital de Bulgària el 1879 després de l'alliberament del domini otomà evolucionant des d'un passat oriental a un centre europeu modern. El 1944 l'Exèrcit Roig ocupa Bulgària i comença el període comunista que durarà fins el 1989. Des del 2007 Bulgària forma part de la Unió Europea. Tot un seguit de canvis polítics i culturals que podeu resseguir en aquesta ciutat. Us convidem un cop més a venir a descobrir els seus secrets curiositats i històries a la biblioteca. Us esperem.\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3343891",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3343891"
+  },
+  {
     "id": "santfeliu-3339519@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
     "start": "2026-09-22T17:15:00+02:00",
@@ -894,5 +908,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339702"
+  },
+  {
+    "id": "santfeliu-3337368@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
+    "start": "2026-10-12T17:15:00+02:00",
+    "end": "2026-10-12T19:15:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337368",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3337368"
   }
 ]
