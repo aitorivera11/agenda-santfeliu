@@ -922,5 +922,33 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3337368"
+  },
+  {
+    "id": "santfeliu-3339522@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
+    "start": "2026-10-13T17:15:00+02:00",
+    "end": "2026-10-13T19:15:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS - Marc Crivillé\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339522",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339522"
+  },
+  {
+    "id": "santfeliu-3339575@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)",
+    "start": "2026-10-13T19:15:00+02:00",
+    "end": "2026-10-13T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339575",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339575"
   }
 ]
