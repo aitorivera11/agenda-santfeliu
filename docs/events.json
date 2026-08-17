@@ -978,5 +978,47 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339650"
+  },
+  {
+    "id": "santfeliu-3301845@agenda.santfeliu.local",
+    "title": "Campanya donació de sang",
+    "start": "2026-10-15T17:00:00+02:00",
+    "end": "2026-10-15T21:00:00+02:00",
+    "description": "Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301845",
+    "location": "Centre Cívic Les Tovalloles - Ra. Salut 0007 BX",
+    "locationName": "Centre Cívic Les Tovalloles",
+    "address": "Ra. Salut 0007 BX",
+    "type": "Campanya",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3301845"
+  },
+  {
+    "id": "santfeliu-3338240@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)",
+    "start": "2026-10-15T17:15:00+02:00",
+    "end": "2026-10-15T19:15:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Crivillé)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3338240",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3338240"
+  },
+  {
+    "id": "santfeliu-3339703@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)",
+    "start": "2026-10-15T19:15:00+02:00",
+    "end": "2026-10-15T21:00:00+02:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé- Ignasi Franco) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339703",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339703"
   }
 ]
