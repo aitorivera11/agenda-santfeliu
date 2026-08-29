@@ -1,47 +1,5 @@
 [
   {
-    "id": "santfeliu-3344941@agenda.santfeliu.local",
-    "title": "Futbol Cadet S16 Masculí Santfeliuenc FC (A) - At. Hospitalense (A)",
-    "start": "2026-08-29T12:00:00+02:00",
-    "end": "2026-08-29T13:40:00+02:00",
-    "description": "Competició esportiva: Futbol Cadet S16 Masculí Santfeliuenc FC (A) - At. Hospitalense (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3344941",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3344941"
-  },
-  {
-    "id": "santfeliu-3342238@agenda.santfeliu.local",
-    "title": "Futbol Amateur Masculí Penya Blanc Blava SF - Forza Barcelona",
-    "start": "2026-08-29T17:30:00+02:00",
-    "end": "2026-08-29T19:30:00+02:00",
-    "description": "Competició esportiva: Futbol Amateur Masculí Penya Blanc Blava SF - Forza Barcelona\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3342238",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3342238"
-  },
-  {
-    "id": "santfeliu-3344936@agenda.santfeliu.local",
-    "title": "Futbol Juvenil Masculí Santfeliuenc FC (A) - CE Júpiter (A)",
-    "start": "2026-08-29T19:30:00+02:00",
-    "end": "2026-08-29T21:30:00+02:00",
-    "description": "Competició esportiva: Futbol Juvenil Masculí Santfeliuenc FC (A) - CE Júpiter (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3344936",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3344936"
-  },
-  {
     "id": "santfeliu-3344935@agenda.santfeliu.local",
     "title": "Futbol Juvenil Masculí Santfeliuenc FC (A) - UE Sant Andreu (B)",
     "start": "2026-08-30T16:45:00+02:00",
@@ -1258,5 +1216,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339525"
+  },
+  {
+    "id": "santfeliu-3339577@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)",
+    "start": "2026-10-27T19:15:00+01:00",
+    "end": "2026-10-27T21:00:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339577",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339577"
   }
 ]
