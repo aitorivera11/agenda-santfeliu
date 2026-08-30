@@ -1,61 +1,5 @@
 [
   {
-    "id": "santfeliu-3344935@agenda.santfeliu.local",
-    "title": "Futbol Juvenil Masculí Santfeliuenc FC (A) - UE Sant Andreu (B)",
-    "start": "2026-08-30T16:45:00+02:00",
-    "end": "2026-08-30T18:45:00+02:00",
-    "description": "Competició esportiva: Futbol Juvenil Masculí Santfeliuenc FC (A) - UE Sant Andreu (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3344935",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3344935"
-  },
-  {
-    "id": "santfeliu-3344943@agenda.santfeliu.local",
-    "title": "Bàsquet Sènior Masculí CB Santfeliuenc - FC Martinenc Bàsquet",
-    "start": "2026-08-30T17:00:00+02:00",
-    "end": "2026-08-30T18:30:00+02:00",
-    "description": "Competició esportiva: Bàsquet Sènior Masculí CB Santfeliuenc - FC Martinenc Bàsquet\n\nSuper Copa\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3344943",
-    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
-    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
-    "address": "Rbla. Marquesa de Castellbell 0017 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3344943"
-  },
-  {
-    "id": "santfeliu-3344942@agenda.santfeliu.local",
-    "title": "Bàsquet Sènior Femení CB Santfeliuenc - CB Sant Gervasi",
-    "start": "2026-08-30T19:00:00+02:00",
-    "end": "2026-08-30T20:30:00+02:00",
-    "description": "Competició esportiva: Bàsquet Sènior Femení CB Santfeliuenc - CB Sant Gervasi\n\nCopa Catalunya\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3344942",
-    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
-    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
-    "address": "Rbla. Marquesa de Castellbell 0017 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3344942"
-  },
-  {
-    "id": "santfeliu-3338328@agenda.santfeliu.local",
-    "title": "Futbol Amateur Masculí Santfeliuenc FC (A) - CF Singuerlín (A)",
-    "start": "2026-08-30T19:00:00+02:00",
-    "end": "2026-08-30T21:00:00+02:00",
-    "description": "Competició esportiva: Futbol Amateur Masculí Santfeliuenc FC (A) - CF Singuerlín (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3338328",
-    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
-    "locationName": "Camp de Futbol Municipal Les Grases",
-    "address": "C. Mataró 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3338328"
-  },
-  {
     "id": "santfeliu-3343718@agenda.santfeliu.local",
     "title": "Racó de l'Artista Retales humanos",
     "start": "2026-09-02T10:00:00+02:00",
@@ -1230,5 +1174,33 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339577"
+  },
+  {
+    "id": "santfeliu-3340054@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)",
+    "start": "2026-10-28T17:15:00+01:00",
+    "end": "2026-10-28T19:15:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3340054",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3340054"
+  },
+  {
+    "id": "santfeliu-3339652@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA BANDA (Pepa)",
+    "start": "2026-10-28T19:15:00+01:00",
+    "end": "2026-10-28T21:00:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339652",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339652"
   }
 ]
