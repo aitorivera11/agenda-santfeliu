@@ -1,24 +1,24 @@
 [
   {
-    "id": "santfeliu-3345562@agenda.santfeliu.local",
-    "title": "Waterpolo Absolut Femení Club Natació SF - CN Rubí",
-    "start": "2026-09-04T21:00:00+02:00",
-    "end": "2026-09-04T22:00:00+02:00",
-    "description": "Competició esportiva: Waterpolo Absolut Femení Club Natació SF - CN Rubí\n\nTipus: Competició esportiva\nLloc: Complex Municipal de Piscines\nAdreça: C. Verge de Montserrat 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3345562",
-    "location": "Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX",
-    "locationName": "Complex Municipal de Piscines",
-    "address": "C. Verge de Montserrat 0002 BX",
+    "id": "santfeliu-3346089@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Femení CB Santfeliuenc - Bàsquet Girona",
+    "start": "2026-09-05T10:30:00+02:00",
+    "end": "2026-09-05T12:00:00+02:00",
+    "description": "Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc - Bàsquet Girona\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346089",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
     "type": "Competició esportiva",
     "free": "",
     "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3345562"
+    "url": "https://www.santfeliu.cat/esdeveniment/3346089"
   },
   {
     "id": "santfeliu-3346058@agenda.santfeliu.local",
-    "title": "Futbol Infantil S13 Masculí Santfeliuenc FC (A) - CD Fontsanta Fatjo (A)",
+    "title": "Futbol Infantil S13 Masculí Santfeliuenc FC (A) - CD Fontsanta Fatjó (A)",
     "start": "2026-09-05T10:30:00+02:00",
     "end": "2026-09-05T12:00:00+02:00",
-    "description": "Competició esportiva: Futbol Infantil S13 Masculí Santfeliuenc FC (A) - CD Fontsanta Fatjo (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346058",
+    "description": "Competició esportiva: Futbol Infantil S13 Masculí Santfeliuenc FC (A) - CD Fontsanta Fatjó (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346058",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
     "address": "C. Mataró 0002 BX",
@@ -26,6 +26,62 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3346058"
+  },
+  {
+    "id": "santfeliu-3346102@agenda.santfeliu.local",
+    "title": "Futbol sala Cadet Masculí Futsal SF (C) - CFS Storm (A)",
+    "start": "2026-09-05T11:00:00+02:00",
+    "end": "2026-09-05T12:15:00+02:00",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (C) - CFS Storm (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346102",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346102"
+  },
+  {
+    "id": "santfeliu-3346103@agenda.santfeliu.local",
+    "title": "Futbol sala Cadet Masculí Futsal SF (B) - AEFS Arrels (B)",
+    "start": "2026-09-05T12:20:00+02:00",
+    "end": "2026-09-05T13:25:00+02:00",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (B) - AEFS Arrels (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346103",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346103"
+  },
+  {
+    "id": "santfeliu-3346090@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Masculí CB Santfeliuenc (Blau) - Bàsket Almeda (Negre)",
+    "start": "2026-09-05T12:30:00+02:00",
+    "end": "2026-09-05T14:00:00+02:00",
+    "description": "Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc (Blau) - Bàsket Almeda (Negre)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346090",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346090"
+  },
+  {
+    "id": "santfeliu-3346104@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Femení Futsal SF - AE Vallirana (A)",
+    "start": "2026-09-05T13:30:00+02:00",
+    "end": "2026-09-05T14:45:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Femení Futsal SF - AE Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346104",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346104"
   },
   {
     "id": "santfeliu-3336681@agenda.santfeliu.local",
@@ -56,6 +112,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3345113"
   },
   {
+    "id": "santfeliu-3346118@agenda.santfeliu.local",
+    "title": "Bàsquet Sènior Femení CB Santfeliuenc - CB Cerdanyola",
+    "start": "2026-09-05T18:00:00+02:00",
+    "end": "2026-09-05T19:30:00+02:00",
+    "description": "Competició esportiva: Bàsquet Sènior Femení CB Santfeliuenc - CB Cerdanyola\n\nCopa Catalunya\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346118",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346118"
+  },
+  {
     "id": "santfeliu-3339477@agenda.santfeliu.local",
     "title": "Entrenament Església Evangèlica",
     "start": "2026-09-05T18:00:00+02:00",
@@ -70,6 +140,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3339477"
   },
   {
+    "id": "santfeliu-3346105@agenda.santfeliu.local",
+    "title": "Futbol sala Sènior Masculí Futsal SF (A) - FS Ràpid Santa Coloma (B)",
+    "start": "2026-09-05T18:40:00+02:00",
+    "end": "2026-09-05T19:40:00+02:00",
+    "description": "Competició esportiva: Futbol sala Sènior Masculí Futsal SF (A) - FS Ràpid Santa Coloma (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346105",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346105"
+  },
+  {
     "id": "santfeliu-3346059@agenda.santfeliu.local",
     "title": "Futbol Juvenil Masculí Santfeliuenc FC (B) - UD Marianao Poblet (A)",
     "start": "2026-09-05T20:00:00+02:00",
@@ -82,6 +166,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3346059"
+  },
+  {
+    "id": "santfeliu-3346106@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Masculí Futsal SF (A) - FS Ràpid Santa Coloma (A)",
+    "start": "2026-09-05T20:00:00+02:00",
+    "end": "2026-09-05T21:15:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Masculí Futsal SF (A) - FS Ràpid Santa Coloma (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346106",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346106"
   },
   {
     "id": "santfeliu-3346062@agenda.santfeliu.local",
@@ -112,6 +210,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3346063"
   },
   {
+    "id": "santfeliu-3346108@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Masculí Futsal SF (C) - CFS Sant Climent (A)",
+    "start": "2026-09-06T11:40:00+02:00",
+    "end": "2026-09-06T12:55:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Masculí Futsal SF (C) - CFS Sant Climent (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346108",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346108"
+  },
+  {
+    "id": "santfeliu-3346122@agenda.santfeliu.local",
+    "title": "Bàsquet Sènior Femení CB Santfeliuenc - CNB Vilanova",
+    "start": "2026-09-06T12:30:00+02:00",
+    "end": "2026-09-06T14:00:00+02:00",
+    "description": "Competició esportiva: Bàsquet Sènior Femení CB Santfeliuenc - CNB Vilanova\n\nCopa Catalunya\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346122",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346122"
+  },
+  {
     "id": "santfeliu-3346064@agenda.santfeliu.local",
     "title": "Futbol Cadet S16 Masculí Santfeliuenc FC (A) - AE Abrera (A)",
     "start": "2026-09-06T13:00:00+02:00",
@@ -126,6 +252,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3346064"
   },
   {
+    "id": "santfeliu-3346113@agenda.santfeliu.local",
+    "title": "Futbol sala Juvenil Masculí Futsal SF (B) - FS Pallejà (C)",
+    "start": "2026-09-06T13:00:00+02:00",
+    "end": "2026-09-06T14:15:00+02:00",
+    "description": "Competició esportiva: Futbol sala Juvenil Masculí Futsal SF (B) - FS Pallejà (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346113",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346113"
+  },
+  {
+    "id": "santfeliu-3346117@agenda.santfeliu.local",
+    "title": "Futbol sala Cadet Masculí Futsal SF (A) - FS Ràpid Santa Coloma (A)",
+    "start": "2026-09-06T17:30:00+02:00",
+    "end": "2026-09-06T18:45:00+02:00",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (A) - FS Ràpid Santa Coloma (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346117",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346117"
+  },
+  {
     "id": "santfeliu-3346065@agenda.santfeliu.local",
     "title": "Futbol Juvenil Masculí Santfeliuenc FC (A) - UD Viladecans (B)",
     "start": "2026-09-06T18:00:00+02:00",
@@ -138,6 +292,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3346065"
+  },
+  {
+    "id": "santfeliu-3346123@agenda.santfeliu.local",
+    "title": "Bàsquet Sènior Masculí CB Santfeliuenc - CB Esparreguera",
+    "start": "2026-09-06T18:15:00+02:00",
+    "end": "2026-09-06T19:45:00+02:00",
+    "description": "Competició esportiva: Bàsquet Sènior Masculí CB Santfeliuenc - CB Esparreguera\n\nSuper Copa\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346123",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3346123"
   },
   {
     "id": "santfeliu-3337339@agenda.santfeliu.local",
@@ -255,7 +423,7 @@
     "id": "santfeliu-3340198@agenda.santfeliu.local",
     "title": "Torneig d'Handbol Sant Llorenç (categories infantil i cadet)",
     "start": "2026-09-11T09:00:00+02:00",
-    "end": "2026-09-11T21:00:00+02:00",
+    "end": "2026-09-11T21:15:00+02:00",
     "description": "Activitats Esportives: Torneig d'Handbol Sant Llorenç (categories infantil i cadet)\n\nTipus: Activitats Esportives\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3340198",
     "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
     "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
@@ -283,7 +451,7 @@
     "id": "santfeliu-3340199@agenda.santfeliu.local",
     "title": "Torneig d'Handbol Sant Llorenç (categories infantil i cadet)",
     "start": "2026-09-12T09:00:00+02:00",
-    "end": "2026-09-12T21:00:00+02:00",
+    "end": "2026-09-12T20:30:00+02:00",
     "description": "Activitats Esportives: Torneig d'Handbol Sant Llorenç (categories infantil i cadet)\n\nTipus: Activitats Esportives\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3340199",
     "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
     "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
@@ -1370,5 +1538,33 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3336717"
+  },
+  {
+    "id": "santfeliu-3337373@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
+    "start": "2026-11-02T17:15:00+01:00",
+    "end": "2026-11-02T19:15:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337373",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3337373"
+  },
+  {
+    "id": "santfeliu-3345922@agenda.santfeliu.local",
+    "title": "Assessoria Salut i Sexualitat",
+    "start": "2026-11-02T18:00:00+01:00",
+    "end": "2026-11-02T20:00:00+01:00",
+    "description": "Taller: Assessoria Salut i Sexualitat\n\nTipus: Taller\nLloc: Casal de Joves - Despatx Planta 1\nAdreça: Ctra. Laureà Miró 0118 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3345922",
+    "location": "Casal de Joves - Despatx Planta 1 - Ctra. Laureà Miró 0118 BX",
+    "locationName": "Casal de Joves - Despatx Planta 1",
+    "address": "Ctra. Laureà Miró 0118 BX",
+    "type": "Taller",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3345922"
   }
 ]
