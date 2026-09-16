@@ -5,65 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Campanya donació de sang
-DTSTART;TZID=Europe/Madrid:20260916T170000
-DTEND;TZID=Europe/Madrid:20260916T210000
-DTSTAMP:20260915T092229Z
-UID:santfeliu-3301844@agenda.santfeliu.local
-DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
- Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
- /www.santfeliu.cat/esdeveniment/3301844
-LOCATION:Centre Cívic Les Tovalloles - Ra. Salut 0007 BX
-URL:https://www.santfeliu.cat/esdeveniment/3301844
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
-DTSTART;TZID=Europe/Madrid:20260916T171500
-DTEND;TZID=Europe/Madrid:20260916T191500
-DTSTAMP:20260915T092229Z
-UID:santfeliu-3340046@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
-  1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
- s: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça
- : C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/334
- 0046
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3340046
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
-DTSTART;TZID=Europe/Madrid:20260916T191500
-DTEND;TZID=Europe/Madrid:20260916T210000
-DTSTAMP:20260915T092229Z
-UID:santfeliu-3339644@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
-  (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
- s musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX
- \nEnllaç: https://www.santfeliu.cat/esdeveniment/3339644
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3339644
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bàsquet Sènior Masculí Sol Gironès Bisbal Bàsquet - TQ - CB P
- rat
-DTSTART;TZID=Europe/Madrid:20260916T200000
-DTEND;TZID=Europe/Madrid:20260916T213000
-DTSTAMP:20260915T092229Z
-UID:santfeliu-3346005@agenda.santfeliu.local
-DESCRIPTION:Competició esportiva: Bàsquet Sènior Masculí Sol Gironès 
- Bisbal Bàsquet - TQ - CB Prat\n\nFinal de la Lliga Nacional Catalana de S
- egona FEB\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports
-  Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnll
- aç: https://www.santfeliu.cat/esdeveniment/3346005
-LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
-  Castellbell 0017 BX
-URL:https://www.santfeliu.cat/esdeveniment/3346005
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20260917T171500
 DTEND;TZID=Europe/Madrid:20260917T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338235@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -77,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20260917T191500
 DTEND;TZID=Europe/Madrid:20260917T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339699@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -88,11 +33,67 @@ LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339699
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Voleibol Femení Club Voleibol SF Juvenil - Club Voleibol SF Sèni
+ or (B)
+DTSTART;TZID=Europe/Madrid:20260919T100000
+DTEND;TZID=Europe/Madrid:20260919T110000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348229@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Voleibol Femení Club Voleibol SF Juven
+ il - Club Voleibol SF Sènior (B)\n\nTipus: Competició esportiva\nLloc: P
+ avelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nE
+ nllaç: https://www.santfeliu.cat/esdeveniment/3348229
+LOCATION:Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Infantil Masculí CB Santfeliuenc - Joventut Badalona (B)
+DTSTART;TZID=Europe/Madrid:20260919T104500
+DTEND;TZID=Europe/Madrid:20260919T121500
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348248@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Infantil Masculí CB Santfeliu
+ enc - Joventut Badalona (B)\n\nTipus: Competició esportiva\nLloc: Palau M
+ unicipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castell
+ bell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348248
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348248
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - CB Boet Matarò
+DTSTART;TZID=Europe/Madrid:20260919T124500
+DTEND;TZID=Europe/Madrid:20260919T141500
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348252@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Júnior Masculí CB Santfeliue
+ nc (Blau) - CB Boet Matarò\n\nTipus: Competició esportiva\nLloc: Palau M
+ unicipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castell
+ bell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348252
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voleibol Masculí Club Voleibol SF Juvenil - Club Voleibol SF Sèn
+ ior (B)
+DTSTART;TZID=Europe/Madrid:20260919T130000
+DTEND;TZID=Europe/Madrid:20260919T140000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348233@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Voleibol Masculí Club Voleibol SF Juve
+ nil - Club Voleibol SF Sènior (B)\n\nTipus: Competició esportiva\nLloc: 
+ Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\n
+ Enllaç: https://www.santfeliu.cat/esdeveniment/3348233
+LOCATION:Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348233
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Olesa de Bonesvall
  s
 DTSTART;TZID=Europe/Madrid:20260919T153000
 DTEND;TZID=Europe/Madrid:20260919T173000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3336682@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Olesa de Bonesvalls\n\nTipus: Competició esportiva\nLloc: Camp d
@@ -102,10 +103,38 @@ LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3336682
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bàsquet Cadet Femení CB Santfeliuenc - Florange UE Mataró
+DTSTART;TZID=Europe/Madrid:20260919T160000
+DTEND;TZID=Europe/Madrid:20260919T173000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348263@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc 
+ - Florange UE Mataró\n\nTipus: Competició esportiva\nLloc: Palau Municip
+ al d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0
+ 017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348263
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voleibol Sènior Femení Club Voleibol SF (A) - Club Voleibol San 
+ Boi
+DTSTART;TZID=Europe/Madrid:20260919T170000
+DTEND;TZID=Europe/Madrid:20260919T180000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348234@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Voleibol Sènior Femení Club Voleibol 
+ SF (A) - Club Voleibol San Boi\n\nTipus: Competició esportiva\nLloc: Pave
+ lló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnll
+ aç: https://www.santfeliu.cat/esdeveniment/3348234
+LOCATION:Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348234
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Xerrada: "Esport i compromís" a càrrec de Pep Marí
 DTSTART;TZID=Europe/Madrid:20260919T170000
 DTEND;TZID=Europe/Madrid:20260919T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3317151@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Xerrada: "Esport i compromís" a càrre
  c de Pep Marí\n\nOrganitza: Club Handbol Sant Llorenç\n\nTipus: Activita
@@ -115,10 +144,25 @@ LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3317151
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bàsquet Sènior Masculí CB Santfeliuenc - CB Martorell (A)
+DTSTART;TZID=Europe/Madrid:20260919T180000
+DTEND;TZID=Europe/Madrid:20260919T193000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348267@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Sènior Masculí CB Santfeliue
+ nc - CB Martorell (A)\n\nSuper Copa\n\nTipus: Competició esportiva\nLloc:
+  Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de
+  Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348
+ 267
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348267
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Entrenament Església Evangèlica
 DTSTART;TZID=Europe/Madrid:20260919T180000
 DTEND;TZID=Europe/Madrid:20260919T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339479@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Entrenament Església Evangèlica\n\nTi
  pus: Activitats Esportives\nLloc: Estadi Municipal d'Atletisme\nAdreça: C
@@ -127,10 +171,24 @@ LOCATION:Estadi Municipal d'Atletisme - C. Mataró 0008 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339479
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Voleibol Sènior Masculí Club Voleibol SF (A) - Club Voleibol Mar
+ torell
+DTSTART;TZID=Europe/Madrid:20260919T190000
+DTEND;TZID=Europe/Madrid:20260919T200000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348242@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Voleibol Sènior Masculí Club Voleibol
+  SF (A) - Club Voleibol Martorell\n\nTipus: Competició esportiva\nLloc: P
+ avelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nE
+ nllaç: https://www.santfeliu.cat/esdeveniment/3348242
+LOCATION:Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348242
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trofeu CR Santfeliu de gimnàstica rítmica (conjunts i copa base)
 DTSTART;TZID=Europe/Madrid:20260920T100000
 DTEND;TZID=Europe/Madrid:20260920T190000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340259@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trofeu CR Santfeliu de gimnàstica rít
  mica (conjunts i copa base)\n\nTipus: Activitats Esportives\nLloc: Palau M
@@ -141,10 +199,24 @@ LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
 URL:https://www.santfeliu.cat/esdeveniment/3340259
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Voleibol Juvenil Femení Club Voleibol SF - Club Voleibol Sant Qui
+ rze
+DTSTART;TZID=Europe/Madrid:20260920T100000
+DTEND;TZID=Europe/Madrid:20260920T110000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348244@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Voleibol Juvenil Femení Club Voleibol 
+ SF - Club Voleibol Sant Quirze\n\nTipus: Competició esportiva\nLloc: Pave
+ lló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnll
+ aç: https://www.santfeliu.cat/esdeveniment/3348244
+LOCATION:Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348244
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dia Mundial de l'Alzheimer
 DTSTART;TZID=Europe/Madrid:20260921T090000
 DTEND;TZID=Europe/Madrid:20260921T140000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3341978@agenda.santfeliu.local
 DESCRIPTION:Campanya: Dia Mundial de l'Alzheimer\n\nTaules informatives a 
  càrrec de persones voluntàries de l'associació que estaran en els llocs
@@ -158,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20260921T171500
 DTEND;TZID=Europe/Madrid:20260921T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337363@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -172,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Viatgem a ... Sofia
 DTSTART;TZID=Europe/Madrid:20260921T183000
 DTEND;TZID=Europe/Madrid:20260921T203000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3343891@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Viatgem
   a ... Sofia\n\nComencem una nova temporada de ¿Viatgem a...? descobrint 
@@ -196,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20260922T171500
 DTEND;TZID=Europe/Madrid:20260922T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339519@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -210,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Taller STEM El laboratori de les dàfnies
 DTSTART;TZID=Europe/Madrid:20260922T173000
 DTEND;TZID=Europe/Madrid:20260922T190000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3343715@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Taller 
  STEM El laboratori de les dàfnies\n\nEn aquest taller descobrirem les dà
@@ -235,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20260922T191500
 DTEND;TZID=Europe/Madrid:20260922T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339571@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -249,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20260923T171500
 DTEND;TZID=Europe/Madrid:20260923T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340049@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -263,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20260923T191500
 DTEND;TZID=Europe/Madrid:20260923T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339645@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -276,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20260924T171500
 DTEND;TZID=Europe/Madrid:20260924T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338236@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -290,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20260924T191500
 DTEND;TZID=Europe/Madrid:20260924T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339700@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -304,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Tarda en Família per la Diversitat Cultural
 DTSTART;TZID=Europe/Madrid:20260925T170000
 DTEND;TZID=Europe/Madrid:20260925T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337768@agenda.santfeliu.local
 DESCRIPTION:Espectacles festivals: Tarda en Família per la Diversitat Cul
  tural\n\nUna tarda d'activitats familiars per reflexionar de manera divert
@@ -319,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Hora del conte La guerra de les campanes
 DTSTART;TZID=Europe/Madrid:20260926T120000
 DTEND;TZID=Europe/Madrid:20260926T130000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3343716@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Hora del conte La guerra de les campan
  es\n\nLa guerra de les campanes és un conte que parla d'un conflicte absu
@@ -342,7 +414,7 @@ SUMMARY:Celebració dels 50 anys del primer partit del Sènior Femení del
   Club Bàsquet Santfeliuenc
 DTSTART;TZID=Europe/Madrid:20260926T160000
 DTEND;TZID=Europe/Madrid:20260926T180000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340273@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Celebració dels 50 anys del primer par
  tit del Sènior Femení del Club Bàsquet Santfeliuenc\n\nOrganitza: Club 
@@ -357,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Bàsquet Sènior Femení CB Santfeliuenc - Llüisos de Gràcia
 DTSTART;TZID=Europe/Madrid:20260926T180000
 DTEND;TZID=Europe/Madrid:20260926T193000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3346942@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Bàsquet Sènior Femení CB Santfeliuen
  c - Llüisos de Gràcia\n\nCopa Catalunya\n\nTipus: Competició esportiva
@@ -372,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Entrenament Església Evangèlica
 DTSTART;TZID=Europe/Madrid:20260926T180000
 DTEND;TZID=Europe/Madrid:20260926T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339480@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Entrenament Església Evangèlica\n\nTi
  pus: Activitats Esportives\nLloc: Estadi Municipal d'Atletisme\nAdreça: C
@@ -384,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Àrbitres
 DTSTART;TZID=Europe/Madrid:20260927T170000
 DTEND;TZID=Europe/Madrid:20260927T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339475@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Àrbitres\n\nTipus: Activitats Esportiv
  es\nLloc: Estadi Municipal d'Atletisme\nAdreça: C. Mataró 0008 BX\nEnlla
@@ -396,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Xerrada Demències: orientació legal per a famílies
 DTSTART;TZID=Europe/Madrid:20260928T170000
 DTEND;TZID=Europe/Madrid:20260928T183000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3343717@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Xerrada
   Demències: orientació legal per a famílies\n\nEspai dedicat a orientar
@@ -417,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20260928T171500
 DTEND;TZID=Europe/Madrid:20260928T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337364@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -432,7 +504,7 @@ SUMMARY:Dia Mundial de l'Alzheimer: Bingo Musical al Casal de la Gent Gran
   de Sant Feliu de Llobregat.
 DTSTART;TZID=Europe/Madrid:20260929T164500
 DTEND;TZID=Europe/Madrid:20260929T193000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3342000@agenda.santfeliu.local
 DESCRIPTION:Campanya: Dia Mundial de l'Alzheimer: Bingo Musical al Casal d
  e la Gent Gran de Sant Feliu de Llobregat.\n\nTipus: Campanya\nLloc: Casal
@@ -445,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20260929T171500
 DTEND;TZID=Europe/Madrid:20260929T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339520@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -459,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20260929T191500
 DTEND;TZID=Europe/Madrid:20260929T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339572@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -473,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20260930T171500
 DTEND;TZID=Europe/Madrid:20260930T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340050@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -487,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20260930T191500
 DTEND;TZID=Europe/Madrid:20260930T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339647@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -500,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261001T171500
 DTEND;TZID=Europe/Madrid:20261001T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338238@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -514,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261001T191500
 DTEND;TZID=Europe/Madrid:20261001T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339701@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -528,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de plasma
 DTSTART;TZID=Europe/Madrid:20261002T163000
 DTEND;TZID=Europe/Madrid:20261002T203000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3301849@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc
  : Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://w
@@ -541,7 +613,7 @@ SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - CF Ciudad Cooperat
  iva
 DTSTART;TZID=Europe/Madrid:20261003T153000
 DTEND;TZID=Europe/Madrid:20261003T173000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3336705@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - CF Ciudad Cooperativa\n\nTipus: Competició esportiva\nLloc: Camp
@@ -554,7 +626,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261005T171500
 DTEND;TZID=Europe/Madrid:20261005T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337366@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -568,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Assessoria Salut i Sexualitat
 DTSTART;TZID=Europe/Madrid:20261005T180000
 DTEND;TZID=Europe/Madrid:20261005T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3345921@agenda.santfeliu.local
 DESCRIPTION:Taller: Assessoria Salut i Sexualitat\n\nTipus: Taller\nLloc: 
  Casal de Joves - Despatx Planta 1\nAdreça: Ctra. Laureà Miró 0118 BX\nE
@@ -580,7 +652,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261006T171500
 DTEND;TZID=Europe/Madrid:20261006T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339521@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -594,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261006T191500
 DTEND;TZID=Europe/Madrid:20261006T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339573@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -608,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261007T171500
 DTEND;TZID=Europe/Madrid:20261007T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340051@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -622,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261007T191500
 DTEND;TZID=Europe/Madrid:20261007T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339649@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -635,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261008T171500
 DTEND;TZID=Europe/Madrid:20261008T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338239@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -649,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261008T191500
 DTEND;TZID=Europe/Madrid:20261008T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339702@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -663,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:Handbol Sènior Femení Handbol Sant Vicenç - PENDENT INFORMACIÓ
 DTSTART;TZID=Europe/Madrid:20261011T120000
 DTEND;TZID=Europe/Madrid:20261011T140000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3348080@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Handbol Sènior Femení Handbol Sant Vi
  cenç - PENDENT INFORMACIÓ\n\nTipus: Competició esportiva\nLloc: Pavell
@@ -676,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261012T171500
 DTEND;TZID=Europe/Madrid:20261012T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337368@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -690,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261013T171500
 DTEND;TZID=Europe/Madrid:20261013T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339522@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -704,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261013T191500
 DTEND;TZID=Europe/Madrid:20261013T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339575@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -718,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261014T171500
 DTEND;TZID=Europe/Madrid:20261014T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340052@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -732,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261014T191500
 DTEND;TZID=Europe/Madrid:20261014T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339650@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -745,7 +817,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20261015T170000
 DTEND;TZID=Europe/Madrid:20261015T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3301845@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -757,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261015T171500
 DTEND;TZID=Europe/Madrid:20261015T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338240@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -771,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261015T191500
 DTEND;TZID=Europe/Madrid:20261015T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339703@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -785,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Levante Las Planas
 DTSTART;TZID=Europe/Madrid:20261017T153000
 DTEND;TZID=Europe/Madrid:20261017T173000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3336709@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Levante Las Planas\n\nTipus: Competició esportiva\nLloc: Camp de
@@ -799,7 +871,7 @@ SUMMARY:KMS CONTRA EL CÀNCER A SANT FELIU DE LLOBREGAT. Passejada solidà
  ria contra el càncer de mama
 DTSTART;TZID=Europe/Madrid:20261018T100000
 DTEND;TZID=Europe/Madrid:20261018T133000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3341994@agenda.santfeliu.local
 DESCRIPTION:Campanya: KMS CONTRA EL CÀNCER A SANT FELIU DE LLOBREGAT. Pas
  sejada solidària contra el càncer de mama\n\nPassejada solidària pels c
@@ -819,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:Visita guiada al Palau Falguera
 DTSTART;TZID=Europe/Madrid:20261018T110000
 DTEND;TZID=Europe/Madrid:20261018T123000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3300956@agenda.santfeliu.local
 DESCRIPTION:Excursions visites sortides recorreguts: Visita guiada al Pala
  u Falguera\n\nInscripció prèvia obligatòria a activitats@ateneusantfeli
@@ -835,7 +907,7 @@ SUMMARY:Dia mundial conta el cancer de mama. ENTREGA DE CORS SOLIDARIS A L
  'HOSPITAL MOISÉS BROGGI
 DTSTART;TZID=Europe/Madrid:20261019T100000
 DTEND;TZID=Europe/Madrid:20261019T120000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3342003@agenda.santfeliu.local
 DESCRIPTION:Campanya: Dia mundial conta el cancer de mama. ENTREGA DE CORS
   SOLIDARIS A L'HOSPITAL MOISÉS BROGGI\n\nEntrega de coixins a pacients de
@@ -848,10 +920,25 @@ LOCATION:C. ORIOL MARTORELL 0012
 URL:https://www.santfeliu.cat/esdeveniment/3342003
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Entrega cors solidaris a pacient de cancer de mama
+DTSTART;TZID=Europe/Madrid:20261019T110000
+DTEND;TZID=Europe/Madrid:20261019T130000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348162@agenda.santfeliu.local
+DESCRIPTION:Campanya: Entrega cors solidaris a pacient de cancer de mama\n
+ \nL'Associació Espanyola contra el Cancer (AECC) de Sant Feliu de Llobreg
+ at i l'associació Compartim Idees faran l'entrega solidaria de coixins am
+ b forma de cor a les pacient de càncer de mama de l'hospital Moisés Brog
+ gi.\n\nTipus: Campanya\nAdreça: C. ORIOL MARTORELL 0012\nEnllaç: https:/
+ /www.santfeliu.cat/esdeveniment/3348162
+LOCATION:C. ORIOL MARTORELL 0012
+URL:https://www.santfeliu.cat/esdeveniment/3348162
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261019T171500
 DTEND;TZID=Europe/Madrid:20261019T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337371@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -865,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261020T171500
 DTEND;TZID=Europe/Madrid:20261020T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339523@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -876,14 +963,33 @@ LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339523
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dia mundial conta el cancer de mama. DIMARTSALUT. Ciencia per Toth
- om. A càarrec de personal científic de l'AECC
+SUMMARY:Dia mundial Salut mental. Activitat de ZUMBA popular i lectura del
+  manifest
+DTSTART;TZID=Europe/Madrid:20261020T173000
+DTEND;TZID=Europe/Madrid:20261020T193000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348161@agenda.santfeliu.local
+DESCRIPTION:Presentacions demostracions conferències xerrades...: Dia mun
+ dial Salut mental. Activitat de ZUMBA popular i lectura del manifest\n\nDi
+ a mundial de la salut mental. Activitats de caràcter popular a càrrec de
+ l col·lectiu de persones amb malaltia mental Club social Nou cami CSMA Sa
+ nt Feliu amb la col·laboració de voluntariat de sant Feliu. Zumba col·l
+ ectiu taller de xapes mural col·lectiu i lectura del manifest\n\nTipus: P
+ resentacions\, demostracions\, conferències\, xerrades...\nAdreça: Pl. L
+ luís Companys 0001 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment
+ /3348161
+LOCATION:Pl. Lluís Companys 0001 BX 02
+URL:https://www.santfeliu.cat/esdeveniment/3348161
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia mundial contra el cancer de mama. DIMARTSALUT. Ciencia per Tot
+ hom. A càrrec de personal científic de l'AECC
 DTSTART;TZID=Europe/Madrid:20261020T180000
 DTEND;TZID=Europe/Madrid:20261020T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3342006@agenda.santfeliu.local
-DESCRIPTION:Campanya: Dia mundial conta el cancer de mama. DIMARTSALUT. Ci
- encia per Tothom. A càarrec de personal científic de l'AECC\n\nPer conè
+DESCRIPTION:Campanya: Dia mundial contra el cancer de mama. DIMARTSALUT. C
+ iencia per Tothom. A càrrec de personal científic de l'AECC\n\nPer conè
  ixer què és el càncer i els seus avenços i en concret del càncer de m
  ama.\n\nTipus: Campanya\nLloc: Palau Falguera - Sala dels Àustries\nAdre
  ça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/
@@ -895,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261020T191500
 DTEND;TZID=Europe/Madrid:20261020T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339576@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -909,7 +1015,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261021T171500
 DTEND;TZID=Europe/Madrid:20261021T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340053@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -923,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261021T191500
 DTEND;TZID=Europe/Madrid:20261021T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339651@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -936,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261022T171500
 DTEND;TZID=Europe/Madrid:20261022T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338241@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -950,7 +1056,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261022T191500
 DTEND;TZID=Europe/Madrid:20261022T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339706@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -964,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261026T171500
 DTEND;TZID=Europe/Madrid:20261026T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337372@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -978,7 +1084,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261027T171500
 DTEND;TZID=Europe/Madrid:20261027T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339525@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -992,7 +1098,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261027T191500
 DTEND;TZID=Europe/Madrid:20261027T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339577@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1006,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261028T171500
 DTEND;TZID=Europe/Madrid:20261028T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340054@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -1020,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261028T191500
 DTEND;TZID=Europe/Madrid:20261028T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339652@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -1033,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261029T171500
 DTEND;TZID=Europe/Madrid:20261029T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338243@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -1047,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261029T191500
 DTEND;TZID=Europe/Madrid:20261029T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339707@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -1058,10 +1164,24 @@ LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339707
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026
+DTSTART;TZID=Europe/Madrid:20261030T180000
+DTEND;TZID=Europe/Madrid:20261030T220000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3348259@agenda.santfeliu.local
+DESCRIPTION:Activitats Esportives: 22a Nit de l'Esport. Lliurament de prem
+ is Temporada 2025-2026\n\nTipus: Activitats Esportives\nLloc: Palau Munici
+ pal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 
+ 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348259
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3348259
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - UD San Pancracio
 DTSTART;TZID=Europe/Madrid:20261031T153000
 DTEND;TZID=Europe/Madrid:20261031T173000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3336717@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - UD San Pancracio\n\nTipus: Competició esportiva\nLloc: Camp de F
@@ -1074,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261102T171500
 DTEND;TZID=Europe/Madrid:20261102T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337373@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -1088,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:Assessoria Salut i Sexualitat
 DTSTART;TZID=Europe/Madrid:20261102T180000
 DTEND;TZID=Europe/Madrid:20261102T200000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3345922@agenda.santfeliu.local
 DESCRIPTION:Taller: Assessoria Salut i Sexualitat\n\nTipus: Taller\nLloc: 
  Casal de Joves - Despatx Planta 1\nAdreça: Ctra. Laureà Miró 0118 BX\nE
@@ -1100,7 +1220,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261103T171500
 DTEND;TZID=Europe/Madrid:20261103T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339526@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -1114,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261103T191500
 DTEND;TZID=Europe/Madrid:20261103T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339579@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1128,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261104T171500
 DTEND;TZID=Europe/Madrid:20261104T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340055@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -1142,7 +1262,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261104T191500
 DTEND;TZID=Europe/Madrid:20261104T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339653@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -1155,7 +1275,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261105T171500
 DTEND;TZID=Europe/Madrid:20261105T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338245@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -1169,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261105T191500
 DTEND;TZID=Europe/Madrid:20261105T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339708@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -1183,7 +1303,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de plasma
 DTSTART;TZID=Europe/Madrid:20261106T163000
 DTEND;TZID=Europe/Madrid:20261106T203000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3301850@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de plasma\n\nTipus: Campanya\nLloc
  : Centre Cívic Mas Lluí\nAdreça: C. Estelí 0010 BX\nEnllaç: https://w
@@ -1195,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:ACTIVITAT ESCOLA DE MUSICA
 DTSTART;TZID=Europe/Madrid:20261107T080000
 DTEND;TZID=Europe/Madrid:20261107T140000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3348144@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: ACTIVITAT ESCOLA DE MUSICA\n\nA
  CTIVITAT ESCOLA DE MUSICA\n\nTipus: Concerts i audicions musicals\nLloc: P
@@ -1208,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261109T171500
 DTEND;TZID=Europe/Madrid:20261109T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3337374@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -1222,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261110T171500
 DTEND;TZID=Europe/Madrid:20261110T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339527@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -1236,7 +1356,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261110T191500
 DTEND;TZID=Europe/Madrid:20261110T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339580@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1250,7 +1370,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261111T171500
 DTEND;TZID=Europe/Madrid:20261111T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3340058@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -1264,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261111T191500
 DTEND;TZID=Europe/Madrid:20261111T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339655@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -1277,7 +1397,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261112T171500
 DTEND;TZID=Europe/Madrid:20261112T191500
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3338246@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -1291,7 +1411,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261112T191500
 DTEND;TZID=Europe/Madrid:20261112T210000
-DTSTAMP:20260915T092229Z
+DTSTAMP:20260916T091532Z
 UID:santfeliu-3339709@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -1300,5 +1420,18 @@ DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  ww.santfeliu.cat/esdeveniment/3339709
 LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - PR Aguilas
+DTSTART;TZID=Europe/Madrid:20261114T153000
+DTEND;TZID=Europe/Madrid:20261114T173000
+DTSTAMP:20260916T091532Z
+UID:santfeliu-3336734@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
+ ava SF - PR Aguilas\n\nTipus: Competició esportiva\nLloc: Camp de Futbol 
+ Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.sa
+ ntfeliu.cat/esdeveniment/3336734
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3336734
 END:VEVENT
 END:VCALENDAR

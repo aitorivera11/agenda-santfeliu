@@ -1,61 +1,5 @@
 [
   {
-    "id": "santfeliu-3301844@agenda.santfeliu.local",
-    "title": "Campanya donació de sang",
-    "start": "2026-09-16T17:00:00+02:00",
-    "end": "2026-09-16T21:00:00+02:00",
-    "description": "Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3301844",
-    "location": "Centre Cívic Les Tovalloles - Ra. Salut 0007 BX",
-    "locationName": "Centre Cívic Les Tovalloles",
-    "address": "Ra. Salut 0007 BX",
-    "type": "Campanya",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3301844"
-  },
-  {
-    "id": "santfeliu-3340046@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)",
-    "start": "2026-09-16T17:15:00+02:00",
-    "end": "2026-09-16T19:15:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3340046",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3340046"
-  },
-  {
-    "id": "santfeliu-3339644@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA BANDA (Pepa)",
-    "start": "2026-09-16T19:15:00+02:00",
-    "end": "2026-09-16T21:00:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339644",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3339644"
-  },
-  {
-    "id": "santfeliu-3346005@agenda.santfeliu.local",
-    "title": "Bàsquet Sènior Masculí Sol Gironès Bisbal Bàsquet - TQ - CB Prat",
-    "start": "2026-09-16T20:00:00+02:00",
-    "end": "2026-09-16T21:30:00+02:00",
-    "description": "Competició esportiva: Bàsquet Sènior Masculí Sol Gironès Bisbal Bàsquet - TQ - CB Prat\n\nFinal de la Lliga Nacional Catalana de Segona FEB\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3346005",
-    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
-    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
-    "address": "Rbla. Marquesa de Castellbell 0017 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3346005"
-  },
-  {
     "id": "santfeliu-3338235@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)",
     "start": "2026-09-17T17:15:00+02:00",
@@ -84,6 +28,62 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3339699"
   },
   {
+    "id": "santfeliu-3348229@agenda.santfeliu.local",
+    "title": "Voleibol Femení Club Voleibol SF Juvenil - Club Voleibol SF Sènior (B)",
+    "start": "2026-09-19T10:00:00+02:00",
+    "end": "2026-09-19T11:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Femení Club Voleibol SF Juvenil - Club Voleibol SF Sènior (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348229",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348229"
+  },
+  {
+    "id": "santfeliu-3348248@agenda.santfeliu.local",
+    "title": "Bàsquet Infantil Masculí CB Santfeliuenc - Joventut Badalona (B)",
+    "start": "2026-09-19T10:45:00+02:00",
+    "end": "2026-09-19T12:15:00+02:00",
+    "description": "Competició esportiva: Bàsquet Infantil Masculí CB Santfeliuenc - Joventut Badalona (B)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348248",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348248"
+  },
+  {
+    "id": "santfeliu-3348252@agenda.santfeliu.local",
+    "title": "Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - CB Boet Matarò",
+    "start": "2026-09-19T12:45:00+02:00",
+    "end": "2026-09-19T14:15:00+02:00",
+    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc (Blau) - CB Boet Matarò\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348252",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348252"
+  },
+  {
+    "id": "santfeliu-3348233@agenda.santfeliu.local",
+    "title": "Voleibol Masculí Club Voleibol SF Juvenil - Club Voleibol SF Sènior (B)",
+    "start": "2026-09-19T13:00:00+02:00",
+    "end": "2026-09-19T14:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Masculí Club Voleibol SF Juvenil - Club Voleibol SF Sènior (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348233",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348233"
+  },
+  {
     "id": "santfeliu-3336682@agenda.santfeliu.local",
     "title": "Futbol Veterans Masculí Penya Blanc Blava SF - Olesa de Bonesvalls",
     "start": "2026-09-19T15:30:00+02:00",
@@ -96,6 +96,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3336682"
+  },
+  {
+    "id": "santfeliu-3348263@agenda.santfeliu.local",
+    "title": "Bàsquet Cadet Femení CB Santfeliuenc - Florange UE Mataró",
+    "start": "2026-09-19T16:00:00+02:00",
+    "end": "2026-09-19T17:30:00+02:00",
+    "description": "Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc - Florange UE Mataró\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348263",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348263"
+  },
+  {
+    "id": "santfeliu-3348234@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Femení Club Voleibol SF (A) - Club Voleibol San Boi",
+    "start": "2026-09-19T17:00:00+02:00",
+    "end": "2026-09-19T18:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Sènior Femení Club Voleibol SF (A) - Club Voleibol San Boi\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348234",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348234"
   },
   {
     "id": "santfeliu-3317151@agenda.santfeliu.local",
@@ -112,6 +140,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3317151"
   },
   {
+    "id": "santfeliu-3348267@agenda.santfeliu.local",
+    "title": "Bàsquet Sènior Masculí CB Santfeliuenc - CB Martorell (A)",
+    "start": "2026-09-19T18:00:00+02:00",
+    "end": "2026-09-19T19:30:00+02:00",
+    "description": "Competició esportiva: Bàsquet Sènior Masculí CB Santfeliuenc - CB Martorell (A)\n\nSuper Copa\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348267",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348267"
+  },
+  {
     "id": "santfeliu-3339479@agenda.santfeliu.local",
     "title": "Entrenament Església Evangèlica",
     "start": "2026-09-19T18:00:00+02:00",
@@ -126,6 +168,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3339479"
   },
   {
+    "id": "santfeliu-3348242@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Masculí Club Voleibol SF (A) - Club Voleibol Martorell",
+    "start": "2026-09-19T19:00:00+02:00",
+    "end": "2026-09-19T20:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Sènior Masculí Club Voleibol SF (A) - Club Voleibol Martorell\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348242",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348242"
+  },
+  {
     "id": "santfeliu-3340259@agenda.santfeliu.local",
     "title": "Trofeu CR Santfeliu de gimnàstica rítmica (conjunts i copa base)",
     "start": "2026-09-20T10:00:00+02:00",
@@ -138,6 +194,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3340259"
+  },
+  {
+    "id": "santfeliu-3348244@agenda.santfeliu.local",
+    "title": "Voleibol Juvenil Femení Club Voleibol SF - Club Voleibol Sant Quirze",
+    "start": "2026-09-20T10:00:00+02:00",
+    "end": "2026-09-20T11:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Juvenil Femení Club Voleibol SF - Club Voleibol Sant Quirze\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348244",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348244"
   },
   {
     "id": "santfeliu-3341978@agenda.santfeliu.local",
@@ -812,6 +882,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3342003"
   },
   {
+    "id": "santfeliu-3348162@agenda.santfeliu.local",
+    "title": "Entrega cors solidaris a pacient de cancer de mama",
+    "start": "2026-10-19T11:00:00+02:00",
+    "end": "2026-10-19T13:00:00+02:00",
+    "description": "Campanya: Entrega cors solidaris a pacient de cancer de mama\n\nL'Associació Espanyola contra el Cancer (AECC) de Sant Feliu de Llobregat i l'associació Compartim Idees faran l'entrega solidaria de coixins amb forma de cor a les pacient de càncer de mama de l'hospital Moisés Broggi.\n\nTipus: Campanya\nAdreça: C. ORIOL MARTORELL 0012\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348162",
+    "location": "C. ORIOL MARTORELL 0012",
+    "locationName": "",
+    "address": "C. ORIOL MARTORELL 0012",
+    "type": "Campanya",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348162"
+  },
+  {
     "id": "santfeliu-3337371@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
     "start": "2026-10-19T17:15:00+02:00",
@@ -840,11 +924,25 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3339523"
   },
   {
+    "id": "santfeliu-3348161@agenda.santfeliu.local",
+    "title": "Dia mundial Salut mental. Activitat de ZUMBA popular i lectura del manifest",
+    "start": "2026-10-20T17:30:00+02:00",
+    "end": "2026-10-20T19:30:00+02:00",
+    "description": "Presentacions demostracions conferències xerrades...: Dia mundial Salut mental. Activitat de ZUMBA popular i lectura del manifest\n\nDia mundial de la salut mental. Activitats de caràcter popular a càrrec del col·lectiu de persones amb malaltia mental Club social Nou cami CSMA Sant Feliu amb la col·laboració de voluntariat de sant Feliu. Zumba col·lectiu taller de xapes mural col·lectiu i lectura del manifest\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nAdreça: Pl. Lluís Companys 0001 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348161",
+    "location": "Pl. Lluís Companys 0001 BX 02",
+    "locationName": "",
+    "address": "Pl. Lluís Companys 0001 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348161"
+  },
+  {
     "id": "santfeliu-3342006@agenda.santfeliu.local",
-    "title": "Dia mundial conta el cancer de mama. DIMARTSALUT. Ciencia per Tothom. A càarrec de personal científic de l'AECC",
+    "title": "Dia mundial contra el cancer de mama. DIMARTSALUT. Ciencia per Tothom. A càrrec de personal científic de l'AECC",
     "start": "2026-10-20T18:00:00+02:00",
     "end": "2026-10-20T20:00:00+02:00",
-    "description": "Campanya: Dia mundial conta el cancer de mama. DIMARTSALUT. Ciencia per Tothom. A càarrec de personal científic de l'AECC\n\nPer conèixer què és el càncer i els seus avenços i en concret del càncer de mama.\n\nTipus: Campanya\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3342006",
+    "description": "Campanya: Dia mundial contra el cancer de mama. DIMARTSALUT. Ciencia per Tothom. A càrrec de personal científic de l'AECC\n\nPer conèixer què és el càncer i els seus avenços i en concret del càncer de mama.\n\nTipus: Campanya\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3342006",
     "location": "Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX",
     "locationName": "Palau Falguera - Sala dels Àustries",
     "address": "C. Falguera 0002 BX",
@@ -1020,6 +1118,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339707"
+  },
+  {
+    "id": "santfeliu-3348259@agenda.santfeliu.local",
+    "title": "22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026",
+    "start": "2026-10-30T18:00:00+01:00",
+    "end": "2026-10-30T22:00:00+01:00",
+    "description": "Activitats Esportives: 22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348259",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Activitats Esportives",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348259"
   },
   {
     "id": "santfeliu-3336717@agenda.santfeliu.local",
@@ -1272,5 +1384,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339709"
+  },
+  {
+    "id": "santfeliu-3336734@agenda.santfeliu.local",
+    "title": "Futbol Veterans Masculí Penya Blanc Blava SF - PR Aguilas",
+    "start": "2026-11-14T15:30:00+01:00",
+    "end": "2026-11-14T17:30:00+01:00",
+    "description": "Competició esportiva: Futbol Veterans Masculí Penya Blanc Blava SF - PR Aguilas\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3336734",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3336734"
   }
 ]
