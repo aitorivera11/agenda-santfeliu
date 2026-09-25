@@ -1,23 +1,9 @@
 [
   {
-    "id": "santfeliu-3337768@agenda.santfeliu.local",
-    "title": "Tarda en Família per la Diversitat Cultural",
-    "start": "2026-09-25T17:00:00+02:00",
-    "end": "2026-09-25T20:00:00+02:00",
-    "description": "Espectacles festivals: Tarda en Família per la Diversitat Cultural\n\nUna tarda d'activitats familiars per reflexionar de manera divertida sobre la riquesa de la diversitat cultural en el marc de la Quinzena de la Solidaritat i la Interculturalitat\n\nTipus: Espectacles, festivals\nAdreça: Pl. Alfons Comín 0001\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337768",
-    "location": "Pl. Alfons Comín 0001",
-    "locationName": "",
-    "address": "Pl. Alfons Comín 0001",
-    "type": "Espectacles, festivals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3337768"
-  },
-  {
     "id": "santfeliu-3349686@agenda.santfeliu.local",
     "title": "Futbol Infantil S13 Masculí Santfeliuenc FC (A) - UD Marianao Poblet (A)",
     "start": "2026-09-26T09:00:00+02:00",
-    "end": "2026-09-26T10:30:00+02:00",
+    "end": "2026-09-26T10:25:00+02:00",
     "description": "Competició esportiva: Futbol Infantil S13 Masculí Santfeliuenc FC (A) - UD Marianao Poblet (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349686",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
@@ -70,6 +56,48 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3349890"
   },
   {
+    "id": "santfeliu-3350431@agenda.santfeliu.local",
+    "title": "Futbol Aleví S11 Masculí Santfeliuenc FC (C) - Penya Blaugrana Vallirana (A)",
+    "start": "2026-09-26T10:25:00+02:00",
+    "end": "2026-09-26T11:50:00+02:00",
+    "description": "Competició esportiva: Futbol Aleví S11 Masculí Santfeliuenc FC (C) - Penya Blaugrana Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350431",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350431"
+  },
+  {
+    "id": "santfeliu-3350430@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S10 Masculí Santfeliuenc FC (A) - CF Ciudad Cooperativa (B)",
+    "start": "2026-09-26T10:25:00+02:00",
+    "end": "2026-09-26T11:40:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S10 Masculí Santfeliuenc FC (A) - CF Ciudad Cooperativa (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350430",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350430"
+  },
+  {
+    "id": "santfeliu-3350381@agenda.santfeliu.local",
+    "title": "Futbol Aleví S11 Masculí Peña Recreativa SF (A) - FUE Cornellà (B)",
+    "start": "2026-09-26T10:30:00+02:00",
+    "end": "2026-09-26T12:00:00+02:00",
+    "description": "Competició esportiva: Futbol Aleví S11 Masculí Peña Recreativa SF (A) - FUE Cornellà (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350381",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350381"
+  },
+  {
     "id": "santfeliu-3349891@agenda.santfeliu.local",
     "title": "Futbol sala Infantil Masculí Futsal SF (B) - CCR Gavà (C)",
     "start": "2026-09-26T11:40:00+02:00",
@@ -98,6 +126,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3349592"
   },
   {
+    "id": "santfeliu-3350428@agenda.santfeliu.local",
+    "title": "Futbol Aleví S11 Masculí Santfeliuenc FC (B) - Agrup. Sant Andreu de la Barca (C)",
+    "start": "2026-09-26T11:50:00+02:00",
+    "end": "2026-09-26T12:20:00+02:00",
+    "description": "Competició esportiva: Futbol Aleví S11 Masculí Santfeliuenc FC (B) - Agrup. Sant Andreu de la Barca (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350428",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350428"
+  },
+  {
+    "id": "santfeliu-3350427@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S9 Masculí Santfeliuenc FC (A) - CF Ciudad Cooperativa (B)",
+    "start": "2026-09-26T11:50:00+02:00",
+    "end": "2026-09-26T12:05:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S9 Masculí Santfeliuenc FC (A) - CF Ciudad Cooperativa (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350427",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350427"
+  },
+  {
     "id": "santfeliu-3348463@agenda.santfeliu.local",
     "title": "Contacontes \"La Guerra de les Campanes\"",
     "start": "2026-09-26T12:00:00+02:00",
@@ -110,6 +166,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3348463"
+  },
+  {
+    "id": "santfeliu-3350384@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S9 Masculí Peña Recreativa SF (A) - CF Martorell (A)",
+    "start": "2026-09-26T12:00:00+02:00",
+    "end": "2026-09-26T13:00:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S9 Masculí Peña Recreativa SF (A) - CF Martorell (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350384",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350384"
   },
   {
     "id": "santfeliu-3343716@agenda.santfeliu.local",
@@ -141,10 +211,10 @@
   },
   {
     "id": "santfeliu-3349693@agenda.santfeliu.local",
-    "title": "Futbol Cadet S15 Masculí Santfeliuenc FC (A) - CF Juventud 25 de Septiembre (A)",
+    "title": "Futbol Cadet S15 Masculí Santfeliuenc FC (A) - CF Juventud 25 de septiembre (A)",
     "start": "2026-09-26T13:20:00+02:00",
     "end": "2026-09-26T15:00:00+02:00",
-    "description": "Competició esportiva: Futbol Cadet S15 Masculí Santfeliuenc FC (A) - CF Juventud 25 de Septiembre (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349693",
+    "description": "Competició esportiva: Futbol Cadet S15 Masculí Santfeliuenc FC (A) - CF Juventud 25 de septiembre (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349693",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
     "address": "C. Mataró 0002 BX",
@@ -169,10 +239,10 @@
   },
   {
     "id": "santfeliu-3349728@agenda.santfeliu.local",
-    "title": "Futbol Amateur Masculí Penya Blanc Blava SF (A) - CF Palleja (B)",
+    "title": "Futbol Amateur Masculí Penya Blanc Blava SF (A) - CF Pallejà (B)",
     "start": "2026-09-26T15:30:00+02:00",
     "end": "2026-09-26T17:30:00+02:00",
-    "description": "Competició esportiva: Futbol Amateur Masculí Penya Blanc Blava SF (A) - CF Palleja (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349728",
+    "description": "Competició esportiva: Futbol Amateur Masculí Penya Blanc Blava SF (A) - CF Pallejà (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349728",
     "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
     "locationName": "Camp de Futbol Municipal Les Grases",
     "address": "C. Mataró 0002 BX",
@@ -266,6 +336,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3339480"
   },
   {
+    "id": "santfeliu-3350386@agenda.santfeliu.local",
+    "title": "Futbol Amateur Masculí Peña Recreativa SF (B) - CD Can Parellada (C)",
+    "start": "2026-09-26T18:00:00+02:00",
+    "end": "2026-09-26T20:00:00+02:00",
+    "description": "Competició esportiva: Futbol Amateur Masculí Peña Recreativa SF (B) - CD Can Parellada (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350386",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350386"
+  },
+  {
     "id": "santfeliu-3349724@agenda.santfeliu.local",
     "title": "Futbol Juvenil Masculí Santfeliuenc FC (A) - FC NSA Camp Joliu (A)",
     "start": "2026-09-26T18:00:00+02:00",
@@ -294,6 +378,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3349896"
   },
   {
+    "id": "santfeliu-3350388@agenda.santfeliu.local",
+    "title": "Futbol Juvenil Masculí Peña Recreativa SF (A) - CE L'Hospitalet (C)",
+    "start": "2026-09-26T20:00:00+02:00",
+    "end": "2026-09-26T22:00:00+02:00",
+    "description": "Competició esportiva: Futbol Juvenil Masculí Peña Recreativa SF (A) - CE L'Hospitalet (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350388",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350388"
+  },
+  {
     "id": "santfeliu-3349898@agenda.santfeliu.local",
     "title": "Futbol sala Cadet Masculí Futsal SF (A) - CCR Castelldefels (A)",
     "start": "2026-09-26T20:00:00+02:00",
@@ -306,6 +404,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3349898"
+  },
+  {
+    "id": "santfeliu-3350423@agenda.santfeliu.local",
+    "title": "Futbol Infantil S14 Masculí Santfeliuenc FC (A) - UD Marianao Poblet (B)",
+    "start": "2026-09-27T09:00:00+02:00",
+    "end": "2026-09-27T10:30:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil S14 Masculí Santfeliuenc FC (A) - UD Marianao Poblet (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350423",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350423"
   },
   {
     "id": "santfeliu-3349807@agenda.santfeliu.local",
@@ -378,6 +490,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3349615"
   },
   {
+    "id": "santfeliu-3350424@agenda.santfeliu.local",
+    "title": "Futbol Benjamí S9 Masculí Santfeliuenc FC (B) - Agrup. Sant Andreu de la Barca (B)",
+    "start": "2026-09-27T12:00:00+02:00",
+    "end": "2026-09-27T13:15:00+02:00",
+    "description": "Competició esportiva: Futbol Benjamí S9 Masculí Santfeliuenc FC (B) - Agrup. Sant Andreu de la Barca (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350424",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350424"
+  },
+  {
+    "id": "santfeliu-3350377@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Femení Club Voleibol SF (Blau) - Club Voleibol Cerdanyola (Blanc)",
+    "start": "2026-09-27T12:00:00+02:00",
+    "end": "2026-09-27T13:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Sènior Femení Club Voleibol SF (Blau) - Club Voleibol Cerdanyola (Blanc)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350377",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350377"
+  },
+  {
     "id": "santfeliu-3349801@agenda.santfeliu.local",
     "title": "Handbol Infantil Femení Club Handbol Sant Llorenç (Vermell) - HC Amics",
     "start": "2026-09-27T13:00:00+02:00",
@@ -404,6 +544,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3349616"
+  },
+  {
+    "id": "santfeliu-3350390@agenda.santfeliu.local",
+    "title": "Futbol Infantil S14 Masculí Peña Recreativa SF (A) - Escuela fútbol Premier Barcelona (A)",
+    "start": "2026-09-27T13:30:00+02:00",
+    "end": "2026-09-27T15:00:00+02:00",
+    "description": "Competició esportiva: Futbol Infantil S14 Masculí Peña Recreativa SF (A) - Escuela fútbol Premier Barcelona (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350390",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350390"
   },
   {
     "id": "santfeliu-3350182@agenda.santfeliu.local",
@@ -460,6 +614,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3350285"
+  },
+  {
+    "id": "santfeliu-3350380@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Masculí Club Voleibol SF (Blau) - Club Voleibol San Boi",
+    "start": "2026-09-27T17:00:00+02:00",
+    "end": "2026-09-27T18:00:00+02:00",
+    "description": "Competició esportiva: Voleibol Sènior Masculí Club Voleibol SF (Blau) - Club Voleibol San Boi\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3350380",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3350380"
   },
   {
     "id": "santfeliu-3339475@agenda.santfeliu.local",
@@ -547,10 +715,10 @@
   },
   {
     "id": "santfeliu-3349627@agenda.santfeliu.local",
-    "title": "Bàsquet Sènior Femení CB Santfeliuenc - Basket Esplugues (B)",
+    "title": "Bàsquet Sots25 Femení CB Santfeliuenc - Basket Esplugues (B)",
     "start": "2026-09-27T20:15:00+02:00",
     "end": "2026-09-27T20:45:00+02:00",
-    "description": "Competició esportiva: Bàsquet Sènior Femení CB Santfeliuenc - Basket Esplugues (B)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349627",
+    "description": "Competició esportiva: Bàsquet Sots25 Femení CB Santfeliuenc - Basket Esplugues (B)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3349627",
     "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
     "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
     "address": "Rbla. Marquesa de Castellbell 0017 BX",
@@ -1804,5 +1972,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339710"
+  },
+  {
+    "id": "santfeliu-3337376@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
+    "start": "2026-11-23T17:15:00+01:00",
+    "end": "2026-11-23T19:15:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337376",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3337376"
   }
 ]
