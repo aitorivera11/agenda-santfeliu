@@ -1,61 +1,5 @@
 [
   {
-    "id": "santfeliu-3339523@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
-    "start": "2026-10-20T17:15:00+02:00",
-    "end": "2026-10-20T19:15:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS - Marc Crivillé\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339523",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3339523"
-  },
-  {
-    "id": "santfeliu-3348161@agenda.santfeliu.local",
-    "title": "Dia mundial Salut mental. Activitat de ZUMBA popular i lectura del manifest",
-    "start": "2026-10-20T17:30:00+02:00",
-    "end": "2026-10-20T19:30:00+02:00",
-    "description": "Presentacions demostracions conferències xerrades...: Dia mundial Salut mental. Activitat de ZUMBA popular i lectura del manifest\n\nDia mundial de la salut mental. Activitats de caràcter popular a càrrec del col·lectiu de persones amb malaltia mental Club social Nou cami CSMA Sant Feliu amb la col·laboració de voluntariat de sant Feliu. Zumba col·lectiu taller de xapes mural col·lectiu i lectura del manifest\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nAdreça: Pl. Lluís Companys 0001 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348161",
-    "location": "Pl. Lluís Companys 0001 BX 02",
-    "locationName": "",
-    "address": "Pl. Lluís Companys 0001 BX 02",
-    "type": "Presentacions, demostracions, conferències, xerrades...",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3348161"
-  },
-  {
-    "id": "santfeliu-3342006@agenda.santfeliu.local",
-    "title": "Dia mundial contra el cancer de mama. DIMARTSALUT. Ciencia per Tothom. A càrrec de personal científic de l'AECC",
-    "start": "2026-10-20T18:00:00+02:00",
-    "end": "2026-10-20T20:00:00+02:00",
-    "description": "Campanya: Dia mundial contra el cancer de mama. DIMARTSALUT. Ciencia per Tothom. A càrrec de personal científic de l'AECC\n\nPer conèixer què és el càncer i els seus avenços i en concret del càncer de mama.\n\nTipus: Campanya\nLloc: Palau Falguera - Sala dels Àustries\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3342006",
-    "location": "Palau Falguera - Sala dels Àustries - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Sala dels Àustries",
-    "address": "C. Falguera 0002 BX",
-    "type": "Campanya",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3342006"
-  },
-  {
-    "id": "santfeliu-3339576@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)",
-    "start": "2026-10-20T19:15:00+02:00",
-    "end": "2026-10-20T21:00:00+02:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339576",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3339576"
-  },
-  {
     "id": "santfeliu-3354766@agenda.santfeliu.local",
     "title": "III Escola de Salut per a la Gent Gran : Envelliment saludable: Detecció, prevenció i eines jurídiques clau. A càrrec de l'equip SEAP, El Servei Especialitzat d'Atenció a les Persones del Baix Llobregat",
     "start": "2026-10-21T10:00:00+02:00",
@@ -180,6 +124,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339525"
+  },
+  {
+    "id": "santfeliu-3355789@agenda.santfeliu.local",
+    "title": "Presentació oficial dels equips de la Temporada 2026-2027 del CE Futsal Sant Feliu",
+    "start": "2026-10-27T18:30:00+01:00",
+    "end": "2026-10-27T20:30:00+01:00",
+    "description": "Activitats Esportives: Presentació oficial dels equips de la Temporada 2026-2027 del CE Futsal Sant Feliu\n\nTipus: Activitats Esportives\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3355789",
+    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
+    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
+    "address": "C. Mataró 0004",
+    "type": "Activitats Esportives",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3355789"
   },
   {
     "id": "santfeliu-3354367@agenda.santfeliu.local",
@@ -1244,5 +1202,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339715"
+  },
+  {
+    "id": "santfeliu-3348259@agenda.santfeliu.local",
+    "title": "22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026",
+    "start": "2026-12-18T18:00:00+01:00",
+    "end": "2026-12-18T22:00:00+01:00",
+    "description": "Activitats Esportives: 22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3348259",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Activitats Esportives",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3348259"
   }
 ]
