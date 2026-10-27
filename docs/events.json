@@ -1,61 +1,5 @@
 [
   {
-    "id": "santfeliu-3339525@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
-    "start": "2026-10-27T17:15:00+01:00",
-    "end": "2026-10-27T19:15:00+01:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS - Marc Crivillé\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339525",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3339525"
-  },
-  {
-    "id": "santfeliu-3355789@agenda.santfeliu.local",
-    "title": "Presentació oficial dels equips de la Temporada 2026-2027 del CE Futsal Sant Feliu",
-    "start": "2026-10-27T18:30:00+01:00",
-    "end": "2026-10-27T20:30:00+01:00",
-    "description": "Activitats Esportives: Presentació oficial dels equips de la Temporada 2026-2027 del CE Futsal Sant Feliu\n\nTipus: Activitats Esportives\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3355789",
-    "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
-    "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
-    "address": "C. Mataró 0004",
-    "type": "Activitats Esportives",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3355789"
-  },
-  {
-    "id": "santfeliu-3354367@agenda.santfeliu.local",
-    "title": "Club de lectura en francès",
-    "start": "2026-10-27T19:00:00+01:00",
-    "end": "2026-10-27T20:00:00+01:00",
-    "description": "Activitats Literàries: Club de lectura en francès\n\nÀ l'abri de rien d¿ Olivier Adam La Marie és mestressa de casa en una petita ciutat francesa de províncies casada i amb dos fills. Els seus dies avancen sense cap alicient i lentament la Marie va caient en una depressió sense motiu aparent. Quan coneix un grup de refugiats que malviuen als afores de la ciutat el fràgil equilibri de la seva salut mental es convulsiona i la Marie troba un sentit desesperat a la seva existència buida: ajudar-los en tot allò que pugui. Amb la seva pròpia família mig abandonada la Marie s'entrega amb fervor a ajudar els kosovars exposant-se a tota mena de perills i deixant-hi la pell completament abnegada. A càrrec de: Mercè Sans Inscripcions: Activitat amb inscripció. Complet Nombre màxim de participants: 20 Lloc: Sala Joana Raspall.\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3354367",
-    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3354367"
-  },
-  {
-    "id": "santfeliu-3339577@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)",
-    "start": "2026-10-27T19:15:00+01:00",
-    "end": "2026-10-27T21:00:00+01:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339577",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3339577"
-  },
-  {
     "id": "santfeliu-3354764@agenda.santfeliu.local",
     "title": "III Escola de Salut per a la Gent Gran : Quant de la nostra salut està a les nostres mans? A càrrec de metge família Erwin Janssen",
     "start": "2026-10-28T10:00:00+01:00",
@@ -224,6 +168,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3337373"
   },
   {
+    "id": "santfeliu-3357406@agenda.santfeliu.local",
+    "title": "Taller infantil Som Coders",
+    "start": "2026-11-02T17:45:00+01:00",
+    "end": "2026-11-02T19:00:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Taller infantil Som Coders\n\nSom Coders és una xarxa de clubs de codi que neix dels barris i municipis per garantir que tots els infants d'entre 9 i 12 anys tinguin accés a oportunitats digitals de qualitat. Dilluns 2 9 16 23 i 30 de novembre. A càrrec de: Rompiendo la Brecha Inscripcions: somcoders@rompiendolabrecha.org Edat recomanada: de 9 a 12 anys Lloc: Sala Cireres\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357406",
+    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357406"
+  },
+  {
     "id": "santfeliu-3345922@agenda.santfeliu.local",
     "title": "Assessoria Salut i Sexualitat",
     "start": "2026-11-02T18:00:00+01:00",
@@ -294,6 +252,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3354768"
   },
   {
+    "id": "santfeliu-3357408@agenda.santfeliu.local",
+    "title": "Todo por aprender 2.0",
+    "start": "2026-11-04T10:30:00+01:00",
+    "end": "2026-11-04T12:00:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Todo por aprender 2.0\n\nDimecres 4 11 18 i 25 i divendres 6 13 20 i 27 de novembre Tallers gratuïts de competències digitals perquè ningú és quedi enrere amb la tecnologia. Adreçat a majors de 65 anys que vulguin guanyar autonomia en l'ús del telèfon mòbil i vulguin fer-lo servir amb confiança. Ús del Smartphone tràmits en línia compres i banca digital seguretats a Internet xarxes socials i comunicacions... A càrrec de: Rompiendo la Brecha Inscripcions: A partir del 8 d'octubre presencialment a la Torre del Roser de 9 a 13h o via formulari Edat recomanada: a partir de 65 anys Lloc: Joana Raspall\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357408",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357408"
+  },
+  {
     "id": "santfeliu-3340055@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)",
     "start": "2026-11-04T17:15:00+01:00",
@@ -334,6 +306,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3338245"
+  },
+  {
+    "id": "santfeliu-3357409@agenda.santfeliu.local",
+    "title": "Presentació de llibre Cómo librarse de los mediocres que quieren joderte la vida d¿Albert Domènech",
+    "start": "2026-11-05T19:00:00+01:00",
+    "end": "2026-11-05T20:00:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Presentació de llibre Cómo librarse de los mediocres que quieren joderte la vida d¿Albert Domènech\n\nMira al teu voltant. Els veus? Probablement no. A primera vista són indetectables però si et descuides et poden amargar la vida en qüestió de nanosegons. I la mala notícia és que cada vegada n'hi ha més perquè es reprodueixen com els gremlins en un jacuzzi. Em sap greu dir-t'ho però els mediocres han vingut per quedar-se i estan disposats a fer-te la guitza. Calma. Respira. No tot està perdut. Tens a les mans una guia única per aprendre a detectar-los a temps. Font: https://www.casadellibro.com/libro-como-librarte-de-los-mediocres-que-quieren-joderte-la-vida/9788410940451/16812626?srsltid=AU7gw4W70wAdkQX2ANXNHPBMfoPIdWgAkMsrJ0lJlepAZ8ZRlDls762x A càrrec de: Albert Domènech Inscripció: Entrada lliure Lloc: Sala Joana Raspall\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357409",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357409"
   },
   {
     "id": "santfeliu-3339708@agenda.santfeliu.local",
@@ -392,6 +378,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3348144"
   },
   {
+    "id": "santfeliu-3357410@agenda.santfeliu.local",
+    "title": "Hora del conte Un arbre de contes",
+    "start": "2026-11-07T12:00:00+01:00",
+    "end": "2026-11-07T13:00:00+01:00",
+    "description": "Activitats Literàries: Hora del conte Un arbre de contes\n\nDescansar a l¿ombra d¿un arbre pot convertir-se en un fet màgic sobretot si en lloc de fruits a l¿arbre hi creixen contes. Un espectacle familiar nadalenc ecològic i sostenible a càrrec de Santi Rovira i la seva inseparable guitarra. A càrrec de: Santi Rovira Inscripcions: Entrada lliure Edat recomanada: a partir de 4 anys Lloc: Àrea Infantil\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357410",
+    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Infantil",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357410"
+  },
+  {
     "id": "santfeliu-3337374@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
     "start": "2026-11-09T17:15:00+01:00",
@@ -404,6 +404,34 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3337374"
+  },
+  {
+    "id": "santfeliu-3357411@agenda.santfeliu.local",
+    "title": "Viatgem a ... Bogotà Xerrada",
+    "start": "2026-11-09T18:30:00+01:00",
+    "end": "2026-11-09T20:30:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Viatgem a ... Bogotà Xerrada\n\nUs convidem a descobrir Bogotà. La capital de Colòmbia ens presenta moltes curiositats: gairebé 8 milions de persones viuen a 2.640 metres sobre el nivell del mar és la tercera capital més alta del món. S'organitza administrativament amb 20 localitats que agrupen més de 2.500 barris. Està envoltada per turons de 3 mil metres els més famosos Montserrate i Guadalupe al santuari de Montserrate hi trobem una imatge de la Mare de Deu de Montserrat. Veniu amb nosaltres a sorpreneu-vos amb el TransMicable un sistema de transport del tipus cable aeri per a la ciutat. Visitem el Museo del Oro la col·lecció d'orfebreria prehispànica més gran del món. I això es només el començament!¿ A càrrec de: Joan Falcó Inscripció: Entrada lliure Lloc: Sala Joana Raspall\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357411",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357411"
+  },
+  {
+    "id": "santfeliu-3357412@agenda.santfeliu.local",
+    "title": "Veus de la literatura catalana. Conversa amb... Antònia Carré- Pons",
+    "start": "2026-11-10T00:00:00+01:00",
+    "end": "2026-11-10T00:30:00+01:00",
+    "description": "Activitats Literàries: Veus de la literatura catalana. Conversa amb... Antònia Carré- Pons\n\nAntònia Carré -Pons és una filòloga medievalista i escriptora catalana coneguda com a experta en l¿obra Espill de Jaume Roig. Es va doctorar en filologia catalana per la Universitat de Barcelona. Actualment col·labora a la plataforma cultural Catorze abans ho havia fet a la secció cultural d¿El Punt Avui i al diari Ara. L¿any 2021 va fundar va fundar l'editorial Cal Carré que recupera el nom de la carnisseria familiar establerta a Terrassa. L'editorial publica obres d'autors clàssics contemporanis i medievals i té una orientació feminista. El 2026 va guanyar el Premi Òmnium a la millor novel·la de l'any amb La gran família basada en part en la pròpia experiència familiar A càrrec de: Antònia Carré -Pons. Modera: Jordi Nopca Inscripcions: Entrada lliure Lloc: Sala Joana Raspall\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357412",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357412"
   },
   {
     "id": "santfeliu-3349412@agenda.santfeliu.local",
@@ -490,6 +518,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3339655"
   },
   {
+    "id": "santfeliu-3357413@agenda.santfeliu.local",
+    "title": "Activitat infantil La biblioteca dels peluixos dormilegues",
+    "start": "2026-11-12T17:00:00+01:00",
+    "end": "2026-11-12T19:00:00+01:00",
+    "description": "Activitats Literàries: Activitat infantil La biblioteca dels peluixos dormilegues\n\nUna activitat tendra i divertida pensada per als més petits de casa: els infants vindran a la biblioteca un dijous a la tarda per deixar-nos el seu peluix onino estimat que passarà una nit molt especial entre llibres i contes! Durant la nit els peluixos descobriran històries màgiques escolliran un llibre i¿abans d¿anar a dormir s¿endinsaran en la lectura. Quan l¿infant torni a buscar-lo l¿endemà el nino li haurà \"deixat\" un conte: aquell que ha triat i llegit durant la seva estada nocturna a la biblioteca. Perfer-ho encara més especial enviarem una fotografia del peluix dormint a la biblioteca durant la nit perquè els infants puguin veure què ha viscut la seva joguina. Lainscripció es farà a través d¿un formulari online. Allà les famílies indicaransi l¿infant té alguna preferència de conte o bé si volen que nosaltres lirecomanem una lectura pensada especialment per ell o ella. Unaproposta original i entranyable per fomentar la imaginació l¿amor pels llibresi el vincle amb la biblioteca des de ben petits. A càrrec d¿: Alea Ardanuy i Elisabeth Morales Inscripcions: a partir del 27 d¿octubre per telèfon presencialment o a través del formulari https://forms.gle/1fX1cQHXKStxaEvF7 Edat recomanada: de 2 a 5 anys Nombre màxim de participants: 20\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357413",
+    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Infantil",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357413"
+  },
+  {
     "id": "santfeliu-3338246@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)",
     "start": "2026-11-12T17:15:00+01:00",
@@ -530,6 +572,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339709"
+  },
+  {
+    "id": "santfeliu-3357414@agenda.santfeliu.local",
+    "title": "Minimúsics Petits animalons",
+    "start": "2026-11-14T12:00:00+01:00",
+    "end": "2026-11-14T13:00:00+01:00",
+    "description": "Concerts i audicions musicals: Minimúsics Petits animalons\n\nPer fer arribar la música i l'art a les famílies a través d¿una experiència compartida directa profunda i feliç. A partir de diferents sons melodies moviments jocs musicals i molta creativitat ens endinsarem en una nova manera d'entendre aprendre i gaudir la música. A càrrec d¿: Albada Blay Inscripcions: a partir del 6 de novembre per telèfon presencialment o a través del formulari https://forms.gle/eSq92T9CctzoxLvUA Edat recomanada: 16-36 mesos Nombre màxim de participants: 15 infants + 2 adults per infant\n\nTipus: Concerts i audicions musicals\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357414",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357414"
   },
   {
     "id": "santfeliu-3336734@agenda.santfeliu.local",
@@ -574,6 +630,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3337375"
   },
   {
+    "id": "santfeliu-3357415@agenda.santfeliu.local",
+    "title": "Xerrada Com estic jo? Atendre i entendre com estem vivint l¿adolescència dels nostres fills /es",
+    "start": "2026-11-16T18:00:00+01:00",
+    "end": "2026-11-16T19:00:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Xerrada Com estic jo? Atendre i entendre com estem vivint l¿adolescència dels nostres fills /es\n\nObservarem com estem vivint emocionalment els pares i mares tots els canvis dels nostres fills i filles per cuidar-nos i reformular el vincle. A càrrec de: El despertador Inscripcions: Entrada lliure\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357415",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357415"
+  },
+  {
     "id": "santfeliu-3339528@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
     "start": "2026-11-17T17:15:00+01:00",
@@ -586,6 +656,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339528"
+  },
+  {
+    "id": "santfeliu-3357416@agenda.santfeliu.local",
+    "title": "Escola de famílies Disciplina des de l¿afecte",
+    "start": "2026-11-17T17:30:00+01:00",
+    "end": "2026-11-17T18:30:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Escola de famílies Disciplina des de l¿afecte\n\nAprendrem a posar límits clars ferms i respectuosos que funcionin en el dia a dia sense necessitat de recórrer a crits ni baralles constants. Descobrirem com guiar als nostres fills des d¿un afecte profund i una autoritat positiva millorant la comunicació i la convivència a casa. Inscripcions: A l¿adreça de correu suportampas@santfeliu.cat indicant nom i cognoms i el títols de la formació\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357416",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357416"
   },
   {
     "id": "santfeliu-3353504@agenda.santfeliu.local",
@@ -644,6 +728,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3340059"
   },
   {
+    "id": "santfeliu-3357417@agenda.santfeliu.local",
+    "title": "Tertúlies filosòfiques Filosofia salvatge de Xisca Homar",
+    "start": "2026-11-18T19:00:00+01:00",
+    "end": "2026-11-18T20:00:00+01:00",
+    "description": "Activitats Literàries: Tertúlies filosòfiques Filosofia salvatge de Xisca Homar\n\nEn aquest llibre bàsic i necessari Xisca Homar ens redescobreix la filosofia des del vessant més quotidià vital i salvatge. Ho provoca a partir de fets actuals que relaciona amb pensadors com ara Sòfocles Aristòtil Friedrich Nietzsche Hanna Arendt Sílvia Federici Simone de Beauvoir Marina Garcés entre molts altres. D¿aquesta manera ens desxifra conceptes que de vegades semblen allunyats per fer-nos entendre fins a quin punt parlen de nosaltres. I sobretot fins a quin punt ens ajuden a fer-nos preguntes a sospitar que res és inamovible a trencar murs que semblen infranquejables i fer possible noves realitats. A càrrec de: Pere Ruiz Inscripcions: Activitat amb inscripció. Complet\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357417",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357417"
+  },
+  {
     "id": "santfeliu-3339656@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA BANDA (Pepa)",
     "start": "2026-11-18T19:15:00+01:00",
@@ -672,6 +770,34 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3338248"
   },
   {
+    "id": "santfeliu-3357418@agenda.santfeliu.local",
+    "title": "Club de lectura infantil Les Bruixes de Brooklyn de Sophie Escabasse",
+    "start": "2026-11-19T18:00:00+01:00",
+    "end": "2026-11-19T19:00:00+01:00",
+    "description": "Activitats Literàries: Club de lectura infantil Les Bruixes de Brooklyn de Sophie Escabasse\n\nL¿Effie ha perdut la seva mare i la seva llar i ara ha de viure amb unes tietes molt estranyes que mai abans havia conegut. Però la seva vida fa un gir curiós a mesura que aprèn més coses sobre la seva família i sobre ella mateixa. Amb nous amics que faran tot el possible per donar-li suport una maleïda estrella del pop i la seva nova família inclinada cap a la màgia la vida de l¿Effie està a punt de tornar-se interessant. A càrrec de: Ruth Tormo Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 12 Edat recomanada: de 9 a 12 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357418",
+    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357418"
+  },
+  {
+    "id": "santfeliu-3357419@agenda.santfeliu.local",
+    "title": "Presentació de llibre Planeta Marc de Marta Casas Vilella",
+    "start": "2026-11-19T18:30:00+01:00",
+    "end": "2026-11-19T19:30:00+01:00",
+    "description": "Presentacions demostracions conferències xerrades...: Presentació de llibre Planeta Marc de Marta Casas Vilella\n\nEl Marc va néixer diferent. O potser va ser el món qui mai no va saber com estimar-lo. A través d¿una veu descarnada i lúcida el Marc mateix un jove amb autisme narra la seva infantesa els primers brots la caiguda en la foscor la incomprensió familiar el silenci institucional i una societat que no sap conviure amb la diferència. Però aquesta és també la història d¿una mare que no es rendeix. Que lluita fins a l¿últim alè per comprendre per protegir per fer possible una forma d¿amor més enllà del llenguatge. Un testimoni sincer lluminós i ple d¿intel·ligència emocional que et travessa i et fa mirar la vida amb uns altres ulls. A càrrec de: Marta Casas Vilella. Lectura de textos a càrrec de Marc Olmedo Casas (filòleg). Presentació a càrrec d¿Iona Salvador de Marketing editorial - connecta llibres amb lectors. Inscripció: Entrada lliure\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357419",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Presentacions, demostracions, conferències, xerrades...",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357419"
+  },
+  {
     "id": "santfeliu-3339710@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)",
     "start": "2026-11-19T19:15:00+01:00",
@@ -684,6 +810,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339710"
+  },
+  {
+    "id": "santfeliu-3357420@agenda.santfeliu.local",
+    "title": "Storytime Gina Ginger & Charlie Chives",
+    "start": "2026-11-21T12:00:00+01:00",
+    "end": "2026-11-21T13:00:00+01:00",
+    "description": "Activitats Literàries: Storytime Gina Ginger & Charlie Chives\n\nLa Gina i en Charlie són veïns però no s'agraden gens i sempre que poden intenten molestar-se l'un amb l'altre sempre que poden però un dia passa una cosa extraordinària i tot canvia entre ells. A càrrec de: Kids & Us Inscripcions: Entrada lliure\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357420",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357420"
   },
   {
     "id": "santfeliu-3337376@agenda.santfeliu.local",
@@ -700,6 +840,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3337376"
   },
   {
+    "id": "santfeliu-3357421@agenda.santfeliu.local",
+    "title": "PetitLab d¿imatges i lletres",
+    "start": "2026-11-23T17:30:00+01:00",
+    "end": "2026-11-23T18:30:00+01:00",
+    "description": "Activitats Literàries: PetitLab d¿imatges i lletres\n\nUn espai de trobada en família on els contes seran els protagonistes. Acompanyats de la Judith Navarro experta en mediació i educació literària i en un entorn acollidor i agradable compartirem moments de lectura plegats i descobrirem nous títols i nous models lectors que podrem gaudir en família. A càrrec de: Judith Navarro Inscripcions: a partir del 16 de novembre per telèfon presencialment o a través del formulari https://forms.gle/LBPPrHCZotcXfwW17 Nombre màxim de participants: 15 infants (2 adults per unitat familiar) Edat recomanada: De 3 a 5 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357421",
+    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Infantil",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357421"
+  },
+  {
     "id": "santfeliu-3339529@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
     "start": "2026-11-24T17:15:00+01:00",
@@ -712,6 +866,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339529"
+  },
+  {
+    "id": "santfeliu-3357422@agenda.santfeliu.local",
+    "title": "Club de lectura en francès Deux soeurs de David Foenkinos",
+    "start": "2026-11-24T19:00:00+01:00",
+    "end": "2026-11-24T20:00:00+01:00",
+    "description": "Activitats Literàries: Club de lectura en francès Deux soeurs de David Foenkinos\n\nProfessora en un institut la Mathilde a la trentena forma amb l¿Etienne una parella feliç. D¿un dia per l¿altre però l¿Etienne decideix trencar amb la Mathilde i l¿univers de la jove s¿esfondra. Devastada la Mathilde es refugia en la seva germana l¿Agathe que l¿acull al seu petit apartament amb el marit i la filla. La relació entre les dues germanes es redefineix i uns nous lligams s¿estrenyen en aquest petit món familiar on cadascú prova de trobar l¿equilibri. pell completament abnegada. A càrrec de: Mercè Sans Inscripcions: Activitat amb inscripció. Complet\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357422",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3357422"
   },
   {
     "id": "santfeliu-3339583@agenda.santfeliu.local",
