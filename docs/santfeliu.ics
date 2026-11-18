@@ -5,73 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Campanya donació de sang
-DTSTART;TZID=Europe/Madrid:20261118T170000
-DTEND;TZID=Europe/Madrid:20261118T210000
-DTSTAMP:20261117T131355Z
-UID:santfeliu-3301846@agenda.santfeliu.local
-DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
- Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
- /www.santfeliu.cat/esdeveniment/3301846
-LOCATION:Centre Cívic Les Tovalloles - Ra. Salut 0007 BX
-URL:https://www.santfeliu.cat/esdeveniment/3301846
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
-DTSTART;TZID=Europe/Madrid:20261118T171500
-DTEND;TZID=Europe/Madrid:20261118T191500
-DTSTAMP:20261117T131355Z
-UID:santfeliu-3340059@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
-  1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
- s: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça
- : C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/334
- 0059
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3340059
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tertúlies filosòfiques Filosofia salvatge de Xisca Homar
-DTSTART;TZID=Europe/Madrid:20261118T190000
-DTEND;TZID=Europe/Madrid:20261118T200000
-DTSTAMP:20261117T131355Z
-UID:santfeliu-3357417@agenda.santfeliu.local
-DESCRIPTION:Activitats Literàries: Tertúlies filosòfiques Filosofia sal
- vatge de Xisca Homar\n\nEn aquest llibre bàsic i necessari Xisca Homar en
- s redescobreix la filosofia des del vessant més quotidià vital i salvatg
- e. Ho provoca a partir de fets actuals que relaciona amb pensadors com ara
-  Sòfocles Aristòtil Friedrich Nietzsche Hanna Arendt Sílvia Federici Si
- mone de Beauvoir Marina Garcés entre molts altres. D¿aquesta manera ens 
- desxifra conceptes que de vegades semblen allunyats per fer-nos entendre f
- ins a quin punt parlen de nosaltres. I sobretot fins a quin punt ens ajude
- n a fer-nos preguntes a sospitar que res és inamovible a trencar murs que
-  semblen infranquejables i fer possible noves realitats. A càrrec de: Per
- e Ruiz Inscripcions: Activitat amb inscripció. Complet\n\nTipus: Activita
- ts Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C.
-  Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeve
- niment/3357417
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3357417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
-DTSTART;TZID=Europe/Madrid:20261118T191500
-DTEND;TZID=Europe/Madrid:20261118T210000
-DTSTAMP:20261117T131355Z
-UID:santfeliu-3339656@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
-  (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
- s musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX
- \nEnllaç: https://www.santfeliu.cat/esdeveniment/3339656
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3339656
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261119T171500
 DTEND;TZID=Europe/Madrid:20261119T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3338248@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -86,7 +23,7 @@ SUMMARY:Club de lectura infantil Les Bruixes de Brooklyn de Sophie Escabas
  se
 DTSTART;TZID=Europe/Madrid:20261119T180000
 DTEND;TZID=Europe/Madrid:20261119T190000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3357418@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura infantil Les Bruixes d
  e Brooklyn de Sophie Escabasse\n\nL'Effie ha perdut la seva mare i la seva
@@ -108,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Presentació de llibre Planeta Marc de Marta Casas Vilella
 DTSTART;TZID=Europe/Madrid:20261119T183000
 DTEND;TZID=Europe/Madrid:20261119T193000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3357419@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Present
  ació de llibre Planeta Marc de Marta Casas Vilella\n\nEl Marc va néixer 
@@ -135,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261119T191500
 DTEND;TZID=Europe/Madrid:20261119T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339710@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -149,20 +86,357 @@ BEGIN:VEVENT
 SUMMARY:Trobada Poliesportiva de Secundària
 DTSTART;TZID=Europe/Madrid:20261120T093000
 DTEND;TZID=Europe/Madrid:20261120T123000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3361114@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Trobada Poliesportiva de Secundària\n
  \nTrobada organitzada pel CEBLLOB per alumnat de 2n d'ESO.\n\nTipus: Activ
- itats Esportives\nLloc: Estadi Municipal d'Atletisme\nAdreça: C. Mataró 
- 0008 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3361114
-LOCATION:Estadi Municipal d'Atletisme - C. Mataró 0008 BX
+ itats Esportives\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. M
+ ataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3361114
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3361114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Premini Femení CB Santfeliuenc - CB Roser
+DTSTART;TZID=Europe/Madrid:20261121T084500
+DTEND;TZID=Europe/Madrid:20261121T101500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363428@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Premini Femení CB Santfeliuen
+ c - CB Roser\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Espo
+ rts Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nE
+ nllaç: https://www.santfeliu.cat/esdeveniment/3363428
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Premini Masculí CB Santfeliuenc (Blanc) - JAC Sants Barc
+ elona
+DTSTART;TZID=Europe/Madrid:20261121T084500
+DTEND;TZID=Europe/Madrid:20261121T101500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363429@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Premini Masculí CB Santfeliue
+ nc (Blanc) - JAC Sants Barcelona\n\nTipus: Competició esportiva\nLloc: Pa
+ lau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Ca
+ stellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363429
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví Mixt Peña Recreativa SF (Verd) - DSB
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T100000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363241@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví Mixt Peña Recreativa SF 
+ (Verd) - DSB\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municip
+ al Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://w
+ ww.santfeliu.cat/esdeveniment/3363241
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363241
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S11 Masculí Peña Recreativa SF (C) - ATC Hospitale
+ nse (B)
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T103000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363244@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S11 Masculí Peña Recrea
+ tiva SF (C) - ATC Hospitalense (B)\n\nTipus: Competició esportiva\nLloc: 
+ Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 
+ BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363244
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363244
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Infantil S13 Masculí Santfeliuenc FC (A) - CF Vinyets Mol
+ í Vell (A)
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T103000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363231@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Infantil S13 Masculí Santfeliue
+ nc FC (A) - CF Vinyets Molí Vell (A)\n\nTipus: Competició esportiva\nLlo
+ c: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnlla
+ ç: https://www.santfeliu.cat/esdeveniment/3363231
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Infantil Mixt Bon Salvador - FS Prat (C)
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T100000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363170@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Infantil Mixt Bon Salvador 
+ - FS Prat (C)\n\nTipus: Competició esportiva\nLloc: Pista Exterior PME An
+ drey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/
+ esdeveniment/3363170
+LOCATION:Pista Exterior PME Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363170
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Aleví Masculí Club Handbol Sant Llorenç (Negre) - Sant 
+ Martí Adrianenc
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T100000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363279@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Aleví Masculí Club Handbol Sa
+ nt Llorenç (Negre) - Sant Martí Adrianenc\n\nTipus: Competició esportiv
+ a\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0
+ 004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363279
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Benjamí Masculí Club Handbol Sant Llorenç (Negre) - H M
+ olins
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T100000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363278@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Benjamí Masculí Club Handbol 
+ Sant Llorenç (Negre) - H Molins\n\nTipus: Competició esportiva\nLloc: Pa
+ velló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnlla
+ ç: https://www.santfeliu.cat/esdeveniment/3363278
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Benjamí Masculí Club Handbol Sant Llorenç (Vermell) - H
+  Molins
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T100000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363276@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Benjamí Masculí Club Handbol 
+ Sant Llorenç (Vermell) - H Molins\n\nTipus: Competició esportiva\nLloc: 
+ Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnll
+ aç: https://www.santfeliu.cat/esdeveniment/3363276
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Benjamí Mixt Futsal FS Escola Miquel Martí i Pol (B)
+  - Pedagogium Cos (Blau)
+DTSTART;TZID=Europe/Madrid:20261121T100000
+DTEND;TZID=Europe/Madrid:20261121T110000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363174@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Benjamí Mixt Futsal FS Esc
+ ola Miquel Martí i Pol (B) - Pedagogium Cos (Blau)\n\nTipus: Competició 
+ esportiva\nLloc: Pista Exterior PME Andrey Xepkin\nAdreça: C. Mataró 000
+ 4\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363174
+LOCATION:Pista Exterior PME Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Infantil Femení Club Handbol Sant Llorenç (Vermell) - H 
+ Cooperativa Sant Boi
+DTSTART;TZID=Europe/Madrid:20261121T101000
+DTEND;TZID=Europe/Madrid:20261121T111000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363282@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Infantil Femení Club Handbol S
+ ant Llorenç (Vermell) - H Cooperativa Sant Boi\n\nTipus: Competició espo
+ rtiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Matar
+ ó 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363282
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363282
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Premini Masculí CB Santfeliuenc (Blau) - Bàsquet Manres
+ a
+DTSTART;TZID=Europe/Madrid:20261121T101500
+DTEND;TZID=Europe/Madrid:20261121T114500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363430@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Premini Masculí CB Santfeliue
+ nc (Blau) - Bàsquet Manresa\n\nTipus: Competició esportiva\nLloc: Palau 
+ Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castel
+ lbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363430
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363430
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Prebenjamí Mixt Peña Recreativa SF (Groc) - UD Sector Mon
+ tserratina (B)
+DTSTART;TZID=Europe/Madrid:20261121T101500
+DTEND;TZID=Europe/Madrid:20261121T111500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363243@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Prebenjamí Mixt Peña Recreativ
+ a SF (Groc) - UD Sector Montserratina (B)\n\nTipus: Competició esportiva
+ \nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Dur
+ an 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363243
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S12 Masculí Peña Recreativa SF (A) - EB El Papiol 
+ (A)
+DTSTART;TZID=Europe/Madrid:20261121T103000
+DTEND;TZID=Europe/Madrid:20261121T120000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363246@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S12 Masculí Peña Recrea
+ tiva SF (A) - EB El Papiol (A)\n\nTipus: Competició esportiva\nLloc: Camp
+  de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\n
+ Enllaç: https://www.santfeliu.cat/esdeveniment/3363246
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363246
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Benjamí S10 Masculí Santfeliuenc FC (A) - AE Abrera (A)
+DTSTART;TZID=Europe/Madrid:20261121T103000
+DTEND;TZID=Europe/Madrid:20261121T114500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363232@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Benjamí S10 Masculí Santfeliue
+ nc FC (A) - AE Abrera (A)\n\nTipus: Competició esportiva\nLloc: Camp de F
+ utbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://
+ www.santfeliu.cat/esdeveniment/3363232
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Benjamí S9 Masculí Santfeliuenc FC (A) - AE Prat (B)
+DTSTART;TZID=Europe/Madrid:20261121T103000
+DTEND;TZID=Europe/Madrid:20261121T114500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363233@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Benjamí S9 Masculí Santfeliuen
+ c FC (A) - AE Prat (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futb
+ ol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www
+ .santfeliu.cat/esdeveniment/3363233
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Prebenjamí Mixt Futsal FS Escola Miquel Martí i Pol 
+ (A) - Bon Salvador
+DTSTART;TZID=Europe/Madrid:20261121T110000
+DTEND;TZID=Europe/Madrid:20261121T120000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363171@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Prebenjamí Mixt Futsal FS 
+ Escola Miquel Martí i Pol (A) - Bon Salvador\n\nTipus: Competició esport
+ iva\nLloc: Pista Exterior PME Andrey Xepkin\nAdreça: C. Mataró 0004\nEnl
+ laç: https://www.santfeliu.cat/esdeveniment/3363171
+LOCATION:Pista Exterior PME Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363171
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Promeses Mixt Peña Recreativa SF - CF SABA
+DTSTART;TZID=Europe/Madrid:20261121T111500
+DTEND;TZID=Europe/Madrid:20261121T121500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363242@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Promeses Mixt Peña Recreativa S
+ F - CF SABA\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipa
+ l Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://ww
+ w.santfeliu.cat/esdeveniment/3363242
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Aleví Masculí Club Handbol Sant Llorenç (Vermell) - CH 
+ Sant Esteve Palautordera
+DTSTART;TZID=Europe/Madrid:20261121T112000
+DTEND;TZID=Europe/Madrid:20261121T122000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363284@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Aleví Masculí Club Handbol Sa
+ nt Llorenç (Vermell) - CH Sant Esteve Palautordera\n\nTipus: Competició 
+ esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. M
+ ataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363284
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Cadet Femení CB Santfeliuenc - UE Claret (A)
+DTSTART;TZID=Europe/Madrid:20261121T120000
+DTEND;TZID=Europe/Madrid:20261121T133000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363431@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Cadet Femení CB Santfeliuenc 
+ - UE Claret (A)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'E
+ sports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX
+ \nEnllaç: https://www.santfeliu.cat/esdeveniment/3363431
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví Masculí Santfeliuenc FC (D) - CD Almeda
+DTSTART;TZID=Europe/Madrid:20261121T120000
+DTEND;TZID=Europe/Madrid:20261121T133000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363235@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví Masculí Santfeliuenc FC 
+ (D) - CD Almeda\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Muni
+ cipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfe
+ liu.cat/esdeveniment/3363235
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S11 Masculí Santfeliuenc FC (B) - UD Marianao Poble
+ t (C)
+DTSTART;TZID=Europe/Madrid:20261121T120000
+DTEND;TZID=Europe/Madrid:20261121T133000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363234@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S11 Masculí Santfeliuenc
+  FC (B) - UD Marianao Poblet (C)\n\nTipus: Competició esportiva\nLloc: Ca
+ mp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: h
+ ttps://www.santfeliu.cat/esdeveniment/3363234
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Benjamí S9 Masculí Peña Recreativa SF (A) - AE Prat (A)
+DTSTART;TZID=Europe/Madrid:20261121T120000
+DTEND;TZID=Europe/Madrid:20261121T131500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363247@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Benjamí S9 Masculí Peña Recre
+ ativa SF (A) - AE Prat (A)\n\nTipus: Competició esportiva\nLloc: Camp de 
+ Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnll
+ aç: https://www.santfeliu.cat/esdeveniment/3363247
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Aleví Mixt Futsal SF Escola Nadal - Bon Salvador (Bla
+ u)
+DTSTART;TZID=Europe/Madrid:20261121T120000
+DTEND;TZID=Europe/Madrid:20261121T130000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363173@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Aleví Mixt Futsal SF Escol
+ a Nadal - Bon Salvador (Blau)\n\nTipus: Competició esportiva\nLloc: Pista
+  Exterior PME Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://ww
+ w.santfeliu.cat/esdeveniment/3363173
+LOCATION:Pista Exterior PME Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363173
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storytime Gina Ginger & Charlie Chives
 DTSTART;TZID=Europe/Madrid:20261121T120000
 DTEND;TZID=Europe/Madrid:20261121T130000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3357420@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Storytime Gina Ginger & Charlie Chives
  \n\nLa Gina i en Charlie són veïns però no s'agraden gens i sempre que 
@@ -176,10 +450,208 @@ LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat
 URL:https://www.santfeliu.cat/esdeveniment/3357420
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Futbol Prebenjamí S8 Masculí Peña Recreativa SF (B) - CF Terlen
+ ka Barcelonista (B)
+DTSTART;TZID=Europe/Madrid:20261121T121500
+DTEND;TZID=Europe/Madrid:20261121T131500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363249@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Prebenjamí S8 Masculí Peña Re
+ creativa SF (B) - CF Terlenka Barcelonista (B)\n\nTipus: Competició espor
+ tiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí
+  Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363249
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Infantil Masculí Club Handbol Sant Llorenç - H Gavà (Gr
+ ana)
+DTSTART;TZID=Europe/Madrid:20261121T122000
+DTEND;TZID=Europe/Madrid:20261121T132000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363285@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Infantil Masculí Club Handbol 
+ Sant Llorenç - H Gavà (Grana)\n\nTipus: Competició esportiva\nLloc: Pav
+ elló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç
+ : https://www.santfeliu.cat/esdeveniment/3363285
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Benjamí Mixt Futsal FS Escola Miquel Martí i Pol (A)
+  - AE Vallirana (C)
+DTSTART;TZID=Europe/Madrid:20261121T130000
+DTEND;TZID=Europe/Madrid:20261121T140000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363175@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Benjamí Mixt Futsal FS Esc
+ ola Miquel Martí i Pol (A) - AE Vallirana (C)\n\nTipus: Competició espor
+ tiva\nLloc: Pista Exterior PME Andrey Xepkin\nAdreça: C. Mataró 0004\nEn
+ llaç: https://www.santfeliu.cat/esdeveniment/3363175
+LOCATION:Pista Exterior PME Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Infantil Masculí CB Santfeliuenc - CB Prat (B)
+DTSTART;TZID=Europe/Madrid:20261121T133000
+DTEND;TZID=Europe/Madrid:20261121T150000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363432@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Infantil Masculí CB Santfeliu
+ enc - CB Prat (B)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d
+ 'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 
+ BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363432
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Cadet S15 Masculí Santfeliuenc FC (A) - AF Sant Vicenç de
+ ls Horts (A)
+DTSTART;TZID=Europe/Madrid:20261121T133000
+DTEND;TZID=Europe/Madrid:20261121T151000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363236@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Cadet S15 Masculí Santfeliuenc 
+ FC (A) - AF Sant Vicenç dels Horts (A)\n\nTipus: Competició esportiva\nL
+ loc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnl
+ laç: https://www.santfeliu.cat/esdeveniment/3363236
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Infantil S13 Masculí Peña Recreativa SF (B) - PB Cervell
+ ó (A)
+DTSTART;TZID=Europe/Madrid:20261121T133000
+DTEND;TZID=Europe/Madrid:20261121T150000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363253@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Infantil S13 Masculí Peña Recr
+ eativa SF (B) - PB Cervelló (A)\n\nTipus: Competició esportiva\nLloc: Ca
+ mp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX
+ \nEnllaç: https://www.santfeliu.cat/esdeveniment/3363253
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Cadet Masculí Club Handbol Sant Llorenç (Negre) - H Ribe
+ s
+DTSTART;TZID=Europe/Madrid:20261121T133000
+DTEND;TZID=Europe/Madrid:20261121T153000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363286@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Cadet Masculí Club Handbol San
+ t Llorenç (Negre) - H Ribes\n\nTipus: Competició esportiva\nLloc: Pavell
+ ó Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: h
+ ttps://www.santfeliu.cat/esdeveniment/3363286
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Infantil S14 Masculí Peña Recreativa SF (C) - UE Rubi (C)
+DTSTART;TZID=Europe/Madrid:20261121T151500
+DTEND;TZID=Europe/Madrid:20261121T164500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363257@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Infantil S14 Masculí Peña Recr
+ eativa SF (C) - UE Rubi (C)\n\nTipus: Competició esportiva\nLloc: Camp de
+  Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnl
+ laç: https://www.santfeliu.cat/esdeveniment/3363257
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Sots25 Femení CB Santfeliuenc - Bàsquet PB9
+DTSTART;TZID=Europe/Madrid:20261121T154500
+DTEND;TZID=Europe/Madrid:20261121T171500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363433@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Sots25 Femení CB Santfeliuenc
+  - Bàsquet PB9\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'E
+ sports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX
+ \nEnllaç: https://www.santfeliu.cat/esdeveniment/3363433
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Sènior Masculí Peña Recreativa SF (B) - FS Prat (C)
+DTSTART;TZID=Europe/Madrid:20261121T160000
+DTEND;TZID=Europe/Madrid:20261121T171500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363184@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Sènior Masculí Peña Recr
+ eativa SF (B) - FS Prat (C)\n\nTipus: Competició esportiva\nLloc: Pavell
+ ó Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: h
+ ttps://www.santfeliu.cat/esdeveniment/3363184
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Sènior Femení Club Handbol Sant Llorenç - CH Sant Estev
+ e Sesrovires
+DTSTART;TZID=Europe/Madrid:20261121T172000
+DTEND;TZID=Europe/Madrid:20261121T184500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363287@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Sènior Femení Club Handbol Sa
+ nt Llorenç - CH Sant Esteve Sesrovires\n\nTipus: Competició esportiva\nL
+ loc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004
+ \nEnllaç: https://www.santfeliu.cat/esdeveniment/3363287
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363287
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Júnior Masculí CB Santfeliuenc - AE Clubs Alt Maresme
+DTSTART;TZID=Europe/Madrid:20261121T181500
+DTEND;TZID=Europe/Madrid:20261121T194500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363434@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Júnior Masculí CB Santfeliue
+ nc - AE Clubs Alt Maresme\n\nTipus: Competició esportiva\nLloc: Palau Mun
+ icipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbe
+ ll 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363434
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Juvenil Masculí Club Handbol Sant Llorenç - CH Ràpid Co
+ rnellà
+DTSTART;TZID=Europe/Madrid:20261121T184500
+DTEND;TZID=Europe/Madrid:20261121T201500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363289@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Juvenil Masculí Club Handbol S
+ ant Llorenç - CH Ràpid Cornellà\n\nTipus: Competició esportiva\nLloc: 
+ Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnll
+ aç: https://www.santfeliu.cat/esdeveniment/3363289
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Amateur Masculí Peña Recreativa SF (A) - AE Sant Lluís (
+ B)
+DTSTART;TZID=Europe/Madrid:20261121T190000
+DTEND;TZID=Europe/Madrid:20261121T210000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363255@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Amateur Masculí Peña Recreativ
+ a SF (A) - AE Sant Lluís (B)\n\nTipus: Competició esportiva\nLloc: Camp 
+ de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nE
+ nllaç: https://www.santfeliu.cat/esdeveniment/3363255
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363255
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Espectacle. Improshow contra el cancer. Al teatre El Cenrtre
 DTSTART;TZID=Europe/Madrid:20261121T193000
 DTEND;TZID=Europe/Madrid:20261121T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3358763@agenda.santfeliu.local
 DESCRIPTION:Teatre dansa: Espectacle. Improshow contra el cancer. Al teatr
  e El Cenrtre\n\nOrganitzat per l'Associació Contra el Càncer a Sant Feli
@@ -197,11 +669,319 @@ LOCATION:Sala del Teatre del Centre Parroquial - C. Pi i Margall 0006
 URL:https://www.santfeliu.cat/esdeveniment/3358763
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Handbol Sènior Masculí Club Handbol Sant Llorenç (Negre) - H Am
+ posta
+DTSTART;TZID=Europe/Madrid:20261121T201500
+DTEND;TZID=Europe/Madrid:20261121T214500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363290@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Sènior Masculí Club Handbol S
+ ant Llorenç (Negre) - H Amposta\n\nTipus: Competició esportiva\nLloc: Pa
+ velló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnlla
+ ç: https://www.santfeliu.cat/esdeveniment/3363290
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Premini Masculí CB Santfeliuenc (Blau) - AE Minguella
+DTSTART;TZID=Europe/Madrid:20261122T084500
+DTEND;TZID=Europe/Madrid:20261122T101500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363435@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Premini Masculí CB Santfeliue
+ nc (Blau) - AE Minguella\n\nTipus: Competició esportiva\nLloc: Palau Muni
+ cipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbel
+ l 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363435
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363435
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Infantil Masculí Futsal SF (B) - CFS Sant Boi (C)
+DTSTART;TZID=Europe/Madrid:20261122T090000
+DTEND;TZID=Europe/Madrid:20261122T101500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363169@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Infantil Masculí Futsal SF
+  (B) - CFS Sant Boi (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Mu
+ nicipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https:
+ //www.santfeliu.cat/esdeveniment/3363169
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S12 Masculí Peña Recreativa SF (C) - CF Martorell 
+ (E)
+DTSTART;TZID=Europe/Madrid:20261122T100000
+DTEND;TZID=Europe/Madrid:20261122T113000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363254@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S12 Masculí Peña Recrea
+ tiva SF (C) - CF Martorell (E)\n\nTipus: Competició esportiva\nLloc: Camp
+  de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\n
+ Enllaç: https://www.santfeliu.cat/esdeveniment/3363254
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S12 Masculí Peña Recreativa SF (D) - UE Torrelles 
+ (A)
+DTSTART;TZID=Europe/Madrid:20261122T100000
+DTEND;TZID=Europe/Madrid:20261122T113000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363258@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S12 Masculí Peña Recrea
+ tiva SF (D) - UE Torrelles (A)\n\nTipus: Competició esportiva\nLloc: Camp
+  de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\n
+ Enllaç: https://www.santfeliu.cat/esdeveniment/3363258
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363258
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Mini Masculí CB Santfeliuenc - UB Sant Adrià (Groc)
+DTSTART;TZID=Europe/Madrid:20261122T101500
+DTEND;TZID=Europe/Madrid:20261122T114500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363436@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Mini Masculí CB Santfeliuenc 
+ - UB Sant Adrià (Groc)\n\nTipus: Competició esportiva\nLloc: Palau Munic
+ ipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell
+  0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363436
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363436
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbol Cadet Masculí Club Handbol Sant Llorenç (Vermell) - H Ca
+ mbrils
+DTSTART;TZID=Europe/Madrid:20261122T102000
+DTEND;TZID=Europe/Madrid:20261122T114000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363292@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Handbol Cadet Masculí Club Handbol San
+ t Llorenç (Vermell) - H Cambrils\n\nTipus: Competició esportiva\nLloc: P
+ avelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnlla
+ ç: https://www.santfeliu.cat/esdeveniment/3363292
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363292
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S11 Masculí Peña Recreativa SF (A) - UE Castelldef
+ els (A)
+DTSTART;TZID=Europe/Madrid:20261122T113000
+DTEND;TZID=Europe/Madrid:20261122T130000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363259@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S11 Masculí Peña Recrea
+ tiva SF (A) - UE Castelldefels (A)\n\nTipus: Competició esportiva\nLloc: 
+ Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 
+ BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363259
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Aleví S11 Masculí Santfeliuenc FC (A) - CF Martorell (B)
+DTSTART;TZID=Europe/Madrid:20261122T113000
+DTEND;TZID=Europe/Madrid:20261122T130000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363237@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Aleví S11 Masculí Santfeliuenc
+  FC (A) - CF Martorell (B)\n\nTipus: Competició esportiva\nLloc: Camp de 
+ Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https:/
+ /www.santfeliu.cat/esdeveniment/3363237
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363237
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Prebenjamí S7 Masculí Peña Recreativa SF (A) - CD Fontsa
+ nta Fatjó (A)
+DTSTART;TZID=Europe/Madrid:20261122T113000
+DTEND;TZID=Europe/Madrid:20261122T123000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363260@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Prebenjamí S7 Masculí Peña Re
+ creativa SF (A) - CD Fontsanta Fatjó (A)\n\nTipus: Competició esportiva
+ \nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Dur
+ an 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363260
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Juvenil Masculí Futsal SF (B) - CFS Sitges (C)
+DTSTART;TZID=Europe/Madrid:20261122T114000
+DTEND;TZID=Europe/Madrid:20261122T125500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363186@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Juvenil Masculí Futsal SF 
+ (B) - CFS Sitges (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Munic
+ ipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://w
+ ww.santfeliu.cat/esdeveniment/3363186
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Cadet Masculí CB Santfeliuenc - CB Viladecans
+DTSTART;TZID=Europe/Madrid:20261122T114500
+DTEND;TZID=Europe/Madrid:20261122T131500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363437@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc
+  - CB Viladecans\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'
+ Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 B
+ X\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363437
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Infantil S14 Masculí Peña Recreativa SF (A) - CE Europa (
+ A)
+DTSTART;TZID=Europe/Madrid:20261122T130000
+DTEND;TZID=Europe/Madrid:20261122T143000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363261@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Infantil S14 Masculí Peña Recr
+ eativa SF (A) - CE Europa (A)\n\nTipus: Competició esportiva\nLloc: Camp 
+ de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nE
+ nllaç: https://www.santfeliu.cat/esdeveniment/3363261
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Aleví Masculí Futsal SF (A) - Molins 99 CFS (C)
+DTSTART;TZID=Europe/Madrid:20261122T130000
+DTEND;TZID=Europe/Madrid:20261122T141500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363188@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Aleví Masculí Futsal SF (
+ A) - Molins 99 CFS (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Mun
+ icipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https:/
+ /www.santfeliu.cat/esdeveniment/3363188
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Cadet Masculí CB Santfeliuenc (Blanc) - TGN Bàsquet
+DTSTART;TZID=Europe/Madrid:20261122T133000
+DTEND;TZID=Europe/Madrid:20261122T150000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363438@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc
+  (Blanc) - TGN Bàsquet\n\nTipus: Competició esportiva\nLloc: Palau Munic
+ ipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell
+  0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363438
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Cadet Masculí Futsal SF (C) - Molins 99 CFS (B)
+DTSTART;TZID=Europe/Madrid:20261122T142000
+DTEND;TZID=Europe/Madrid:20261122T153500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363204@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Cadet Masculí Futsal SF (C
+ ) - Molins 99 CFS (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Muni
+ cipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://
+ www.santfeliu.cat/esdeveniment/3363204
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Cadet Femení Peña Recreativa SF (A) - FEA Vilafranca (B)
+DTSTART;TZID=Europe/Madrid:20261122T143000
+DTEND;TZID=Europe/Madrid:20261122T160000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363263@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Cadet Femení Peña Recreativa S
+ F (A) - FEA Vilafranca (B)\n\nTipus: Competició esportiva\nLloc: Camp de 
+ Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnll
+ aç: https://www.santfeliu.cat/esdeveniment/3363263
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Infantil Femení Peña Recreativa SF (A) - PB Vallirana (A)
+DTSTART;TZID=Europe/Madrid:20261122T143000
+DTEND;TZID=Europe/Madrid:20261122T160000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363265@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Infantil Femení Peña Recreativ
+ a SF (A) - PB Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Camp de
+  Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnl
+ laç: https://www.santfeliu.cat/esdeveniment/3363265
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Infantil Femení CB Santfeliuenc - CB Sant Josep Badalona
+DTSTART;TZID=Europe/Madrid:20261122T160000
+DTEND;TZID=Europe/Madrid:20261122T173000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363439@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Infantil Femení CB Santfeliue
+ nc - CB Sant Josep Badalona\n\nTipus: Competició esportiva\nLloc: Palau M
+ unicipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castell
+ bell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363439
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363439
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Cadet Femení Peña Recreativa SF (A) - F Atletic Sant Just
+  (A)
+DTSTART;TZID=Europe/Madrid:20261122T160000
+DTEND;TZID=Europe/Madrid:20261122T173000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363267@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Cadet Femení Peña Recreativa S
+ F (A) - F Atletic Sant Just (A)\n\nTipus: Competició esportiva\nLloc: Cam
+ p de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX
+ \nEnllaç: https://www.santfeliu.cat/esdeveniment/3363267
+LOCATION:Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002
+  BX
+URL:https://www.santfeliu.cat/esdeveniment/3363267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Juvenil Masculí Peña Recreativa SF (A) - Futsal SF (
+ C)
+DTSTART;TZID=Europe/Madrid:20261122T160000
+DTEND;TZID=Europe/Madrid:20261122T171500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363190@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Juvenil Masculí Peña Recr
+ eativa SF (A) - Futsal SF (C)\n\nTipus: Competició esportiva\nLloc: Pavel
+ ló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: 
+ https://www.santfeliu.cat/esdeveniment/3363190
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363190
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Juvenil Masculí Santfeliuenc FC (A) - AT Segre (B)
+DTSTART;TZID=Europe/Madrid:20261122T170000
+DTEND;TZID=Europe/Madrid:20261122T190000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363238@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Juvenil Masculí Santfeliuenc FC
+  (A) - AT Segre (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol 
+ Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.sa
+ ntfeliu.cat/esdeveniment/3363238
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363238
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentació oficial de la Temporada 2026-2027 del Club Natació S
  ant Feliu
 DTSTART;TZID=Europe/Madrid:20261122T170000
 DTEND;TZID=Europe/Madrid:20261122T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3362493@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Presentació oficial de la Temporada 20
  26-2027 del Club Natació Sant Feliu\n\nTipus: Activitats Esportives\nLloc
@@ -211,10 +991,66 @@ LOCATION:Complex Municipal de Piscines - C. Verge de Montserrat 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3362493
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Futbol sala Juvenil Masculí Futsal SF (A) - CFS Vilanova (B)
+DTSTART;TZID=Europe/Madrid:20261122T172000
+DTEND;TZID=Europe/Madrid:20261122T183500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363195@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Juvenil Masculí Futsal SF 
+ (A) - CFS Vilanova (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Mun
+ icipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https:/
+ /www.santfeliu.cat/esdeveniment/3363195
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Sènior Masculí CB Santfeliuenc - CB Boet Mataró
+DTSTART;TZID=Europe/Madrid:20261122T180000
+DTEND;TZID=Europe/Madrid:20261122T193000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363440@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Sènior Masculí CB Santfeliue
+ nc - CB Boet Mataró\n\nSuper Copa\n\nTipus: Competició esportiva\nLloc: 
+ Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de 
+ Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/33634
+ 40
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol sala Cadet Masculí Futsal SF (A) - FS Gavà (A)
+DTSTART;TZID=Europe/Madrid:20261122T184000
+DTEND;TZID=Europe/Madrid:20261122T195500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363197@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol sala Cadet Masculí Futsal SF (A
+ ) - FS Gavà (A)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal
+  d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.s
+ antfeliu.cat/esdeveniment/3363197
+LOCATION:Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004
+URL:https://www.santfeliu.cat/esdeveniment/3363197
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Júnior Masculí CB Santfeliuenc (B) - Bàsquet Sitges (A
+ )
+DTSTART;TZID=Europe/Madrid:20261122T194500
+DTEND;TZID=Europe/Madrid:20261122T211500
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3363441@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Bàsquet Júnior Masculí CB Santfeliue
+ nc (B) - Bàsquet Sitges (A)\n\nTipus: Competició esportiva\nLloc: Palau 
+ Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castel
+ lbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363441
+LOCATION:Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de
+  Castellbell 0017 BX
+URL:https://www.santfeliu.cat/esdeveniment/3363441
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261123T171500
 DTEND;TZID=Europe/Madrid:20261123T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3337376@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -228,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:PetitLab d'imatges i lletres
 DTSTART;TZID=Europe/Madrid:20261123T173000
 DTEND;TZID=Europe/Madrid:20261123T183000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3357421@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: PetitLab d'imatges i lletres\n\nUn esp
  ai de trobada en família on els contes seran els protagonistes. Acompanya
@@ -248,7 +1084,7 @@ BEGIN:VEVENT
 SUMMARY:Taller STEM Cervells que tinc al coco
 DTSTART;TZID=Europe/Madrid:20261123T173000
 DTEND;TZID=Europe/Madrid:20261123T183000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3361126@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Taller 
  STEM Cervells que tinc al coco\n\nSabem realment com és el nostre cervell
@@ -273,7 +1109,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261124T171500
 DTEND;TZID=Europe/Madrid:20261124T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339529@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -287,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Deux soeurs de David Foenkinos
 DTSTART;TZID=Europe/Madrid:20261124T190000
 DTEND;TZID=Europe/Madrid:20261124T200000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3357422@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Deux soeur
  s de David Foenkinos\n\nProfessora en un institut la Mathilde a la trenten
@@ -309,7 +1145,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261124T191500
 DTEND;TZID=Europe/Madrid:20261124T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339583@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -323,7 +1159,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261125T171500
 DTEND;TZID=Europe/Madrid:20261125T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3340060@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -337,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura dels dimecres
 DTSTART;TZID=Europe/Madrid:20261125T190000
 DTEND;TZID=Europe/Madrid:20261125T200000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3359694@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimecres\n\nLa co
  nfusió de sentiments de Stefan Zweig Al Berlín de principis del segle xx
@@ -364,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261125T191500
 DTEND;TZID=Europe/Madrid:20261125T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339658@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -377,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261126T171500
 DTEND;TZID=Europe/Madrid:20261126T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3338249@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -391,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:MiniClub infantil
 DTSTART;TZID=Europe/Madrid:20261126T180000
 DTEND;TZID=Europe/Madrid:20261126T190000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3359866@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: MiniClub infantil\n\nEls germans Corb 
  d¿Oriol Canosa En Hugin i la Mugin eren dos polls rosadets. En néixer la
@@ -415,7 +1251,7 @@ SUMMARY:Xerrada Crear vincles saludables. Estratègies per fomentar una co
  municació constructiva amb els nostres fills/es adolescents
 DTSTART;TZID=Europe/Madrid:20261126T180000
 DTEND;TZID=Europe/Madrid:20261126T190000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3359909@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Xerrada
   Crear vincles saludables. Estratègies per fomentar una comunicació cons
@@ -434,7 +1270,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261126T191500
 DTEND;TZID=Europe/Madrid:20261126T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339712@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -449,7 +1285,7 @@ SUMMARY:Fase Territorial de la Copa d'Espanya de Clubs de Natació de la t
  emporada 2026-2027
 DTSTART;TZID=Europe/Madrid:20261128T090000
 DTEND;TZID=Europe/Madrid:20261128T200000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3360635@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Fase Territorial de la Copa d'Espanya d
  e Clubs de Natació de la temporada 2026-2027\n\nTipus: Activitats Esporti
@@ -462,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Kubalas
 DTSTART;TZID=Europe/Madrid:20261128T153000
 DTEND;TZID=Europe/Madrid:20261128T173000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3336735@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Kubalas\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Mun
@@ -476,7 +1312,7 @@ SUMMARY:Fase Territorial de la Copa d'Espanya de Clubs de Natació de la t
  emporada 2026-2027
 DTSTART;TZID=Europe/Madrid:20261129T090000
 DTEND;TZID=Europe/Madrid:20261129T200000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3360637@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Fase Territorial de la Copa d'Espanya d
  e Clubs de Natació de la temporada 2026-2027\n\nTipus: Activitats Esporti
@@ -489,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261130T171500
 DTEND;TZID=Europe/Madrid:20261130T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3337377@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -503,7 +1339,7 @@ BEGIN:VEVENT
 SUMMARY:Rondes de lectures
 DTSTART;TZID=Europe/Madrid:20261130T190000
 DTEND;TZID=Europe/Madrid:20261130T200000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3359911@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectures\n\nEl jardiner i la
   mort de Georgi Gospodinov El meu pare era jardiner. Ara és un jardí» e
@@ -525,7 +1361,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF - Club Petanca
  Casablanca
 DTSTART;TZID=Europe/Madrid:20261201T100000
 DTEND;TZID=Europe/Madrid:20261201T120000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3349413@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF - Club Petanca Casablanca\n\nTipus: Competició esportiva\nLlo
@@ -538,7 +1374,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261201T171500
 DTEND;TZID=Europe/Madrid:20261201T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339530@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -552,7 +1388,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261201T191500
 DTEND;TZID=Europe/Madrid:20261201T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3340121@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -566,7 +1402,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261202T171500
 DTEND;TZID=Europe/Madrid:20261202T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3340061@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -580,7 +1416,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261202T191500
 DTEND;TZID=Europe/Madrid:20261202T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339661@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -594,7 +1430,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF - Club Petanca
  Sant Ildefons (A)
 DTSTART;TZID=Europe/Madrid:20261203T100000
 DTEND;TZID=Europe/Madrid:20261203T120000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3349415@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF - Club Petanca Sant Ildefons (A)\n\nTipus: Competició esporti
@@ -607,7 +1443,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261203T171500
 DTEND;TZID=Europe/Madrid:20261203T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3338250@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -621,7 +1457,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261203T191500
 DTEND;TZID=Europe/Madrid:20261203T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339711@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -635,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261207T171500
 DTEND;TZID=Europe/Madrid:20261207T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3337379@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -649,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:Assessoria Salut i Sexualitat
 DTSTART;TZID=Europe/Madrid:20261207T180000
 DTEND;TZID=Europe/Madrid:20261207T200000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3345923@agenda.santfeliu.local
 DESCRIPTION:Taller: Assessoria Salut i Sexualitat\n\nTipus: Taller\nLloc: 
  Casal de Joves - Despatx Planta 1\nAdreça: Ctra. Laureà Miró 0118 BX\nE
@@ -661,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261209T171500
 DTEND;TZID=Europe/Madrid:20261209T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3340062@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -675,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261209T191500
 DTEND;TZID=Europe/Madrid:20261209T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339662@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -688,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261210T171500
 DTEND;TZID=Europe/Madrid:20261210T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3338251@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -702,7 +1538,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261210T191500
 DTEND;TZID=Europe/Madrid:20261210T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339714@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -717,7 +1553,7 @@ SUMMARY:12è OPEN NINTAI CUP - SPANISH INTERNATIONAL OPEN KYOKUSHIN-KAN 20
  26
 DTSTART;TZID=Europe/Madrid:20261211T173000
 DTEND;TZID=Europe/Madrid:20261211T213000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3361550@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 12è OPEN NINTAI CUP - SPANISH INTERNAT
  IONAL OPEN KYOKUSHIN-KAN 2026\n\nTipus: Activitats Esportives\nLloc: Palau
@@ -732,7 +1568,7 @@ SUMMARY:12è OPEN NINTAI CUP - SPANISH INTERNATIONAL OPEN KYOKUSHIN-KAN 20
  26
 DTSTART;TZID=Europe/Madrid:20261212T090000
 DTEND;TZID=Europe/Madrid:20261212T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3361551@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 12è OPEN NINTAI CUP - SPANISH INTERNAT
  IONAL OPEN KYOKUSHIN-KAN 2026\n\nTipus: Activitats Esportives\nLloc: Palau
@@ -746,7 +1582,7 @@ BEGIN:VEVENT
 SUMMARY:Ballada solidària de Country
 DTSTART;TZID=Europe/Madrid:20261213T110000
 DTEND;TZID=Europe/Madrid:20261213T130000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3357000@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Ballada solidària de Country\n\nJornad
  a solidària i participativa oberta a tothom en què es recolliran aliment
@@ -760,7 +1596,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261214T171500
 DTEND;TZID=Europe/Madrid:20261214T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3337378@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -774,7 +1610,7 @@ BEGIN:VEVENT
 SUMMARY:CONCERT DE NADAL - PROJECTE CORDES A PRIMARIA
 DTSTART;TZID=Europe/Madrid:20261215T090000
 DTEND;TZID=Europe/Madrid:20261215T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3358448@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: CONCERT DE NADAL - PROJECTE COR
  DES A PRIMARIA\n\nCONCERT DE NADAL - PROJECTE PRIMARIA\n\nTipus: Concerts 
@@ -787,7 +1623,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20261216T170000
 DTEND;TZID=Europe/Madrid:20261216T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3301848@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -799,7 +1635,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261216T171500
 DTEND;TZID=Europe/Madrid:20261216T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3340066@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -813,7 +1649,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261216T191500
 DTEND;TZID=Europe/Madrid:20261216T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339663@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -826,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261217T171500
 DTEND;TZID=Europe/Madrid:20261217T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3338253@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -840,7 +1676,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261217T191500
 DTEND;TZID=Europe/Madrid:20261217T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339715@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -854,7 +1690,7 @@ BEGIN:VEVENT
 SUMMARY:22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026
 DTSTART;TZID=Europe/Madrid:20261218T180000
 DTEND;TZID=Europe/Madrid:20261218T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3348259@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 22a Nit de l'Esport. Lliurament de prem
  is Temporada 2025-2026\n\nTipus: Activitats Esportives\nLloc: Palau Munici
@@ -868,7 +1704,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - UE Sant Ildefons
 DTSTART;TZID=Europe/Madrid:20261219T153000
 DTEND;TZID=Europe/Madrid:20261219T173000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3336737@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - UE Sant Ildefons\n\nTipus: Competició esportiva\nLloc: Camp de F
@@ -881,7 +1717,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261221T170000
 DTEND;TZID=Europe/Madrid:20261221T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356338@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -895,7 +1731,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261221T171500
 DTEND;TZID=Europe/Madrid:20261221T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3337380@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -909,7 +1745,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261222T170000
 DTEND;TZID=Europe/Madrid:20261222T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356339@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -923,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261222T171500
 DTEND;TZID=Europe/Madrid:20261222T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339533@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -937,7 +1773,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261222T191500
 DTEND;TZID=Europe/Madrid:20261222T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339585@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -951,7 +1787,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261223T170000
 DTEND;TZID=Europe/Madrid:20261223T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356340@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -965,7 +1801,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261227T083000
 DTEND;TZID=Europe/Madrid:20261227T203000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356330@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 63è Trofeu Molinet de minibàsquet (ca
  tegoria mini)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esp
@@ -979,7 +1815,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261227T170000
 DTEND;TZID=Europe/Madrid:20261227T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356341@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -993,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261228T083000
 DTEND;TZID=Europe/Madrid:20261228T203000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356333@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 63è Trofeu Molinet de minibàsquet (ca
  tegoria mini)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esp
@@ -1007,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261228T170000
 DTEND;TZID=Europe/Madrid:20261228T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356342@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1021,7 +1857,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261229T083000
 DTEND;TZID=Europe/Madrid:20261229T203000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356334@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 63è Trofeu Molinet de minibàsquet (ca
  tegoria mini)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esp
@@ -1035,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261229T170000
 DTEND;TZID=Europe/Madrid:20261229T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356343@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1049,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261230T083000
 DTEND;TZID=Europe/Madrid:20261230T203000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356337@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 63è Trofeu Molinet de minibàsquet (ca
  tegoria mini)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esp
@@ -1063,7 +1899,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261230T170000
 DTEND;TZID=Europe/Madrid:20261230T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356344@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1077,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20270102T170000
 DTEND;TZID=Europe/Madrid:20270102T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356345@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1091,7 +1927,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20270103T170000
 DTEND;TZID=Europe/Madrid:20270103T220000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356346@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1105,7 +1941,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20270104T083000
 DTEND;TZID=Europe/Madrid:20270104T203000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356335@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 63è Trofeu Molinet de minibàsquet (ca
  tegoria mini)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esp
@@ -1119,7 +1955,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20270105T083000
 DTEND;TZID=Europe/Madrid:20270105T203000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3356336@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 63è Trofeu Molinet de minibàsquet (ca
  tegoria mini)\n\nTipus: Activitats Esportives\nLloc: Palau Municipal d'Esp
@@ -1133,7 +1969,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20270111T171500
 DTEND;TZID=Europe/Madrid:20270111T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3337382@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -1147,7 +1983,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20270112T171500
 DTEND;TZID=Europe/Madrid:20270112T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339536@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -1161,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20270112T191500
 DTEND;TZID=Europe/Madrid:20270112T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339586@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1175,7 +2011,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20270113T171500
 DTEND;TZID=Europe/Madrid:20270113T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3340068@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -1189,7 +2025,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20270113T191500
 DTEND;TZID=Europe/Madrid:20270113T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339664@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -1202,7 +2038,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20270114T171500
 DTEND;TZID=Europe/Madrid:20270114T191500
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3338255@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -1216,7 +2052,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20270114T191500
 DTEND;TZID=Europe/Madrid:20270114T210000
-DTSTAMP:20261117T131355Z
+DTSTAMP:20261118T125814Z
 UID:santfeliu-3339716@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -1225,5 +2061,18 @@ DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  ww.santfeliu.cat/esdeveniment/3339716
 LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Sant Lluis
+DTSTART;TZID=Europe/Madrid:20270116T153000
+DTEND;TZID=Europe/Madrid:20270116T173000
+DTSTAMP:20261118T125814Z
+UID:santfeliu-3336738@agenda.santfeliu.local
+DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
+ ava SF - Sant Lluis\n\nTipus: Competició esportiva\nLloc: Camp de Futbol 
+ Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.sa
+ ntfeliu.cat/esdeveniment/3336738
+LOCATION:Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3336738
 END:VEVENT
 END:VCALENDAR
