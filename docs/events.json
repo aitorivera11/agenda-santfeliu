@@ -1,19 +1,5 @@
 [
   {
-    "id": "santfeliu-3361114@agenda.santfeliu.local",
-    "title": "Trobada Poliesportiva de Secundària",
-    "start": "2026-11-20T09:30:00+01:00",
-    "end": "2026-11-20T12:30:00+01:00",
-    "description": "Activitats Esportives: Trobada Poliesportiva de Secundària\n\nTrobada organitzada pel CEBLLOB per alumnat de 2n d'ESO.\n\nTipus: Activitats Esportives\nLloc: Estadi Municipal d'Atletisme\nAdreça: C. Mataró 0008 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3361114",
-    "location": "Estadi Municipal d'Atletisme - C. Mataró 0008 BX",
-    "locationName": "Estadi Municipal d'Atletisme",
-    "address": "C. Mataró 0008 BX",
-    "type": "Activitats Esportives",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3361114"
-  },
-  {
     "id": "santfeliu-3363428@agenda.santfeliu.local",
     "title": "Bàsquet Premini Femení CB Santfeliuenc - CB Roser",
     "start": "2026-11-21T08:45:00+01:00",
@@ -197,10 +183,10 @@
   },
   {
     "id": "santfeliu-3363430@agenda.santfeliu.local",
-    "title": "Bàsquet Premini Masculí CB Santfeliuenc (Blau) - Bàsquet Manresa",
+    "title": "Bàsquet Mini Masculí CB Santfeliuenc (Blau) - Bàsquet Manresa",
     "start": "2026-11-21T10:15:00+01:00",
     "end": "2026-11-21T11:45:00+01:00",
-    "description": "Competició esportiva: Bàsquet Premini Masculí CB Santfeliuenc (Blau) - Bàsquet Manresa\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363430",
+    "description": "Competició esportiva: Bàsquet Mini Masculí CB Santfeliuenc (Blau) - Bàsquet Manresa\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363430",
     "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
     "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
     "address": "Rbla. Marquesa de Castellbell 0017 BX",
@@ -292,20 +278,6 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3363171"
-  },
-  {
-    "id": "santfeliu-3363242@agenda.santfeliu.local",
-    "title": "Futbol Promeses Mixt Peña Recreativa SF - CF SABA",
-    "start": "2026-11-21T11:15:00+01:00",
-    "end": "2026-11-21T12:15:00+01:00",
-    "description": "Competició esportiva: Futbol Promeses Mixt Peña Recreativa SF - CF SABA\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363242",
-    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
-    "locationName": "Camp de Futbol Municipal Falguera",
-    "address": "C. Reverend Martí Duran 0002 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3363242"
   },
   {
     "id": "santfeliu-3363284@agenda.santfeliu.local",
@@ -588,6 +560,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3363184"
   },
   {
+    "id": "santfeliu-3363675@agenda.santfeliu.local",
+    "title": "Futbol Cadet S16 Masculí Peña Recreativa SF (A) - CF Can Vidalet (C)",
+    "start": "2026-11-21T17:00:00+01:00",
+    "end": "2026-11-21T18:40:00+01:00",
+    "description": "Competició esportiva: Futbol Cadet S16 Masculí Peña Recreativa SF (A) - CF Can Vidalet (C)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363675",
+    "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
+    "locationName": "Camp de Futbol Municipal Falguera",
+    "address": "C. Reverend Martí Duran 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3363675"
+  },
+  {
     "id": "santfeliu-3363287@agenda.santfeliu.local",
     "title": "Handbol Sènior Femení Club Handbol Sant Llorenç - CH Sant Esteve Sesrovires",
     "start": "2026-11-21T17:20:00+01:00",
@@ -602,6 +588,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3363287"
   },
   {
+    "id": "santfeliu-3363434@agenda.santfeliu.local",
+    "title": "Bàsquet Júnior Masculí CB Santfeliuenc - AE Clubs Alt Maresme",
+    "start": "2026-11-21T18:00:00+01:00",
+    "end": "2026-11-21T19:30:00+01:00",
+    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc - AE Clubs Alt Maresme\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363434",
+    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
+    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
+    "address": "Rbla. Marquesa de Castellbell 0017 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3363434"
+  },
+  {
     "id": "santfeliu-3363558@agenda.santfeliu.local",
     "title": "Voleibol Sènior Femení Club Voleibol SF (Blanc) - AE Sàndor (B)",
     "start": "2026-11-21T18:00:00+01:00",
@@ -614,20 +614,6 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3363558"
-  },
-  {
-    "id": "santfeliu-3363434@agenda.santfeliu.local",
-    "title": "Bàsquet Júnior Masculí CB Santfeliuenc - AE Clubs Alt Maresme",
-    "start": "2026-11-21T18:15:00+01:00",
-    "end": "2026-11-21T19:45:00+01:00",
-    "description": "Competició esportiva: Bàsquet Júnior Masculí CB Santfeliuenc - AE Clubs Alt Maresme\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363434",
-    "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
-    "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
-    "address": "Rbla. Marquesa de Castellbell 0017 BX",
-    "type": "Competició esportiva",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3363434"
   },
   {
     "id": "santfeliu-3363289@agenda.santfeliu.local",
@@ -701,10 +687,10 @@
   },
   {
     "id": "santfeliu-3363435@agenda.santfeliu.local",
-    "title": "Bàsquet Premini Masculí CB Santfeliuenc (Blau) - AE Minguella",
+    "title": "Bàsquet Premini Masculí CB Santfeliuenc (Blau) - AE Minguella (A)",
     "start": "2026-11-22T08:45:00+01:00",
     "end": "2026-11-22T10:15:00+01:00",
-    "description": "Competició esportiva: Bàsquet Premini Masculí CB Santfeliuenc (Blau) - AE Minguella\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363435",
+    "description": "Competició esportiva: Bàsquet Premini Masculí CB Santfeliuenc (Blau) - AE Minguella (A)\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363435",
     "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
     "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
     "address": "Rbla. Marquesa de Castellbell 0017 BX",
@@ -883,10 +869,10 @@
   },
   {
     "id": "santfeliu-3363437@agenda.santfeliu.local",
-    "title": "Bàsquet Cadet Masculí CB Santfeliuenc - CB Viladecans",
+    "title": "Bàsquet Infantil Masculí CB Santfeliuenc - CB Viladecans",
     "start": "2026-11-22T11:45:00+01:00",
     "end": "2026-11-22T13:15:00+01:00",
-    "description": "Competició esportiva: Bàsquet Cadet Masculí CB Santfeliuenc - CB Viladecans\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363437",
+    "description": "Competició esportiva: Bàsquet Infantil Masculí CB Santfeliuenc - CB Viladecans\n\nTipus: Competició esportiva\nLloc: Palau Municipal d'Esports Juan Carlos Navarro\nAdreça: Rbla. Marquesa de Castellbell 0017 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363437",
     "location": "Palau Municipal d'Esports Juan Carlos Navarro - Rbla. Marquesa de Castellbell 0017 BX",
     "locationName": "Palau Municipal d'Esports Juan Carlos Navarro",
     "address": "Rbla. Marquesa de Castellbell 0017 BX",
@@ -911,10 +897,10 @@
   },
   {
     "id": "santfeliu-3363188@agenda.santfeliu.local",
-    "title": "Futbol sala Aleví Masculí Futsal SF (A) - Molins 99 CFS (C)",
+    "title": "Futbol sala Aleví Masculí Futsal SF (A) - CFS Molins 99 (C)",
     "start": "2026-11-22T13:00:00+01:00",
     "end": "2026-11-22T14:15:00+01:00",
-    "description": "Competició esportiva: Futbol sala Aleví Masculí Futsal SF (A) - Molins 99 CFS (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363188",
+    "description": "Competició esportiva: Futbol sala Aleví Masculí Futsal SF (A) - CFS Molins 99 (C)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363188",
     "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
     "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
     "address": "C. Mataró 0004",
@@ -938,11 +924,25 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3363438"
   },
   {
+    "id": "santfeliu-3364037@agenda.santfeliu.local",
+    "title": "Futbol Veteranes Femení Santfeliuenc FC - CD Badia del Vallès",
+    "start": "2026-11-22T13:30:00+01:00",
+    "end": "2026-11-22T14:30:00+01:00",
+    "description": "Competició esportiva: Futbol Veteranes Femení Santfeliuenc FC - CD Badia del Vallès\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Les Grases\nAdreça: C. Mataró 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3364037",
+    "location": "Camp de Futbol Municipal Les Grases - C. Mataró 0002 BX",
+    "locationName": "Camp de Futbol Municipal Les Grases",
+    "address": "C. Mataró 0002 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3364037"
+  },
+  {
     "id": "santfeliu-3363204@agenda.santfeliu.local",
-    "title": "Futbol sala Cadet Masculí Futsal SF (C) - Molins 99 CFS (B)",
+    "title": "Futbol sala Cadet Masculí Futsal SF (C) - CFS Molins 99 (B)",
     "start": "2026-11-22T14:20:00+01:00",
     "end": "2026-11-22T15:35:00+01:00",
-    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (C) - Molins 99 CFS (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363204",
+    "description": "Competició esportiva: Futbol sala Cadet Masculí Futsal SF (C) - CFS Molins 99 (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Municipal d'Esports Andrey Xepkin\nAdreça: C. Mataró 0004\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363204",
     "location": "Pavelló Municipal d'Esports Andrey Xepkin - C. Mataró 0004",
     "locationName": "Pavelló Municipal d'Esports Andrey Xepkin",
     "address": "C. Mataró 0004",
@@ -953,10 +953,10 @@
   },
   {
     "id": "santfeliu-3363263@agenda.santfeliu.local",
-    "title": "Futbol Cadet Femení Peña Recreativa SF (A) - FEA Vilafranca (B)",
+    "title": "Futbol Cadet Femení Peña Recreativa SF (A) - FE Atlètic Vilafranca (B)",
     "start": "2026-11-22T14:30:00+01:00",
     "end": "2026-11-22T16:00:00+01:00",
-    "description": "Competició esportiva: Futbol Cadet Femení Peña Recreativa SF (A) - FEA Vilafranca (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363263",
+    "description": "Competició esportiva: Futbol Cadet Femení Peña Recreativa SF (A) - FE Atlètic Vilafranca (B)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363263",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -967,10 +967,10 @@
   },
   {
     "id": "santfeliu-3363265@agenda.santfeliu.local",
-    "title": "Futbol Infantil Femení Peña Recreativa SF (A) - PB Vallirana (A)",
+    "title": "Futbol Infantil Femení Peña Recreativa SF (A) - Penya Blaugrana Vallirana (A)",
     "start": "2026-11-22T14:30:00+01:00",
     "end": "2026-11-22T16:00:00+01:00",
-    "description": "Competició esportiva: Futbol Infantil Femení Peña Recreativa SF (A) - PB Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363265",
+    "description": "Competició esportiva: Futbol Infantil Femení Peña Recreativa SF (A) - Penya Blaugrana Vallirana (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363265",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -995,10 +995,10 @@
   },
   {
     "id": "santfeliu-3363267@agenda.santfeliu.local",
-    "title": "Futbol Cadet Femení Peña Recreativa SF (A) - F Atletic Sant Just (A)",
+    "title": "Futbol Cadet Femení Peña Recreativa SF (A) - F Atlètic Sant Just (A)",
     "start": "2026-11-22T16:00:00+01:00",
     "end": "2026-11-22T17:30:00+01:00",
-    "description": "Competició esportiva: Futbol Cadet Femení Peña Recreativa SF (A) - F Atletic Sant Just (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363267",
+    "description": "Competició esportiva: Futbol Cadet Femení Peña Recreativa SF (A) - F Atlètic Sant Just (A)\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Municipal Falguera\nAdreça: C. Reverend Martí Duran 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363267",
     "location": "Camp de Futbol Municipal Falguera - C. Reverend Martí Duran 0002 BX",
     "locationName": "Camp de Futbol Municipal Falguera",
     "address": "C. Reverend Martí Duran 0002 BX",
@@ -1848,13 +1848,27 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3338253"
   },
   {
+    "id": "santfeliu-3363660@agenda.santfeliu.local",
+    "title": "Club de lectura infantil El presoner del casal del diable de Joan Pau Hernández",
+    "start": "2026-12-17T18:00:00+01:00",
+    "end": "2026-12-17T19:00:00+01:00",
+    "description": "Activitats Literàries: Club de lectura infantil El presoner del casal del diable de Joan Pau Hernández\n\nEn Ramon arriba a Galícia gràcies a un intercanvi escolar. Allà descobreix el Casal del Diable que s'alça al fons del bosc de cara al Cantàbric. En aquell vell casalot en Ramon viurà una aventura plena de misteris i es trobarà amb delinqüents bandolers morts fa anys i fades molt modernes. A càrrec de: Ruth Tormo Inscripcions: Activitat amb inscripció. Places lliures\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363660",
+    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
+    "address": "C. Verge de Montserrat 0003 BX 02",
+    "type": "Activitats Literàries",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3363660"
+  },
+  {
     "id": "santfeliu-3363661@agenda.santfeliu.local",
     "title": "MiniClub infantil Quan els cabells del papa se'n van anar de vacances de Jörg Mühle",
     "start": "2026-12-17T18:00:00+01:00",
     "end": "2026-12-17T19:00:00+01:00",
-    "description": "Activitats Literàries: MiniClub infantil Quan els cabells del papa se'n van anar de vacances de Jörg Mühle\n\nFins i tot els cabells volen viure aventures de tant en tant en comptes d'estar sempre enganxats al cap de la gent. Aquesta és la raó que duu els cabells del papa a abandonar el seu cap i a anar pel món a córrer aventures. El papa intenta aturar-los però se li escapoleixen i fugen per la finestra cap a la llibertat. Comença així una persecució frenètica el resultat de la qual és que els cabells aconsegueixen escapar i el papa es queda calb. A càrrec de: Alea Ardanuy Inscripcions: Activitat amb inscripció. Places lliures\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363661",
-    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
+    "description": "Activitats Literàries: MiniClub infantil Quan els cabells del papa se'n van anar de vacances de Jörg Mühle\n\nFins i tot els cabells volen viure aventures de tant en tant en comptes d'estar sempre enganxats al cap de la gent. Aquesta és la raó que duu els cabells del papa a abandonar el seu cap i a anar pel món a córrer aventures. El papa intenta aturar-los però se li escapoleixen i fugen per la finestra cap a la llibertat. Comença així una persecució frenètica el resultat de la qual és que els cabells aconsegueixen escapar i el papa es queda calb. A càrrec de: Alea Ardanuy Inscripcions: Activitat amb inscripció. Places lliures\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363661",
+    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
+    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
     "address": "C. Verge de Montserrat 0003 BX 02",
     "type": "Activitats Literàries",
     "free": "",
@@ -1888,20 +1902,6 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3348259"
-  },
-  {
-    "id": "santfeliu-3363660@agenda.santfeliu.local",
-    "title": "Club de lectura infantil El presoner del casal del diable de Joan Pau Hernández",
-    "start": "2026-12-18T18:00:00+01:00",
-    "end": "2026-12-18T19:00:00+01:00",
-    "description": "Activitats Literàries: Club de lectura infantil El presoner del casal del diable de Joan Pau Hernández\n\nEn Ramon arriba a Galícia gràcies a un intercanvi escolar. Allà descobreix el Casal del Diable que s'alça al fons del bosc de cara al Cantàbric. En aquell vell casalot en Ramon viurà una aventura plena de misteris i es trobarà amb delinqüents bandolers morts fa anys i fades molt modernes. A càrrec de: Ruth Tormo Inscripcions: Activitat amb inscripció. Places lliures\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3363660",
-    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3363660"
   },
   {
     "id": "santfeliu-3363662@agenda.santfeliu.local",
@@ -2350,5 +2350,19 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3336738"
+  },
+  {
+    "id": "santfeliu-3337386@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
+    "start": "2027-01-18T17:15:00+01:00",
+    "end": "2027-01-18T19:15:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337386",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3337386"
   }
 ]
