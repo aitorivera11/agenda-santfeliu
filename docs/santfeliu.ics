@@ -5,69 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Sant Feliu
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
-DTSTART;TZID=Europe/Madrid:20261123T171500
-DTEND;TZID=Europe/Madrid:20261123T191500
-DTSTAMP:20261122T123016Z
-UID:santfeliu-3337376@agenda.santfeliu.local
-DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
-  CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
- ri\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditor
- i\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeve
- niment/3337376
-LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
-URL:https://www.santfeliu.cat/esdeveniment/3337376
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PetitLab d'imatges i lletres
-DTSTART;TZID=Europe/Madrid:20261123T173000
-DTEND;TZID=Europe/Madrid:20261123T183000
-DTSTAMP:20261122T123016Z
-UID:santfeliu-3357421@agenda.santfeliu.local
-DESCRIPTION:Activitats Literàries: PetitLab d'imatges i lletres\n\nUn esp
- ai de trobada en família on els contes seran els protagonistes. Acompanya
- ts de la Judith Navarro experta en mediació i educació literària i en u
- n entorn acollidor i agradable compartirem moments de lectura plegats i de
- scobrirem nous títols i nous models lectors que podrem gaudir en família
- . A càrrec de: Judith Navarro Inscripcions: a partir del 16 de novembre p
- er telèfon presencialment o a través del formulari https://forms.gle/LBP
- PrHCZotcXfwW17 Nombre màxim de participants: 15 infants (2 adults per uni
- tat familiar) Edat recomanada: De 3 a 5 anys\n\nTipus: Activitats Literàr
- ies\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 
- 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357421
-LOCATION:Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3357421
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller STEM Cervells que tinc al coco
-DTSTART;TZID=Europe/Madrid:20261123T173000
-DTEND;TZID=Europe/Madrid:20261123T183000
-DTSTAMP:20261122T123016Z
-UID:santfeliu-3361126@agenda.santfeliu.local
-DESCRIPTION:Presentacions demostracions conferències xerrades...: Taller 
- STEM Cervells que tinc al coco\n\nSabem realment com és el nostre cervell
- ? A través de jocs experiències i reptes amb el nostre cos posarem a pro
- va les nostres idees sobre el funcionament del cervell. A mesura que avanc
- em descobrirem com viatja la informació pel cos i com diferents zones del
-  cervell s'encarreguen de funcions com el moviment el tacte o la percepci
- ó. Per acabar observarem i disseccionarem un cervell real de vedella per 
- identificar-ne les principals estructures i entendre millor com s'organitz
- a aquest òrgan tan complex. A càrrec de: eXplorium Inscripcions: a parti
- r del 27 d'octubre per telèfon presencialment o a través del formulari h
- ttps://forms.gle/d2HfndeBLWqJ4L2W9 Edat recomanada: de 6 a 12 anys Nombre 
- màxim de participants: 20 Organitza: Biblioteca Montserrat Roig\n\nTipus:
-  Presentacions\, demostracions\, conferències\, xerrades...\nLloc: Biblio
- teca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX
-  02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3361126
-LOCATION:Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 
- 0003 BX 02
-URL:https://www.santfeliu.cat/esdeveniment/3361126
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261124T171500
 DTEND;TZID=Europe/Madrid:20261124T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339529@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -81,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Deux soeurs de David Foenkinos
 DTSTART;TZID=Europe/Madrid:20261124T190000
 DTEND;TZID=Europe/Madrid:20261124T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3357422@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Deux soeur
  s de David Foenkinos\n\nProfessora en un institut la Mathilde a la trenten
@@ -103,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261124T191500
 DTEND;TZID=Europe/Madrid:20261124T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339583@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -117,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261125T171500
 DTEND;TZID=Europe/Madrid:20261125T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340060@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -131,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura dels dimecres
 DTSTART;TZID=Europe/Madrid:20261125T190000
 DTEND;TZID=Europe/Madrid:20261125T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3359694@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimecres\n\nLa co
  nfusió de sentiments de Stefan Zweig Al Berlín de principis del segle xx
@@ -158,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261125T191500
 DTEND;TZID=Europe/Madrid:20261125T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339658@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -171,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261126T171500
 DTEND;TZID=Europe/Madrid:20261126T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3338249@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -185,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:MiniClub infantil
 DTSTART;TZID=Europe/Madrid:20261126T180000
 DTEND;TZID=Europe/Madrid:20261126T190000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3359866@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: MiniClub infantil\n\nEls germans Corb 
  d¿Oriol Canosa En Hugin i la Mugin eren dos polls rosadets. En néixer la
@@ -209,7 +150,7 @@ SUMMARY:Xerrada Crear vincles saludables. Estratègies per fomentar una co
  municació constructiva amb els nostres fills/es adolescents
 DTSTART;TZID=Europe/Madrid:20261126T180000
 DTEND;TZID=Europe/Madrid:20261126T190000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3359909@agenda.santfeliu.local
 DESCRIPTION:Presentacions demostracions conferències xerrades...: Xerrada
   Crear vincles saludables. Estratègies per fomentar una comunicació cons
@@ -228,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261126T191500
 DTEND;TZID=Europe/Madrid:20261126T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339712@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -243,7 +184,7 @@ SUMMARY:Fase Territorial de la Copa d'Espanya de Clubs de Natació de la t
  emporada 2026-2027
 DTSTART;TZID=Europe/Madrid:20261128T090000
 DTEND;TZID=Europe/Madrid:20261128T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3360635@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Fase Territorial de la Copa d'Espanya d
  e Clubs de Natació de la temporada 2026-2027\n\nTipus: Activitats Esporti
@@ -256,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Kubalas
 DTSTART;TZID=Europe/Madrid:20261128T153000
 DTEND;TZID=Europe/Madrid:20261128T173000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3336735@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Kubalas\n\nTipus: Competició esportiva\nLloc: Camp de Futbol Mun
@@ -270,7 +211,7 @@ SUMMARY:Fase Territorial de la Copa d'Espanya de Clubs de Natació de la t
  emporada 2026-2027
 DTSTART;TZID=Europe/Madrid:20261129T090000
 DTEND;TZID=Europe/Madrid:20261129T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3360637@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Fase Territorial de la Copa d'Espanya d
  e Clubs de Natació de la temporada 2026-2027\n\nTipus: Activitats Esporti
@@ -283,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261130T171500
 DTEND;TZID=Europe/Madrid:20261130T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3337377@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -297,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Rondes de lectures
 DTSTART;TZID=Europe/Madrid:20261130T190000
 DTEND;TZID=Europe/Madrid:20261130T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3359911@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectures\n\nEl jardiner i la
   mort de Georgi Gospodinov El meu pare era jardiner. Ara és un jardí» e
@@ -319,7 +260,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF - Club Petanca
  Casablanca
 DTSTART;TZID=Europe/Madrid:20261201T100000
 DTEND;TZID=Europe/Madrid:20261201T120000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3349413@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF - Club Petanca Casablanca\n\nTipus: Competició esportiva\nLlo
@@ -332,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261201T171500
 DTEND;TZID=Europe/Madrid:20261201T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339530@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -346,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261201T191500
 DTEND;TZID=Europe/Madrid:20261201T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340121@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -360,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Todo por aprender 2.0
 DTSTART;TZID=Europe/Madrid:20261202T103000
 DTEND;TZID=Europe/Madrid:20261202T120000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363638@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Todo por aprender 2.0\n\nTallers gratu
  ïts de competències digitals perquè ningú és quedi enrere amb la tecn
@@ -381,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261202T171500
 DTEND;TZID=Europe/Madrid:20261202T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340061@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -395,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Presentació de llibre Temí por ella de Josep Parra
 DTSTART;TZID=Europe/Madrid:20261202T190000
 DTEND;TZID=Europe/Madrid:20261202T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363643@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Presentació de llibre Temí por ella 
  de Josep Parra\n\nA càrrec de: Josep Parra. Entrada lliure\n\nTipus: Acti
@@ -410,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261202T191500
 DTEND;TZID=Europe/Madrid:20261202T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339661@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -424,7 +365,7 @@ SUMMARY:Petanca Jubilats Masculí Club Petanca Jubilats SF - Club Petanca
  Sant Ildefons (A)
 DTSTART;TZID=Europe/Madrid:20261203T100000
 DTEND;TZID=Europe/Madrid:20261203T120000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3349415@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Petanca Jubilats Masculí Club Petanca 
  Jubilats SF - Club Petanca Sant Ildefons (A)\n\nTipus: Competició esporti
@@ -437,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261203T171500
 DTEND;TZID=Europe/Madrid:20261203T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3338250@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -452,7 +393,7 @@ SUMMARY:Taller familiar. L'univers de Gaudí Creació col·lectiva de l'ap
  arador cultural de la biblioteca
 DTSTART;TZID=Europe/Madrid:20261203T180000
 DTEND;TZID=Europe/Madrid:20261203T190000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363642@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller familiar. L'univers de Gaudí C
  reació col·lectiva de l'aparador cultural de la biblioteca\n\nPer celebr
@@ -475,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261203T191500
 DTEND;TZID=Europe/Madrid:20261203T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339711@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -489,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Todo por aprender 2.0
 DTSTART;TZID=Europe/Madrid:20261204T103000
 DTEND;TZID=Europe/Madrid:20261204T120000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363641@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Todo por aprender 2.0\n\nTallers gratu
  ïts de competències digitals perquè ningú és quedi enrere amb la tecn
@@ -510,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261207T171500
 DTEND;TZID=Europe/Madrid:20261207T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3337379@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -524,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Assessoria Salut i Sexualitat
 DTSTART;TZID=Europe/Madrid:20261207T180000
 DTEND;TZID=Europe/Madrid:20261207T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3345923@agenda.santfeliu.local
 DESCRIPTION:Taller: Assessoria Salut i Sexualitat\n\nTipus: Taller\nLloc: 
  Casal de Joves - Despatx Planta 1\nAdreça: Ctra. Laureà Miró 0118 BX\nE
@@ -536,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Enllumenats a la Verge Immaculada
 DTSTART;TZID=Europe/Madrid:20261208T160000
 DTEND;TZID=Europe/Madrid:20261208T180000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3364090@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: Enllumenats a la Verge Immaculada\n\nTipus: Nada
  l i reis\nAdreça: Pl. Laujar de Andarax\nEnllaç: https://www.santfeliu.c
@@ -548,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261209T171500
 DTEND;TZID=Europe/Madrid:20261209T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340062@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -562,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Tertúlies filosòfiques Caminar de Frederic Gros
 DTSTART;TZID=Europe/Madrid:20261209T190000
 DTEND;TZID=Europe/Madrid:20261209T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363644@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Tertúlies filosòfiques Caminar de Fr
  ederic Gros\n\nCaminar en qualsevol de les seves formes cada dia té més 
@@ -585,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261209T191500
 DTEND;TZID=Europe/Madrid:20261209T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339662@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -598,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261210T171500
 DTEND;TZID=Europe/Madrid:20261210T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3338251@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -612,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Taller STEM Descobrim el Beebot
 DTSTART;TZID=Europe/Madrid:20261210T173000
 DTEND;TZID=Europe/Madrid:20261210T183000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363645@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller STEM Descobrim el Beebot\n\nA l
  'inici del taller coneixerem el robot BeeBot i ens familiaritzarem amb el 
@@ -635,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261210T191500
 DTEND;TZID=Europe/Madrid:20261210T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339714@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -650,7 +591,7 @@ SUMMARY:12è OPEN NINTAI CUP - SPANISH INTERNATIONAL OPEN KYOKUSHIN-KAN 20
  26
 DTSTART;TZID=Europe/Madrid:20261211T173000
 DTEND;TZID=Europe/Madrid:20261211T213000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3361550@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 12è OPEN NINTAI CUP - SPANISH INTERNAT
  IONAL OPEN KYOKUSHIN-KAN 2026\n\nTipus: Activitats Esportives\nLloc: Palau
@@ -665,7 +606,7 @@ SUMMARY:12è OPEN NINTAI CUP - SPANISH INTERNATIONAL OPEN KYOKUSHIN-KAN 20
  26
 DTSTART;TZID=Europe/Madrid:20261212T090000
 DTEND;TZID=Europe/Madrid:20261212T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3361551@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 12è OPEN NINTAI CUP - SPANISH INTERNAT
  IONAL OPEN KYOKUSHIN-KAN 2026\n\nTipus: Activitats Esportives\nLloc: Palau
@@ -679,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Hora del conte menuda L'estrella de mar
 DTSTART;TZID=Europe/Madrid:20261212T120000
 DTEND;TZID=Europe/Madrid:20261212T130000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363649@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Hora del conte menuda L'estrella de ma
  r\n\nHi havia una vegada una estrella de mar que volia ballar amb la lluna
@@ -701,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:Ballada solidària de Country
 DTSTART;TZID=Europe/Madrid:20261213T110000
 DTEND;TZID=Europe/Madrid:20261213T130000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3357000@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: Ballada solidària de Country\n\nJornada solidà
  ria i participativa oberta a tothom en què es recolliran aliments que es 
@@ -715,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261214T171500
 DTEND;TZID=Europe/Madrid:20261214T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3337378@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -729,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:PetitLab d'imatges i lletres
 DTSTART;TZID=Europe/Madrid:20261214T173000
 DTEND;TZID=Europe/Madrid:20261214T183000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363646@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: PetitLab d'imatges i lletres\n\nUn esp
  ai de trobada en família on els contes seran els protagonistes. Acompanya
@@ -749,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Taller infantil Som Coders
 DTSTART;TZID=Europe/Madrid:20261214T174500
 DTEND;TZID=Europe/Madrid:20261214T184500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363647@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller infantil Som Coders\n\nSom Code
  rs és una xarxa de clubs de codi que neix dels barris i municipis per gar
@@ -768,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:Llegir el teatre L'hostal de les tres camèlies de Mercè Rodoreda
 DTSTART;TZID=Europe/Madrid:20261214T190000
 DTEND;TZID=Europe/Madrid:20261214T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363658@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Llegir el teatre L'hostal de les tres 
  camèlies de Mercè Rodoreda\n\nEn un hostal travessat per tensions i sile
@@ -793,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:CONCERT DE NADAL - PROJECTE CORDES A PRIMARIA
 DTSTART;TZID=Europe/Madrid:20261215T090000
 DTEND;TZID=Europe/Madrid:20261215T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3358448@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: CONCERT DE NADAL - PROJECTE COR
  DES A PRIMARIA\n\nCONCERT DE NADAL - PROJECTE PRIMARIA\n\nTipus: Concerts 
@@ -806,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura dels dimarts Memòria de noia d'Annie Ernaux
 DTSTART;TZID=Europe/Madrid:20261215T190000
 DTEND;TZID=Europe/Madrid:20261215T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363659@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura dels dimarts Memòria 
  de noia d'Annie Ernaux\n\nÉs l'estiu de 1958. Lluny per primera vegada de
@@ -831,7 +772,7 @@ BEGIN:VEVENT
 SUMMARY:Campanya donació de sang
 DTSTART;TZID=Europe/Madrid:20261216T170000
 DTEND;TZID=Europe/Madrid:20261216T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3301848@agenda.santfeliu.local
 DESCRIPTION:Campanya: Campanya donació de sang\n\nTipus: Campanya\nLloc: 
  Centre Cívic Les Tovalloles\nAdreça: Ra. Salut 0007 BX\nEnllaç: https:/
@@ -843,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20261216T171500
 DTEND;TZID=Europe/Madrid:20261216T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340066@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -857,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20261216T191500
 DTEND;TZID=Europe/Madrid:20261216T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339663@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -870,7 +811,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261217T171500
 DTEND;TZID=Europe/Madrid:20261217T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3338253@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -885,7 +826,7 @@ SUMMARY:Club de lectura infantil El presoner del casal del diable de Joan
  Pau Hernández
 DTSTART;TZID=Europe/Madrid:20261217T180000
 DTEND;TZID=Europe/Madrid:20261217T190000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363660@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura infantil El presoner d
  el casal del diable de Joan Pau Hernández\n\nEn Ramon arriba a Galícia g
@@ -906,7 +847,7 @@ SUMMARY:MiniClub infantil Quan els cabells del papa se'n van anar de vacan
  ces de Jörg Mühle
 DTSTART;TZID=Europe/Madrid:20261217T180000
 DTEND;TZID=Europe/Madrid:20261217T190000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363661@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: MiniClub infantil Quan els cabells del
   papa se'n van anar de vacances de Jörg Mühle\n\nFins i tot els cabells 
@@ -928,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20261217T191500
 DTEND;TZID=Europe/Madrid:20261217T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339715@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -942,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:22a Nit de l'Esport. Lliurament de premis Temporada 2025-2026
 DTSTART;TZID=Europe/Madrid:20261218T180000
 DTEND;TZID=Europe/Madrid:20261218T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3348259@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: 22a Nit de l'Esport. Lliurament de prem
  is Temporada 2025-2026\n\nTipus: Activitats Esportives\nLloc: Palau Munici
@@ -956,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat familiar El rescat de la màgia del Nadal
 DTSTART;TZID=Europe/Madrid:20261219T120000
 DTEND;TZID=Europe/Madrid:20261219T130000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363662@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Activitat familiar El rescat de la mà
  gia del Nadal\n\nLa idea és fer una sèrie de reptes nadalencs: Un repte 
@@ -977,7 +918,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - UE Sant Ildefons
 DTSTART;TZID=Europe/Madrid:20261219T153000
 DTEND;TZID=Europe/Madrid:20261219T173000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3336737@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - UE Sant Ildefons\n\nTipus: Competició esportiva\nLloc: Camp de F
@@ -990,7 +931,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261221T170000
 DTEND;TZID=Europe/Madrid:20261221T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356338@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1004,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20261221T171500
 DTEND;TZID=Europe/Madrid:20261221T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3337380@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -1018,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:Taller infantil Som Coders
 DTSTART;TZID=Europe/Madrid:20261221T174500
 DTEND;TZID=Europe/Madrid:20261221T184500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363648@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller infantil Som Coders\n\nSom Code
  rs és una xarxa de clubs de codi que neix dels barris i municipis per gar
@@ -1037,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:Rondes de lectures Metrópolis de Phillip Kerr
 DTSTART;TZID=Europe/Madrid:20261221T190000
 DTEND;TZID=Europe/Madrid:20261221T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363663@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Rondes de lectures Metrópolis de Phil
  lip Kerr\n\nEl 1928 Berlín viu els seus últims dies de desenfrenament ab
@@ -1058,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261222T170000
 DTEND;TZID=Europe/Madrid:20261222T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356339@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1072,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20261222T171500
 DTEND;TZID=Europe/Madrid:20261222T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339533@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -1086,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lectura en francès Adam Haberberg de Yasmina Reza
 DTSTART;TZID=Europe/Madrid:20261222T190000
 DTEND;TZID=Europe/Madrid:20261222T200000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363664@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Club de lectura en francès Adam Haber
  berg de Yasmina Reza\n\nAdam Haberberg és un escriptor parisenc. Té 47 a
@@ -1106,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20261222T191500
 DTEND;TZID=Europe/Madrid:20261222T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339585@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1120,7 +1061,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261223T170000
 DTEND;TZID=Europe/Madrid:20261223T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356340@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1134,7 +1075,7 @@ BEGIN:VEVENT
 SUMMARY:Taller familiar LEGO® Build the change
 DTSTART;TZID=Europe/Madrid:20261223T173000
 DTEND;TZID=Europe/Madrid:20261223T183000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3363665@agenda.santfeliu.local
 DESCRIPTION:Activitats Literàries: Taller familiar LEGO® Build the chang
  e\n\nUna activitat creativa i participativa on infants i famílies treball
@@ -1156,7 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261227T083000
 DTEND;TZID=Europe/Madrid:20261227T203000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356330@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: 63è Trofeu Molinet de minibàsquet (categoria m
  ini)\n\nTipus: Nadal i reis\nLloc: Palau Municipal d'Esports Juan Carlos N
@@ -1170,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261227T170000
 DTEND;TZID=Europe/Madrid:20261227T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356341@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1184,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261228T083000
 DTEND;TZID=Europe/Madrid:20261228T203000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356333@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: 63è Trofeu Molinet de minibàsquet (categoria m
  ini)\n\nTipus: Nadal i reis\nLloc: Palau Municipal d'Esports Juan Carlos N
@@ -1198,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261228T170000
 DTEND;TZID=Europe/Madrid:20261228T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356342@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1212,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261229T083000
 DTEND;TZID=Europe/Madrid:20261229T203000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356334@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: 63è Trofeu Molinet de minibàsquet (categoria m
  ini)\n\nTipus: Nadal i reis\nLloc: Palau Municipal d'Esports Juan Carlos N
@@ -1226,7 +1167,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261229T170000
 DTEND;TZID=Europe/Madrid:20261229T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356343@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1240,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20261230T083000
 DTEND;TZID=Europe/Madrid:20261230T203000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356337@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: 63è Trofeu Molinet de minibàsquet (categoria m
  ini)\n\nTipus: Nadal i reis\nLloc: Palau Municipal d'Esports Juan Carlos N
@@ -1254,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20261230T170000
 DTEND;TZID=Europe/Madrid:20261230T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356344@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1268,7 +1209,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20270102T170000
 DTEND;TZID=Europe/Madrid:20270102T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356345@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1282,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:Torneig solidari "cap nen sense joguina" de la Peña Recreativa SF
 DTSTART;TZID=Europe/Madrid:20270103T170000
 DTEND;TZID=Europe/Madrid:20270103T220000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356346@agenda.santfeliu.local
 DESCRIPTION:Activitats Esportives: Torneig solidari "cap nen sense joguina
  " de la Peña Recreativa SF\n\nTipus: Activitats Esportives\nLloc: Camp de
@@ -1296,7 +1237,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20270104T083000
 DTEND;TZID=Europe/Madrid:20270104T203000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356335@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: 63è Trofeu Molinet de minibàsquet (categoria m
  ini)\n\nTipus: Nadal i reis\nLloc: Palau Municipal d'Esports Juan Carlos N
@@ -1310,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:63è Trofeu Molinet de minibàsquet (categoria mini)
 DTSTART;TZID=Europe/Madrid:20270105T083000
 DTEND;TZID=Europe/Madrid:20270105T203000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3356336@agenda.santfeliu.local
 DESCRIPTION:Nadal i reis: 63è Trofeu Molinet de minibàsquet (categoria m
  ini)\n\nTipus: Nadal i reis\nLloc: Palau Municipal d'Esports Juan Carlos N
@@ -1324,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20270111T171500
 DTEND;TZID=Europe/Madrid:20270111T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3337382@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -1338,7 +1279,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20270112T171500
 DTEND;TZID=Europe/Madrid:20270112T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339536@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -1352,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20270112T191500
 DTEND;TZID=Europe/Madrid:20270112T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339586@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1366,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20270113T171500
 DTEND;TZID=Europe/Madrid:20270113T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340068@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -1380,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20270113T191500
 DTEND;TZID=Europe/Madrid:20270113T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339664@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -1393,7 +1334,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20270114T171500
 DTEND;TZID=Europe/Madrid:20270114T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3338255@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
@@ -1407,7 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
 DTSTART;TZID=Europe/Madrid:20270114T191500
 DTEND;TZID=Europe/Madrid:20270114T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339716@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
  AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
@@ -1421,7 +1362,7 @@ BEGIN:VEVENT
 SUMMARY:Futbol Veterans Masculí Penya Blanc Blava SF - Sant Lluis
 DTSTART;TZID=Europe/Madrid:20270116T153000
 DTEND;TZID=Europe/Madrid:20270116T173000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3336738@agenda.santfeliu.local
 DESCRIPTION:Competició esportiva: Futbol Veterans Masculí Penya Blanc Bl
  ava SF - Sant Lluis\n\nTipus: Competició esportiva\nLloc: Camp de Futbol 
@@ -1434,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)
 DTSTART;TZID=Europe/Madrid:20270118T171500
 DTEND;TZID=Europe/Madrid:20270118T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3337386@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
   CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Audito
@@ -1448,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)
 DTSTART;TZID=Europe/Madrid:20270119T171500
 DTEND;TZID=Europe/Madrid:20270119T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339537@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CONJU
  NT DE BASE I VENTS (Marc Crivillé)\n\nAssignatura CONJUNT DE BASE I VENTS
@@ -1462,7 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA ORQUESTRA (Roger i Sergi)
 DTSTART;TZID=Europe/Madrid:20270119T191500
 DTEND;TZID=Europe/Madrid:20270119T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339587@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ORQUE
  STRA (Roger i Sergi)\n\nAssignatura ORQUESTRA (Roger i Sergi) - Auditori\n
@@ -1476,7 +1417,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA CORAL 1 (Neus i Lorena)
 DTSTART;TZID=Europe/Madrid:20270120T171500
 DTEND;TZID=Europe/Madrid:20270120T191500
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3340069@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA CORAL
   1 (Neus i Lorena)\n\nAssignatura CORAL 1 (Neus i Lorena) Auditori\n\nTipu
@@ -1490,7 +1431,7 @@ BEGIN:VEVENT
 SUMMARY:Activitat EMM-ASSIGNATURA BANDA (Pepa)
 DTSTART;TZID=Europe/Madrid:20270120T191500
 DTEND;TZID=Europe/Madrid:20270120T210000
-DTSTAMP:20261122T123016Z
+DTSTAMP:20261123T142948Z
 UID:santfeliu-3339665@agenda.santfeliu.local
 DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
   (Pepa)\n\nAssignatura BANDA (Pepa) Auditori\n\nTipus: Concerts i audicion
@@ -1498,5 +1439,33 @@ DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BANDA
  \nEnllaç: https://www.santfeliu.cat/esdeveniment/3339665
 LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
 URL:https://www.santfeliu.cat/esdeveniment/3339665
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)
+DTSTART;TZID=Europe/Madrid:20270121T171500
+DTEND;TZID=Europe/Madrid:20270121T191500
+DTSTAMP:20261123T142948Z
+UID:santfeliu-3338256@agenda.santfeliu.local
+DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI
+  VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Cri
+ villé)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falg
+ uera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfe
+ liu.cat/esdeveniment/3338256
+LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3338256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)
+DTSTART;TZID=Europe/Madrid:20270121T191500
+DTEND;TZID=Europe/Madrid:20270121T210000
+DTSTAMP:20261123T142948Z
+UID:santfeliu-3339717@agenda.santfeliu.local
+DESCRIPTION:Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG B
+ AND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé
+ - Ignasi Franco) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: P
+ alau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://w
+ ww.santfeliu.cat/esdeveniment/3339717
+LOCATION:Palau Falguera - Auditori - C. Falguera 0002 BX
+URL:https://www.santfeliu.cat/esdeveniment/3339717
 END:VEVENT
 END:VCALENDAR

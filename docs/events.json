@@ -1,47 +1,5 @@
 [
   {
-    "id": "santfeliu-3337376@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)",
-    "start": "2026-11-23T17:15:00+01:00",
-    "end": "2026-11-23T19:15:00+01:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI CORDES 1 (Anna i Sergi)\n\nAssignatura ESPAI CORDES (Anna i Sergi)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3337376",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3337376"
-  },
-  {
-    "id": "santfeliu-3357421@agenda.santfeliu.local",
-    "title": "PetitLab d'imatges i lletres",
-    "start": "2026-11-23T17:30:00+01:00",
-    "end": "2026-11-23T18:30:00+01:00",
-    "description": "Activitats Literàries: PetitLab d'imatges i lletres\n\nUn espai de trobada en família on els contes seran els protagonistes. Acompanyats de la Judith Navarro experta en mediació i educació literària i en un entorn acollidor i agradable compartirem moments de lectura plegats i descobrirem nous títols i nous models lectors que podrem gaudir en família. A càrrec de: Judith Navarro Inscripcions: a partir del 16 de novembre per telèfon presencialment o a través del formulari https://forms.gle/LBPPrHCZotcXfwW17 Nombre màxim de participants: 15 infants (2 adults per unitat familiar) Edat recomanada: De 3 a 5 anys\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Infantil\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3357421",
-    "location": "Biblioteca M. Roig - Infantil - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Infantil",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3357421"
-  },
-  {
-    "id": "santfeliu-3361126@agenda.santfeliu.local",
-    "title": "Taller STEM Cervells que tinc al coco",
-    "start": "2026-11-23T17:30:00+01:00",
-    "end": "2026-11-23T18:30:00+01:00",
-    "description": "Presentacions demostracions conferències xerrades...: Taller STEM Cervells que tinc al coco\n\nSabem realment com és el nostre cervell? A través de jocs experiències i reptes amb el nostre cos posarem a prova les nostres idees sobre el funcionament del cervell. A mesura que avancem descobrirem com viatja la informació pel cos i com diferents zones del cervell s'encarreguen de funcions com el moviment el tacte o la percepció. Per acabar observarem i disseccionarem un cervell real de vedella per identificar-ne les principals estructures i entendre millor com s'organitza aquest òrgan tan complex. A càrrec de: eXplorium Inscripcions: a partir del 27 d'octubre per telèfon presencialment o a través del formulari https://forms.gle/d2HfndeBLWqJ4L2W9 Edat recomanada: de 6 a 12 anys Nombre màxim de participants: 20 Organitza: Biblioteca Montserrat Roig\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3361126",
-    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Presentacions, demostracions, conferències, xerrades...",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3361126"
-  },
-  {
     "id": "santfeliu-3339529@agenda.santfeliu.local",
     "title": "Activitat EMM-ASSIGNATURA CONJUNT DE BASE I VENTS (Marc Crivillé)",
     "start": "2026-11-24T17:15:00+01:00",
@@ -1314,5 +1272,33 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3339665"
+  },
+  {
+    "id": "santfeliu-3338256@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)",
+    "start": "2027-01-21T17:15:00+01:00",
+    "end": "2027-01-21T19:15:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Crivillé)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3338256",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3338256"
+  },
+  {
+    "id": "santfeliu-3339717@agenda.santfeliu.local",
+    "title": "Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)",
+    "start": "2027-01-21T19:15:00+01:00",
+    "end": "2027-01-21T21:00:00+01:00",
+    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé- Ignasi Franco) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339717",
+    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
+    "locationName": "Palau Falguera - Auditori",
+    "address": "C. Falguera 0002 BX",
+    "type": "Concerts i audicions musicals",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3339717"
   }
 ]
