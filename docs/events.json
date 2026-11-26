@@ -1,61 +1,5 @@
 [
   {
-    "id": "santfeliu-3338249@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)",
-    "start": "2026-11-26T17:15:00+01:00",
-    "end": "2026-11-26T19:15:00+01:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA ESPAI VENTS 1 (Tom i Marc Crivillé)\n\nAssignatura ESPAI VENTS (Tom i Marc Crivillé)-Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3338249",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3338249"
-  },
-  {
-    "id": "santfeliu-3359866@agenda.santfeliu.local",
-    "title": "MiniClub infantil",
-    "start": "2026-11-26T18:00:00+01:00",
-    "end": "2026-11-26T19:00:00+01:00",
-    "description": "Activitats Literàries: MiniClub infantil\n\nEls germans Corb d¿Oriol Canosa En Hugin i la Mugin eren dos polls rosadets. En néixer la Mugin va fer un grall i van sentir una resposta al peu de l'arbre. Els dos germans van abocar-se per damunt del niu. A terra una criatura igual de rosadeta que ells grunyia i mirava cap amunt. \"Deu haver caigut del niu\" va pensar en Hugin. \"Pobra germaneta quina patacada!\" va pensar la Mugin. Els germans Corb uns simpàtics animalons que viuen al bosc de Samala un indret on ningú no té pressa per créixer! A càrrec de: Alea Ardanuy Inscripcions: Activitat amb inscripció. Places lliures Nombre màxim de participants: 12 Edat recomanada: 2n i 3r de primària\n\nTipus: Activitats Literàries\nLloc: Biblioteca M. Roig - Sala \"El temps de les cireres\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3359866",
-    "location": "Biblioteca M. Roig - Sala \"El temps de les cireres\" - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala \"El temps de les cireres\"",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Activitats Literàries",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3359866"
-  },
-  {
-    "id": "santfeliu-3359909@agenda.santfeliu.local",
-    "title": "Xerrada Crear vincles saludables. Estratègies per fomentar una comunicació constructiva amb els nostres fills/es adolescents",
-    "start": "2026-11-26T18:00:00+01:00",
-    "end": "2026-11-26T19:00:00+01:00",
-    "description": "Presentacions demostracions conferències xerrades...: Xerrada Crear vincles saludables. Estratègies per fomentar una comunicació constructiva amb els nostres fills/es adolescents\n\nReflexionarem com relacionar-nos i quina és la distància adequada per acompanyar-los en el seu procés de construcció de la seva identitat. A càrrec de: El despertador Inscripcions: Entrada lliure\n\nTipus: Presentacions, demostracions, conferències, xerrades...\nLloc: Biblioteca M. Roig - Sala Joana Raspall\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3359909",
-    "location": "Biblioteca M. Roig - Sala Joana Raspall - C. Verge de Montserrat 0003 BX 02",
-    "locationName": "Biblioteca M. Roig - Sala Joana Raspall",
-    "address": "C. Verge de Montserrat 0003 BX 02",
-    "type": "Presentacions, demostracions, conferències, xerrades...",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3359909"
-  },
-  {
-    "id": "santfeliu-3339712@agenda.santfeliu.local",
-    "title": "Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)",
-    "start": "2026-11-26T19:15:00+01:00",
-    "end": "2026-11-26T21:00:00+01:00",
-    "description": "Concerts i audicions musicals: Activitat EMM-ASSIGNATURA BIG BAND (Marc Crivillé-Ignasi Franco)\n\nAssignatura BIG BAND (Marc Crivillé- Ignasi Franco) Auditori\n\nTipus: Concerts i audicions musicals\nLloc: Palau Falguera - Auditori\nAdreça: C. Falguera 0002 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3339712",
-    "location": "Palau Falguera - Auditori - C. Falguera 0002 BX",
-    "locationName": "Palau Falguera - Auditori",
-    "address": "C. Falguera 0002 BX",
-    "type": "Concerts i audicions musicals",
-    "free": "",
-    "price": "",
-    "url": "https://www.santfeliu.cat/esdeveniment/3339712"
-  },
-  {
     "id": "santfeliu-3365516@agenda.santfeliu.local",
     "title": "Bàsquet Premini Femení CB Santfeliuenc - Bàsquet Safa Claror",
     "start": "2026-11-28T08:45:00+01:00",
@@ -168,6 +112,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3364952"
   },
   {
+    "id": "santfeliu-3366024@agenda.santfeliu.local",
+    "title": "Voleibol Infantil Femení Club Voleibol SF (Blau) - CE Sant Cugat Titans (Vermell)",
+    "start": "2026-11-28T09:00:00+01:00",
+    "end": "2026-11-28T10:45:00+01:00",
+    "description": "Competició esportiva: Voleibol Infantil Femení Club Voleibol SF (Blau) - CE Sant Cugat Titans (Vermell)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366024",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366024"
+  },
+  {
     "id": "santfeliu-3365629@agenda.santfeliu.local",
     "title": "Futbol sala Aleví Mixt Bon Salvador (Blau) - FS Sant Just",
     "start": "2026-11-28T10:00:00+01:00",
@@ -278,6 +236,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3364694"
+  },
+  {
+    "id": "santfeliu-3366025@agenda.santfeliu.local",
+    "title": "Voleibol Cadet Femení Club Voleibol SF (Blau) - AE Sàndor (B)",
+    "start": "2026-11-28T10:45:00+01:00",
+    "end": "2026-11-28T12:30:00+01:00",
+    "description": "Competició esportiva: Voleibol Cadet Femení Club Voleibol SF (Blau) - AE Sàndor (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366025",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366025"
   },
   {
     "id": "santfeliu-3365633@agenda.santfeliu.local",
@@ -420,6 +392,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3365639"
   },
   {
+    "id": "santfeliu-3366026@agenda.santfeliu.local",
+    "title": "Voleibol Juvenil Femení Club Voleibol SF (Blau) - AE Sàndor (B)",
+    "start": "2026-11-28T12:30:00+01:00",
+    "end": "2026-11-28T14:00:00+01:00",
+    "description": "Competició esportiva: Voleibol Juvenil Femení Club Voleibol SF (Blau) - AE Sàndor (B)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366026",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366026"
+  },
+  {
     "id": "santfeliu-3365664@agenda.santfeliu.local",
     "title": "Futbol sala Benjamí Mixt Bon Salvador - Pedagogium Cos",
     "start": "2026-11-28T13:00:00+01:00",
@@ -490,6 +476,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3364598"
   },
   {
+    "id": "santfeliu-3366027@agenda.santfeliu.local",
+    "title": "Voleibol Infantil Femení Club Voleibol SF (Blanc) - CE Sant Cugat Titans (Lila)",
+    "start": "2026-11-28T14:15:00+01:00",
+    "end": "2026-11-28T15:30:00+01:00",
+    "description": "Competició esportiva: Voleibol Infantil Femení Club Voleibol SF (Blanc) - CE Sant Cugat Titans (Lila)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366027",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366027"
+  },
+  {
     "id": "santfeliu-3336735@agenda.santfeliu.local",
     "title": "Futbol Veterans Masculí Penya Blanc Blava SF - Kubalas",
     "start": "2026-11-28T15:30:00+01:00",
@@ -530,6 +530,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3364738"
+  },
+  {
+    "id": "santfeliu-3366028@agenda.santfeliu.local",
+    "title": "Voleibol Cadet Femení Club Voleibol SF (Blanc) - SAFA Sabadell",
+    "start": "2026-11-28T16:00:00+01:00",
+    "end": "2026-11-28T17:30:00+01:00",
+    "description": "Competició esportiva: Voleibol Cadet Femení Club Voleibol SF (Blanc) - SAFA Sabadell\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366028",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366028"
   },
   {
     "id": "santfeliu-3364739@agenda.santfeliu.local",
@@ -588,6 +602,20 @@
     "url": "https://www.santfeliu.cat/esdeveniment/3364599"
   },
   {
+    "id": "santfeliu-3366029@agenda.santfeliu.local",
+    "title": "Voleibol Masculí Club Voleibol SF Juvenil (Blau) - CV Granollers Sènior",
+    "start": "2026-11-28T18:00:00+01:00",
+    "end": "2026-11-28T19:30:00+01:00",
+    "description": "Competició esportiva: Voleibol Masculí Club Voleibol SF Juvenil (Blau) - CV Granollers Sènior\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366029",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366029"
+  },
+  {
     "id": "santfeliu-3365107@agenda.santfeliu.local",
     "title": "Handbol Sènior Masculí Club Handbol Sant Llorenç (Vermell) - H Vilanova i la Geltrú",
     "start": "2026-11-28T18:45:00+01:00",
@@ -628,6 +656,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3364699"
+  },
+  {
+    "id": "santfeliu-3366030@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Femení Club Voleibol SF (Blanc) - CV Sant Just",
+    "start": "2026-11-28T20:30:00+01:00",
+    "end": "2026-11-28T22:00:00+01:00",
+    "description": "Competició esportiva: Voleibol Sènior Femení Club Voleibol SF (Blanc) - CV Sant Just\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366030",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366030"
   },
   {
     "id": "santfeliu-3365529@agenda.santfeliu.local",
@@ -768,6 +810,20 @@
     "free": "",
     "price": "",
     "url": "https://www.santfeliu.cat/esdeveniment/3364609"
+  },
+  {
+    "id": "santfeliu-3366031@agenda.santfeliu.local",
+    "title": "Voleibol Sènior Masculí Club Voleibol SF (Blanc) - CV Cerdanyola (Negre)",
+    "start": "2026-11-29T11:00:00+01:00",
+    "end": "2026-11-29T13:00:00+01:00",
+    "description": "Competició esportiva: Voleibol Sènior Masculí Club Voleibol SF (Blanc) - CV Cerdanyola (Negre)\n\nTipus: Competició esportiva\nLloc: Pavelló Escolar Esportiu Escola Pau Vila\nAdreça: C. Mas Lluí 0011 BX\nEnllaç: https://www.santfeliu.cat/esdeveniment/3366031",
+    "location": "Pavelló Escolar Esportiu Escola Pau Vila - C. Mas Lluí 0011 BX",
+    "locationName": "Pavelló Escolar Esportiu Escola Pau Vila",
+    "address": "C. Mas Lluí 0011 BX",
+    "type": "Competició esportiva",
+    "free": "",
+    "price": "",
+    "url": "https://www.santfeliu.cat/esdeveniment/3366031"
   },
   {
     "id": "santfeliu-3364740@agenda.santfeliu.local",
@@ -1387,10 +1443,10 @@
   },
   {
     "id": "santfeliu-3365804@agenda.santfeliu.local",
-    "title": "Hora del conte menuda L¿estrella de mar",
+    "title": "Hora del conte menuda L'estrella de mar",
     "start": "2026-12-12T12:00:00+01:00",
     "end": "2026-12-12T13:00:00+01:00",
-    "description": "Nadal i reis: Hora del conte menuda L¿estrella de mar\n\nHi havia una vegada una estrella de mar que volia ballar amb la lluna. Un dia decideix fer un viatge per intentar arribar al cel i assolir el seu somni. Pel camí coneixerà altres animals del mar que la voldran ajudar. Gràcies a ells l¿estrella de mar ho aconseguirà i s¿adonarà que el més important és estar envoltada de bons amics que t¿ajuden i t¿estimen. La música i les cançons acompanyaran aquest conte sobre el mar els somnis i l¿amistat. Per acabar els infants podran endinsar-se al fons del mar i explorar els animals que han sortit a l¿espectacle. A càrrec d¿: Enrenou teatre Inscripcions: Entrada lliure Edat recomanada: d¿1 a 3 anys\n\nTipus: Nadal i reis\nLloc: Biblioteca M. Roig - Sala \"L'Agulla daurada\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3365804",
+    "description": "Nadal i reis: Hora del conte menuda L'estrella de mar\n\nHi havia una vegada una estrella de mar que volia ballar amb la lluna. Un dia decideix fer un viatge per intentar arribar al cel i assolir el seu somni. Pel camí coneixerà altres animals del mar que la voldran ajudar. Gràcies a ells l'estrella de mar ho aconseguirà i s'adonarà que el més important és estar envoltada de bons amics que t'ajuden i t'estimen. La música i les cançons acompanyaran aquest conte sobre el mar els somnis i l'amistat. Per acabar els infants podran endinsar-se al fons del mar i explorar els animals que han sortit a l'espectacle. A càrrec d': Enrenou teatre Inscripcions: Entrada lliure Edat recomanada: d'1 a 3 anys\n\nTipus: Nadal i reis\nLloc: Biblioteca M. Roig - Sala \"L'Agulla daurada\"\nAdreça: C. Verge de Montserrat 0003 BX 02\nEnllaç: https://www.santfeliu.cat/esdeveniment/3365804",
     "location": "Biblioteca M. Roig - Sala \"L'Agulla daurada\" - C. Verge de Montserrat 0003 BX 02",
     "locationName": "Biblioteca M. Roig - Sala \"L'Agulla daurada\"",
     "address": "C. Verge de Montserrat 0003 BX 02",
